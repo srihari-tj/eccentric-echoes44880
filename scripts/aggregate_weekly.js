@@ -17,7 +17,6 @@ function toDaily(ts) {
   return [...m.entries()].sort(([a],[b])=>a.localeCompare(b))
     .map(([date, daily])=>({date, daily}));
 }
-
 function toWeekly(daily) {
   const m = new Map();
   for (const r of daily) {
@@ -27,7 +26,6 @@ function toWeekly(daily) {
   return [...m.entries()].sort(([a],[b])=>a.localeCompare(b))
     .map(([week, total]) => ({week, total, ...weeksToBounds(week)}));
 }
-
 function toCumulative(daily) {
   let cum = 0;
   return daily.map(r => ({date:r.date, value:(cum += r.daily)}));

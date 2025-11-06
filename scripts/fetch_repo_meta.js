@@ -1,5 +1,4 @@
 // scripts/fetch_repo_meta.js
-// Fetches repo metadata (stars_now/forks/issues/subscribers) into data/derived/meta/owner__repo.json. [web:8]
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -12,12 +11,9 @@ function listQuarterDirs() {
   if (!fs.existsSync(DERIVED_DIR)) return [];
   return fs.readdirSync(DERIVED_DIR).filter(d => /^\d{4}-Q[1-4]$/.test(d));
 }
-
 function loadCandidates() {
   const chunk = process.env.CANDIDATES_CHUNK;
-  if (chunk && fs.existsSync(chunk)) {
-    return JSON.parse(fs.readFileSync(chunk, "utf8"));
-  }
+  if (chunk && fs.existsSync(chunk)) return JSON.parse(fs.readFileSync(chunk, "utf8"));
   const dirs = listQuarterDirs().sort().reverse();
   for (const d of dirs) {
     const f = path.join(DERIVED_DIR, d, "candidates.json");
@@ -41,17 +37,15 @@ async function respectfulSleep(res, base=250) {
 
 async function fetchRepo(owner, repo) {
   const GH_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
+  if (!GH_TOKEN) throw new Error("Missing GH_TOKEN or GITHUB_TOKEN");
   const headers = {
+    "Authorization": `Bearer ${GH_TOKEN}`,
     "Accept": "application/vnd.github+json",
-    "X-GitHub-Api-Version": "2022-11-28",
-    ...(GH_TOKEN ? { "Authorization": `Bearer ${GH_TOKEN}` } : {})
+    "X-GitHub-Api-Version": "2022-11-28"
   };
   const url = `https://api.github.com/repos/${owner}/${repo}`;
   const res = await fetch(url, { headers });
-  if (!res.ok) {
-    await respectfulSleep(res);
-    throw new Error(`repo ${owner}/${repo} ${res.status}`);
-  }
+  if (!res.ok) { await respectfulSleep(res); throw new Error(`repo ${owner}/${repo} ${res.status}`); }
   const j = await res.json();
   await respectfulSleep(res);
   return {

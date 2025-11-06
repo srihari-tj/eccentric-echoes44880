@@ -1,14 +1,12 @@
 name: Trending Stars Pipeline (Sun AM, Chunked + Manual)
 
 on:
-  # Scheduled runs (UTC). Sunday morning staggered starts to reduce queue contention.
   schedule:
     - cron: "17 6 * * 0"   # prepare: scrape + candidates + split
     - cron: "37 6 * * 0"   # chunk 00
     - cron: "57 6 * * 0"   # chunk 01
     - cron: "17 7 * * 0"   # chunk 02
     - cron: "37 7 * * 0"   # chunk 03
-  # Manual trigger with inputs
   workflow_dispatch:
     inputs:
       year:
@@ -24,10 +22,7 @@ permissions:
   contents: write
 
 jobs:
-  # PREPARE creates the candidate pool and splits into chunk files on the first scheduled cron
-  # or on manual dispatch (single run does both prepare and process). [web:29][web:12]
   prepare:
-    # Run on the first cron event, or always run when manually dispatched
     if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 6 * * 0'
     runs-on: ubuntu-latest
     outputs:
@@ -44,15 +39,12 @@ jobs:
         id: compute
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            Y="${{ inputs.year }}"
-            Q="${{ inputs.quarter }}"
+            echo "year=${{ inputs.year }}" >> $GITHUB_OUTPUT
+            echo "quarter_key=${{ inputs.year }}-${{ inputs.quarter }}" >> $GITHUB_OUTPUT
           else
             node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;console.log(`year=${y}`)" >> $GITHUB_OUTPUT
             node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;console.log(`quarter_key=${y}-Q${q}`)" >> $GITHUB_OUTPUT
-            exit 0
           fi
-          echo "year=$Y" >> $GITHUB_OUTPUT
-          echo "quarter_key=$Y-$Q" >> $GITHUB_OUTPUT
 
       - name: Scrape weekly trending
         env:
@@ -60,6 +52,9 @@ jobs:
         run: node scripts/scrape_trending.js
 
       - name: Build candidates for selected quarter
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           KEY="${{ steps.compute.outputs.quarter_key }}"
           Y=$(echo "$KEY" | cut -d'-' -f1)
@@ -72,12 +67,12 @@ jobs:
           node -e "
           const fs=require('fs');
           const key=process.env.KEY;
-          const list=JSON.parse(fs.readFileSync(`data/derived/${process.env.KEY}/candidates.json`,'utf8'));
-          const chunkSize=75; // adjust to your rate-limit comfort
+          const list=JSON.parse(fs.readFileSync(`data/derived/${key}/candidates.json`,'utf8'));
+          const chunkSize=75;
           for(let i=0;i<list.length;i+=chunkSize){
             const idx=String(i/chunkSize).padStart(2,'0');
             fs.writeFileSync(`data/derived/${key}/chunk_${idx}.json`, JSON.stringify(list.slice(i,i+chunkSize),null,2));
-          }" 
+          }"
         env:
           KEY: ${{ steps.compute.outputs.quarter_key }}
 
@@ -95,13 +90,11 @@ jobs:
           git commit -m "prepare ${{ steps.compute.outputs.quarter_key }} ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
           git push
 
-  # PROCESS runs on later cron slots to handle chunked fetching and aggregation; for manual
-  # dispatch, it runs immediately after prepare and processes all matrix chunks. [web:29][web:12]
   process:
     needs: prepare
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 1  # keep sequential to avoid bursts; raise if safe
+      max-parallel: 1
       matrix:
         chunk: ["00","01","02","03"]
     steps:
@@ -120,12 +113,14 @@ jobs:
       - name: Fetch stars (timestamps) for chunk
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CANDIDATES_CHUNK: data/derived/${{ needs.prepare.outputs.quarter_key }}/chunk_${{ matrix.chunk }}.json
         run: node scripts/fetch_stars.js
 
       - name: Fetch repo meta for chunk
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CANDIDATES_CHUNK: data/derived/${{ needs.prepare.outputs.quarter_key }}/chunk_${{ matrix.chunk }}.json
         run: node scripts/fetch_repo_meta.js
 

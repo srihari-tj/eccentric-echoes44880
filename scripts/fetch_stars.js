@@ -1,5 +1,4 @@
 // scripts/fetch_stars.js
-// Fetches stargazers with timestamps; supports chunking via CANDIDATES_CHUNK and rate-limit backoff. [web:1]
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -12,18 +11,13 @@ function listQuarterDirs() {
   if (!fs.existsSync(DERIVED_DIR)) return [];
   return fs.readdirSync(DERIVED_DIR).filter(d => /^\d{4}-Q[1-4]$/.test(d));
 }
-
 function loadCandidates() {
   const chunk = process.env.CANDIDATES_CHUNK;
-  if (chunk && fs.existsSync(chunk)) {
-    return JSON.parse(fs.readFileSync(chunk, "utf8"));
-  }
+  if (chunk && fs.existsSync(chunk)) return JSON.parse(fs.readFileSync(chunk, "utf8"));
   const dirs = listQuarterDirs().sort().reverse();
   for (const d of dirs) {
     const f = path.join(DERIVED_DIR, d, "candidates.json");
-    if (fs.existsSync(f)) {
-      return JSON.parse(fs.readFileSync(f, "utf8"));
-    }
+    if (fs.existsSync(f)) return JSON.parse(fs.readFileSync(f, "utf8"));
   }
   return [];
 }
@@ -43,7 +37,7 @@ async function respectfulSleep(res, base=250) {
 
 async function fetchStargazerTimestamps(owner, repo, knownNewest) {
   const GH_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-  if (!GH_TOKEN) throw new Error("Missing GH_TOKEN");
+  if (!GH_TOKEN) throw new Error("Missing GH_TOKEN or GITHUB_TOKEN");
   const headers = {
     "Authorization": `Bearer ${GH_TOKEN}`,
     "Accept": "application/vnd.github.v3.star+json",
