@@ -1,55 +1,112 @@
-name: Quarterly Trending + Weekly + Forecast
+name: Trending Stars Pipeline (Sun AM, Chunked)
 
 on:
   schedule:
-    - cron: "17 1 * * 1"
-    - cron: "37 */12 * * *"
+    # Sunday morning UTC, staggered to reduce contention
+    - cron: "17 6 * * 0"   # prepare: scrape + candidates + split
+    - cron: "37 6 * * 0"   # chunk 00
+    - cron: "57 6 * * 0"   # chunk 01
+    - cron: "17 7 * * 0"   # chunk 02
+    - cron: "37 7 * * 0"   # chunk 03
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 jobs:
-  run:
+  prepare:
+    if: github.event.schedule == '17 6 * * 0' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
+    outputs:
+      quarter_key: ${{ steps.q.outputs.key }}
+      year: ${{ steps.q.outputs.year }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+        with: { node-version: 20 }
       - run: npm install node-fetch@2
-
+      - name: Determine current quarter (UTC)
+        id: q
+        run: |
+          node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(`key=${y}-Q${q}\n`)" >> $GITHUB_OUTPUT
+          node -e "const d=new Date();process.stdout.write(`year=${d.getUTCFullYear()}\n`)" >> $GITHUB_OUTPUT
       - name: Scrape weekly trending
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        env: { GH_TOKEN: ${{ secrets.GH_TOKEN }} }
         run: node scripts/scrape_trending.js
-
       - name: Build candidates for current quarter
-        run: node scripts/build_candidates.js 2025 Q4
+        run: |
+          Y=$(echo "${{ steps.q.outputs.key }}" | cut -d'-' -f1)
+          Q=$(echo "${{ steps.q.outputs.key }}" | cut -d'-' -f2)
+          node scripts/build_candidates.js $Y $Q
+      - name: Split candidates into chunks
+        run: |
+          node -e "
+          const fs=require('fs');
+          const key='${{ steps.q.outputs.key }}';
+          const list=JSON.parse(fs.readFileSync(`data/derived/${{ steps.q.outputs.key }}/candidates.json`,'utf8'));
+          const chunkSize=75;
+          for(let i=0;i<list.length;i+=chunkSize){
+            fs.writeFileSync(`data/derived/${{ steps.q.outputs.key }}/chunk_${String(i/chunkSize).padStart(2,'0')}.json`, JSON.stringify(list.slice(i,i+chunkSize),null,2));
+          }"
+      - name: Upload chunks
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidate-chunks-${{ steps.q.outputs.key }}
+          path: data/derived/${{ steps.q.outputs.key }}/chunk_*.json
+      - name: Commit candidates and chunks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "prepare ${{ steps.q.outputs.key }} ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
+          git push
 
-      - name: Fetch stars (timestamps)
+  process-chunk:
+    if: github.event.schedule != '17 6 * * 0' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        chunk: ["00","01","02","03"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm install node-fetch@2
+      - name: Determine current quarter (UTC)
+        id: q
+        run: |
+          node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(`key=${y}-Q${q}\n`)" >> $GITHUB_OUTPUT
+          node -e "const d=new Date();process.stdout.write(`year=${d.getUTCFullYear()}\n`)" >> $GITHUB_OUTPUT
+      - uses: actions/download-artifact@v4
+        with:
+          name: candidate-chunks-${{ steps.q.outputs.key }}
+          path: data/derived/${{ steps.q.outputs.key }}
+      - name: Fetch stars (timestamps) for chunk
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CANDIDATES_CHUNK: data/derived/${{ steps.q.outputs.key }}/chunk_${{ matrix.chunk }}.json
         run: node scripts/fetch_stars.js
-
-      - name: Fetch repo meta (stars_now/forks/etc)
+      - name: Fetch repo meta for chunk
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CANDIDATES_CHUNK: data/derived/${{ steps.q.outputs.key }}/chunk_${{ matrix.chunk }}.json
         run: node scripts/fetch_repo_meta.js
-
       - name: Aggregate weekly
         run: node scripts/aggregate_weekly.js
-
-      - name: Rank quarter
-        run: node scripts/rank_quarter.js 2025 4
-
-      - name: Forecast
-        run: node scripts/forecast.js 2025-Q4
-
+      - name: Rank quarters (Q1..Q4)
+        run: |
+          Y=${{ steps.q.outputs.year }}
+          node scripts/rank_quarter.js $Y 1
+          node scripts/rank_quarter.js $Y 2
+          node scripts/rank_quarter.js $Y 3
+          node scripts/rank_quarter.js $Y 4
+      - name: Forecast top-100 for current quarter
+        run: node scripts/forecast.js ${{ steps.q.outputs.key }}
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git commit -m "update ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
+          git commit -m "chunk ${{ matrix.chunk }} ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
           git push

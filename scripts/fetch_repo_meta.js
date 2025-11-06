@@ -1,6 +1,5 @@
 // scripts/fetch_repo_meta.js
-// Fetches per-repo metadata including current stargazers_count and writes to data/derived/meta/owner__repo.json.
-// Uses GET /repos/{owner}/{repo} (no special Accept needed). Provides stars_now for downstream JSONs. [web:8]
+// Fetches repo metadata (stars_now/forks/issues/subscribers) into data/derived/meta/owner__repo.json. [web:8]
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -15,12 +14,29 @@ function listQuarterDirs() {
 }
 
 function loadCandidates() {
+  const chunk = process.env.CANDIDATES_CHUNK;
+  if (chunk && fs.existsSync(chunk)) {
+    return JSON.parse(fs.readFileSync(chunk, "utf8"));
+  }
   const dirs = listQuarterDirs().sort().reverse();
   for (const d of dirs) {
     const f = path.join(DERIVED_DIR, d, "candidates.json");
     if (fs.existsSync(f)) return JSON.parse(fs.readFileSync(f, "utf8"));
   }
   return [];
+}
+
+async function respectfulSleep(res, base=250) {
+  const remaining = Number(res.headers.get("x-ratelimit-remaining") || "0");
+  const reset = Number(res.headers.get("x-ratelimit-reset") || "0");
+  if (res.status === 403 && reset) {
+    const waitMs = Math.max(0, reset * 1000 - Date.now()) + 5000;
+    console.log("rate-limited; sleeping", waitMs, "ms");
+    await new Promise(r => setTimeout(r, waitMs));
+  } else {
+    const extra = remaining > 0 && remaining < 50 ? 2000 : 0;
+    await new Promise(r => setTimeout(r, base + extra));
+  }
 }
 
 async function fetchRepo(owner, repo) {
@@ -32,8 +48,12 @@ async function fetchRepo(owner, repo) {
   };
   const url = `https://api.github.com/repos/${owner}/${repo}`;
   const res = await fetch(url, { headers });
-  if (!res.ok) throw new Error(`repo ${owner}/${repo} ${res.status}`);
+  if (!res.ok) {
+    await respectfulSleep(res);
+    throw new Error(`repo ${owner}/${repo} ${res.status}`);
+  }
   const j = await res.json();
+  await respectfulSleep(res);
   return {
     repo: `${owner}/${repo}`,
     stars_now: j.stargazers_count ?? 0,
@@ -53,7 +73,6 @@ async function fetchRepo(owner, repo) {
       const meta = await fetchRepo(owner, repo);
       fs.writeFileSync(outPath, JSON.stringify(meta, null, 2));
       console.log("meta", meta.repo, meta.stars_now);
-      await new Promise(r => setTimeout(r, 200));
     } catch (e) {
       console.error("meta error", `${owner}/${repo}`, e.message);
     }

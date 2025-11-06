@@ -27,7 +27,6 @@ function rankQuarter(year, q) {
     const startVal = cumAt(p.cumulative, start);
     const endVal   = cumAt(p.cumulative, end);
 
-    // Prefer stars_now from weekly payload; fallback to meta file if needed
     let stars_now = p.stars_now ?? null;
     if (stars_now == null) {
       try {

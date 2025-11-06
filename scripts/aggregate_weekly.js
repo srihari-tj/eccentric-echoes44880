@@ -41,7 +41,6 @@ for (const f of fs.readdirSync(RAW)) {
   const weekly = toWeekly(daily);
   const cumulative = toCumulative(daily);
 
-  // Attach current stars if available from meta
   let stars_now = null;
   try {
     const metaPath = path.join(META_DIR, `${owner}__${repo}.json`);
