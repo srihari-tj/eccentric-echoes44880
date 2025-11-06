@@ -1,0 +1,8 @@
+{
+  "name": "eccentric-echoes44880",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "2.7.0"
+  }
+}

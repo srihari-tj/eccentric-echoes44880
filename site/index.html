@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Quarterly Trending (Stars)</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 20px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 6px 8px; }
+    th { background: #f5f5f5; }
+    #chart { height: 300px; margin-top: 16px; border: 1px solid #ddd; position: relative; }
+    .bar { position: absolute; bottom: 0; background: #3b82f6; }
+    .line { position: absolute; width: 2px; background: #ef4444; }
+  </style>
+</head>
+<body>
+  <h1>Quarterly Trending (Stars)</h1>
+  <div>
+    <label>Quarter JSON: </label>
+    <input id="quarter" value="data/derived/quarter/2025-Q4.json" size="60"/>
+    <button id="load">Load Top 100</button>
+  </div>
+  <table id="top">
+    <thead><tr><th>Rank</th><th>Repo</th><th>Delta</th></tr></thead>
+    <tbody></tbody>
+  </table>
+  <h2 id="repoTitle"></h2>
+  <div id="chart"></div>
+  <pre id="meta"></pre>
+<script>
+async function fetchJSON(u){const r=await fetch(u);return r.json();}
+function repokey(repo){return repo.replace("/","__");}
+function clear(el){while(el.firstChild)el.removeChild(el.firstChild);}
+
+async function loadQuarter() {
+  const qpath = document.getElementById("quarter").value.trim();
+  const data = await fetchJSON(qpath);
+  const tbody = document.querySelector("#top tbody");
+  clear(tbody);
+  data.forEach(row => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `<td>${row.rank}</td><td><a href="#" data-repo="${row.repo}">${row.repo}</a></td><td>${row.delta}</td>`;
+    tbody.appendChild(tr);
+  });
+  tbody.querySelectorAll("a[data-repo]").forEach(a=>{
+    a.addEventListener("click", async (e)=>{
+      e.preventDefault();
+      const repo = a.dataset.repo;
+      document.getElementById("repoTitle").textContent = repo;
+      const wk = await fetchJSON(`data/derived/weekly/${repokey(repo)}.json`);
+      const fc = await fetchJSON(`data/derived/forecast/${repokey(repo)}.json`);
+      renderChart(wk, fc);
+      document.getElementById("meta").textContent = JSON.stringify({
+        last_week: wk.weekly.at(-1),
+        forecast: fc.forecast
+      }, null, 2);
+    });
+  });
+}
+
+function renderChart(wk, fc) {
+  const chart = document.getElementById("chart");
+  clear(chart);
+  const series = wk.weekly.map(x=>x.total);
+  const maxVal = Math.max(1, ...series, ...(fc.forecast||[]).map(x=>x.pred||0));
+  const W = chart.clientWidth, H = chart.clientHeight;
+  const n = series.length;
+  const bw = Math.max(1, Math.floor(W / Math.max(n + (fc.forecast?.length||0), 1)));
+  // Bars for actuals
+  series.forEach((v,i)=>{
+    const h = Math.round((v / maxVal) * (H - 10));
+    const x = i * bw;
+    const bar = document.createElement("div");
+    bar.className = "bar";
+    bar.style.left = x+"px";
+    bar.style.width = Math.max(1, bw - 1)+"px";
+    bar.style.height = h+"px";
+    chart.appendChild(bar);
+  });
+  // Forecast as vertical tiny lines after last
+  (fc.forecast||[]).forEach((f, i)=>{
+    const x = (n + i) * bw + Math.floor(bw/2);
+    const h = Math.round(((f.pred||0) / maxVal) * (H - 10));
+    const line = document.createElement("div");
+    line.className = "line";
+    line.style.left = x+"px";
+    line.style.height = h+"px";
+    chart.appendChild(line);
+  });
+}
+
+document.getElementById("load").addEventListener("click", loadQuarter);
+</script>
+</body>
+</html>
