@@ -39,11 +39,10 @@ jobs:
         id: compute
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "year=${{ inputs.year }}" >> $GITHUB_OUTPUT
-            echo "quarter_key=${{ inputs.year }}-${{ inputs.quarter }}" >> $GITHUB_OUTPUT
+            echo "year=${{ inputs.year }}" >> "$GITHUB_OUTPUT"
+            echo "quarter_key=${{ inputs.year }}-${{ inputs.quarter }}" >> "$GITHUB_OUTPUT"
           else
-            node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;console.log(`year=${y}`)" >> $GITHUB_OUTPUT
-            node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;console.log(`quarter_key=${y}-Q${q}`)" >> $GITHUB_OUTPUT
+            node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(`year=${y}\nquarter_key=${y}-Q${q}\n`)" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Scrape weekly trending
@@ -57,24 +56,29 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           KEY="${{ steps.compute.outputs.quarter_key }}"
-          Y=$(echo "$KEY" | cut -d'-' -f1)
-          Q=$(echo "$KEY" | cut -d'-' -f2)
+          Y="${KEY%%-*}"
+          Q="${KEY##*-}"
           node scripts/build_candidates.js "$Y" "$Q"
 
       - name: Split candidates into chunks
-        run: |
-          KEY="${{ steps.compute.outputs.quarter_key }}"
-          node -e "
-          const fs=require('fs');
-          const key=process.env.KEY;
-          const list=JSON.parse(fs.readFileSync(`data/derived/${key}/candidates.json`,'utf8'));
-          const chunkSize=75;
-          for(let i=0;i<list.length;i+=chunkSize){
-            const idx=String(i/chunkSize).padStart(2,'0');
-            fs.writeFileSync(`data/derived/${key}/chunk_${idx}.json`, JSON.stringify(list.slice(i,i+chunkSize),null,2));
-          }"
         env:
           KEY: ${{ steps.compute.outputs.quarter_key }}
+        run: |
+          set -e
+          CFILE="data/derived/${KEY}/candidates.json"
+          if [ ! -f "$CFILE" ]; then
+            echo "No candidates at $CFILE; skipping split."
+            exit 0
+          fi
+          node -e "
+            const fs=require('fs');
+            const key=process.env.KEY;
+            const list=JSON.parse(fs.readFileSync(`data/derived/${key}/candidates.json`,'utf8'));
+            const chunkSize=75;
+            for(let i=0;i<list.length;i+=chunkSize){
+              const idx=String(i/chunkSize).padStart(2,'0');
+              fs.writeFileSync(`data/derived/${key}/chunk_${idx}.json`, JSON.stringify(list.slice(i,i+chunkSize),null,2));
+            }"
 
       - name: Upload chunk artifacts
         uses: actions/upload-artifact@v4
@@ -115,14 +119,24 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CANDIDATES_CHUNK: data/derived/${{ needs.prepare.outputs.quarter_key }}/chunk_${{ matrix.chunk }}.json
-        run: node scripts/fetch_stars.js
+        run: |
+          if [ ! -f "$CANDIDATES_CHUNK" ]; then
+            echo "No chunk file $CANDIDATES_CHUNK; skipping."
+            exit 0
+          fi
+          node scripts/fetch_stars.js
 
       - name: Fetch repo meta for chunk
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CANDIDATES_CHUNK: data/derived/${{ needs.prepare.outputs.quarter_key }}/chunk_${{ matrix.chunk }}.json
-        run: node scripts/fetch_repo_meta.js
+        run: |
+          if [ ! -f "$CANDIDATES_CHUNK" ]; then
+            echo "No chunk file $CANDIDATES_CHUNK; skipping."
+            exit 0
+          fi
+          node scripts/fetch_repo_meta.js
 
       - name: Aggregate weekly
         run: node scripts/aggregate_weekly.js
