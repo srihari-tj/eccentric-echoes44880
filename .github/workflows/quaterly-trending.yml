@@ -2,21 +2,9 @@ name: Trending Stars Pipeline (Sun AM, Chunked + Manual)
 
 on:
   schedule:
-    - cron: "17 6 * * 0"   # prepare: scrape + candidates + split
-    - cron: "37 6 * * 0"   # chunk 00
-    - cron: "57 6 * * 0"   # chunk 01
-    - cron: "17 7 * * 0"   # chunk 02
-    - cron: "37 7 * * 0"   # chunk 03
-  workflow_dispatch:
-    inputs:
-      year:
-        description: "Year (e.g., 2025)"
-        required: true
-        default: "2025"
-      quarter:
-        description: "Quarter (Q1..Q4)"
-        required: true
-        default: "Q4"
+    - cron: "17 1 * * 1"      # scrape trending every Monday 01:17 UTC
+    - cron: "37 */12 * * *"   # fetch stars + aggregate twice daily
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -34,132 +22,22 @@ jobs:
         with:
           node-version: 20
       - run: npm install node-fetch@2
-
-      - name: Compute year/quarter (UTC)
-        id: compute
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "year=${{ inputs.year }}" >> "$GITHUB_OUTPUT"
-            echo "quarter_key=${{ inputs.year }}-${{ inputs.quarter }}" >> "$GITHUB_OUTPUT"
-          else
-            node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(`year=${y}\nquarter_key=${y}-Q${q}\n`)" >> "$GITHUB_OUTPUT"
-          fi
-      - name: Debug computed vars
-        run: |
-          echo "quarter_key=${{ steps.compute.outputs.quarter_key }}"
-          echo "year=${{ steps.compute.outputs.year }}"
-
       - name: Scrape weekly trending
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/scrape_trending.js
-
-      - name: Build candidates for selected quarter
+      - name: Build candidates for current quarter
+        run: node scripts/build_candidates.js 2025 Q4
+      - name: Fetch stars
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          KEY="${{ steps.compute.outputs.quarter_key }}"
-          if [ -z "$KEY" ]; then
-            echo "quarter_key empty; aborting build_candidates"
-            exit 1
-          fi
-          Y="${KEY%%-*}"
-          Q="${KEY##*-}"
-          node scripts/build_candidates.js "$Y" "$Q"
-
-      - name: Split candidates into chunks
-        env:
-          KEY: ${{ steps.compute.outputs.quarter_key }}
-        run: |
-          set -e
-          CFILE="data/derived/${KEY}/candidates.json"
-          if [ ! -f "$CFILE" ]; then
-            echo "No candidates at $CFILE; skipping split."
-            exit 0
-          fi
-          node -e "
-            const fs=require('fs');
-            const key=process.env.KEY;
-            const list=JSON.parse(fs.readFileSync(`data/derived/${key}/candidates.json`,'utf8'));
-            const chunkSize=75;
-            for(let i=0;i<list.length;i+=chunkSize){
-              const idx=String(i/chunkSize).padStart(2,'0');
-              fs.writeFileSync(`data/derived/${key}/chunk_${idx}.json`, JSON.stringify(list.slice(i,i+chunkSize),null,2));
-            }"
-
-      - name: Upload chunk artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: candidate-chunks-${{ steps.compute.outputs.quarter_key }}
-          path: data/derived/${{ steps.compute.outputs.quarter_key }}/chunk_*.json
-
-      - name: Commit candidates and chunks
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
-          git commit -m "prepare ${{ steps.compute.outputs.quarter_key }} ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
-          git push
-
-  process:
-    needs: prepare
-    runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 1
-      matrix:
-        chunk: ["00","01","02","03"]
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: npm install node-fetch@2
-
-      - name: Download chunks
-        uses: actions/download-artifact@v4
-        with:
-          name: candidate-chunks-${{ needs.prepare.outputs.quarter_key }}
-          path: data/derived/${{ needs.prepare.outputs.quarter_key }}
-
-      - name: Fetch stars (timestamps) for chunk
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CANDIDATES_CHUNK: data/derived/${{ needs.prepare.outputs.quarter_key }}/chunk_${{ matrix.chunk }}.json
-        run: |
-          if [ ! -f "$CANDIDATES_CHUNK" ]; then
-            echo "No chunk file $CANDIDATES_CHUNK; skipping."
-            exit 0
-          fi
-          node scripts/fetch_stars.js
-
-      - name: Fetch repo meta for chunk
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CANDIDATES_CHUNK: data/derived/${{ needs.prepare.outputs.quarter_key }}/chunk_${{ matrix.chunk }}.json
-        run: |
-          if [ ! -f "$CANDIDATES_CHUNK" ]; then
-            echo "No chunk file $CANDIDATES_CHUNK; skipping."
-            exit 0
-          fi
-          node scripts/fetch_repo_meta.js
-
+        run: node scripts/fetch_stars.js
       - name: Aggregate weekly
         run: node scripts/aggregate_weekly.js
-
-      - name: Rank Q1..Q4
-        run: |
-          Y=${{ needs.prepare.outputs.year }}
-          node scripts/rank_quarter.js $Y 1
-          node scripts/rank_quarter.js $Y 2
-          node scripts/rank_quarter.js $Y 3
-          node scripts/rank_quarter.js $Y 4
-
-      - name: Forecast for selected quarter
-        run: node scripts/forecast.js ${{ needs.prepare.outputs.quarter_key }}
-
+      - name: Rank quarter
+        run: node scripts/rank_quarter.js 2025 4
+      - name: Forecast
+        run: node scripts/forecast.js 2025-Q4
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
