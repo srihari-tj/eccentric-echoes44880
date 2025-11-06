@@ -4,6 +4,7 @@ import path from "path";
 import { quarterBounds } from "./utils/time.js";
 
 const WEEKLY_DIR = "data/derived/weekly";
+const META_DIR = "data/derived/meta";
 const OUT_DIR = "data/derived/quarter";
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
@@ -25,11 +26,25 @@ function rankQuarter(year, q) {
     const p = JSON.parse(fs.readFileSync(path.join(WEEKLY_DIR,f),"utf8"));
     const startVal = cumAt(p.cumulative, start);
     const endVal   = cumAt(p.cumulative, end);
+
+    // Prefer stars_now from weekly payload; fallback to meta file if needed
+    let stars_now = p.stars_now ?? null;
+    if (stars_now == null) {
+      try {
+        const metaPath = path.join(META_DIR, f);
+        if (fs.existsSync(metaPath)) {
+          const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+          stars_now = meta.stars_now ?? null;
+        }
+      } catch {}
+    }
+
     rows.push({
       repo: p.repo,
       cumulative_start: startVal,
       cumulative_end: endVal,
-      delta: endVal - startVal
+      delta: endVal - startVal,
+      stars_now
     });
   }
 
@@ -43,5 +58,5 @@ function rankQuarter(year, q) {
 }
 
 const year = Number(process.argv[2]);
-const q = Number(process.argv[3]);
+const q = Number(process.argv[3]); // 1..4
 rankQuarter(year, q);

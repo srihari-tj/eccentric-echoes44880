@@ -2,8 +2,8 @@ name: Quarterly Trending + Weekly + Forecast
 
 on:
   schedule:
-    - cron: "17 1 * * 1"      # scrape trending every Monday 01:17 UTC
-    - cron: "37 */12 * * *"   # fetch stars + aggregate twice daily
+    - cron: "17 1 * * 1"
+    - cron: "37 */12 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -18,22 +18,34 @@ jobs:
         with:
           node-version: 20
       - run: npm install node-fetch@2
+
       - name: Scrape weekly trending
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/scrape_trending.js
+
       - name: Build candidates for current quarter
         run: node scripts/build_candidates.js 2025 Q4
-      - name: Fetch stars
+
+      - name: Fetch stars (timestamps)
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/fetch_stars.js
+
+      - name: Fetch repo meta (stars_now/forks/etc)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/fetch_repo_meta.js
+
       - name: Aggregate weekly
         run: node scripts/aggregate_weekly.js
+
       - name: Rank quarter
         run: node scripts/rank_quarter.js 2025 4
+
       - name: Forecast
         run: node scripts/forecast.js 2025-Q4
+
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"

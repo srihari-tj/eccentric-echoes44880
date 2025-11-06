@@ -5,6 +5,7 @@ import { isoWeekKey, weeksToBounds } from "./utils/time.js";
 
 const RAW = "data/raw/stars";
 const OUT = "data/derived/weekly";
+const META_DIR = "data/derived/meta";
 fs.mkdirSync(OUT, { recursive: true });
 
 function toDaily(ts) {
@@ -39,7 +40,18 @@ for (const f of fs.readdirSync(RAW)) {
   const daily = toDaily(ts);
   const weekly = toWeekly(daily);
   const cumulative = toCumulative(daily);
-  const payload = { repo: `${owner}/${repo}`, weekly, cumulative };
+
+  // Attach current stars if available from meta
+  let stars_now = null;
+  try {
+    const metaPath = path.join(META_DIR, `${owner}__${repo}.json`);
+    if (fs.existsSync(metaPath)) {
+      const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+      stars_now = meta.stars_now ?? null;
+    }
+  } catch {}
+
+  const payload = { repo: `${owner}/${repo}`, stars_now, weekly, cumulative };
   fs.writeFileSync(path.join(OUT, f), JSON.stringify(payload, null, 2));
   console.log("weekly wrote", owner+"/"+repo);
 }
