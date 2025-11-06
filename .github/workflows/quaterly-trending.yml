@@ -44,6 +44,10 @@ jobs:
           else
             node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(`year=${y}\nquarter_key=${y}-Q${q}\n`)" >> "$GITHUB_OUTPUT"
           fi
+      - name: Debug computed vars
+        run: |
+          echo "quarter_key=${{ steps.compute.outputs.quarter_key }}"
+          echo "year=${{ steps.compute.outputs.year }}"
 
       - name: Scrape weekly trending
         env:
@@ -56,6 +60,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           KEY="${{ steps.compute.outputs.quarter_key }}"
+          if [ -z "$KEY" ]; then
+            echo "quarter_key empty; aborting build_candidates"
+            exit 1
+          fi
           Y="${KEY%%-*}"
           Q="${KEY##*-}"
           node scripts/build_candidates.js "$Y" "$Q"
