@@ -79,7 +79,7 @@ async function searchFallback(year, q, topN=5000) {
   // Use GitHub search to find popular repositories with recent activity. [web:1]
   // GitHub doesn't have "Trending" API; use search with sort=stars & pushed qualifier. [web:30][web:1]
   const GH_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-  if (!GH_TOKEN) throw new Error("Missing GH_TOKEN for search fallback");
+  if (!GH_TOKEN) throw new Error("Missing GH_TOKEN for search fallback", GH_TOKEN);
   const { start } = quarterBounds(year, q);
   const headers = {
     "Authorization": `Bearer ${GH_TOKEN}`,
