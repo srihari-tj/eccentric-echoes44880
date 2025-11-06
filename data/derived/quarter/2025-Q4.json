@@ -1,1 +1,261 @@
-[]
+[
+  {
+    "repo": "666ghj/BettaFish",
+    "cumulative_start": 685,
+    "cumulative_end": 17316,
+    "delta": 16631,
+    "rank": 1
+  },
+  {
+    "repo": "HKUDS/DeepCode",
+    "cumulative_start": 7264,
+    "cumulative_end": 9617,
+    "delta": 2353,
+    "rank": 2
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "cumulative_start": 14461,
+    "cumulative_end": 16628,
+    "delta": 2167,
+    "rank": 3
+  },
+  {
+    "repo": "Fosowl/agenticSeek",
+    "cumulative_start": 21941,
+    "cumulative_end": 23436,
+    "delta": 1495,
+    "rank": 4
+  },
+  {
+    "repo": "GeeeekExplorer/nano-vllm",
+    "cumulative_start": 6912,
+    "cumulative_end": 8355,
+    "delta": 1443,
+    "rank": 5
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "cumulative_start": 30583,
+    "cumulative_end": 31655,
+    "delta": 1072,
+    "rank": 6
+  },
+  {
+    "repo": "RikkaApps/Shizuku",
+    "cumulative_start": 17389,
+    "cumulative_end": 18423,
+    "delta": 1034,
+    "rank": 7
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "cumulative_start": 21766,
+    "cumulative_end": 22556,
+    "delta": 790,
+    "rank": 8
+  },
+  {
+    "repo": "Canner/WrenAI",
+    "cumulative_start": 12128,
+    "cumulative_end": 12862,
+    "delta": 734,
+    "rank": 9
+  },
+  {
+    "repo": "ConardLi/easy-dataset",
+    "cumulative_start": 10970,
+    "cumulative_end": 11673,
+    "delta": 703,
+    "rank": 10
+  },
+  {
+    "repo": "NginxProxyManager/nginx-proxy-manager",
+    "cumulative_start": 28584,
+    "cumulative_end": 29211,
+    "delta": 627,
+    "rank": 11
+  },
+  {
+    "repo": "MatsuriDayo/NekoBoxForAndroid",
+    "cumulative_start": 16267,
+    "cumulative_end": 16890,
+    "delta": 623,
+    "rank": 12
+  },
+  {
+    "repo": "NickvisionApps/Parabolic",
+    "cumulative_start": 3794,
+    "cumulative_end": 4303,
+    "delta": 509,
+    "rank": 13
+  },
+  {
+    "repo": "AutoMQ/automq",
+    "cumulative_start": 7074,
+    "cumulative_end": 7560,
+    "delta": 486,
+    "rank": 14
+  },
+  {
+    "repo": "KotatsuApp/Kotatsu",
+    "cumulative_start": 6755,
+    "cumulative_end": 7196,
+    "delta": 441,
+    "rank": 15
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "cumulative_start": 2679,
+    "cumulative_end": 3084,
+    "delta": 405,
+    "rank": 16
+  },
+  {
+    "repo": "Fredolx/open-tv",
+    "cumulative_start": 1964,
+    "cumulative_end": 2338,
+    "delta": 374,
+    "rank": 17
+  },
+  {
+    "repo": "Freika/dawarich",
+    "cumulative_start": 6872,
+    "cumulative_end": 7216,
+    "delta": 344,
+    "rank": 18
+  },
+  {
+    "repo": "InfinityLoop1308/PipePipe",
+    "cumulative_start": 3684,
+    "cumulative_end": 3951,
+    "delta": 267,
+    "rank": 19
+  },
+  {
+    "repo": "BookStackApp/BookStack",
+    "cumulative_start": 17406,
+    "cumulative_end": 17653,
+    "delta": 247,
+    "rank": 20
+  },
+  {
+    "repo": "RustPython/RustPython",
+    "cumulative_start": 20536,
+    "cumulative_end": 20765,
+    "delta": 229,
+    "rank": 21
+  },
+  {
+    "repo": "Neet-Nestor/Telegram-Media-Downloader",
+    "cumulative_start": 2850,
+    "cumulative_end": 3062,
+    "delta": 212,
+    "rank": 22
+  },
+  {
+    "repo": "JetBrains/compose-multiplatform",
+    "cumulative_start": 18236,
+    "cumulative_end": 18436,
+    "delta": 200,
+    "rank": 23
+  },
+  {
+    "repo": "OpenCSGs/csghub-server",
+    "cumulative_start": 1024,
+    "cumulative_end": 1217,
+    "delta": 193,
+    "rank": 24
+  },
+  {
+    "repo": "KaTeX/KaTeX",
+    "cumulative_start": 19387,
+    "cumulative_end": 19562,
+    "delta": 175,
+    "rank": 25
+  },
+  {
+    "repo": "MrNeRF/LichtFeld-Studio",
+    "cumulative_start": 1503,
+    "cumulative_end": 1677,
+    "delta": 174,
+    "rank": 26
+  },
+  {
+    "repo": "Homebrew/homebrew-core",
+    "cumulative_start": 14654,
+    "cumulative_end": 14789,
+    "delta": 135,
+    "rank": 27
+  },
+  {
+    "repo": "CesiumGS/cesium",
+    "cumulative_start": 14298,
+    "cumulative_end": 14426,
+    "delta": 128,
+    "rank": 28
+  },
+  {
+    "repo": "BitMaker-hub/NerdMiner_v2",
+    "cumulative_start": 2220,
+    "cumulative_end": 2341,
+    "delta": 121,
+    "rank": 29
+  },
+  {
+    "repo": "FossifyOrg/Gallery",
+    "cumulative_start": 2603,
+    "cumulative_end": 2719,
+    "delta": 116,
+    "rank": 30
+  },
+  {
+    "repo": "HiEventsDev/Hi.Events",
+    "cumulative_start": 3161,
+    "cumulative_end": 3257,
+    "delta": 96,
+    "rank": 31
+  },
+  {
+    "repo": "Automattic/wordpress-mcp",
+    "cumulative_start": 587,
+    "cumulative_end": 648,
+    "delta": 61,
+    "rank": 32
+  },
+  {
+    "repo": "AndroidIDEOfficial/AndroidIDE",
+    "cumulative_start": 2695,
+    "cumulative_end": 2741,
+    "delta": 46,
+    "rank": 33
+  },
+  {
+    "repo": "DataDog/dd-trace-rb",
+    "cumulative_start": 376,
+    "cumulative_end": 382,
+    "delta": 6,
+    "rank": 34
+  },
+  {
+    "repo": "2dust/v2rayNG",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 35
+  },
+  {
+    "repo": "ChatGPTNextWeb/NextChat",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 36
+  },
+  {
+    "repo": "NARKOZ/hacker-scripts",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 37
+  }
+]
