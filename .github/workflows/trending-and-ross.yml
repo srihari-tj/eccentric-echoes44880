@@ -1,0 +1,96 @@
+name: Trending + Quarterly + ROSS (scheduled + manual)
+
+on:
+  schedule:
+    - cron: "17 6 * * 0"   # Sunday 06:17 UTC weekly refresh
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Override year (default: current UTC year)"
+        required: false
+        default: ""
+      quarter:
+        description: "Override quarter (Q1..Q4, default: current)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm install node-fetch@2
+
+      - name: Compute year/quarter (UTC or overrides)
+        id: compute
+        run: |
+          Y="${{ inputs.year }}"
+          Q="${{ inputs.quarter }}"
+          if [ -z "$Y" ] || [ -z "$Q" ]; then
+            node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(\`year=\${y}\nquarter_key=\${y}-Q\${q}\n\`)" >> "$GITHUB_OUTPUT"
+          else
+            echo "year=$Y" >> "$GITHUB_OUTPUT"
+            echo "quarter_key=$Y-$Q" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Computed: year=${{ steps.compute.outputs.year }}, key=${{ steps.compute.outputs.quarter_key }}"
+
+      - name: Scrape weekly trending (candidates)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/scrape_trending.js
+
+      - name: Build candidates for quarter (fallback to search if needed)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          KEY="${{ steps.compute.outputs.quarter_key }}"
+          Y="${{ steps.compute.outputs.year }}"
+          Q="${KEY##*-}"
+          node scripts/build_candidates.js "$Y" "$Q"
+
+      - name: Fetch stars (timestamps for candidates)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/fetch_stars.js
+
+      - name: Fetch repo meta (stars_now/forks/etc)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/fetch_repo_meta.js
+
+      - name: Aggregate weekly (stars_now passthrough)
+        run: node scripts/aggregate_weekly.js
+
+      - name: Normal quarter ranks (delta Q1..Q4 for year)
+        run: |
+          Y="${{ steps.compute.outputs.year }}"
+          node scripts/rank_quarter.js "$Y" 1
+          node scripts/rank_quarter.js "$Y" 2
+          node scripts/rank_quarter.js "$Y" 3
+          node scripts/rank_quarter.js "$Y" 4
+
+      - name: ROSS quarter ranks (Q1..Q4 for year; no startup filter)
+        run: |
+          Y="${{ steps.compute.outputs.year }}"
+          node scripts/rank_ross_quarter.js "$Y" 1
+          node scripts/rank_ross_quarter.js "$Y" 2
+          node scripts/rank_ross_quarter.js "$Y" 3
+          node scripts/rank_ross_quarter.js "$Y" 4
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "refresh ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
+          git push
