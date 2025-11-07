@@ -1,11 +1,23 @@
 // scripts/rank_ross_quarter.js
+// ROSS-style ranking with repo meta embedded in output rows.
+// For a given quarter, compute maximum relative 90-day star growth among windows ending inside the quarter,
+// require window start stars >= 1000, and attach stars_now, forks, open_issues, subscribers (from meta).
+//
+// Usage: node scripts/rank_ross_quarter.js YEAR Q
+//
+// Inputs:
+// - data/derived/weekly/owner__repo.json (must include 'cumulative' series)
+// - data/derived/meta/owner__repo.json (provides stars_now, forks, open_issues, subscribers)
+// Optional attach (owner context):
+// - data/derived/owner/owner__repo.json (location, website, etc.)
+
 import fs from "fs";
 import path from "path";
 import { quarterBounds } from "./utils/time.js";
 
 const WEEKLY_DIR = "data/derived/weekly";
 const META_DIR = "data/derived/meta";
-const COMPANY_DIR = "data/derived/owner"; // optional owner enrichment (location/website) attach
+const OWNER_DIR = "data/derived/owner";
 const OUT_DIR = "data/derived/quarter-ross";
 
 fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -40,57 +52,73 @@ function maxRossWindowForQuarter(cumulative, quarterStart, quarterEnd) {
   }
   return best;
 }
-function loadStarsNow(metaFile) {
+function loadMeta(metaFile) {
   try {
-    if (fs.existsSync(metaFile)) {
-      const meta = JSON.parse(fs.readFileSync(metaFile, "utf8"));
-      return meta.stars_now ?? null;
-    }
-  } catch {}
-  return null;
+    if (!fs.existsSync(metaFile)) return null;
+    const m = JSON.parse(fs.readFileSync(metaFile, "utf8"));
+    return {
+      stars_now: m.stargazers_count ?? m.stars_now ?? null,
+      forks: m.forks_count ?? m.forks ?? null,
+      open_issues: m.open_issues_count ?? m.open_issues ?? null,
+      subscribers: m.subscribers_count ?? m.subscribers ?? null
+    };
+  } catch { return null; }
 }
 function loadOwner(ownerFile) {
   try {
-    if (fs.existsSync(ownerFile)) {
-      return JSON.parse(fs.readFileSync(ownerFile, "utf8"));
-    }
-  } catch {}
-  return null;
+    if (!fs.existsSync(ownerFile)) return null;
+    const o = JSON.parse(fs.readFileSync(ownerFile, "utf8"));
+    return {
+      owner: o.owner ?? null,
+      owner_type: o.owner_type ?? null,
+      location: o.location ?? null,
+      website: o.website ?? null
+    };
+  } catch { return null; }
 }
+
 function rankRossQuarter(year, q) {
   const { start: quarterStart, end: quarterEnd } = quarterBounds(year, q);
   const rows = [];
+
   for (const f of fs.readdirSync(WEEKLY_DIR)) {
     if (!f.endsWith(".json")) continue;
-    const p = JSON.parse(fs.readFileSync(path.join(WEEKLY_DIR, f), "utf8"));
-    const stars_now = loadStarsNow(path.join(META_DIR, f));
-    const ownerInfo = loadOwner(path.join(COMPANY_DIR, f)); // optional attach
-    const best = maxRossWindowForQuarter(p.cumulative, quarterStart, quarterEnd);
+    const weekly = JSON.parse(fs.readFileSync(path.join(WEEKLY_DIR, f), "utf8"));
+
+    const meta = loadMeta(path.join(META_DIR, f));           // repo meta (stars_now + counts)
+    const ownerInfo = loadOwner(path.join(OWNER_DIR, f));    // optional owner context
+
+    const best = maxRossWindowForQuarter(weekly.cumulative, quarterStart, quarterEnd);
     if (!best.start || best.rel_gain <= 0) continue;
+
     rows.push({
-      repo: p.repo,
+      repo: weekly.repo,
       quarter: `${year}-Q${q}`,
-      stars_now,
+      // Embedded repo meta
+      stars_now: meta?.stars_now ?? null,
+      forks: meta?.forks ?? null,
+      open_issues: meta?.open_issues ?? null,
+      subscribers: meta?.subscribers ?? null,
+      // ROSS diagnostics
       best_window_start: best.start,
       best_window_end: best.end,
       window_start_stars: best.start_val,
       window_end_stars: best.end_val,
       abs_gain_90d: best.abs_gain,
       rel_gain_90d: Number(best.rel_gain.toFixed(6)),
-      owner: ownerInfo ? {
-        owner: ownerInfo.owner,
-        owner_type: ownerInfo.owner_type,
-        location: ownerInfo.location,
-        website: ownerInfo.website
-      } : null
+      // Optional owner context (non-blocking)
+      owner: ownerInfo ?? null
     });
   }
+
   rows.sort((a, b) => b.rel_gain_90d - a.rel_gain_90d);
   const top100 = rows.slice(0, 100).map((r, i) => ({ ...r, rank: i + 1 }));
+
   const outPath = path.join(OUT_DIR, `${year}-Q${q}.json`);
   fs.writeFileSync(outPath, JSON.stringify(top100, null, 2));
   console.log(`ROSS ranked ${year}-Q${q} -> ${outPath} (${top100.length} rows)`);
 }
+
 const year = Number(process.argv[2]);
 const q = Number(process.argv[3]);
 if (!year || !q) { console.error("Usage: node scripts/rank_ross_quarter.js YEAR Q"); process.exit(1); }
