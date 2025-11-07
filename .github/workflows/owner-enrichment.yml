@@ -1,0 +1,42 @@
+name: Owner Enrichment (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_owner_enrichment:
+        description: "Run owner/org enrichment (GitHub API) after weekly data exists"
+        required: true
+        default: "true"
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install minimal deps
+        run: npm install node-fetch@2
+      - name: Validate weekly data exists
+        run: |
+          if [ ! -d "data/derived/weekly" ]; then
+            echo "data/derived/weekly not found. Run your main pipeline first."
+            exit 1
+          fi
+          ls -1 data/derived/weekly | head -n 10 || true
+      - name: Enrich owner/org details via GitHub API
+        if: ${{ inputs.run_owner_enrichment == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/enrich_owner.js
+      - name: Commit owner enrichment files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/derived/owner
+          git commit -m "owner enrichment ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
+          git push
