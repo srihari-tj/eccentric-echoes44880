@@ -1,0 +1,702 @@
+[
+  {
+    "repo": "sst/opencode",
+    "cumulative_start": 7744,
+    "cumulative_end": 25758,
+    "delta": 18014,
+    "rank": 1
+  },
+  {
+    "repo": "musistudio/claude-code-router",
+    "cumulative_start": 2516,
+    "cumulative_end": 18624,
+    "delta": 16108,
+    "rank": 2
+  },
+  {
+    "repo": "HKUDS/DeepCode",
+    "cumulative_start": 0,
+    "cumulative_end": 7251,
+    "delta": 7251,
+    "rank": 3
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "cumulative_start": 0,
+    "cumulative_end": 6244,
+    "delta": 6244,
+    "rank": 4
+  },
+  {
+    "repo": "nautechsystems/nautilus_trader",
+    "cumulative_start": 9417,
+    "cumulative_end": 15486,
+    "delta": 6069,
+    "rank": 5
+  },
+  {
+    "repo": "xixu-me/Xget",
+    "cumulative_start": 9,
+    "cumulative_end": 5299,
+    "delta": 5290,
+    "rank": 6
+  },
+  {
+    "repo": "block/goose",
+    "cumulative_start": 15097,
+    "cumulative_end": 19911,
+    "delta": 4814,
+    "rank": 7
+  },
+  {
+    "repo": "GraphiteEditor/Graphite",
+    "cumulative_start": 17041,
+    "cumulative_end": 21746,
+    "delta": 4705,
+    "rank": 8
+  },
+  {
+    "repo": "janhq/jan",
+    "cumulative_start": 33424,
+    "cumulative_end": 37918,
+    "delta": 4494,
+    "rank": 9
+  },
+  {
+    "repo": "zumerlab/snapdom",
+    "cumulative_start": 2118,
+    "cumulative_end": 6224,
+    "delta": 4106,
+    "rank": 10
+  },
+  {
+    "repo": "langchain-ai/deepagents",
+    "cumulative_start": 0,
+    "cumulative_end": 3987,
+    "delta": 3987,
+    "rank": 11
+  },
+  {
+    "repo": "Canner/WrenAI",
+    "cumulative_start": 8417,
+    "cumulative_end": 12117,
+    "delta": 3700,
+    "rank": 12
+  },
+  {
+    "repo": "bagisto/bagisto",
+    "cumulative_start": 19334,
+    "cumulative_end": 22977,
+    "delta": 3643,
+    "rank": 13
+  },
+  {
+    "repo": "Wei-Shaw/claude-relay-service",
+    "cumulative_start": 0,
+    "cumulative_end": 3513,
+    "delta": 3513,
+    "rank": 14
+  },
+  {
+    "repo": "mindsdb/mindsdb",
+    "cumulative_start": 32843,
+    "cumulative_end": 36138,
+    "delta": 3295,
+    "rank": 15
+  },
+  {
+    "repo": "chaitin/PandaWiki",
+    "cumulative_start": 3168,
+    "cumulative_end": 6247,
+    "delta": 3079,
+    "rank": 16
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "cumulative_start": 7507,
+    "cumulative_end": 10442,
+    "delta": 2935,
+    "rank": 17
+  },
+  {
+    "repo": "trufflesecurity/trufflehog",
+    "cumulative_start": 19587,
+    "cumulative_end": 22480,
+    "delta": 2893,
+    "rank": 18
+  },
+  {
+    "repo": "cloudwego/eino",
+    "cumulative_start": 4684,
+    "cumulative_end": 7514,
+    "delta": 2830,
+    "rank": 19
+  },
+  {
+    "repo": "sst/opentui",
+    "cumulative_start": 0,
+    "cumulative_end": 2682,
+    "delta": 2682,
+    "rank": 20
+  },
+  {
+    "repo": "ayangweb/BongoCat",
+    "cumulative_start": 7952,
+    "cumulative_end": 10536,
+    "delta": 2584,
+    "rank": 21
+  },
+  {
+    "repo": "Fosowl/agenticSeek",
+    "cumulative_start": 19422,
+    "cumulative_end": 21933,
+    "delta": 2511,
+    "rank": 22
+  },
+  {
+    "repo": "vanna-ai/vanna",
+    "cumulative_start": 18280,
+    "cumulative_end": 20643,
+    "delta": 2363,
+    "rank": 23
+  },
+  {
+    "repo": "GeeeekExplorer/nano-vllm",
+    "cumulative_start": 4659,
+    "cumulative_end": 6904,
+    "delta": 2245,
+    "rank": 24
+  },
+  {
+    "repo": "RikkaApps/Shizuku",
+    "cumulative_start": 15154,
+    "cumulative_end": 17361,
+    "delta": 2207,
+    "rank": 25
+  },
+  {
+    "repo": "mudler/LocalAI",
+    "cumulative_start": 33283,
+    "cumulative_end": 35463,
+    "delta": 2180,
+    "rank": 26
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "cumulative_start": 24247,
+    "cumulative_end": 26315,
+    "delta": 2068,
+    "rank": 27
+  },
+  {
+    "repo": "helix-editor/helix",
+    "cumulative_start": 37916,
+    "cumulative_end": 39980,
+    "delta": 2064,
+    "rank": 28
+  },
+  {
+    "repo": "vnpy/vnpy",
+    "cumulative_start": 30461,
+    "cumulative_end": 32524,
+    "delta": 2063,
+    "rank": 29
+  },
+  {
+    "repo": "juanfont/headscale",
+    "cumulative_start": 29297,
+    "cumulative_end": 31350,
+    "delta": 2053,
+    "rank": 30
+  },
+  {
+    "repo": "gkd-kit/gkd",
+    "cumulative_start": 28991,
+    "cumulative_end": 31037,
+    "delta": 2046,
+    "rank": 31
+  },
+  {
+    "repo": "ConardLi/easy-dataset",
+    "cumulative_start": 8922,
+    "cumulative_end": 10962,
+    "delta": 2040,
+    "rank": 32
+  },
+  {
+    "repo": "TEN-framework/ten-framework",
+    "cumulative_start": 6249,
+    "cumulative_end": 8213,
+    "delta": 1964,
+    "rank": 33
+  },
+  {
+    "repo": "get-convex/chef",
+    "cumulative_start": 0,
+    "cumulative_end": 1932,
+    "delta": 1932,
+    "rank": 34
+  },
+  {
+    "repo": "NginxProxyManager/nginx-proxy-manager",
+    "cumulative_start": 26687,
+    "cumulative_end": 28567,
+    "delta": 1880,
+    "rank": 35
+  },
+  {
+    "repo": "mihonapp/mihon",
+    "cumulative_start": 14154,
+    "cumulative_end": 15938,
+    "delta": 1784,
+    "rank": 36
+  },
+  {
+    "repo": "hmjz100/LinkSwift",
+    "cumulative_start": 4540,
+    "cumulative_end": 6259,
+    "delta": 1719,
+    "rank": 37
+  },
+  {
+    "repo": "YunaiV/ruoyi-vue-pro",
+    "cumulative_start": 31672,
+    "cumulative_end": 33373,
+    "delta": 1701,
+    "rank": 38
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "cumulative_start": 28869,
+    "cumulative_end": 30569,
+    "delta": 1700,
+    "rank": 39
+  },
+  {
+    "repo": "MatsuriDayo/NekoBoxForAndroid",
+    "cumulative_start": 14567,
+    "cumulative_end": 16256,
+    "delta": 1689,
+    "rank": 40
+  },
+  {
+    "repo": "dataease/dataease",
+    "cumulative_start": 20292,
+    "cumulative_end": 21965,
+    "delta": 1673,
+    "rank": 41
+  },
+  {
+    "repo": "microsoft/agent-lightning",
+    "cumulative_start": 0,
+    "cumulative_end": 1628,
+    "delta": 1628,
+    "rank": 42
+  },
+  {
+    "repo": "topoteretes/cognee",
+    "cumulative_start": 5871,
+    "cumulative_end": 7454,
+    "delta": 1583,
+    "rank": 43
+  },
+  {
+    "repo": "slidevjs/slidev",
+    "cumulative_start": 38424,
+    "cumulative_end": 40000,
+    "delta": 1576,
+    "rank": 44
+  },
+  {
+    "repo": "n0-computer/iroh",
+    "cumulative_start": 5358,
+    "cumulative_end": 6930,
+    "delta": 1572,
+    "rank": 45
+  },
+  {
+    "repo": "lvgl/lvgl",
+    "cumulative_start": 19905,
+    "cumulative_end": 21472,
+    "delta": 1567,
+    "rank": 46
+  },
+  {
+    "repo": "kilimchoi/engineering-blogs",
+    "cumulative_start": 34395,
+    "cumulative_end": 35913,
+    "delta": 1518,
+    "rank": 47
+  },
+  {
+    "repo": "chatboxai/chatbox",
+    "cumulative_start": 35194,
+    "cumulative_end": 36707,
+    "delta": 1513,
+    "rank": 48
+  },
+  {
+    "repo": "Freika/dawarich",
+    "cumulative_start": 5414,
+    "cumulative_end": 6870,
+    "delta": 1456,
+    "rank": 49
+  },
+  {
+    "repo": "opf/openproject",
+    "cumulative_start": 11291,
+    "cumulative_end": 12730,
+    "delta": 1439,
+    "rank": 50
+  },
+  {
+    "repo": "curl/curl",
+    "cumulative_start": 38009,
+    "cumulative_end": 39356,
+    "delta": 1347,
+    "rank": 51
+  },
+  {
+    "repo": "kingToolbox/WindTerm",
+    "cumulative_start": 26810,
+    "cumulative_end": 28128,
+    "delta": 1318,
+    "rank": 52
+  },
+  {
+    "repo": "pppscn/SmsForwarder",
+    "cumulative_start": 21553,
+    "cumulative_end": 22850,
+    "delta": 1297,
+    "rank": 53
+  },
+  {
+    "repo": "cellos51/balatro-gba",
+    "cumulative_start": 71,
+    "cumulative_end": 1320,
+    "delta": 1249,
+    "rank": 54
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "cumulative_start": 23691,
+    "cumulative_end": 24924,
+    "delta": 1233,
+    "rank": 55
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "cumulative_start": 21144,
+    "cumulative_end": 22320,
+    "delta": 1176,
+    "rank": 56
+  },
+  {
+    "repo": "suitenumerique/docs",
+    "cumulative_start": 12600,
+    "cumulative_end": 13775,
+    "delta": 1175,
+    "rank": 57
+  },
+  {
+    "repo": "charmbracelet/glow",
+    "cumulative_start": 18155,
+    "cumulative_end": 19306,
+    "delta": 1151,
+    "rank": 58
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "cumulative_start": 6448,
+    "cumulative_end": 7595,
+    "delta": 1147,
+    "rank": 59
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "cumulative_start": 15582,
+    "cumulative_end": 16715,
+    "delta": 1133,
+    "rank": 60
+  },
+  {
+    "repo": "hexgrad/kokoro",
+    "cumulative_start": 3388,
+    "cumulative_end": 4463,
+    "delta": 1075,
+    "rank": 61
+  },
+  {
+    "repo": "cjpais/Handy",
+    "cumulative_start": 59,
+    "cumulative_end": 1080,
+    "delta": 1021,
+    "rank": 62
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "cumulative_start": 24876,
+    "cumulative_end": 25892,
+    "delta": 1016,
+    "rank": 63
+  },
+  {
+    "repo": "NickvisionApps/Parabolic",
+    "cumulative_start": 2825,
+    "cumulative_end": 3785,
+    "delta": 960,
+    "rank": 64
+  },
+  {
+    "repo": "flameshot-org/flameshot",
+    "cumulative_start": 26906,
+    "cumulative_end": 27846,
+    "delta": 940,
+    "rank": 65
+  },
+  {
+    "repo": "nginx/nginx",
+    "cumulative_start": 27162,
+    "cumulative_end": 28097,
+    "delta": 935,
+    "rank": 66
+  },
+  {
+    "repo": "KotatsuApp/Kotatsu",
+    "cumulative_start": 5825,
+    "cumulative_end": 6746,
+    "delta": 921,
+    "rank": 67
+  },
+  {
+    "repo": "spring-projects/spring-ai",
+    "cumulative_start": 5896,
+    "cumulative_end": 6813,
+    "delta": 917,
+    "rank": 68
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "cumulative_start": 19336,
+    "cumulative_end": 20251,
+    "delta": 915,
+    "rank": 69
+  },
+  {
+    "repo": "hanxi/xiaomusic",
+    "cumulative_start": 4571,
+    "cumulative_end": 5466,
+    "delta": 895,
+    "rank": 70
+  },
+  {
+    "repo": "nocobase/nocobase",
+    "cumulative_start": 15876,
+    "cumulative_end": 16753,
+    "delta": 877,
+    "rank": 71
+  },
+  {
+    "repo": "ArvinLovegood/go-stock",
+    "cumulative_start": 1800,
+    "cumulative_end": 2675,
+    "delta": 875,
+    "rank": 72
+  },
+  {
+    "repo": "tiann/KernelSU",
+    "cumulative_start": 12688,
+    "cumulative_end": 13551,
+    "delta": 863,
+    "rank": 73
+  },
+  {
+    "repo": "wazuh/wazuh",
+    "cumulative_start": 12710,
+    "cumulative_end": 13564,
+    "delta": 854,
+    "rank": 74
+  },
+  {
+    "repo": "zephyrproject-rtos/zephyr",
+    "cumulative_start": 12317,
+    "cumulative_end": 13166,
+    "delta": 849,
+    "rank": 75
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "cumulative_start": 13614,
+    "cumulative_end": 14452,
+    "delta": 838,
+    "rank": 76
+  },
+  {
+    "repo": "antiwork/gumroad",
+    "cumulative_start": 6243,
+    "cumulative_end": 7075,
+    "delta": 832,
+    "rank": 77
+  },
+  {
+    "repo": "k4yt3x/video2x",
+    "cumulative_start": 13711,
+    "cumulative_end": 14537,
+    "delta": 826,
+    "rank": 78
+  },
+  {
+    "repo": "pymumu/smartdns",
+    "cumulative_start": 9184,
+    "cumulative_end": 9975,
+    "delta": 791,
+    "rank": 79
+  },
+  {
+    "repo": "elie222/inbox-zero",
+    "cumulative_start": 8127,
+    "cumulative_end": 8886,
+    "delta": 759,
+    "rank": 80
+  },
+  {
+    "repo": "simple-icons/simple-icons",
+    "cumulative_start": 22737,
+    "cumulative_end": 23490,
+    "delta": 753,
+    "rank": 81
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "cumulative_start": 14339,
+    "cumulative_end": 15087,
+    "delta": 748,
+    "rank": 82
+  },
+  {
+    "repo": "argotorg/solidity",
+    "cumulative_start": 24441,
+    "cumulative_end": 25172,
+    "delta": 731,
+    "rank": 83
+  },
+  {
+    "repo": "nextcloud/all-in-one",
+    "cumulative_start": 7205,
+    "cumulative_end": 7933,
+    "delta": 728,
+    "rank": 84
+  },
+  {
+    "repo": "fmtlib/fmt",
+    "cumulative_start": 21879,
+    "cumulative_end": 22604,
+    "delta": 725,
+    "rank": 85
+  },
+  {
+    "repo": "kvcache-ai/ktransformers",
+    "cumulative_start": 14370,
+    "cumulative_end": 15085,
+    "delta": 715,
+    "rank": 86
+  },
+  {
+    "repo": "plankanban/planka",
+    "cumulative_start": 9978,
+    "cumulative_end": 10672,
+    "delta": 694,
+    "rank": 87
+  },
+  {
+    "repo": "deniscerri/ytdlnis",
+    "cumulative_start": 5566,
+    "cumulative_end": 6250,
+    "delta": 684,
+    "rank": 88
+  },
+  {
+    "repo": "cv-cat/Spider_XHS",
+    "cumulative_start": 2082,
+    "cumulative_end": 2763,
+    "delta": 681,
+    "rank": 89
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "cumulative_start": 29392,
+    "cumulative_end": 30062,
+    "delta": 670,
+    "rank": 90
+  },
+  {
+    "repo": "facebook/pyrefly",
+    "cumulative_start": 3102,
+    "cumulative_end": 3742,
+    "delta": 640,
+    "rank": 91
+  },
+  {
+    "repo": "projectdiscovery/nuclei-templates",
+    "cumulative_start": 10317,
+    "cumulative_end": 10948,
+    "delta": 631,
+    "rank": 92
+  },
+  {
+    "repo": "opensearch-project/OpenSearch",
+    "cumulative_start": 10985,
+    "cumulative_end": 11615,
+    "delta": 630,
+    "rank": 93
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "cumulative_start": 31200,
+    "cumulative_end": 31830,
+    "delta": 630,
+    "rank": 94
+  },
+  {
+    "repo": "BookStackApp/BookStack",
+    "cumulative_start": 16782,
+    "cumulative_end": 17400,
+    "delta": 618,
+    "rank": 95
+  },
+  {
+    "repo": "pavlobu/deskreen",
+    "cumulative_start": 18921,
+    "cumulative_end": 19525,
+    "delta": 604,
+    "rank": 96
+  },
+  {
+    "repo": "helm/helm",
+    "cumulative_start": 27982,
+    "cumulative_end": 28584,
+    "delta": 602,
+    "rank": 97
+  },
+  {
+    "repo": "utkarshdalal/GameNative",
+    "cumulative_start": 384,
+    "cumulative_end": 956,
+    "delta": 572,
+    "rank": 98
+  },
+  {
+    "repo": "kvcache-ai/Mooncake",
+    "cumulative_start": 3464,
+    "cumulative_end": 4034,
+    "delta": 570,
+    "rank": 99
+  },
+  {
+    "repo": "jetkvm/kvm",
+    "cumulative_start": 2847,
+    "cumulative_end": 3414,
+    "delta": 567,
+    "rank": 100
+  }
+]
