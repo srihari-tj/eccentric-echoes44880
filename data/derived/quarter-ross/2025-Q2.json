@@ -2,10 +2,10 @@
   {
     "repo": "kvcache-ai/ktransformers",
     "quarter": "2025-Q2",
-    "stars_now": 15458,
-    "forks": 1116,
-    "open_issues": 661,
-    "subscribers": 111,
+    "stars_now": 15493,
+    "forks": 1119,
+    "open_issues": 659,
+    "subscribers": 112,
     "best_window_start": "2025-02-11",
     "best_window_end": "2025-05-11",
     "window_start_stars": 1241,
@@ -18,9 +18,9 @@
   {
     "repo": "ConardLi/easy-dataset",
     "quarter": "2025-Q2",
-    "stars_now": 11700,
-    "forks": 1130,
-    "open_issues": 88,
+    "stars_now": 11713,
+    "forks": 1132,
+    "open_issues": 89,
     "subscribers": 60,
     "best_window_start": "2025-03-16",
     "best_window_end": "2025-06-13",
@@ -34,10 +34,10 @@
   {
     "repo": "block/goose",
     "quarter": "2025-Q2",
-    "stars_now": 21980,
-    "forks": 1972,
-    "open_issues": 177,
-    "subscribers": 116,
+    "stars_now": 22014,
+    "forks": 1976,
+    "open_issues": 178,
+    "subscribers": 117,
     "best_window_start": "2025-01-29",
     "best_window_end": "2025-04-28",
     "window_start_stars": 1806,
@@ -50,9 +50,9 @@
   {
     "repo": "Zackriya-Solutions/meeting-minutes",
     "quarter": "2025-Q2",
-    "stars_now": 8138,
-    "forks": 643,
-    "open_issues": 87,
+    "stars_now": 8167,
+    "forks": 645,
+    "open_issues": 88,
     "subscribers": 53,
     "best_window_start": "2025-03-03",
     "best_window_end": "2025-05-31",
@@ -66,10 +66,10 @@
   {
     "repo": "suitenumerique/docs",
     "quarter": "2025-Q2",
-    "stars_now": 14685,
-    "forks": 452,
+    "stars_now": 14707,
+    "forks": 455,
     "open_issues": 277,
-    "subscribers": 57,
+    "subscribers": 58,
     "best_window_start": "2025-03-16",
     "best_window_end": "2025-06-13",
     "window_start_stars": 2393,
@@ -82,9 +82,9 @@
   {
     "repo": "topoteretes/cognee",
     "quarter": "2025-Q2",
-    "stars_now": 8130,
-    "forks": 759,
-    "open_issues": 48,
+    "stars_now": 8226,
+    "forks": 767,
+    "open_issues": 45,
     "subscribers": 45,
     "best_window_start": "2025-03-22",
     "best_window_end": "2025-06-19",
@@ -96,11 +96,27 @@
     "rank": 6
   },
   {
+    "repo": "ourongxing/newsnow",
+    "quarter": "2025-Q2",
+    "stars_now": 13717,
+    "forks": 4169,
+    "open_issues": 90,
+    "subscribers": 40,
+    "best_window_start": "2025-01-04",
+    "best_window_end": "2025-04-03",
+    "window_start_stars": 1995,
+    "window_end_stars": 7573,
+    "abs_gain_90d": 5578,
+    "rel_gain_90d": 2.79599,
+    "owner": null,
+    "rank": 7
+  },
+  {
     "repo": "cloudwego/eino",
     "quarter": "2025-Q2",
-    "stars_now": 8067,
-    "forks": 600,
-    "open_issues": 73,
+    "stars_now": 8083,
+    "forks": 602,
+    "open_issues": 77,
     "subscribers": 60,
     "best_window_start": "2025-02-11",
     "best_window_end": "2025-05-11",
@@ -109,7 +125,7 @@
     "abs_gain_90d": 2477,
     "rel_gain_90d": 2.330198,
     "owner": null,
-    "rank": 7
+    "rank": 8
   },
   {
     "repo": "hexgrad/kokoro",
@@ -125,15 +141,15 @@
     "abs_gain_90d": 1777,
     "rel_gain_90d": 1.750739,
     "owner": null,
-    "rank": 8
+    "rank": 9
   },
   {
     "repo": "Canner/WrenAI",
     "quarter": "2025-Q2",
-    "stars_now": 12887,
-    "forks": 1344,
+    "stars_now": 12907,
+    "forks": 1346,
     "open_issues": 261,
-    "subscribers": 81,
+    "subscribers": 82,
     "best_window_start": "2025-01-03",
     "best_window_end": "2025-04-02",
     "window_start_stars": 2641,
@@ -141,7 +157,39 @@
     "abs_gain_90d": 4568,
     "rel_gain_90d": 1.729648,
     "owner": null,
-    "rank": 9
+    "rank": 10
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "quarter": "2025-Q2",
+    "stars_now": 75930,
+    "forks": 9998,
+    "open_issues": 9,
+    "subscribers": 884,
+    "best_window_start": "2025-01-05",
+    "best_window_end": "2025-04-04",
+    "window_start_stars": 10633,
+    "window_end_stars": 26385,
+    "abs_gain_90d": 15752,
+    "rel_gain_90d": 1.481426,
+    "owner": null,
+    "rank": 11
+  },
+  {
+    "repo": "glanceapp/glance",
+    "quarter": "2025-Q2",
+    "stars_now": 29422,
+    "forks": 1098,
+    "open_issues": 235,
+    "subscribers": 71,
+    "best_window_start": "2025-02-13",
+    "best_window_end": "2025-05-13",
+    "window_start_stars": 10138,
+    "window_end_stars": 23796,
+    "abs_gain_90d": 13658,
+    "rel_gain_90d": 1.347209,
+    "owner": null,
+    "rank": 12
   },
   {
     "repo": "jetkvm/kvm",
@@ -157,15 +205,15 @@
     "abs_gain_90d": 1244,
     "rel_gain_90d": 1.241517,
     "owner": null,
-    "rank": 10
+    "rank": 13
   },
   {
     "repo": "elie222/inbox-zero",
     "quarter": "2025-Q2",
-    "stars_now": 9321,
-    "forks": 1080,
-    "open_issues": 86,
-    "subscribers": 32,
+    "stars_now": 9332,
+    "forks": 1079,
+    "open_issues": 88,
+    "subscribers": 33,
     "best_window_start": "2025-02-17",
     "best_window_end": "2025-05-17",
     "window_start_stars": 3414,
@@ -173,12 +221,12 @@
     "abs_gain_90d": 4160,
     "rel_gain_90d": 1.218512,
     "owner": null,
-    "rank": 11
+    "rank": 14
   },
   {
     "repo": "crmne/ruby_llm",
     "quarter": "2025-Q2",
-    "stars_now": 3179,
+    "stars_now": 3187,
     "forks": 304,
     "open_issues": 51,
     "subscribers": 23,
@@ -189,14 +237,14 @@
     "abs_gain_90d": 1284,
     "rel_gain_90d": 1.154676,
     "owner": null,
-    "rank": 12
+    "rank": 15
   },
   {
     "repo": "nautechsystems/nautilus_trader",
     "quarter": "2025-Q2",
-    "stars_now": 16148,
-    "forks": 1864,
-    "open_issues": 86,
+    "stars_now": 16175,
+    "forks": 1865,
+    "open_issues": 81,
     "subscribers": 164,
     "best_window_start": "2025-01-10",
     "best_window_end": "2025-04-09",
@@ -205,14 +253,30 @@
     "abs_gain_90d": 2445,
     "rel_gain_90d": 1.012422,
     "owner": null,
-    "rank": 13
+    "rank": 16
+  },
+  {
+    "repo": "assistant-ui/assistant-ui",
+    "quarter": "2025-Q2",
+    "stars_now": 7197,
+    "forks": 783,
+    "open_issues": 98,
+    "subscribers": 81,
+    "best_window_start": "2025-01-06",
+    "best_window_end": "2025-04-05",
+    "window_start_stars": 2171,
+    "window_end_stars": 3861,
+    "abs_gain_90d": 1690,
+    "rel_gain_90d": 0.778443,
+    "owner": null,
+    "rank": 17
   },
   {
     "repo": "NickvisionApps/Parabolic",
     "quarter": "2025-Q2",
-    "stars_now": 4328,
-    "forks": 203,
-    "open_issues": 45,
+    "stars_now": 4345,
+    "forks": 205,
+    "open_issues": 46,
     "subscribers": 29,
     "best_window_start": "2025-01-02",
     "best_window_end": "2025-04-01",
@@ -221,13 +285,29 @@
     "abs_gain_90d": 906,
     "rel_gain_90d": 0.760067,
     "owner": null,
-    "rank": 14
+    "rank": 18
+  },
+  {
+    "repo": "Ackites/Nrfr",
+    "quarter": "2025-Q2",
+    "stars_now": 4951,
+    "forks": 440,
+    "open_issues": 44,
+    "subscribers": 25,
+    "best_window_start": "2025-04-02",
+    "best_window_end": "2025-06-30",
+    "window_start_stars": 1649,
+    "window_end_stars": 2765,
+    "abs_gain_90d": 1116,
+    "rel_gain_90d": 0.676774,
+    "owner": null,
+    "rank": 19
   },
   {
     "repo": "ArvinLovegood/go-stock",
     "quarter": "2025-Q2",
-    "stars_now": 3098,
-    "forks": 509,
+    "stars_now": 3107,
+    "forks": 508,
     "open_issues": 11,
     "subscribers": 35,
     "best_window_start": "2025-03-11",
@@ -237,7 +317,7 @@
     "abs_gain_90d": 652,
     "rel_gain_90d": 0.642998,
     "owner": null,
-    "rank": 15
+    "rank": 20
   },
   {
     "repo": "n0-computer/iroh",
@@ -253,14 +333,14 @@
     "abs_gain_90d": 1686,
     "rel_gain_90d": 0.626068,
     "owner": null,
-    "rank": 16
+    "rank": 21
   },
   {
     "repo": "AutoMQ/automq",
     "quarter": "2025-Q2",
-    "stars_now": 7593,
-    "forks": 517,
-    "open_issues": 68,
+    "stars_now": 7613,
+    "forks": 518,
+    "open_issues": 67,
     "subscribers": 54,
     "best_window_start": "2025-03-02",
     "best_window_end": "2025-05-30",
@@ -269,7 +349,23 @@
     "abs_gain_90d": 2324,
     "rel_gain_90d": 0.55058,
     "owner": null,
-    "rank": 17
+    "rank": 22
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "quarter": "2025-Q2",
+    "stars_now": 67332,
+    "forks": 7182,
+    "open_issues": 2910,
+    "subscribers": 294,
+    "best_window_start": "2025-01-02",
+    "best_window_end": "2025-04-01",
+    "window_start_stars": 26317,
+    "window_end_stars": 40000,
+    "abs_gain_90d": 13683,
+    "rel_gain_90d": 0.51993,
+    "owner": null,
+    "rank": 23
   },
   {
     "repo": "cv-cat/Spider_XHS",
@@ -285,14 +381,14 @@
     "abs_gain_90d": 646,
     "rel_gain_90d": 0.507862,
     "owner": null,
-    "rank": 18
+    "rank": 24
   },
   {
     "repo": "Freika/dawarich",
     "quarter": "2025-Q2",
-    "stars_now": 7222,
+    "stars_now": 7227,
     "forks": 222,
-    "open_issues": 154,
+    "open_issues": 155,
     "subscribers": 24,
     "best_window_start": "2025-01-02",
     "best_window_end": "2025-04-01",
@@ -301,13 +397,13 @@
     "abs_gain_90d": 1400,
     "rel_gain_90d": 0.480934,
     "owner": null,
-    "rank": 19
+    "rank": 25
   },
   {
     "repo": "TEN-framework/ten-framework",
     "quarter": "2025-Q2",
-    "stars_now": 8518,
-    "forks": 993,
+    "stars_now": 8525,
+    "forks": 994,
     "open_issues": 158,
     "subscribers": 60,
     "best_window_start": "2025-01-02",
@@ -317,7 +413,7 @@
     "abs_gain_90d": 1693,
     "rel_gain_90d": 0.46409,
     "owner": null,
-    "rank": 20
+    "rank": 26
   },
   {
     "repo": "putyy/res-downloader",
@@ -333,14 +429,14 @@
     "abs_gain_90d": 1700,
     "rel_gain_90d": 0.426921,
     "owner": null,
-    "rank": 21
+    "rank": 27
   },
   {
     "repo": "GraphiteEditor/Graphite",
     "quarter": "2025-Q2",
-    "stars_now": 22576,
-    "forks": 975,
-    "open_issues": 412,
+    "stars_now": 22604,
+    "forks": 976,
+    "open_issues": 408,
     "subscribers": 125,
     "best_window_start": "2025-04-02",
     "best_window_end": "2025-06-30",
@@ -349,7 +445,7 @@
     "abs_gain_90d": 4514,
     "rel_gain_90d": 0.405134,
     "owner": null,
-    "rank": 22
+    "rank": 28
   },
   {
     "repo": "chatboxai/chatbox",
@@ -365,13 +461,13 @@
     "abs_gain_90d": 9544,
     "rel_gain_90d": 0.402276,
     "owner": null,
-    "rank": 23
+    "rank": 29
   },
   {
     "repo": "hmjz100/LinkSwift",
     "quarter": "2025-Q2",
-    "stars_now": 8729,
-    "forks": 424,
+    "stars_now": 8781,
+    "forks": 427,
     "open_issues": 7,
     "subscribers": 29,
     "best_window_start": "2025-04-02",
@@ -381,7 +477,7 @@
     "abs_gain_90d": 1287,
     "rel_gain_90d": 0.397345,
     "owner": null,
-    "rank": 24
+    "rank": 30
   },
   {
     "repo": "spring-projects/spring-ai",
@@ -397,7 +493,7 @@
     "abs_gain_90d": 1522,
     "rel_gain_90d": 0.386589,
     "owner": null,
-    "rank": 25
+    "rank": 31
   },
   {
     "repo": "hanxi/xiaomusic",
@@ -413,7 +509,7 @@
     "abs_gain_90d": 1255,
     "rel_gain_90d": 0.384498,
     "owner": null,
-    "rank": 26
+    "rank": 32
   },
   {
     "repo": "vanna-ai/vanna",
@@ -429,12 +525,12 @@
     "abs_gain_90d": 4529,
     "rel_gain_90d": 0.352863,
     "owner": null,
-    "rank": 27
+    "rank": 33
   },
   {
     "repo": "Fredolx/open-tv",
     "quarter": "2025-Q2",
-    "stars_now": 2347,
+    "stars_now": 2351,
     "forks": 104,
     "open_issues": 63,
     "subscribers": 20,
@@ -445,14 +541,14 @@
     "abs_gain_90d": 384,
     "rel_gain_90d": 0.320267,
     "owner": null,
-    "rank": 28
+    "rank": 34
   },
   {
     "repo": "google/perfetto",
     "quarter": "2025-Q2",
-    "stars_now": 4908,
-    "forks": 612,
-    "open_issues": 158,
+    "stars_now": 4914,
+    "forks": 611,
+    "open_issues": 159,
     "subscribers": 77,
     "best_window_start": "2025-03-16",
     "best_window_end": "2025-06-13",
@@ -461,7 +557,7 @@
     "abs_gain_90d": 955,
     "rel_gain_90d": 0.305209,
     "owner": null,
-    "rank": 29
+    "rank": 35
   },
   {
     "repo": "kvcache-ai/Mooncake",
@@ -477,14 +573,30 @@
     "abs_gain_90d": 745,
     "rel_gain_90d": 0.304454,
     "owner": null,
-    "rank": 30
+    "rank": 36
+  },
+  {
+    "repo": "sigoden/aichat",
+    "quarter": "2025-Q2",
+    "stars_now": 8536,
+    "forks": 550,
+    "open_issues": 14,
+    "subscribers": 55,
+    "best_window_start": "2025-01-02",
+    "best_window_end": "2025-04-01",
+    "window_start_stars": 4766,
+    "window_end_stars": 6151,
+    "abs_gain_90d": 1385,
+    "rel_gain_90d": 0.2906,
+    "owner": null,
+    "rank": 37
   },
   {
     "repo": "InfinityLoop1308/PipePipe",
     "quarter": "2025-Q2",
-    "stars_now": 3957,
-    "forks": 105,
-    "open_issues": 170,
+    "stars_now": 3969,
+    "forks": 106,
+    "open_issues": 172,
     "subscribers": 34,
     "best_window_start": "2025-01-07",
     "best_window_end": "2025-04-06",
@@ -493,7 +605,7 @@
     "abs_gain_90d": 568,
     "rel_gain_90d": 0.251773,
     "owner": null,
-    "rank": 31
+    "rank": 38
   },
   {
     "repo": "Neet-Nestor/Telegram-Media-Downloader",
@@ -509,15 +621,15 @@
     "abs_gain_90d": 428,
     "rel_gain_90d": 0.251174,
     "owner": null,
-    "rank": 32
+    "rank": 39
   },
   {
     "repo": "mindsdb/mindsdb",
     "quarter": "2025-Q2",
-    "stars_now": 37125,
-    "forks": 5968,
+    "stars_now": 37160,
+    "forks": 5970,
     "open_issues": 169,
-    "subscribers": 429,
+    "subscribers": 430,
     "best_window_start": "2025-04-02",
     "best_window_end": "2025-06-30",
     "window_start_stars": 27257,
@@ -525,7 +637,7 @@
     "abs_gain_90d": 5545,
     "rel_gain_90d": 0.203434,
     "owner": null,
-    "rank": 33
+    "rank": 40
   },
   {
     "repo": "janhq/jan",
@@ -541,7 +653,7 @@
     "abs_gain_90d": 5581,
     "rel_gain_90d": 0.200965,
     "owner": null,
-    "rank": 34
+    "rank": 41
   },
   {
     "repo": "astral-sh/uv",
@@ -557,7 +669,23 @@
     "abs_gain_90d": 6349,
     "rel_gain_90d": 0.188672,
     "owner": null,
-    "rank": 35
+    "rank": 42
+  },
+  {
+    "repo": "9001/copyparty",
+    "quarter": "2025-Q2",
+    "stars_now": 34073,
+    "forks": 1349,
+    "open_issues": 199,
+    "subscribers": 122,
+    "best_window_start": "2025-02-14",
+    "best_window_end": "2025-05-14",
+    "window_start_stars": 1003,
+    "window_end_stars": 1191,
+    "abs_gain_90d": 188,
+    "rel_gain_90d": 0.187438,
+    "owner": null,
+    "rank": 43
   },
   {
     "repo": "HiEventsDev/Hi.Events",
@@ -573,13 +701,13 @@
     "abs_gain_90d": 435,
     "rel_gain_90d": 0.18558,
     "owner": null,
-    "rank": 36
+    "rank": 44
   },
   {
     "repo": "esp-rs/esp-hal",
     "quarter": "2025-Q2",
-    "stars_now": 1528,
-    "forks": 352,
+    "stars_now": 1533,
+    "forks": 353,
     "open_issues": 218,
     "subscribers": 23,
     "best_window_start": "2025-03-07",
@@ -589,13 +717,13 @@
     "abs_gain_90d": 179,
     "rel_gain_90d": 0.178109,
     "owner": null,
-    "rank": 37
+    "rank": 45
   },
   {
     "repo": "KotatsuApp/Kotatsu",
     "quarter": "2025-Q2",
-    "stars_now": 7346,
-    "forks": 386,
+    "stars_now": 7382,
+    "forks": 391,
     "open_issues": 580,
     "subscribers": 74,
     "best_window_start": "2025-03-19",
@@ -605,15 +733,15 @@
     "abs_gain_90d": 841,
     "rel_gain_90d": 0.173474,
     "owner": null,
-    "rank": 38
+    "rank": 46
   },
   {
     "repo": "deniscerri/ytdlnis",
     "quarter": "2025-Q2",
-    "stars_now": 6632,
+    "stars_now": 6646,
     "forks": 270,
-    "open_issues": 44,
-    "subscribers": 67,
+    "open_issues": 42,
+    "subscribers": 68,
     "best_window_start": "2025-01-02",
     "best_window_end": "2025-04-01",
     "window_start_stars": 4320,
@@ -621,15 +749,15 @@
     "abs_gain_90d": 717,
     "rel_gain_90d": 0.165972,
     "owner": null,
-    "rank": 39
+    "rank": 47
   },
   {
     "repo": "nocobase/nocobase",
     "quarter": "2025-Q2",
-    "stars_now": 18722,
-    "forks": 2107,
+    "stars_now": 19013,
+    "forks": 2124,
     "open_issues": 204,
-    "subscribers": 153,
+    "subscribers": 154,
     "best_window_start": "2025-01-30",
     "best_window_end": "2025-04-29",
     "window_start_stars": 13100,
@@ -637,14 +765,30 @@
     "abs_gain_90d": 2140,
     "rel_gain_90d": 0.163359,
     "owner": null,
-    "rank": 40
+    "rank": 48
+  },
+  {
+    "repo": "HeyPuter/puter",
+    "quarter": "2025-Q2",
+    "stars_now": 37127,
+    "forks": 3164,
+    "open_issues": 221,
+    "subscribers": 192,
+    "best_window_start": "2025-02-23",
+    "best_window_end": "2025-05-23",
+    "window_start_stars": 27860,
+    "window_end_stars": 32086,
+    "abs_gain_90d": 4226,
+    "rel_gain_90d": 0.151687,
+    "owner": null,
+    "rank": 49
   },
   {
     "repo": "FossifyOrg/Gallery",
     "quarter": "2025-Q2",
-    "stars_now": 2722,
+    "stars_now": 2731,
     "forks": 136,
-    "open_issues": 189,
+    "open_issues": 187,
     "subscribers": 19,
     "best_window_start": "2025-03-31",
     "best_window_end": "2025-06-28",
@@ -653,15 +797,15 @@
     "abs_gain_90d": 302,
     "rel_gain_90d": 0.151606,
     "owner": null,
-    "rank": 41
+    "rank": 50
   },
   {
     "repo": "mudler/LocalAI",
     "quarter": "2025-Q2",
-    "stars_now": 37767,
-    "forks": 2979,
-    "open_issues": 281,
-    "subscribers": 249,
+    "stars_now": 37881,
+    "forks": 2999,
+    "open_issues": 275,
+    "subscribers": 250,
     "best_window_start": "2025-01-05",
     "best_window_end": "2025-04-04",
     "window_start_stars": 26956,
@@ -669,14 +813,14 @@
     "abs_gain_90d": 4073,
     "rel_gain_90d": 0.151098,
     "owner": null,
-    "rank": 42
+    "rank": 51
   },
   {
     "repo": "mihonapp/mihon",
     "quarter": "2025-Q2",
-    "stars_now": 16727,
-    "forks": 796,
-    "open_issues": 483,
+    "stars_now": 16768,
+    "forks": 798,
+    "open_issues": 489,
     "subscribers": 78,
     "best_window_start": "2025-01-25",
     "best_window_end": "2025-04-24",
@@ -685,15 +829,15 @@
     "abs_gain_90d": 1685,
     "rel_gain_90d": 0.148917,
     "owner": null,
-    "rank": 43
+    "rank": 52
   },
   {
     "repo": "RikkaApps/Shizuku",
     "quarter": "2025-Q2",
-    "stars_now": 18460,
-    "forks": 1555,
-    "open_issues": 221,
-    "subscribers": 304,
+    "stars_now": 18503,
+    "forks": 1564,
+    "open_issues": 225,
+    "subscribers": 306,
     "best_window_start": "2025-04-01",
     "best_window_end": "2025-06-29",
     "window_start_stars": 13169,
@@ -701,13 +845,13 @@
     "abs_gain_90d": 1943,
     "rel_gain_90d": 0.147543,
     "owner": null,
-    "rank": 44
+    "rank": 53
   },
   {
     "repo": "gkd-kit/gkd",
     "quarter": "2025-Q2",
-    "stars_now": 32703,
-    "forks": 1591,
+    "stars_now": 32771,
+    "forks": 1594,
     "open_issues": 14,
     "subscribers": 94,
     "best_window_start": "2025-03-21",
@@ -717,15 +861,31 @@
     "abs_gain_90d": 3652,
     "rel_gain_90d": 0.146649,
     "owner": null,
-    "rank": 45
+    "rank": 54
+  },
+  {
+    "repo": "glzr-io/glazewm",
+    "quarter": "2025-Q2",
+    "stars_now": 10455,
+    "forks": 308,
+    "open_issues": 323,
+    "subscribers": 51,
+    "best_window_start": "2025-02-16",
+    "best_window_end": "2025-05-16",
+    "window_start_stars": 7302,
+    "window_end_stars": 8362,
+    "abs_gain_90d": 1060,
+    "rel_gain_90d": 0.145166,
+    "owner": null,
+    "rank": 55
   },
   {
     "repo": "Skyvern-AI/skyvern",
     "quarter": "2025-Q2",
-    "stars_now": 16968,
-    "forks": 1433,
-    "open_issues": 194,
-    "subscribers": 96,
+    "stars_now": 17216,
+    "forks": 1457,
+    "open_issues": 188,
+    "subscribers": 97,
     "best_window_start": "2025-01-07",
     "best_window_end": "2025-04-06",
     "window_start_stars": 11120,
@@ -733,15 +893,31 @@
     "abs_gain_90d": 1611,
     "rel_gain_90d": 0.144874,
     "owner": null,
-    "rank": 46
+    "rank": 56
+  },
+  {
+    "repo": "advplyr/audiobookshelf",
+    "quarter": "2025-Q2",
+    "stars_now": 10595,
+    "forks": 768,
+    "open_issues": 832,
+    "subscribers": 62,
+    "best_window_start": "2025-02-20",
+    "best_window_end": "2025-05-20",
+    "window_start_stars": 7673,
+    "window_end_stars": 8754,
+    "abs_gain_90d": 1081,
+    "rel_gain_90d": 0.140884,
+    "owner": null,
+    "rank": 57
   },
   {
     "repo": "k4yt3x/video2x",
     "quarter": "2025-Q2",
-    "stars_now": 15720,
-    "forks": 1396,
+    "stars_now": 15791,
+    "forks": 1399,
     "open_issues": 77,
-    "subscribers": 153,
+    "subscribers": 154,
     "best_window_start": "2025-01-03",
     "best_window_end": "2025-04-02",
     "window_start_stars": 11159,
@@ -749,7 +925,7 @@
     "abs_gain_90d": 1555,
     "rel_gain_90d": 0.139349,
     "owner": null,
-    "rank": 47
+    "rank": 58
   },
   {
     "repo": "plankanban/planka",
@@ -765,14 +941,62 @@
     "abs_gain_90d": 1181,
     "rel_gain_90d": 0.134434,
     "owner": null,
-    "rank": 48
+    "rank": 59
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-demo",
+    "quarter": "2025-Q2",
+    "stars_now": 2707,
+    "forks": 5073,
+    "open_issues": 69,
+    "subscribers": 46,
+    "best_window_start": "2025-02-10",
+    "best_window_end": "2025-05-10",
+    "window_start_stars": 2003,
+    "window_end_stars": 2265,
+    "abs_gain_90d": 262,
+    "rel_gain_90d": 0.130804,
+    "owner": null,
+    "rank": 60
+  },
+  {
+    "repo": "jomjol/AI-on-the-edge-device",
+    "quarter": "2025-Q2",
+    "stars_now": 7676,
+    "forks": 793,
+    "open_issues": 140,
+    "subscribers": 138,
+    "best_window_start": "2025-01-02",
+    "best_window_end": "2025-04-01",
+    "window_start_stars": 6143,
+    "window_end_stars": 6931,
+    "abs_gain_90d": 788,
+    "rel_gain_90d": 0.128276,
+    "owner": null,
+    "rank": 61
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "quarter": "2025-Q2",
+    "stars_now": 31963,
+    "forks": 2823,
+    "open_issues": 512,
+    "subscribers": 186,
+    "best_window_start": "2025-02-07",
+    "best_window_end": "2025-05-07",
+    "window_start_stars": 24782,
+    "window_end_stars": 27923,
+    "abs_gain_90d": 3141,
+    "rel_gain_90d": 0.126745,
+    "owner": null,
+    "rank": 62
   },
   {
     "repo": "bambulab/BambuStudio",
     "quarter": "2025-Q2",
-    "stars_now": 3374,
-    "forks": 499,
-    "open_issues": 5132,
+    "stars_now": 3381,
+    "forks": 503,
+    "open_issues": 5149,
     "subscribers": 62,
     "best_window_start": "2025-01-02",
     "best_window_end": "2025-04-01",
@@ -781,7 +1005,7 @@
     "abs_gain_90d": 296,
     "rel_gain_90d": 0.126712,
     "owner": null,
-    "rank": 49
+    "rank": 63
   },
   {
     "repo": "juanfont/headscale",
@@ -797,14 +1021,14 @@
     "abs_gain_90d": 3207,
     "rel_gain_90d": 0.12629,
     "owner": null,
-    "rank": 50
+    "rank": 64
   },
   {
     "repo": "opf/openproject",
     "quarter": "2025-Q2",
-    "stars_now": 13088,
-    "forks": 2901,
-    "open_issues": 120,
+    "stars_now": 13118,
+    "forks": 2905,
+    "open_issues": 121,
     "subscribers": 255,
     "best_window_start": "2025-03-10",
     "best_window_end": "2025-06-07",
@@ -813,13 +1037,13 @@
     "abs_gain_90d": 1238,
     "rel_gain_90d": 0.124887,
     "owner": null,
-    "rank": 51
+    "rank": 65
   },
   {
     "repo": "BitMaker-hub/NerdMiner_v2",
     "quarter": "2025-Q2",
-    "stars_now": 2344,
-    "forks": 498,
+    "stars_now": 2353,
+    "forks": 497,
     "open_issues": 177,
     "subscribers": 104,
     "best_window_start": "2025-01-03",
@@ -829,14 +1053,14 @@
     "abs_gain_90d": 208,
     "rel_gain_90d": 0.123077,
     "owner": null,
-    "rank": 52
+    "rank": 66
   },
   {
     "repo": "nextcloud/all-in-one",
     "quarter": "2025-Q2",
-    "stars_now": 8286,
-    "forks": 908,
-    "open_issues": 41,
+    "stars_now": 8298,
+    "forks": 909,
+    "open_issues": 43,
     "subscribers": 62,
     "best_window_start": "2025-04-02",
     "best_window_end": "2025-06-30",
@@ -845,7 +1069,7 @@
     "abs_gain_90d": 754,
     "rel_gain_90d": 0.11846,
     "owner": null,
-    "rank": 53
+    "rank": 67
   },
   {
     "repo": "embassy-rs/embassy",
@@ -861,13 +1085,13 @@
     "abs_gain_90d": 682,
     "rel_gain_90d": 0.117647,
     "owner": null,
-    "rank": 54
+    "rank": 68
   },
   {
     "repo": "bagisto/bagisto",
     "quarter": "2025-Q2",
-    "stars_now": 23588,
-    "forks": 2791,
+    "stars_now": 23602,
+    "forks": 2792,
     "open_issues": 101,
     "subscribers": 177,
     "best_window_start": "2025-02-08",
@@ -877,7 +1101,55 @@
     "abs_gain_90d": 1921,
     "rel_gain_90d": 0.117528,
     "owner": null,
-    "rank": 55
+    "rank": 69
+  },
+  {
+    "repo": "marcelscruz/public-apis",
+    "quarter": "2025-Q2",
+    "stars_now": 6174,
+    "forks": 591,
+    "open_issues": 45,
+    "subscribers": 64,
+    "best_window_start": "2025-02-25",
+    "best_window_end": "2025-05-25",
+    "window_start_stars": 4301,
+    "window_end_stars": 4800,
+    "abs_gain_90d": 499,
+    "rel_gain_90d": 0.11602,
+    "owner": null,
+    "rank": 70
+  },
+  {
+    "repo": "ratatui/ratatui",
+    "quarter": "2025-Q2",
+    "stars_now": 15931,
+    "forks": 494,
+    "open_issues": 177,
+    "subscribers": 43,
+    "best_window_start": "2025-03-31",
+    "best_window_end": "2025-06-28",
+    "window_start_stars": 12285,
+    "window_end_stars": 13686,
+    "abs_gain_90d": 1401,
+    "rel_gain_90d": 0.114042,
+    "owner": null,
+    "rank": 71
+  },
+  {
+    "repo": "bmax121/APatch",
+    "quarter": "2025-Q2",
+    "stars_now": 6557,
+    "forks": 592,
+    "open_issues": 64,
+    "subscribers": 73,
+    "best_window_start": "2025-01-02",
+    "best_window_end": "2025-04-01",
+    "window_start_stars": 4788,
+    "window_end_stars": 5330,
+    "abs_gain_90d": 542,
+    "rel_gain_90d": 0.1132,
+    "owner": null,
+    "rank": 72
   },
   {
     "repo": "DioxusLabs/dioxus",
@@ -893,15 +1165,15 @@
     "abs_gain_90d": 2898,
     "rel_gain_90d": 0.111892,
     "owner": null,
-    "rank": 56
+    "rank": 73
   },
   {
     "repo": "coollabsio/coolify",
     "quarter": "2025-Q2",
-    "stars_now": 47002,
-    "forks": 3130,
-    "open_issues": 712,
-    "subscribers": 153,
+    "stars_now": 47033,
+    "forks": 3139,
+    "open_issues": 713,
+    "subscribers": 152,
     "best_window_start": "2025-01-16",
     "best_window_end": "2025-04-15",
     "window_start_stars": 35617,
@@ -909,7 +1181,7 @@
     "abs_gain_90d": 3953,
     "rel_gain_90d": 0.110986,
     "owner": null,
-    "rank": 57
+    "rank": 74
   },
   {
     "repo": "ml-explore/mlx",
@@ -925,14 +1197,14 @@
     "abs_gain_90d": 1978,
     "rel_gain_90d": 0.110881,
     "owner": null,
-    "rank": 58
+    "rank": 75
   },
   {
     "repo": "MatsuriDayo/NekoBoxForAndroid",
     "quarter": "2025-Q2",
-    "stars_now": 16918,
+    "stars_now": 16934,
     "forks": 1378,
-    "open_issues": 96,
+    "open_issues": 98,
     "subscribers": 108,
     "best_window_start": "2025-02-18",
     "best_window_end": "2025-05-18",
@@ -941,13 +1213,29 @@
     "abs_gain_90d": 1272,
     "rel_gain_90d": 0.100569,
     "owner": null,
-    "rank": 59
+    "rank": 76
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "quarter": "2025-Q2",
+    "stars_now": 23880,
+    "forks": 1825,
+    "open_issues": 312,
+    "subscribers": 169,
+    "best_window_start": "2025-04-02",
+    "best_window_end": "2025-06-30",
+    "window_start_stars": 19244,
+    "window_end_stars": 21164,
+    "abs_gain_90d": 1920,
+    "rel_gain_90d": 0.099771,
+    "owner": null,
+    "rank": 77
   },
   {
     "repo": "vnpy/vnpy",
     "quarter": "2025-Q2",
-    "stars_now": 33581,
-    "forks": 10306,
+    "stars_now": 33623,
+    "forks": 10318,
     "open_issues": 5,
     "subscribers": 1386,
     "best_window_start": "2025-01-31",
@@ -957,14 +1245,30 @@
     "abs_gain_90d": 2603,
     "rel_gain_90d": 0.098123,
     "owner": null,
-    "rank": 60
+    "rank": 78
+  },
+  {
+    "repo": "umami-software/umami",
+    "quarter": "2025-Q2",
+    "stars_now": 32552,
+    "forks": 5805,
+    "open_issues": 129,
+    "subscribers": 129,
+    "best_window_start": "2025-01-19",
+    "best_window_end": "2025-04-18",
+    "window_start_stars": 23497,
+    "window_end_stars": 25752,
+    "abs_gain_90d": 2255,
+    "rel_gain_90d": 0.09597,
+    "owner": null,
+    "rank": 79
   },
   {
     "repo": "open-telemetry/opentelemetry-collector-contrib",
     "quarter": "2025-Q2",
-    "stars_now": 4138,
-    "forks": 3116,
-    "open_issues": 846,
+    "stars_now": 4141,
+    "forks": 3118,
+    "open_issues": 843,
     "subscribers": 61,
     "best_window_start": "2025-01-27",
     "best_window_end": "2025-04-26",
@@ -973,7 +1277,7 @@
     "abs_gain_90d": 305,
     "rel_gain_90d": 0.095342,
     "owner": null,
-    "rank": 61
+    "rank": 80
   },
   {
     "repo": "dlvhdr/gh-dash",
@@ -989,14 +1293,14 @@
     "abs_gain_90d": 697,
     "rel_gain_90d": 0.095102,
     "owner": null,
-    "rank": 62
+    "rank": 81
   },
   {
     "repo": "tiann/KernelSU",
     "quarter": "2025-Q2",
-    "stars_now": 13939,
-    "forks": 2757,
-    "open_issues": 44,
+    "stars_now": 13967,
+    "forks": 2767,
+    "open_issues": 48,
     "subscribers": 113,
     "best_window_start": "2025-01-03",
     "best_window_end": "2025-04-02",
@@ -1005,7 +1309,23 @@
     "abs_gain_90d": 1009,
     "rel_gain_90d": 0.094609,
     "owner": null,
-    "rank": 63
+    "rank": 82
+  },
+  {
+    "repo": "usememos/memos",
+    "quarter": "2025-Q2",
+    "stars_now": 45824,
+    "forks": 3271,
+    "open_issues": 39,
+    "subscribers": 176,
+    "best_window_start": "2025-02-21",
+    "best_window_end": "2025-05-21",
+    "window_start_stars": 36575,
+    "window_end_stars": 40000,
+    "abs_gain_90d": 3425,
+    "rel_gain_90d": 0.093643,
+    "owner": null,
+    "rank": 83
   },
   {
     "repo": "jellyfin/jellyfin-web",
@@ -1021,14 +1341,14 @@
     "abs_gain_90d": 236,
     "rel_gain_90d": 0.091865,
     "owner": null,
-    "rank": 64
+    "rank": 84
   },
   {
     "repo": "celzero/rethink-app",
     "quarter": "2025-Q2",
-    "stars_now": 4199,
+    "stars_now": 4206,
     "forks": 220,
-    "open_issues": 527,
+    "open_issues": 529,
     "subscribers": 53,
     "best_window_start": "2025-01-09",
     "best_window_end": "2025-04-08",
@@ -1037,7 +1357,7 @@
     "abs_gain_90d": 275,
     "rel_gain_90d": 0.090134,
     "owner": null,
-    "rank": 65
+    "rank": 85
   },
   {
     "repo": "leejet/stable-diffusion.cpp",
@@ -1053,13 +1373,13 @@
     "abs_gain_90d": 327,
     "rel_gain_90d": 0.089442,
     "owner": null,
-    "rank": 66
+    "rank": 86
   },
   {
     "repo": "slidevjs/slidev",
     "quarter": "2025-Q2",
-    "stars_now": 41468,
-    "forks": 1760,
+    "stars_now": 41511,
+    "forks": 1762,
     "open_issues": 179,
     "subscribers": 156,
     "best_window_start": "2025-03-01",
@@ -1069,7 +1389,7 @@
     "abs_gain_90d": 3110,
     "rel_gain_90d": 0.089291,
     "owner": null,
-    "rank": 67
+    "rank": 87
   },
   {
     "repo": "medplum/medplum",
@@ -1085,7 +1405,7 @@
     "abs_gain_90d": 133,
     "rel_gain_90d": 0.086928,
     "owner": null,
-    "rank": 68
+    "rank": 88
   },
   {
     "repo": "qdrant/qdrant",
@@ -1101,7 +1421,39 @@
     "abs_gain_90d": 1790,
     "rel_gain_90d": 0.083888,
     "owner": null,
-    "rank": 69
+    "rank": 89
+  },
+  {
+    "repo": "florisboard/florisboard",
+    "quarter": "2025-Q2",
+    "stars_now": 7661,
+    "forks": 536,
+    "open_issues": 485,
+    "subscribers": 104,
+    "best_window_start": "2025-02-23",
+    "best_window_end": "2025-05-23",
+    "window_start_stars": 6351,
+    "window_end_stars": 6863,
+    "abs_gain_90d": 512,
+    "rel_gain_90d": 0.080617,
+    "owner": null,
+    "rank": 90
+  },
+  {
+    "repo": "paradigmxyz/reth",
+    "quarter": "2025-Q2",
+    "stars_now": 5123,
+    "forks": 2126,
+    "open_issues": 336,
+    "subscribers": 62,
+    "best_window_start": "2025-02-08",
+    "best_window_end": "2025-05-08",
+    "window_start_stars": 4230,
+    "window_end_stars": 4567,
+    "abs_gain_90d": 337,
+    "rel_gain_90d": 0.079669,
+    "owner": null,
+    "rank": 91
   },
   {
     "repo": "kata-containers/kata-containers",
@@ -1117,7 +1469,7 @@
     "abs_gain_90d": 462,
     "rel_gain_90d": 0.07787,
     "owner": null,
-    "rank": 70
+    "rank": 92
   },
   {
     "repo": "projectdiscovery/nuclei",
@@ -1133,7 +1485,7 @@
     "abs_gain_90d": 1615,
     "rel_gain_90d": 0.077007,
     "owner": null,
-    "rank": 71
+    "rank": 93
   },
   {
     "repo": "open-telemetry/opentelemetry-collector",
@@ -1149,14 +1501,30 @@
     "abs_gain_90d": 362,
     "rel_gain_90d": 0.07676,
     "owner": null,
-    "rank": 72
+    "rank": 94
+  },
+  {
+    "repo": "cloudflare/cloudflared",
+    "quarter": "2025-Q2",
+    "stars_now": 11935,
+    "forks": 1082,
+    "open_issues": 459,
+    "subscribers": 111,
+    "best_window_start": "2025-02-19",
+    "best_window_end": "2025-05-19",
+    "window_start_stars": 9748,
+    "window_end_stars": 10492,
+    "abs_gain_90d": 744,
+    "rel_gain_90d": 0.076323,
+    "owner": null,
+    "rank": 95
   },
   {
     "repo": "lvgl/lvgl",
     "quarter": "2025-Q2",
-    "stars_now": 21873,
+    "stars_now": 21888,
     "forks": 3901,
-    "open_issues": 125,
+    "open_issues": 129,
     "subscribers": 317,
     "best_window_start": "2025-01-08",
     "best_window_end": "2025-04-07",
@@ -1165,437 +1533,69 @@
     "abs_gain_90d": 1338,
     "rel_gain_90d": 0.075453,
     "owner": null,
-    "rank": 73
+    "rank": 96
+  },
+  {
+    "repo": "ggml-org/ggml",
+    "quarter": "2025-Q2",
+    "stars_now": 13523,
+    "forks": 1386,
+    "open_issues": 312,
+    "subscribers": 142,
+    "best_window_start": "2025-01-19",
+    "best_window_end": "2025-04-18",
+    "window_start_stars": 11421,
+    "window_end_stars": 12256,
+    "abs_gain_90d": 835,
+    "rel_gain_90d": 0.073111,
+    "owner": null,
+    "rank": 97
+  },
+  {
+    "repo": "blackmatrix7/ios_rule_script",
+    "quarter": "2025-Q2",
+    "stars_now": 23138,
+    "forks": 3707,
+    "open_issues": 300,
+    "subscribers": 269,
+    "best_window_start": "2025-01-03",
+    "best_window_end": "2025-04-02",
+    "window_start_stars": 18851,
+    "window_end_stars": 20229,
+    "abs_gain_90d": 1378,
+    "rel_gain_90d": 0.0731,
+    "owner": null,
+    "rank": 98
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
+    "quarter": "2025-Q2",
+    "stars_now": 26920,
+    "forks": 4892,
+    "open_issues": 3348,
+    "subscribers": 546,
+    "best_window_start": "2025-02-16",
+    "best_window_end": "2025-05-16",
+    "window_start_stars": 22769,
+    "window_end_stars": 24406,
+    "abs_gain_90d": 1637,
+    "rel_gain_90d": 0.071896,
+    "owner": null,
+    "rank": 99
   },
   {
     "repo": "openobserve/openobserve",
     "quarter": "2025-Q2",
-    "stars_now": 17114,
+    "stars_now": 17123,
     "forks": 688,
-    "open_issues": 704,
-    "subscribers": 91,
+    "open_issues": 703,
+    "subscribers": 90,
     "best_window_start": "2025-01-02",
     "best_window_end": "2025-04-01",
     "window_start_stars": 13703,
     "window_end_stars": 14663,
     "abs_gain_90d": 960,
     "rel_gain_90d": 0.070058,
-    "owner": null,
-    "rank": 74
-  },
-  {
-    "repo": "pppscn/SmsForwarder",
-    "quarter": "2025-Q2",
-    "stars_now": 23313,
-    "forks": 2979,
-    "open_issues": 40,
-    "subscribers": 122,
-    "best_window_start": "2025-01-04",
-    "best_window_end": "2025-04-03",
-    "window_start_stars": 18962,
-    "window_end_stars": 20283,
-    "abs_gain_90d": 1321,
-    "rel_gain_90d": 0.069666,
-    "owner": null,
-    "rank": 75
-  },
-  {
-    "repo": "YunaiV/ruoyi-vue-pro",
-    "quarter": "2025-Q2",
-    "stars_now": 34034,
-    "forks": 7333,
-    "open_issues": 24,
-    "subscribers": 252,
-    "best_window_start": "2025-03-02",
-    "best_window_end": "2025-05-30",
-    "window_start_stars": 29012,
-    "window_end_stars": 31018,
-    "abs_gain_90d": 2006,
-    "rel_gain_90d": 0.069144,
-    "owner": null,
-    "rank": 76
-  },
-  {
-    "repo": "opnsense/core",
-    "quarter": "2025-Q2",
-    "stars_now": 4062,
-    "forks": 871,
-    "open_issues": 303,
-    "subscribers": 126,
-    "best_window_start": "2025-01-06",
-    "best_window_end": "2025-04-05",
-    "window_start_stars": 3413,
-    "window_end_stars": 3648,
-    "abs_gain_90d": 235,
-    "rel_gain_90d": 0.068854,
-    "owner": null,
-    "rank": 77
-  },
-  {
-    "repo": "VictoriaMetrics/VictoriaMetrics",
-    "quarter": "2025-Q2",
-    "stars_now": 15319,
-    "forks": 1490,
-    "open_issues": 794,
-    "subscribers": 150,
-    "best_window_start": "2025-03-11",
-    "best_window_end": "2025-06-08",
-    "window_start_stars": 13264,
-    "window_end_stars": 14174,
-    "abs_gain_90d": 910,
-    "rel_gain_90d": 0.068607,
-    "owner": null,
-    "rank": 78
-  },
-  {
-    "repo": "wazuh/wazuh",
-    "quarter": "2025-Q2",
-    "stars_now": 13867,
-    "forks": 2031,
-    "open_issues": 2765,
-    "subscribers": 220,
-    "best_window_start": "2025-01-19",
-    "best_window_end": "2025-04-18",
-    "window_start_stars": 11340,
-    "window_end_stars": 12118,
-    "abs_gain_90d": 778,
-    "rel_gain_90d": 0.068607,
-    "owner": null,
-    "rank": 79
-  },
-  {
-    "repo": "NginxProxyManager/nginx-proxy-manager",
-    "quarter": "2025-Q2",
-    "stars_now": 29263,
-    "forks": 3363,
-    "open_issues": 950,
-    "subscribers": 204,
-    "best_window_start": "2025-03-02",
-    "best_window_end": "2025-05-30",
-    "window_start_stars": 24510,
-    "window_end_stars": 26188,
-    "abs_gain_90d": 1678,
-    "rel_gain_90d": 0.068462,
-    "owner": null,
-    "rank": 80
-  },
-  {
-    "repo": "helix-editor/helix",
-    "quarter": "2025-Q2",
-    "stars_now": 41140,
-    "forks": 3149,
-    "open_issues": 1313,
-    "subscribers": 199,
-    "best_window_start": "2025-01-03",
-    "best_window_end": "2025-04-02",
-    "window_start_stars": 33934,
-    "window_end_stars": 36188,
-    "abs_gain_90d": 2254,
-    "rel_gain_90d": 0.066423,
-    "owner": null,
-    "rank": 81
-  },
-  {
-    "repo": "zabbix/zabbix",
-    "quarter": "2025-Q2",
-    "stars_now": 5352,
-    "forks": 1121,
-    "open_issues": 87,
-    "subscribers": 139,
-    "best_window_start": "2025-01-04",
-    "best_window_end": "2025-04-03",
-    "window_start_stars": 4469,
-    "window_end_stars": 4755,
-    "abs_gain_90d": 286,
-    "rel_gain_90d": 0.063996,
-    "owner": null,
-    "rank": 82
-  },
-  {
-    "repo": "2dust/v2rayNG",
-    "quarter": "2025-Q2",
-    "stars_now": 46711,
-    "forks": 6568,
-    "open_issues": 12,
-    "subscribers": 602,
-    "best_window_start": "2025-02-07",
-    "best_window_end": "2025-05-07",
-    "window_start_stars": 37587,
-    "window_end_stars": 39988,
-    "abs_gain_90d": 2401,
-    "rel_gain_90d": 0.063878,
-    "owner": null,
-    "rank": 83
-  },
-  {
-    "repo": "kingToolbox/WindTerm",
-    "quarter": "2025-Q2",
-    "stars_now": 28575,
-    "forks": 2207,
-    "open_issues": 2252,
-    "subscribers": 192,
-    "best_window_start": "2025-01-04",
-    "best_window_end": "2025-04-03",
-    "window_start_stars": 24011,
-    "window_end_stars": 25521,
-    "abs_gain_90d": 1510,
-    "rel_gain_90d": 0.062888,
-    "owner": null,
-    "rank": 84
-  },
-  {
-    "repo": "opensearch-project/OpenSearch",
-    "quarter": "2025-Q2",
-    "stars_now": 11838,
-    "forks": 2299,
-    "open_issues": 2436,
-    "subscribers": 150,
-    "best_window_start": "2025-03-30",
-    "best_window_end": "2025-06-27",
-    "window_start_stars": 10335,
-    "window_end_stars": 10972,
-    "abs_gain_90d": 637,
-    "rel_gain_90d": 0.061635,
-    "owner": null,
-    "rank": 85
-  },
-  {
-    "repo": "AndroidIDEOfficial/AndroidIDE",
-    "quarter": "2025-Q2",
-    "stars_now": 2741,
-    "forks": 494,
-    "open_issues": 199,
-    "subscribers": 64,
-    "best_window_start": "2025-02-08",
-    "best_window_end": "2025-05-08",
-    "window_start_stars": 2345,
-    "window_end_stars": 2489,
-    "abs_gain_90d": 144,
-    "rel_gain_90d": 0.061407,
-    "owner": null,
-    "rank": 86
-  },
-  {
-    "repo": "zephyrproject-rtos/zephyr",
-    "quarter": "2025-Q2",
-    "stars_now": 13623,
-    "forks": 8196,
-    "open_issues": 3388,
-    "subscribers": 415,
-    "best_window_start": "2025-01-18",
-    "best_window_end": "2025-04-17",
-    "window_start_stars": 11127,
-    "window_end_stars": 11810,
-    "abs_gain_90d": 683,
-    "rel_gain_90d": 0.061382,
-    "owner": null,
-    "rank": 87
-  },
-  {
-    "repo": "glpi-project/glpi",
-    "quarter": "2025-Q2",
-    "stars_now": 5304,
-    "forks": 1527,
-    "open_issues": 244,
-    "subscribers": 187,
-    "best_window_start": "2025-01-19",
-    "best_window_end": "2025-04-18",
-    "window_start_stars": 4407,
-    "window_end_stars": 4676,
-    "abs_gain_90d": 269,
-    "rel_gain_90d": 0.061039,
-    "owner": null,
-    "rank": 88
-  },
-  {
-    "repo": "trufflesecurity/trufflehog",
-    "quarter": "2025-Q2",
-    "stars_now": 23104,
-    "forks": 2128,
-    "open_issues": 280,
-    "subscribers": 195,
-    "best_window_start": "2025-03-13",
-    "best_window_end": "2025-06-10",
-    "window_start_stars": 18275,
-    "window_end_stars": 19385,
-    "abs_gain_90d": 1110,
-    "rel_gain_90d": 0.060739,
-    "owner": null,
-    "rank": 89
-  },
-  {
-    "repo": "dataease/dataease",
-    "quarter": "2025-Q2",
-    "stars_now": 22272,
-    "forks": 3852,
-    "open_issues": 80,
-    "subscribers": 172,
-    "best_window_start": "2025-01-04",
-    "best_window_end": "2025-04-03",
-    "window_start_stars": 18483,
-    "window_end_stars": 19595,
-    "abs_gain_90d": 1112,
-    "rel_gain_90d": 0.060163,
-    "owner": null,
-    "rank": 90
-  },
-  {
-    "repo": "StarRocks/starrocks",
-    "quarter": "2025-Q2",
-    "stars_now": 10846,
-    "forks": 2183,
-    "open_issues": 978,
-    "subscribers": 185,
-    "best_window_start": "2025-02-22",
-    "best_window_end": "2025-05-22",
-    "window_start_stars": 9440,
-    "window_end_stars": 9987,
-    "abs_gain_90d": 547,
-    "rel_gain_90d": 0.057945,
-    "owner": null,
-    "rank": 91
-  },
-  {
-    "repo": "aunetx/blur-my-shell",
-    "quarter": "2025-Q2",
-    "stars_now": 1910,
-    "forks": 112,
-    "open_issues": 244,
-    "subscribers": 20,
-    "best_window_start": "2025-03-02",
-    "best_window_end": "2025-05-30",
-    "window_start_stars": 1614,
-    "window_end_stars": 1702,
-    "abs_gain_90d": 88,
-    "rel_gain_90d": 0.054523,
-    "owner": null,
-    "rank": 92
-  },
-  {
-    "repo": "u-boot/u-boot",
-    "quarter": "2025-Q2",
-    "stars_now": 4744,
-    "forks": 4149,
-    "open_issues": 218,
-    "subscribers": 177,
-    "best_window_start": "2025-01-12",
-    "best_window_end": "2025-04-11",
-    "window_start_stars": 4110,
-    "window_end_stars": 4330,
-    "abs_gain_90d": 220,
-    "rel_gain_90d": 0.053528,
-    "owner": null,
-    "rank": 93
-  },
-  {
-    "repo": "charmbracelet/glow",
-    "quarter": "2025-Q2",
-    "stars_now": 20925,
-    "forks": 503,
-    "open_issues": 134,
-    "subscribers": 77,
-    "best_window_start": "2025-01-15",
-    "best_window_end": "2025-04-14",
-    "window_start_stars": 16566,
-    "window_end_stars": 17444,
-    "abs_gain_90d": 878,
-    "rel_gain_90d": 0.053,
-    "owner": null,
-    "rank": 94
-  },
-  {
-    "repo": "mozilla-ai/llamafile",
-    "quarter": "2025-Q2",
-    "stars_now": 23343,
-    "forks": 1234,
-    "open_issues": 199,
-    "subscribers": 191,
-    "best_window_start": "2025-01-02",
-    "best_window_end": "2025-04-01",
-    "window_start_stars": 20799,
-    "window_end_stars": 21897,
-    "abs_gain_90d": 1098,
-    "rel_gain_90d": 0.052791,
-    "owner": null,
-    "rank": 95
-  },
-  {
-    "repo": "yhirose/cpp-httplib",
-    "quarter": "2025-Q2",
-    "stars_now": 15464,
-    "forks": 2549,
-    "open_issues": 8,
-    "subscribers": 192,
-    "best_window_start": "2025-01-17",
-    "best_window_end": "2025-04-16",
-    "window_start_stars": 13285,
-    "window_end_stars": 13978,
-    "abs_gain_90d": 693,
-    "rel_gain_90d": 0.052164,
-    "owner": null,
-    "rank": 96
-  },
-  {
-    "repo": "grokability/snipe-it",
-    "quarter": "2025-Q2",
-    "stars_now": 12978,
-    "forks": 3630,
-    "open_issues": 1041,
-    "subscribers": 334,
-    "best_window_start": "2025-01-05",
-    "best_window_end": "2025-04-04",
-    "window_start_stars": 11261,
-    "window_end_stars": 11843,
-    "abs_gain_90d": 582,
-    "rel_gain_90d": 0.051683,
-    "owner": null,
-    "rank": 97
-  },
-  {
-    "repo": "ankidroid/Anki-Android",
-    "quarter": "2025-Q2",
-    "stars_now": 10223,
-    "forks": 2533,
-    "open_issues": 283,
-    "subscribers": 148,
-    "best_window_start": "2025-01-03",
-    "best_window_end": "2025-04-02",
-    "window_start_stars": 8807,
-    "window_end_stars": 9259,
-    "abs_gain_90d": 452,
-    "rel_gain_90d": 0.051323,
-    "owner": null,
-    "rank": 98
-  },
-  {
-    "repo": "JetBrains/compose-multiplatform",
-    "quarter": "2025-Q2",
-    "stars_now": 18441,
-    "forks": 1326,
-    "open_issues": 73,
-    "subscribers": 241,
-    "best_window_start": "2025-03-03",
-    "best_window_end": "2025-05-31",
-    "window_start_stars": 16684,
-    "window_end_stars": 17532,
-    "abs_gain_90d": 848,
-    "rel_gain_90d": 0.050827,
-    "owner": null,
-    "rank": 99
-  },
-  {
-    "repo": "projectdiscovery/nuclei-templates",
-    "quarter": "2025-Q2",
-    "stars_now": 11297,
-    "forks": 3128,
-    "open_issues": 169,
-    "subscribers": 202,
-    "best_window_start": "2025-02-22",
-    "best_window_end": "2025-05-22",
-    "window_start_stars": 9619,
-    "window_end_stars": 10107,
-    "abs_gain_90d": 488,
-    "rel_gain_90d": 0.050733,
     "owner": null,
     "rank": 100
   }
