@@ -1,9 +1,34 @@
 {
+  "owner": "monicahq",
   "repo": "monicahq/monica",
-  "stars_now": 23607,
-  "forks": 2386,
+  "name": "monica",
+  "full_name": "monicahq/monica",
+  "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+  "homepage": "https://beta.monicahq.com",
+  "language": "PHP",
+  "license": "AGPL-3.0",
+  "topics": [
+    "crm",
+    "family",
+    "friends",
+    "hacktoberfest",
+    "laravel",
+    "php",
+    "prm",
+    "social"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-02-17T00:02:58Z",
+  "pushed_at": "2025-10-27T02:10:15Z",
+  "size": 152474,
+  "stars_now": 23608,
+  "forks": 2387,
   "open_issues": 746,
   "subscribers": 288,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:46.452Z"
+  "watchers": 23608,
+  "html_url": "https://github.com/monicahq/monica",
+  "api_url": "https://api.github.com/repos/monicahq/monica",
+  "fetched_at": "2025-11-10T08:31:46.820Z"
 }

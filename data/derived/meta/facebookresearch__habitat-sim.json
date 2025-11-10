@@ -1,0 +1,32 @@
+{
+  "owner": "facebookresearch",
+  "repo": "facebookresearch/habitat-sim",
+  "name": "habitat-sim",
+  "full_name": "facebookresearch/habitat-sim",
+  "description": "A flexible, high-performance 3D simulator for Embodied AI research.",
+  "homepage": "https://aihabitat.org/",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "computer-vision",
+    "cplusplus",
+    "robotics",
+    "sim2real",
+    "simulator"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-02-04T23:14:28Z",
+  "pushed_at": "2025-10-08T12:51:46Z",
+  "size": 108735,
+  "stars_now": 3290,
+  "forks": 490,
+  "open_issues": 252,
+  "subscribers": 77,
+  "watchers": 3290,
+  "html_url": "https://github.com/facebookresearch/habitat-sim",
+  "api_url": "https://api.github.com/repos/facebookresearch/habitat-sim",
+  "fetched_at": "2025-11-10T08:31:12.643Z"
+}

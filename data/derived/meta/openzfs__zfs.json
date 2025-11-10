@@ -1,9 +1,29 @@
 {
+  "owner": "openzfs",
   "repo": "openzfs/zfs",
-  "stars_now": 11699,
-  "forks": 1900,
-  "open_issues": 1572,
-  "subscribers": 424,
+  "name": "zfs",
+  "full_name": "openzfs/zfs",
+  "description": "OpenZFS on Linux and FreeBSD",
+  "homepage": "https://openzfs.github.io/openzfs-docs",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "file-system",
+    "openzfs",
+    "system-software"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:53.213Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-12-14T20:20:34Z",
+  "pushed_at": "2025-11-08T19:41:53Z",
+  "size": 143468,
+  "stars_now": 11704,
+  "forks": 1903,
+  "open_issues": 1575,
+  "subscribers": 424,
+  "watchers": 11704,
+  "html_url": "https://github.com/openzfs/zfs",
+  "api_url": "https://api.github.com/repos/openzfs/zfs",
+  "fetched_at": "2025-11-10T08:31:56.055Z"
 }

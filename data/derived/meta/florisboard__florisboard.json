@@ -1,9 +1,31 @@
 {
+  "owner": "florisboard",
   "repo": "florisboard/florisboard",
-  "stars_now": 7661,
+  "name": "florisboard",
+  "full_name": "florisboard/florisboard",
+  "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
+  "homepage": "https://florisboard.org",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "input-method",
+    "keyboard",
+    "kotlin",
+    "kotlin-android"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-04-08T21:18:23Z",
+  "pushed_at": "2025-09-30T21:38:19Z",
+  "size": 123155,
+  "stars_now": 7664,
   "forks": 536,
   "open_issues": 485,
   "subscribers": 104,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:25.381Z"
+  "watchers": 7664,
+  "html_url": "https://github.com/florisboard/florisboard",
+  "api_url": "https://api.github.com/repos/florisboard/florisboard",
+  "fetched_at": "2025-11-10T08:31:14.660Z"
 }

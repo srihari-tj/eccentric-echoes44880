@@ -1,9 +1,29 @@
 {
+  "owner": "git",
   "repo": "git/git",
-  "stars_now": 57183,
-  "forks": 26945,
+  "name": "git",
+  "full_name": "git/git",
+  "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+  "homepage": "https://github.com/git/git",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "c",
+    "hacktoberfest",
+    "shell"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2008-07-23T14:21:26Z",
+  "pushed_at": "2025-11-09T04:46:19Z",
+  "size": 290409,
+  "stars_now": 57198,
+  "forks": 26949,
   "open_issues": 278,
   "subscribers": 2419,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:27.607Z"
+  "watchers": 57198,
+  "html_url": "https://github.com/git/git",
+  "api_url": "https://api.github.com/repos/git/git",
+  "fetched_at": "2025-11-10T08:31:17.490Z"
 }

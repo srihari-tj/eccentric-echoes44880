@@ -1,9 +1,35 @@
 {
+  "owner": "aunetx",
   "repo": "aunetx/blur-my-shell",
-  "stars_now": 1914,
+  "name": "blur-my-shell",
+  "full_name": "aunetx/blur-my-shell",
+  "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
+  "homepage": "https://extensions.gnome.org/extension/3193/blur-my-shell/",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [
+    "blur",
+    "customization",
+    "extension",
+    "gnome",
+    "gnome-extension",
+    "gnome-shell",
+    "gnome-shell-extension",
+    "linux",
+    "overview-blur"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-06-07T14:17:29Z",
+  "pushed_at": "2025-11-03T15:43:54Z",
+  "size": 24281,
+  "stars_now": 1916,
   "forks": 112,
   "open_issues": 244,
   "subscribers": 20,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:07.398Z"
+  "watchers": 1916,
+  "html_url": "https://github.com/aunetx/blur-my-shell",
+  "api_url": "https://api.github.com/repos/aunetx/blur-my-shell",
+  "fetched_at": "2025-11-10T08:30:50.655Z"
 }

@@ -1,9 +1,31 @@
 {
+  "owner": "MrNeRF",
   "repo": "MrNeRF/LichtFeld-Studio",
-  "stars_now": 1698,
-  "forks": 190,
-  "open_issues": 59,
-  "subscribers": 32,
+  "name": "LichtFeld-Studio",
+  "full_name": "MrNeRF/LichtFeld-Studio",
+  "description": "LichtFeld Studio: Where reality and the digital world blend.",
+  "homepage": "https://www.lichtfeld.io",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+    "computer-graphics",
+    "computer-vision",
+    "cuda",
+    "gaussian-splatting",
+    "optimization"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:54:53.832Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-07-30T19:55:48Z",
+  "pushed_at": "2025-11-09T19:45:53Z",
+  "size": 88806,
+  "stars_now": 1707,
+  "forks": 192,
+  "open_issues": 60,
+  "subscribers": 32,
+  "watchers": 1707,
+  "html_url": "https://github.com/MrNeRF/LichtFeld-Studio",
+  "api_url": "https://api.github.com/repos/MrNeRF/LichtFeld-Studio",
+  "fetched_at": "2025-11-10T08:30:30.110Z"
 }

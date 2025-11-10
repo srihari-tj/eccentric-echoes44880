@@ -1,0 +1,28 @@
+{
+  "owner": "android",
+  "repo": "android/compose-samples",
+  "name": "compose-samples",
+  "full_name": "android/compose-samples",
+  "description": "Official Jetpack Compose samples.",
+  "homepage": "https://developer.android.com/jetpack/compose",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "jetpack-compose"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-09-27T09:51:19Z",
+  "pushed_at": "2025-10-27T15:37:21Z",
+  "size": 198143,
+  "stars_now": 22496,
+  "forks": 5280,
+  "open_issues": 8,
+  "subscribers": 436,
+  "watchers": 22496,
+  "html_url": "https://github.com/android/compose-samples",
+  "api_url": "https://api.github.com/repos/android/compose-samples",
+  "fetched_at": "2025-11-10T08:30:46.053Z"
+}

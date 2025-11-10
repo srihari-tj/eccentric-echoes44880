@@ -1,9 +1,29 @@
 {
+  "owner": "assimon",
   "repo": "assimon/dujiaoka",
-  "stars_now": 11420,
+  "name": "dujiaoka",
+  "full_name": "assimon/dujiaoka",
+  "description": "🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉",
+  "homepage": "https://t.me/dujiaoka",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "dujiaofaka",
+    "dujiaoka",
+    "faka"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-04-17T05:45:39Z",
+  "pushed_at": "2025-09-17T01:56:24Z",
+  "size": 18836,
+  "stars_now": 11423,
   "forks": 2630,
   "open_issues": 12,
   "subscribers": 97,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:06.542Z"
+  "watchers": 11423,
+  "html_url": "https://github.com/assimon/dujiaoka",
+  "api_url": "https://api.github.com/repos/assimon/dujiaoka",
+  "fetched_at": "2025-11-10T08:30:49.567Z"
 }

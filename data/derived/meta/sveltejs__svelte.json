@@ -1,9 +1,29 @@
 {
+  "owner": "sveltejs",
   "repo": "sveltejs/svelte",
-  "stars_now": 84755,
-  "forks": 4682,
-  "open_issues": 932,
-  "subscribers": 845,
+  "name": "svelte",
+  "full_name": "sveltejs/svelte",
+  "description": "web development for the rest of us",
+  "homepage": "https://svelte.dev",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "compiler",
+    "template",
+    "ui"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:06.294Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-11-20T18:13:05Z",
+  "pushed_at": "2025-11-09T22:06:41Z",
+  "size": 117304,
+  "stars_now": 84776,
+  "forks": 4679,
+  "open_issues": 934,
+  "subscribers": 845,
+  "watchers": 84776,
+  "html_url": "https://github.com/sveltejs/svelte",
+  "api_url": "https://api.github.com/repos/sveltejs/svelte",
+  "fetched_at": "2025-11-10T08:32:14.026Z"
 }

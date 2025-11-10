@@ -1,9 +1,35 @@
 {
+  "owner": "ArvinLovegood",
   "repo": "ArvinLovegood/go-stock",
-  "stars_now": 3107,
+  "name": "go-stock",
+  "full_name": "ArvinLovegood/go-stock",
+  "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+  "homepage": "https://go-stock.sparkmemory.top",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "anythingllm",
+    "deepseek",
+    "golang",
+    "lmstudio",
+    "naiveui",
+    "ollama",
+    "openai",
+    "stock",
+    "wails"
+  ],
+  "default_branch": "dev",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-12-17T04:46:28Z",
+  "pushed_at": "2025-10-31T10:37:55Z",
+  "size": 58562,
+  "stars_now": 3119,
   "forks": 508,
   "open_issues": 11,
   "subscribers": 35,
-  "default_branch": "dev",
-  "fetched_at": "2025-11-09T09:54:42.203Z"
+  "watchers": 3119,
+  "html_url": "https://github.com/ArvinLovegood/go-stock",
+  "api_url": "https://api.github.com/repos/ArvinLovegood/go-stock",
+  "fetched_at": "2025-11-10T08:30:14.733Z"
 }

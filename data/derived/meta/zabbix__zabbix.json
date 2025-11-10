@@ -1,9 +1,32 @@
 {
+  "owner": "zabbix",
   "repo": "zabbix/zabbix",
-  "stars_now": 5356,
+  "name": "zabbix",
+  "full_name": "zabbix/zabbix",
+  "description": "Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+  "homepage": "https://www.zabbix.com/",
+  "language": "PHP",
+  "license": "AGPL-3.0",
+  "topics": [
+    "alerting",
+    "application-monitoring",
+    "metrics",
+    "monitoring",
+    "network-monitoring",
+    "zabbix"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-02-27T15:36:03Z",
+  "pushed_at": "2025-11-10T08:30:51Z",
+  "size": 1895485,
+  "stars_now": 5361,
   "forks": 1122,
   "open_issues": 87,
   "subscribers": 139,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:56:16.201Z"
+  "watchers": 5361,
+  "html_url": "https://github.com/zabbix/zabbix",
+  "api_url": "https://api.github.com/repos/zabbix/zabbix",
+  "fetched_at": "2025-11-10T08:32:27.508Z"
 }

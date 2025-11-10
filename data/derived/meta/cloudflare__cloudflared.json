@@ -1,9 +1,31 @@
 {
+  "owner": "cloudflare",
   "repo": "cloudflare/cloudflared",
-  "stars_now": 11935,
-  "forks": 1082,
-  "open_issues": 459,
-  "subscribers": 111,
+  "name": "cloudflared",
+  "full_name": "cloudflare/cloudflared",
+  "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+  "homepage": "https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "argo-tunnel",
+    "cloudflare",
+    "cloudflare-tunnel",
+    "reverse-proxy",
+    "zero-trust-network-access"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:14.758Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-10-13T19:54:47Z",
+  "pushed_at": "2025-11-07T16:59:08Z",
+  "size": 42141,
+  "stars_now": 11947,
+  "forks": 1082,
+  "open_issues": 461,
+  "subscribers": 111,
+  "watchers": 11947,
+  "html_url": "https://github.com/cloudflare/cloudflared",
+  "api_url": "https://api.github.com/repos/cloudflare/cloudflared",
+  "fetched_at": "2025-11-10T08:31:00.037Z"
 }

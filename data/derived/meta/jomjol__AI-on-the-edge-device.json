@@ -1,9 +1,25 @@
 {
+  "owner": "jomjol",
   "repo": "jomjol/AI-on-the-edge-device",
-  "stars_now": 7676,
+  "name": "AI-on-the-edge-device",
+  "full_name": "jomjol/AI-on-the-edge-device",
+  "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
+  "homepage": "https://jomjol.github.io/AI-on-the-edge-device-docs/",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-07-28T17:20:33Z",
+  "pushed_at": "2025-09-07T15:47:40Z",
+  "size": 164375,
+  "stars_now": 7679,
   "forks": 793,
   "open_issues": 140,
   "subscribers": 138,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:35.187Z"
+  "watchers": 7679,
+  "html_url": "https://github.com/jomjol/AI-on-the-edge-device",
+  "api_url": "https://api.github.com/repos/jomjol/AI-on-the-edge-device",
+  "fetched_at": "2025-11-10T08:31:30.614Z"
 }

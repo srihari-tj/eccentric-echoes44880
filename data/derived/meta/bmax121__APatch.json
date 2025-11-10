@@ -1,9 +1,33 @@
 {
+  "owner": "bmax121",
   "repo": "bmax121/APatch",
-  "stars_now": 6557,
-  "forks": 592,
-  "open_issues": 64,
-  "subscribers": 73,
+  "name": "APatch",
+  "full_name": "bmax121/APatch",
+  "description": "The patching of Android kernel and Android system",
+  "homepage": "https://github.com/bmax121/APatch",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "inline-hook",
+    "kernel",
+    "magisk",
+    "magisk-module",
+    "patch",
+    "root"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:10.786Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-08-21T14:20:01Z",
+  "pushed_at": "2025-11-07T19:11:13Z",
+  "size": 22178,
+  "stars_now": 6563,
+  "forks": 592,
+  "open_issues": 65,
+  "subscribers": 73,
+  "watchers": 6563,
+  "html_url": "https://github.com/bmax121/APatch",
+  "api_url": "https://api.github.com/repos/bmax121/APatch",
+  "fetched_at": "2025-11-10T08:30:55.302Z"
 }

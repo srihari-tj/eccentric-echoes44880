@@ -1,0 +1,33 @@
+{
+  "owner": "gorhill",
+  "repo": "gorhill/uBlock",
+  "name": "uBlock",
+  "full_name": "gorhill/uBlock",
+  "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+  "homepage": "https://github.com/gorhill/uBlock",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [
+    "blocker",
+    "browser-extension",
+    "chromium",
+    "firefox",
+    "javascript",
+    "ublock",
+    "ublock-origin"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-04-01T17:51:11Z",
+  "pushed_at": "2025-11-08T01:36:15Z",
+  "size": 160538,
+  "stars_now": 59705,
+  "forks": 3820,
+  "open_issues": 18,
+  "subscribers": 993,
+  "watchers": 59705,
+  "html_url": "https://github.com/gorhill/uBlock",
+  "api_url": "https://api.github.com/repos/gorhill/uBlock",
+  "fetched_at": "2025-11-10T08:31:24.192Z"
+}

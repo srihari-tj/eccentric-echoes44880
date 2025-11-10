@@ -1,9 +1,25 @@
 {
+  "owner": "remzi-arpacidusseau",
   "repo": "remzi-arpacidusseau/ostep-projects",
-  "stars_now": 5258,
+  "name": "ostep-projects",
+  "full_name": "remzi-arpacidusseau/ostep-projects",
+  "description": "Projects for an undergraduate OS course",
+  "homepage": "https://github.com/remzi-arpacidusseau/ostep-projects",
+  "language": "C",
+  "license": null,
+  "topics": [],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-01-16T15:50:55Z",
+  "pushed_at": "2024-07-19T07:57:57Z",
+  "size": 32807,
+  "stars_now": 5260,
   "forks": 1442,
   "open_issues": 37,
   "subscribers": 76,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:56:00.035Z"
+  "watchers": 5260,
+  "html_url": "https://github.com/remzi-arpacidusseau/ostep-projects",
+  "api_url": "https://api.github.com/repos/remzi-arpacidusseau/ostep-projects",
+  "fetched_at": "2025-11-10T08:32:04.898Z"
 }

@@ -1,9 +1,32 @@
 {
+  "owner": "citation-style-language",
   "repo": "citation-style-language/styles",
-  "stars_now": 3621,
-  "forks": 3990,
-  "open_issues": 215,
-  "subscribers": 84,
+  "name": "styles",
+  "full_name": "citation-style-language/styles",
+  "description": "Official repository for Citation Style Language (CSL) citation styles.",
+  "homepage": "https://citationstyles.org/",
+  "language": "Ruby",
+  "license": null,
+  "topics": [
+    "bibliography",
+    "citation-style-language",
+    "citation-styles",
+    "citations",
+    "csl",
+    "hacktoberfest"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:14.279Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-12-16T22:46:44Z",
+  "pushed_at": "2025-11-10T07:45:15Z",
+  "size": 77814,
+  "stars_now": 3621,
+  "forks": 3992,
+  "open_issues": 216,
+  "subscribers": 84,
+  "watchers": 3621,
+  "html_url": "https://github.com/citation-style-language/styles",
+  "api_url": "https://api.github.com/repos/citation-style-language/styles",
+  "fetched_at": "2025-11-10T08:30:59.568Z"
 }

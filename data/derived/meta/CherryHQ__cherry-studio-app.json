@@ -1,0 +1,32 @@
+{
+  "owner": "CherryHQ",
+  "repo": "CherryHQ/cherry-studio-app",
+  "name": "cherry-studio-app",
+  "full_name": "CherryHQ/cherry-studio-app",
+  "description": "🍒 This is the mobile version of Cherry Studio.",
+  "homepage": "https://cherry-ai.com",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "topics": [
+    "agent",
+    "android",
+    "assistant",
+    "chat-bot",
+    "expo",
+    "ios"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-01T16:26:52Z",
+  "pushed_at": "2025-11-09T14:34:59Z",
+  "size": 34694,
+  "stars_now": 1703,
+  "forks": 148,
+  "open_issues": 58,
+  "subscribers": 18,
+  "watchers": 1703,
+  "html_url": "https://github.com/CherryHQ/cherry-studio-app",
+  "api_url": "https://api.github.com/repos/CherryHQ/cherry-studio-app",
+  "fetched_at": "2025-11-10T08:30:18.024Z"
+}

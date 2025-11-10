@@ -1,9 +1,30 @@
 {
+  "owner": "zed-industries",
   "repo": "zed-industries/zed",
-  "stars_now": 69363,
-  "forks": 5877,
-  "open_issues": 3223,
-  "subscribers": 271,
+  "name": "zed",
+  "full_name": "zed-industries/zed",
+  "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+  "homepage": "https://zed.dev",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "gpui",
+    "rust-lang",
+    "text-editor",
+    "zed"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:17.067Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-02-20T03:01:06Z",
+  "pushed_at": "2025-11-10T08:16:26Z",
+  "size": 306392,
+  "stars_now": 69411,
+  "forks": 5885,
+  "open_issues": 3231,
+  "subscribers": 271,
+  "watchers": 69411,
+  "html_url": "https://github.com/zed-industries/zed",
+  "api_url": "https://api.github.com/repos/zed-industries/zed",
+  "fetched_at": "2025-11-10T08:32:28.444Z"
 }

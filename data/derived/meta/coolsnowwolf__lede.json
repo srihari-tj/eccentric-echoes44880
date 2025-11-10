@@ -1,9 +1,31 @@
 {
+  "owner": "coolsnowwolf",
   "repo": "coolsnowwolf/lede",
+  "name": "lede",
+  "full_name": "coolsnowwolf/lede",
+  "description": "Lean's LEDE source",
+  "homepage": "https://github.com/coolsnowwolf/lede",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "lede",
+    "lua",
+    "openwrt-feed",
+    "openwrt-package",
+    "openwrt-zh-cn"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-09-06T07:39:03Z",
+  "pushed_at": "2025-11-09T15:00:25Z",
+  "size": 320601,
   "stars_now": 31073,
-  "forks": 19561,
+  "forks": 19562,
   "open_issues": 795,
   "subscribers": 721,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:18.327Z"
+  "watchers": 31073,
+  "html_url": "https://github.com/coolsnowwolf/lede",
+  "api_url": "https://api.github.com/repos/coolsnowwolf/lede",
+  "fetched_at": "2025-11-10T08:31:03.965Z"
 }

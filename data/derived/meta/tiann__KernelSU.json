@@ -1,9 +1,31 @@
 {
+  "owner": "tiann",
   "repo": "tiann/KernelSU",
-  "stars_now": 13967,
-  "forks": 2767,
-  "open_issues": 48,
-  "subscribers": 113,
+  "name": "KernelSU",
+  "full_name": "tiann/KernelSU",
+  "description": "A Kernel based root solution for Android",
+  "homepage": "https://kernelsu.org",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "kernel",
+    "kernelsu",
+    "root",
+    "su"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:07.653Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-12-09T14:03:54Z",
+  "pushed_at": "2025-11-10T08:00:10Z",
+  "size": 21153,
+  "stars_now": 13980,
+  "forks": 2776,
+  "open_issues": 33,
+  "subscribers": 113,
+  "watchers": 13980,
+  "html_url": "https://github.com/tiann/KernelSU",
+  "api_url": "https://api.github.com/repos/tiann/KernelSU",
+  "fetched_at": "2025-11-10T08:32:15.630Z"
 }

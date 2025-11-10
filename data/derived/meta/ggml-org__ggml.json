@@ -1,9 +1,30 @@
 {
+  "owner": "ggml-org",
   "repo": "ggml-org/ggml",
-  "stars_now": 13523,
-  "forks": 1386,
+  "name": "ggml",
+  "full_name": "ggml-org/ggml",
+  "description": "Tensor library for machine learning",
+  "homepage": "https://github.com/ggml-org/ggml",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "automatic-differentiation",
+    "large-language-models",
+    "machine-learning",
+    "tensor-algebra"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-09-18T17:07:19Z",
+  "pushed_at": "2025-11-09T21:41:55Z",
+  "size": 26205,
+  "stars_now": 13526,
+  "forks": 1385,
   "open_issues": 312,
   "subscribers": 142,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:26.726Z"
+  "watchers": 13526,
+  "html_url": "https://github.com/ggml-org/ggml",
+  "api_url": "https://api.github.com/repos/ggml-org/ggml",
+  "fetched_at": "2025-11-10T08:31:16.528Z"
 }

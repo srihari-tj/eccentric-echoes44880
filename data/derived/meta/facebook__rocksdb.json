@@ -1,0 +1,28 @@
+{
+  "owner": "facebook",
+  "repo": "facebook/rocksdb",
+  "name": "rocksdb",
+  "full_name": "facebook/rocksdb",
+  "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+  "homepage": "http://rocksdb.org",
+  "language": "C++",
+  "license": "GPL-2.0",
+  "topics": [
+    "database",
+    "storage-engine"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-11-30T06:16:18Z",
+  "pushed_at": "2025-11-08T00:02:37Z",
+  "size": 233454,
+  "stars_now": 30959,
+  "forks": 6645,
+  "open_issues": 1326,
+  "subscribers": 980,
+  "watchers": 30959,
+  "html_url": "https://github.com/facebook/rocksdb",
+  "api_url": "https://api.github.com/repos/facebook/rocksdb",
+  "fetched_at": "2025-11-10T08:31:12.134Z"
+}

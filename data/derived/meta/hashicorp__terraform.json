@@ -1,0 +1,31 @@
+{
+  "owner": "hashicorp",
+  "repo": "hashicorp/terraform",
+  "name": "terraform",
+  "full_name": "hashicorp/terraform",
+  "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+  "homepage": "http://developer.hashicorp.com/terraform",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "cloud",
+    "cloud-management",
+    "graph",
+    "infrastructure-as-code",
+    "terraform"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-03-13T22:25:48Z",
+  "pushed_at": "2025-11-07T20:29:28Z",
+  "size": 346626,
+  "stars_now": 47068,
+  "forks": 10110,
+  "open_issues": 1909,
+  "subscribers": 1137,
+  "watchers": 47068,
+  "html_url": "https://github.com/hashicorp/terraform",
+  "api_url": "https://api.github.com/repos/hashicorp/terraform",
+  "fetched_at": "2025-11-10T08:31:26.635Z"
+}

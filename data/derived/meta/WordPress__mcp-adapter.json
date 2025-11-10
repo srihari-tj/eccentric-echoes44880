@@ -1,9 +1,25 @@
 {
+  "owner": "WordPress",
   "repo": "WordPress/mcp-adapter",
-  "stars_now": 287,
+  "name": "mcp-adapter",
+  "full_name": "WordPress/mcp-adapter",
+  "description": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
+  "homepage": "https://make.wordpress.org/ai/2025/07/17/mcp-adapter",
+  "language": "PHP",
+  "license": null,
+  "topics": [],
+  "default_branch": "trunk",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-07-10T07:31:26Z",
+  "pushed_at": "2025-11-06T15:51:38Z",
+  "size": 663,
+  "stars_now": 289,
   "forks": 44,
   "open_issues": 30,
   "subscribers": 16,
-  "default_branch": "trunk",
-  "fetched_at": "2025-11-09T09:55:00.867Z"
+  "watchers": 289,
+  "html_url": "https://github.com/WordPress/mcp-adapter",
+  "api_url": "https://api.github.com/repos/WordPress/mcp-adapter",
+  "fetched_at": "2025-11-10T08:30:40.348Z"
 }

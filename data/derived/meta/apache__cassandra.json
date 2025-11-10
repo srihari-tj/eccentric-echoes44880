@@ -1,0 +1,29 @@
+{
+  "owner": "apache",
+  "repo": "apache/cassandra",
+  "name": "cassandra",
+  "full_name": "apache/cassandra",
+  "description": "Apache Cassandra®",
+  "homepage": "https://cassandra.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "cassandra",
+    "database",
+    "java"
+  ],
+  "default_branch": "trunk",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-05-21T02:10:09Z",
+  "pushed_at": "2025-11-07T19:54:47Z",
+  "size": 449683,
+  "stars_now": 9471,
+  "forks": 3794,
+  "open_issues": 578,
+  "subscribers": 434,
+  "watchers": 9471,
+  "html_url": "https://github.com/apache/cassandra",
+  "api_url": "https://api.github.com/repos/apache/cassandra",
+  "fetched_at": "2025-11-10T08:30:47.636Z"
+}

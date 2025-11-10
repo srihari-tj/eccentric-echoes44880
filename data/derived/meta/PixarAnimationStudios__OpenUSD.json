@@ -1,9 +1,25 @@
 {
+  "owner": "PixarAnimationStudios",
   "repo": "PixarAnimationStudios/OpenUSD",
+  "name": "OpenUSD",
+  "full_name": "PixarAnimationStudios/OpenUSD",
+  "description": "Universal Scene Description",
+  "homepage": "http://www.openusd.org",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [],
+  "default_branch": "dev",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-05-06T00:02:56Z",
+  "pushed_at": "2025-11-05T17:54:21Z",
+  "size": 263931,
   "stars_now": 6927,
-  "forks": 1350,
+  "forks": 1352,
   "open_issues": 989,
   "subscribers": 294,
-  "default_branch": "dev",
-  "fetched_at": "2025-11-09T09:54:56.445Z"
+  "watchers": 6927,
+  "html_url": "https://github.com/PixarAnimationStudios/OpenUSD",
+  "api_url": "https://api.github.com/repos/PixarAnimationStudios/OpenUSD",
+  "fetched_at": "2025-11-10T08:30:34.477Z"
 }

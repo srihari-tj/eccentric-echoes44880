@@ -1,9 +1,31 @@
 {
+  "owner": "cloudflare",
   "repo": "cloudflare/quiche",
-  "stars_now": 10837,
-  "forks": 891,
-  "open_issues": 266,
-  "subscribers": 162,
+  "name": "quiche",
+  "full_name": "cloudflare/quiche",
+  "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+  "homepage": "https://docs.quic.tech/quiche/",
+  "language": "Rust",
+  "license": "BSD-2-Clause",
+  "topics": [
+    "http3",
+    "network-programming",
+    "protocol",
+    "quic",
+    "rust"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:15.671Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-09-29T18:22:05Z",
+  "pushed_at": "2025-11-10T06:01:51Z",
+  "size": 24244,
+  "stars_now": 10851,
+  "forks": 891,
+  "open_issues": 267,
+  "subscribers": 162,
+  "watchers": 10851,
+  "html_url": "https://github.com/cloudflare/quiche",
+  "api_url": "https://api.github.com/repos/cloudflare/quiche",
+  "fetched_at": "2025-11-10T08:31:01.099Z"
 }

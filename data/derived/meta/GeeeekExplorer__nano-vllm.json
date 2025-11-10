@@ -1,9 +1,32 @@
 {
+  "owner": "GeeeekExplorer",
   "repo": "GeeeekExplorer/nano-vllm",
-  "stars_now": 8539,
-  "forks": 1038,
-  "open_issues": 34,
-  "subscribers": 65,
+  "name": "nano-vllm",
+  "full_name": "GeeeekExplorer/nano-vllm",
+  "description": "Nano vLLM",
+  "homepage": "https://github.com/GeeeekExplorer/nano-vllm",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "deep-learning",
+    "inference",
+    "llm",
+    "nlp",
+    "pytorch",
+    "transformer"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:54:49.125Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-06-09T16:22:14Z",
+  "pushed_at": "2025-11-03T17:44:48Z",
+  "size": 435,
+  "stars_now": 8599,
+  "forks": 1045,
+  "open_issues": 35,
+  "subscribers": 65,
+  "watchers": 8599,
+  "html_url": "https://github.com/GeeeekExplorer/nano-vllm",
+  "api_url": "https://api.github.com/repos/GeeeekExplorer/nano-vllm",
+  "fetched_at": "2025-11-10T08:30:24.491Z"
 }

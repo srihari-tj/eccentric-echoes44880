@@ -1,9 +1,32 @@
 {
+  "owner": "jekyll",
   "repo": "jekyll/jekyll",
-  "stars_now": 51064,
-  "forks": 10233,
+  "name": "jekyll",
+  "full_name": "jekyll/jekyll",
+  "description": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
+  "homepage": "https://jekyllrb.com",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "blog-engine",
+    "jekyll",
+    "liquid",
+    "markdown",
+    "ruby",
+    "static-site-generator"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2008-10-20T06:29:03Z",
+  "pushed_at": "2025-11-07T22:30:01Z",
+  "size": 69907,
+  "stars_now": 51066,
+  "forks": 10235,
   "open_issues": 236,
   "subscribers": 1409,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:34.807Z"
+  "watchers": 51066,
+  "html_url": "https://github.com/jekyll/jekyll",
+  "api_url": "https://api.github.com/repos/jekyll/jekyll",
+  "fetched_at": "2025-11-10T08:31:30.103Z"
 }

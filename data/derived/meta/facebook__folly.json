@@ -1,9 +1,25 @@
 {
+  "owner": "facebook",
   "repo": "facebook/folly",
+  "name": "folly",
+  "full_name": "facebook/folly",
+  "description": "An open-source C++ library developed and used at Facebook.",
+  "homepage": "https://github.com/facebook/folly",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-06-01T20:49:04Z",
+  "pushed_at": "2025-11-09T16:00:39Z",
+  "size": 52287,
   "stars_now": 30049,
-  "forks": 5802,
+  "forks": 5800,
   "open_issues": 413,
   "subscribers": 1003,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:23.624Z"
+  "watchers": 30049,
+  "html_url": "https://github.com/facebook/folly",
+  "api_url": "https://api.github.com/repos/facebook/folly",
+  "fetched_at": "2025-11-10T08:31:11.121Z"
 }

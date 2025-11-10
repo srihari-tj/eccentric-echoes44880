@@ -1,9 +1,29 @@
 {
+  "owner": "ruby",
   "repo": "ruby/rubygems",
-  "stars_now": 3848,
-  "forks": 1852,
-  "open_issues": 233,
-  "subscribers": 163,
+  "name": "rubygems",
+  "full_name": "ruby/rubygems",
+  "description": "Library packaging and distribution for Ruby.",
+  "homepage": "https://rubygems.org/",
+  "language": "Ruby",
+  "license": "NOASSERTION",
+  "topics": [
+    "package-manager",
+    "ruby",
+    "rubygems"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:56:00.492Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-04-16T19:02:44Z",
+  "pushed_at": "2025-11-10T08:27:36Z",
+  "size": 217848,
+  "stars_now": 3848,
+  "forks": 1853,
+  "open_issues": 231,
+  "subscribers": 163,
+  "watchers": 3848,
+  "html_url": "https://github.com/ruby/rubygems",
+  "api_url": "https://api.github.com/repos/ruby/rubygems",
+  "fetched_at": "2025-11-10T08:32:06.526Z"
 }

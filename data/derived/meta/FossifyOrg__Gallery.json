@@ -1,9 +1,31 @@
 {
+  "owner": "FossifyOrg",
   "repo": "FossifyOrg/Gallery",
-  "stars_now": 2731,
-  "forks": 136,
-  "open_issues": 187,
-  "subscribers": 19,
+  "name": "Gallery",
+  "full_name": "FossifyOrg/Gallery",
+  "description": "Browse your memories without any interruptions with this photo and video gallery",
+  "homepage": "https://www.fossify.org",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "foss",
+    "gallery",
+    "kotlin",
+    "open-source"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:54:47.500Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-06-12T10:39:25Z",
+  "pushed_at": "2025-11-10T04:29:07Z",
+  "size": 291677,
+  "stars_now": 2735,
+  "forks": 137,
+  "open_issues": 188,
+  "subscribers": 19,
+  "watchers": 2735,
+  "html_url": "https://github.com/FossifyOrg/Gallery",
+  "api_url": "https://api.github.com/repos/FossifyOrg/Gallery",
+  "fetched_at": "2025-11-10T08:30:22.028Z"
 }

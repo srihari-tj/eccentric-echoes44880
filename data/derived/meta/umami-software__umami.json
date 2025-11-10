@@ -1,9 +1,31 @@
 {
+  "owner": "umami-software",
   "repo": "umami-software/umami",
-  "stars_now": 32552,
-  "forks": 5805,
-  "open_issues": 129,
-  "subscribers": 129,
+  "name": "umami",
+  "full_name": "umami-software/umami",
+  "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+  "homepage": "https://umami.is",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "analytics",
+    "charts",
+    "google-analytics",
+    "statistics",
+    "web-analytics"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:56:09.960Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-07-17T07:59:00Z",
+  "pushed_at": "2025-11-10T07:58:36Z",
+  "size": 22750,
+  "stars_now": 32947,
+  "forks": 5819,
+  "open_issues": 129,
+  "subscribers": 133,
+  "watchers": 32947,
+  "html_url": "https://github.com/umami-software/umami",
+  "api_url": "https://api.github.com/repos/umami-software/umami",
+  "fetched_at": "2025-11-10T08:32:19.458Z"
 }

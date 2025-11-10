@@ -1,9 +1,35 @@
 {
+  "owner": "ClementTsang",
   "repo": "ClementTsang/bottom",
-  "stars_now": 12222,
+  "name": "bottom",
+  "full_name": "ClementTsang/bottom",
+  "description": "Yet another cross-platform graphical process/system monitor.",
+  "homepage": "https://bottom.pages.dev",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "bottom",
+    "btm",
+    "cli",
+    "cross-platform",
+    "monitoring",
+    "rust",
+    "terminal",
+    "top",
+    "tui"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-08-28T23:43:30Z",
+  "pushed_at": "2025-11-07T00:40:20Z",
+  "size": 79352,
+  "stars_now": 12235,
   "forks": 307,
   "open_issues": 121,
   "subscribers": 51,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:54:44.828Z"
+  "watchers": 12235,
+  "html_url": "https://github.com/ClementTsang/bottom",
+  "api_url": "https://api.github.com/repos/ClementTsang/bottom",
+  "fetched_at": "2025-11-10T08:30:18.459Z"
 }

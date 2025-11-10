@@ -1,9 +1,31 @@
 {
+  "owner": "droidrun",
   "repo": "droidrun/droidrun",
-  "stars_now": 5626,
-  "forks": 591,
+  "name": "droidrun",
+  "full_name": "droidrun/droidrun",
+  "description": "Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖",
+  "homepage": "https://droidrun.ai",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ai-agents",
+    "android",
+    "android-automation",
+    "hacktoberfest",
+    "mobile-automation"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-04-12T22:03:47Z",
+  "pushed_at": "2025-11-09T03:02:16Z",
+  "size": 83301,
+  "stars_now": 5687,
+  "forks": 593,
   "open_issues": 16,
   "subscribers": 35,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:22.375Z"
+  "watchers": 5687,
+  "html_url": "https://github.com/droidrun/droidrun",
+  "api_url": "https://api.github.com/repos/droidrun/droidrun",
+  "fetched_at": "2025-11-10T08:31:08.697Z"
 }

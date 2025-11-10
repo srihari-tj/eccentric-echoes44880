@@ -1,9 +1,32 @@
 {
+  "owner": "KotatsuApp",
   "repo": "KotatsuApp/Kotatsu",
-  "stars_now": 7382,
-  "forks": 391,
+  "name": "Kotatsu",
+  "full_name": "KotatsuApp/Kotatsu",
+  "description": "Manga reader for Android",
+  "homepage": "https://kotatsu.app",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "comics",
+    "manga",
+    "manga-reader",
+    "mangareader",
+    "webtoon"
+  ],
+  "default_branch": "devel",
+  "archived": true,
+  "disabled": false,
+  "created_at": "2020-01-30T18:11:38Z",
+  "pushed_at": "2025-11-04T08:40:47Z",
+  "size": 91765,
+  "stars_now": 7396,
+  "forks": 394,
   "open_issues": 580,
   "subscribers": 74,
-  "default_branch": "devel",
-  "fetched_at": "2025-11-09T09:54:53.005Z"
+  "watchers": 7396,
+  "html_url": "https://github.com/KotatsuApp/Kotatsu",
+  "api_url": "https://api.github.com/repos/KotatsuApp/Kotatsu",
+  "fetched_at": "2025-11-10T08:30:28.730Z"
 }

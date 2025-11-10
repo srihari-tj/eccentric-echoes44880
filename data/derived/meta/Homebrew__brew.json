@@ -1,9 +1,31 @@
 {
+  "owner": "Homebrew",
   "repo": "Homebrew/brew",
-  "stars_now": 45358,
-  "forks": 10637,
-  "open_issues": 15,
-  "subscribers": 730,
+  "name": "brew",
+  "full_name": "Homebrew/brew",
+  "description": "🍺 The missing package manager for macOS (or Linux)",
+  "homepage": "https://brew.sh",
+  "language": "Ruby",
+  "license": "BSD-2-Clause",
+  "topics": [
+    "brew",
+    "homebrew",
+    "macos",
+    "package-manager",
+    "ruby"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:54:51.825Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-03-06T05:08:38Z",
+  "pushed_at": "2025-11-10T08:08:51Z",
+  "size": 105188,
+  "stars_now": 45366,
+  "forks": 10644,
+  "open_issues": 18,
+  "subscribers": 730,
+  "watchers": 45366,
+  "html_url": "https://github.com/Homebrew/brew",
+  "api_url": "https://api.github.com/repos/Homebrew/brew",
+  "fetched_at": "2025-11-10T08:30:26.866Z"
 }

@@ -1,9 +1,25 @@
 {
+  "owner": "google",
   "repo": "google/private-compute-services",
+  "name": "private-compute-services",
+  "full_name": "google/private-compute-services",
+  "description": null,
+  "homepage": "https://github.com/google/private-compute-services",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-10-15T15:32:55Z",
+  "pushed_at": "2025-10-01T19:52:44Z",
+  "size": 4069,
   "stars_now": 514,
   "forks": 114,
   "open_issues": 19,
-  "subscribers": 67,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:31.175Z"
+  "subscribers": 68,
+  "watchers": 514,
+  "html_url": "https://github.com/google/private-compute-services",
+  "api_url": "https://api.github.com/repos/google/private-compute-services",
+  "fetched_at": "2025-11-10T08:31:23.760Z"
 }

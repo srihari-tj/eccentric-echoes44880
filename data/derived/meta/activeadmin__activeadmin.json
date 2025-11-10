@@ -1,9 +1,31 @@
 {
+  "owner": "activeadmin",
   "repo": "activeadmin/activeadmin",
-  "stars_now": 9648,
+  "name": "activeadmin",
+  "full_name": "activeadmin/activeadmin",
+  "description": "The administration framework for Ruby on Rails applications.",
+  "homepage": "https://activeadmin.info",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "activeadmin",
+    "admin-ui",
+    "arbre",
+    "rails",
+    "ruby"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-04-15T14:26:03Z",
+  "pushed_at": "2025-11-05T23:59:25Z",
+  "size": 16135,
+  "stars_now": 9649,
   "forks": 3335,
   "open_issues": 25,
   "subscribers": 181,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:02.624Z"
+  "watchers": 9649,
+  "html_url": "https://github.com/activeadmin/activeadmin",
+  "api_url": "https://api.github.com/repos/activeadmin/activeadmin",
+  "fetched_at": "2025-11-10T08:30:42.771Z"
 }

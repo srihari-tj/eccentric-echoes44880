@@ -1,9 +1,28 @@
 {
+  "owner": "ourongxing",
   "repo": "ourongxing/newsnow",
-  "stars_now": 13717,
-  "forks": 4169,
+  "name": "newsnow",
+  "full_name": "ourongxing/newsnow",
+  "description": "Elegant reading of real-time and hottest news",
+  "homepage": "https://newsnow.busiyi.world",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "elegant",
+    "news"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-09-23T14:16:12Z",
+  "pushed_at": "2025-11-01T10:24:17Z",
+  "size": 5451,
+  "stars_now": 13746,
+  "forks": 4174,
   "open_issues": 90,
   "subscribers": 40,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:54.497Z"
+  "watchers": 13746,
+  "html_url": "https://github.com/ourongxing/newsnow",
+  "api_url": "https://api.github.com/repos/ourongxing/newsnow",
+  "fetched_at": "2025-11-10T08:31:57.518Z"
 }

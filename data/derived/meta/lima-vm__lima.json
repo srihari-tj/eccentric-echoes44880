@@ -1,9 +1,30 @@
 {
+  "owner": "lima-vm",
   "repo": "lima-vm/lima",
-  "stars_now": 18657,
-  "forks": 744,
-  "open_issues": 427,
-  "subscribers": 84,
+  "name": "lima",
+  "full_name": "lima-vm/lima",
+  "description": "Linux virtual machines, with a focus on running containers",
+  "homepage": "https://lima-vm.io/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "containerd",
+    "macos",
+    "qemu",
+    "vm"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:39.556Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-05-14T07:30:56Z",
+  "pushed_at": "2025-11-10T01:25:11Z",
+  "size": 15703,
+  "stars_now": 18821,
+  "forks": 745,
+  "open_issues": 431,
+  "subscribers": 86,
+  "watchers": 18821,
+  "html_url": "https://github.com/lima-vm/lima",
+  "api_url": "https://api.github.com/repos/lima-vm/lima",
+  "fetched_at": "2025-11-10T08:31:37.814Z"
 }

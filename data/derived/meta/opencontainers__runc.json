@@ -1,9 +1,29 @@
 {
+  "owner": "opencontainers",
   "repo": "opencontainers/runc",
-  "stars_now": 12748,
-  "forks": 2239,
-  "open_issues": 368,
-  "subscribers": 366,
+  "name": "runc",
+  "full_name": "opencontainers/runc",
+  "description": "CLI tool for spawning and running containers according to the OCI specification",
+  "homepage": "https://www.opencontainers.org/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "containers",
+    "docker",
+    "oci"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:51.430Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-06-05T23:30:45Z",
+  "pushed_at": "2025-11-10T05:03:57Z",
+  "size": 25311,
+  "stars_now": 12758,
+  "forks": 2240,
+  "open_issues": 372,
+  "subscribers": 366,
+  "watchers": 12758,
+  "html_url": "https://github.com/opencontainers/runc",
+  "api_url": "https://api.github.com/repos/opencontainers/runc",
+  "fetched_at": "2025-11-10T08:31:54.133Z"
 }

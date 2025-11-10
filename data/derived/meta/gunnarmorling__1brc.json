@@ -1,0 +1,28 @@
+{
+  "owner": "gunnarmorling",
+  "repo": "gunnarmorling/1brc",
+  "name": "1brc",
+  "full_name": "gunnarmorling/1brc",
+  "description": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+  "homepage": "https://www.morling.dev/blog/one-billion-row-challenge/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "1brc",
+    "challenges"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-12-28T09:13:24Z",
+  "pushed_at": "2024-08-20T15:15:15Z",
+  "size": 2744,
+  "stars_now": 7575,
+  "forks": 2128,
+  "open_issues": 37,
+  "subscribers": 75,
+  "watchers": 7575,
+  "html_url": "https://github.com/gunnarmorling/1brc",
+  "api_url": "https://api.github.com/repos/gunnarmorling/1brc",
+  "fetched_at": "2025-11-10T08:31:25.620Z"
+}

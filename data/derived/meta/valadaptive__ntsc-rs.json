@@ -1,9 +1,29 @@
 {
+  "owner": "valadaptive",
   "repo": "valadaptive/ntsc-rs",
-  "stars_now": 1075,
+  "name": "ntsc-rs",
+  "full_name": "valadaptive/ntsc-rs",
+  "description": "Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).",
+  "homepage": "https://github.com/valadaptive/ntsc-rs",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "vfx",
+    "vhs",
+    "video"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-08-24T03:07:59Z",
+  "pushed_at": "2025-11-09T01:56:51Z",
+  "size": 27073,
+  "stars_now": 1076,
   "forks": 18,
   "open_issues": 58,
   "subscribers": 17,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:12.010Z"
+  "watchers": 1076,
+  "html_url": "https://github.com/valadaptive/ntsc-rs",
+  "api_url": "https://api.github.com/repos/valadaptive/ntsc-rs",
+  "fetched_at": "2025-11-10T08:32:21.949Z"
 }

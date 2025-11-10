@@ -1,9 +1,30 @@
 {
+  "owner": "nightscout",
   "repo": "nightscout/AndroidAPS",
-  "stars_now": 896,
-  "forks": 2830,
-  "open_issues": 290,
-  "subscribers": 64,
+  "name": "AndroidAPS",
+  "full_name": "nightscout/AndroidAPS",
+  "description": "Opensource automated insulin delivery system (closed loop)",
+  "homepage": "https://wiki.aaps.app",
+  "language": "Kotlin",
+  "license": "AGPL-3.0",
+  "topics": [
+    "closed-loop",
+    "diabetes",
+    "opensource",
+    "t1d"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:48.795Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-09-21T12:58:30Z",
+  "pushed_at": "2025-11-09T18:41:23Z",
+  "size": 210197,
+  "stars_now": 896,
+  "forks": 2834,
+  "open_issues": 292,
+  "subscribers": 64,
+  "watchers": 896,
+  "html_url": "https://github.com/nightscout/AndroidAPS",
+  "api_url": "https://api.github.com/repos/nightscout/AndroidAPS",
+  "fetched_at": "2025-11-10T08:31:49.675Z"
 }

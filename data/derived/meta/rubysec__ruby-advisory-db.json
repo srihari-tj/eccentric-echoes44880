@@ -1,9 +1,32 @@
 {
+  "owner": "rubysec",
   "repo": "rubysec/ruby-advisory-db",
-  "stars_now": 1043,
+  "name": "ruby-advisory-db",
+  "full_name": "rubysec/ruby-advisory-db",
+  "description": "A database of vulnerable Ruby Gems",
+  "homepage": "https://rubysec.com",
+  "language": "Ruby",
+  "license": "NOASSERTION",
+  "topics": [
+    "advisory-files",
+    "hacktoberfest",
+    "metadata",
+    "rubysec",
+    "security-advisories",
+    "yaml"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-02-12T07:10:30Z",
+  "pushed_at": "2025-11-07T19:11:35Z",
+  "size": 2345,
+  "stars_now": 1044,
   "forks": 224,
   "open_issues": 21,
   "subscribers": 85,
-  "default_branch": "master",
-  "fetched_at": "2025-11-07T17:31:44.702Z"
+  "watchers": 1044,
+  "html_url": "https://github.com/rubysec/ruby-advisory-db",
+  "api_url": "https://api.github.com/repos/rubysec/ruby-advisory-db",
+  "fetched_at": "2025-11-10T08:32:07.003Z"
 }

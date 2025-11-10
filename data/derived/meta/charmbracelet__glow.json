@@ -1,9 +1,30 @@
 {
+  "owner": "charmbracelet",
   "repo": "charmbracelet/glow",
-  "stars_now": 21024,
-  "forks": 504,
+  "name": "glow",
+  "full_name": "charmbracelet/glow",
+  "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+  "homepage": "https://github.com/charmbracelet/glow",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "cli",
+    "excitement",
+    "hacktoberfest",
+    "markdown"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-11-04T23:34:55Z",
+  "pushed_at": "2025-10-21T12:56:55Z",
+  "size": 3011,
+  "stars_now": 21082,
+  "forks": 506,
   "open_issues": 134,
   "subscribers": 77,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:13.859Z"
+  "watchers": 21082,
+  "html_url": "https://github.com/charmbracelet/glow",
+  "api_url": "https://api.github.com/repos/charmbracelet/glow",
+  "fetched_at": "2025-11-10T08:30:59.139Z"
 }

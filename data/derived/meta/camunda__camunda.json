@@ -1,9 +1,33 @@
 {
+  "owner": "camunda",
   "repo": "camunda/camunda",
-  "stars_now": 3864,
-  "forks": 706,
-  "open_issues": 2480,
-  "subscribers": 107,
+  "name": "camunda",
+  "full_name": "camunda/camunda",
+  "description": "Process Orchestration Framework",
+  "homepage": "https://camunda.com/platform/",
+  "language": "Java",
+  "license": null,
+  "topics": [
+    "bpmn",
+    "grpc",
+    "java",
+    "microservices",
+    "orchestration-framework",
+    "workflow",
+    "workflow-engine"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:11.717Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-03-20T03:38:04Z",
+  "pushed_at": "2025-11-10T08:29:26Z",
+  "size": 705312,
+  "stars_now": 3865,
+  "forks": 706,
+  "open_issues": 2478,
+  "subscribers": 108,
+  "watchers": 3865,
+  "html_url": "https://github.com/camunda/camunda",
+  "api_url": "https://api.github.com/repos/camunda/camunda",
+  "fetched_at": "2025-11-10T08:30:56.813Z"
 }

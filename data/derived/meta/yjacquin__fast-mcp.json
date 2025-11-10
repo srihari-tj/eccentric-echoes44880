@@ -1,0 +1,31 @@
+{
+  "owner": "yjacquin",
+  "repo": "yjacquin/fast-mcp",
+  "name": "fast-mcp",
+  "full_name": "yjacquin/fast-mcp",
+  "description": "A Ruby Implementation of the Model Context Protocol",
+  "homepage": "https://github.com/yjacquin/fast-mcp",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "llm",
+    "mcp",
+    "rack",
+    "ruby"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-10T09:17:33Z",
+  "pushed_at": "2025-10-27T20:19:47Z",
+  "size": 488,
+  "stars_now": 1074,
+  "forks": 96,
+  "open_issues": 61,
+  "subscribers": 15,
+  "watchers": 1074,
+  "html_url": "https://github.com/yjacquin/fast-mcp",
+  "api_url": "https://api.github.com/repos/yjacquin/fast-mcp",
+  "fetched_at": "2025-11-10T08:32:26.996Z"
+}

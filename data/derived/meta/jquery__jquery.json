@@ -1,0 +1,27 @@
+{
+  "owner": "jquery",
+  "repo": "jquery/jquery",
+  "name": "jquery",
+  "full_name": "jquery/jquery",
+  "description": "jQuery JavaScript Library",
+  "homepage": "https://jquery.com",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "jquery"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-04-03T15:20:14Z",
+  "pushed_at": "2025-11-04T22:41:24Z",
+  "size": 34996,
+  "stars_now": 59649,
+  "forks": 20539,
+  "open_issues": 94,
+  "subscribers": 3135,
+  "watchers": 59649,
+  "html_url": "https://github.com/jquery/jquery",
+  "api_url": "https://api.github.com/repos/jquery/jquery",
+  "fetched_at": "2025-11-10T08:31:31.097Z"
+}

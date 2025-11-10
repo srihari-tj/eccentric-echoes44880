@@ -1,9 +1,32 @@
 {
+  "owner": "VirtualBox",
   "repo": "VirtualBox/virtualbox",
-  "stars_now": 764,
-  "forks": 82,
-  "open_issues": 221,
-  "subscribers": 16,
+  "name": "virtualbox",
+  "full_name": "VirtualBox/virtualbox",
+  "description": "Source code for Oracle VirtualBox",
+  "homepage": "https://www.virtualbox.org/",
+  "language": "C",
+  "license": "GPL-3.0",
+  "topics": [
+    "emulation",
+    "networking",
+    "virtual-machine",
+    "virtualbox",
+    "virtualization",
+    "vm"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:00.052Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-05-16T14:41:57Z",
+  "pushed_at": "2025-11-05T11:15:01Z",
+  "size": 1059001,
+  "stars_now": 768,
+  "forks": 82,
+  "open_issues": 222,
+  "subscribers": 16,
+  "watchers": 768,
+  "html_url": "https://github.com/VirtualBox/virtualbox",
+  "api_url": "https://api.github.com/repos/VirtualBox/virtualbox",
+  "fetched_at": "2025-11-10T08:30:38.961Z"
 }

@@ -1,9 +1,31 @@
 {
+  "owner": "composer",
   "repo": "composer/composer",
-  "stars_now": 29207,
-  "forks": 4707,
+  "name": "composer",
+  "full_name": "composer/composer",
+  "description": "Dependency Manager for PHP",
+  "homepage": "https://getcomposer.org/",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "composer",
+    "dependency-manager",
+    "package-manager",
+    "packages",
+    "php"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-06-08T08:53:00Z",
+  "pushed_at": "2025-11-08T12:18:54Z",
+  "size": 28581,
+  "stars_now": 29208,
+  "forks": 4706,
   "open_issues": 120,
   "subscribers": 591,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:17.038Z"
+  "watchers": 29208,
+  "html_url": "https://github.com/composer/composer",
+  "api_url": "https://api.github.com/repos/composer/composer",
+  "fetched_at": "2025-11-10T08:31:02.569Z"
 }

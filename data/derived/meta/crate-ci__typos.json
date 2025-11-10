@@ -1,0 +1,30 @@
+{
+  "owner": "crate-ci",
+  "repo": "crate-ci/typos",
+  "name": "typos",
+  "full_name": "crate-ci/typos",
+  "description": "Source code spell checker",
+  "homepage": "https://github.com/crate-ci/typos",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "cli",
+    "code-quality",
+    "rust",
+    "spell-checker"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-04-16T23:28:35Z",
+  "pushed_at": "2025-11-03T17:51:01Z",
+  "size": 68643,
+  "stars_now": 3583,
+  "forks": 151,
+  "open_issues": 123,
+  "subscribers": 8,
+  "watchers": 3583,
+  "html_url": "https://github.com/crate-ci/typos",
+  "api_url": "https://api.github.com/repos/crate-ci/typos",
+  "fetched_at": "2025-11-10T08:31:04.448Z"
+}

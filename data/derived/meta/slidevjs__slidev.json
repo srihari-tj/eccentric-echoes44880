@@ -1,9 +1,32 @@
 {
+  "owner": "slidevjs",
   "repo": "slidevjs/slidev",
-  "stars_now": 41511,
+  "name": "slidev",
+  "full_name": "slidevjs/slidev",
+  "description": "Presentation Slides for Developers",
+  "homepage": "https://sli.dev",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "markdown",
+    "presentation",
+    "slides",
+    "vite",
+    "vue",
+    "vueuse"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-04-24T01:25:23Z",
+  "pushed_at": "2025-11-07T15:59:58Z",
+  "size": 79759,
+  "stars_now": 41541,
   "forks": 1762,
   "open_issues": 179,
   "subscribers": 156,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:03.093Z"
+  "watchers": 41541,
+  "html_url": "https://github.com/slidevjs/slidev",
+  "api_url": "https://api.github.com/repos/slidevjs/slidev",
+  "fetched_at": "2025-11-10T08:32:10.028Z"
 }

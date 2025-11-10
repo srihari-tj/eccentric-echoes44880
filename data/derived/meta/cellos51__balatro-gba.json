@@ -1,9 +1,25 @@
 {
+  "owner": "cellos51",
   "repo": "cellos51/balatro-gba",
+  "name": "balatro-gba",
+  "full_name": "cellos51/balatro-gba",
+  "description": null,
+  "homepage": "https://github.com/cellos51/balatro-gba",
+  "language": "C",
+  "license": null,
+  "topics": [],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-01-31T22:42:09Z",
+  "pushed_at": "2025-11-07T04:31:16Z",
+  "size": 23210,
   "stars_now": 1600,
   "forks": 59,
-  "open_issues": 31,
+  "open_issues": 32,
   "subscribers": 34,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:12.550Z"
+  "watchers": 1600,
+  "html_url": "https://github.com/cellos51/balatro-gba",
+  "api_url": "https://api.github.com/repos/cellos51/balatro-gba",
+  "fetched_at": "2025-11-10T08:30:57.675Z"
 }

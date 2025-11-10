@@ -1,9 +1,31 @@
 {
+  "owner": "kilimchoi",
   "repo": "kilimchoi/engineering-blogs",
-  "stars_now": 36318,
+  "name": "engineering-blogs",
+  "full_name": "kilimchoi/engineering-blogs",
+  "description": "A curated list of engineering blogs",
+  "homepage": "https://github.com/kilimchoi/engineering-blogs",
+  "language": "Ruby",
+  "license": null,
+  "topics": [
+    "engineering-blogs",
+    "lists",
+    "programming-blogs",
+    "software-development",
+    "tech"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-06-13T18:25:17Z",
+  "pushed_at": "2024-08-21T13:01:11Z",
+  "size": 1339,
+  "stars_now": 36326,
   "forks": 1898,
   "open_issues": 142,
   "subscribers": 1054,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:36.450Z"
+  "watchers": 36326,
+  "html_url": "https://github.com/kilimchoi/engineering-blogs",
+  "api_url": "https://api.github.com/repos/kilimchoi/engineering-blogs",
+  "fetched_at": "2025-11-10T08:31:33.569Z"
 }

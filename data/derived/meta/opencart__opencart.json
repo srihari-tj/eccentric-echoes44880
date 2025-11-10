@@ -1,0 +1,32 @@
+{
+  "owner": "opencart",
+  "repo": "opencart/opencart",
+  "name": "opencart",
+  "full_name": "opencart/opencart",
+  "description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
+  "homepage": "https://www.opencart.com",
+  "language": "PHP",
+  "license": "NOASSERTION",
+  "topics": [
+    "ecommerce-framework",
+    "open-source",
+    "opencart",
+    "php",
+    "shopping",
+    "shopping-cart"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-08-02T07:32:17Z",
+  "pushed_at": "2025-11-09T09:10:36Z",
+  "size": 212937,
+  "stars_now": 7945,
+  "forks": 5007,
+  "open_issues": 98,
+  "subscribers": 588,
+  "watchers": 7945,
+  "html_url": "https://github.com/opencart/opencart",
+  "api_url": "https://api.github.com/repos/opencart/opencart",
+  "fetched_at": "2025-11-10T08:31:53.648Z"
+}

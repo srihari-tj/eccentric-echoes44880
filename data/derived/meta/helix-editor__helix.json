@@ -1,9 +1,30 @@
 {
+  "owner": "helix-editor",
   "repo": "helix-editor/helix",
-  "stars_now": 41174,
-  "forks": 3151,
-  "open_issues": 1318,
-  "subscribers": 202,
+  "name": "helix",
+  "full_name": "helix-editor/helix",
+  "description": "A post-modern modal text editor.",
+  "homepage": "https://helix-editor.com",
+  "language": "Rust",
+  "license": "MPL-2.0",
+  "topics": [
+    "kakoune",
+    "rust",
+    "text-editor",
+    "vim"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:32.657Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-06-01T04:26:56Z",
+  "pushed_at": "2025-11-09T19:33:07Z",
+  "size": 65513,
+  "stars_now": 41191,
+  "forks": 3151,
+  "open_issues": 1317,
+  "subscribers": 203,
+  "watchers": 41191,
+  "html_url": "https://github.com/helix-editor/helix",
+  "api_url": "https://api.github.com/repos/helix-editor/helix",
+  "fetched_at": "2025-11-10T08:31:27.639Z"
 }

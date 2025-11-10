@@ -1,9 +1,34 @@
 {
+  "owner": "Fosowl",
   "repo": "Fosowl/agenticSeek",
-  "stars_now": 23526,
-  "forks": 2539,
+  "name": "agenticSeek",
+  "full_name": "Fosowl/agenticSeek",
+  "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+  "homepage": "http://agenticseek.tech",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "autonomous-agents",
+    "deepseek-r1",
+    "llm",
+    "llm-agents",
+    "voice-assistant"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-02-19T18:03:06Z",
+  "pushed_at": "2025-09-14T18:15:49Z",
+  "size": 24602,
+  "stars_now": 23561,
+  "forks": 2543,
   "open_issues": 36,
   "subscribers": 141,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:54:47.091Z"
+  "watchers": 23561,
+  "html_url": "https://github.com/Fosowl/agenticSeek",
+  "api_url": "https://api.github.com/repos/Fosowl/agenticSeek",
+  "fetched_at": "2025-11-10T08:30:21.536Z"
 }

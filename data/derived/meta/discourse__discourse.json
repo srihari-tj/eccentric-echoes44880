@@ -1,9 +1,33 @@
 {
+  "owner": "discourse",
   "repo": "discourse/discourse",
-  "stars_now": 45531,
-  "forks": 8708,
-  "open_issues": 134,
-  "subscribers": 886,
+  "name": "discourse",
+  "full_name": "discourse/discourse",
+  "description": "A platform for community discussion. Free, open, simple.",
+  "homepage": "https://www.discourse.org",
+  "language": "Ruby",
+  "license": "GPL-2.0",
+  "topics": [
+    "discourse",
+    "ember",
+    "forum",
+    "javascript",
+    "postgresql",
+    "rails",
+    "ruby"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:21.924Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-01-12T00:25:55Z",
+  "pushed_at": "2025-11-10T08:23:06Z",
+  "size": 784688,
+  "stars_now": 45541,
+  "forks": 8708,
+  "open_issues": 130,
+  "subscribers": 886,
+  "watchers": 45541,
+  "html_url": "https://github.com/discourse/discourse",
+  "api_url": "https://api.github.com/repos/discourse/discourse",
+  "fetched_at": "2025-11-10T08:31:08.254Z"
 }

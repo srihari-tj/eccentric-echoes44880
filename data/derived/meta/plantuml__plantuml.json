@@ -1,9 +1,34 @@
 {
+  "owner": "plantuml",
   "repo": "plantuml/plantuml",
-  "stars_now": 12256,
-  "forks": 1110,
+  "name": "plantuml",
+  "full_name": "plantuml/plantuml",
+  "description": "Generate diagrams from textual description",
+  "homepage": "https://plantuml.com",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "diagram",
+    "diagram-as-code",
+    "diagrams",
+    "diagrams-as-code",
+    "java",
+    "plantuml",
+    "uml",
+    "uml-diagram"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-11-04T15:55:50Z",
+  "pushed_at": "2025-11-07T21:56:10Z",
+  "size": 473709,
+  "stars_now": 12260,
+  "forks": 1111,
   "open_issues": 576,
   "subscribers": 147,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:55.722Z"
+  "watchers": 12260,
+  "html_url": "https://github.com/plantuml/plantuml",
+  "api_url": "https://api.github.com/repos/plantuml/plantuml",
+  "fetched_at": "2025-11-10T08:31:59.005Z"
 }

@@ -1,9 +1,30 @@
 {
+  "owner": "nextcloud",
   "repo": "nextcloud/all-in-one",
-  "stars_now": 8298,
-  "forks": 909,
-  "open_issues": 43,
-  "subscribers": 62,
+  "name": "all-in-one",
+  "full_name": "nextcloud/all-in-one",
+  "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+  "homepage": "https://nextcloud.com/blog/how-to-install-the-nextcloud-all-in-one-on-linux/",
+  "language": "PHP",
+  "license": "AGPL-3.0",
+  "topics": [
+    "backup",
+    "docker",
+    "nextcloud",
+    "restore"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:47.845Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-11-30T10:16:41Z",
+  "pushed_at": "2025-11-09T12:03:09Z",
+  "size": 10455,
+  "stars_now": 8306,
+  "forks": 909,
+  "open_issues": 44,
+  "subscribers": 62,
+  "watchers": 8306,
+  "html_url": "https://github.com/nextcloud/all-in-one",
+  "api_url": "https://api.github.com/repos/nextcloud/all-in-one",
+  "fetched_at": "2025-11-10T08:31:48.708Z"
 }

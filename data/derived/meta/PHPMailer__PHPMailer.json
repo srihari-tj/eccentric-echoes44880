@@ -1,9 +1,35 @@
 {
+  "owner": "PHPMailer",
   "repo": "PHPMailer/PHPMailer",
-  "stars_now": 21889,
+  "name": "PHPMailer",
+  "full_name": "PHPMailer/PHPMailer",
+  "description": "The classic email sending library for PHP",
+  "homepage": "https://github.com/PHPMailer/PHPMailer",
+  "language": "PHP",
+  "license": "LGPL-2.1",
+  "topics": [
+    "attachment",
+    "email",
+    "hacktoberfest",
+    "php",
+    "php-library",
+    "phpmailer",
+    "smtp",
+    "tls-support",
+    "xoauth2"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-08-23T07:57:17Z",
+  "pushed_at": "2025-11-10T07:41:36Z",
+  "size": 27932,
+  "stars_now": 21891,
   "forks": 9868,
   "open_issues": 41,
   "subscribers": 866,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:54:55.944Z"
+  "watchers": 21891,
+  "html_url": "https://github.com/PHPMailer/PHPMailer",
+  "api_url": "https://api.github.com/repos/PHPMailer/PHPMailer",
+  "fetched_at": "2025-11-10T08:30:33.350Z"
 }

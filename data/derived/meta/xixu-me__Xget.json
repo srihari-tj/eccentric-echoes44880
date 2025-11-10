@@ -1,9 +1,27 @@
 {
+  "owner": "xixu-me",
   "repo": "xixu-me/Xget",
-  "stars_now": 6325,
-  "forks": 645,
+  "name": "Xget",
+  "full_name": "xixu-me/Xget",
+  "description": "Ultra-high-performance, secure, all-in-one acceleration engine for developer resources that significantly outperforms traditional solutions, delivering unified, efficient acceleration across code repositories, package registries, AI inference APIs, container images, models, datasets, and more",
+  "homepage": "https://xuc.xi-xu.me",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [
+    "xget"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-11-01T09:11:15Z",
+  "pushed_at": "2025-11-09T17:21:15Z",
+  "size": 761,
+  "stars_now": 6377,
+  "forks": 664,
   "open_issues": 3,
   "subscribers": 16,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:14.632Z"
+  "watchers": 6377,
+  "html_url": "https://github.com/xixu-me/Xget",
+  "api_url": "https://api.github.com/repos/xixu-me/Xget",
+  "fetched_at": "2025-11-10T08:32:25.250Z"
 }

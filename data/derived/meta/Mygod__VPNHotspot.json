@@ -1,0 +1,31 @@
+{
+  "owner": "Mygod",
+  "repo": "Mygod/VPNHotspot",
+  "name": "VPNHotspot",
+  "full_name": "Mygod/VPNHotspot",
+  "description": "Share your VPN connection over hotspot or repeater! (root required)",
+  "homepage": "https://github.com/Mygod/VPNHotspot",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "hotspot",
+    "tethering",
+    "vpn",
+    "wifi-direct"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-01-03T07:38:11Z",
+  "pushed_at": "2025-09-19T00:17:07Z",
+  "size": 3681,
+  "stars_now": 4936,
+  "forks": 440,
+  "open_issues": 16,
+  "subscribers": 74,
+  "watchers": 4936,
+  "html_url": "https://github.com/Mygod/VPNHotspot",
+  "api_url": "https://api.github.com/repos/Mygod/VPNHotspot",
+  "fetched_at": "2025-11-10T08:30:30.533Z"
+}

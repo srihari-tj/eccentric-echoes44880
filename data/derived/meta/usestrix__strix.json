@@ -1,9 +1,32 @@
 {
+  "owner": "usestrix",
   "repo": "usestrix/strix",
-  "stars_now": 5450,
-  "forks": 578,
-  "open_issues": 15,
-  "subscribers": 49,
+  "name": "strix",
+  "full_name": "usestrix/strix",
+  "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+  "homepage": "https://usestrix.com/",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "agents",
+    "artificial-intelligence",
+    "cybersecurity",
+    "generative-ai",
+    "llm",
+    "penetration-testing"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:11.211Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-08-05T21:28:30Z",
+  "pushed_at": "2025-11-08T11:07:53Z",
+  "size": 1595,
+  "stars_now": 7705,
+  "forks": 727,
+  "open_issues": 19,
+  "subscribers": 63,
+  "watchers": 7705,
+  "html_url": "https://github.com/usestrix/strix",
+  "api_url": "https://api.github.com/repos/usestrix/strix",
+  "fetched_at": "2025-11-10T08:32:21.093Z"
 }

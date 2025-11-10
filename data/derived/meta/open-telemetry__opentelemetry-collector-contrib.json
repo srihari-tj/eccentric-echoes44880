@@ -1,9 +1,28 @@
 {
+  "owner": "open-telemetry",
   "repo": "open-telemetry/opentelemetry-collector-contrib",
-  "stars_now": 4141,
-  "forks": 3118,
-  "open_issues": 843,
-  "subscribers": 61,
+  "name": "opentelemetry-collector-contrib",
+  "full_name": "open-telemetry/opentelemetry-collector-contrib",
+  "description": "Contrib repository for the OpenTelemetry Collector",
+  "homepage": "https://opentelemetry.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "open-telemetry",
+    "opentelemetry"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:50.081Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-07-11T14:54:32Z",
+  "pushed_at": "2025-11-09T14:23:17Z",
+  "size": 690816,
+  "stars_now": 4142,
+  "forks": 3118,
+  "open_issues": 845,
+  "subscribers": 61,
+  "watchers": 4142,
+  "html_url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+  "api_url": "https://api.github.com/repos/open-telemetry/opentelemetry-collector-contrib",
+  "fetched_at": "2025-11-10T08:31:52.088Z"
 }

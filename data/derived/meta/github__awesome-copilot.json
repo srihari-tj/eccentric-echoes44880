@@ -1,0 +1,30 @@
+{
+  "owner": "github",
+  "repo": "github/awesome-copilot",
+  "name": "awesome-copilot",
+  "full_name": "github/awesome-copilot",
+  "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+  "homepage": "https://github.com/github/awesome-copilot",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "github-copilot",
+    "hacktoberfest",
+    "prompt-engineering"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-06-11T16:57:39Z",
+  "pushed_at": "2025-11-09T23:35:55Z",
+  "size": 2010,
+  "stars_now": 11571,
+  "forks": 1338,
+  "open_issues": 10,
+  "subscribers": 184,
+  "watchers": 11571,
+  "html_url": "https://github.com/github/awesome-copilot",
+  "api_url": "https://api.github.com/repos/github/awesome-copilot",
+  "fetched_at": "2025-11-10T08:31:18.621Z"
+}

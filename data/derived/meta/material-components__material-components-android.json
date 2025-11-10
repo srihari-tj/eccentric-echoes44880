@@ -1,9 +1,29 @@
 {
+  "owner": "material-components",
   "repo": "material-components/material-components-android",
-  "stars_now": 17006,
-  "forks": 3188,
-  "open_issues": 771,
-  "subscribers": 432,
+  "name": "material-components-android",
+  "full_name": "material-components/material-components-android",
+  "description": "Modular and customizable Material Design UI components for Android",
+  "homepage": "https://github.com/material-components/material-components-android",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "material-components",
+    "material-design"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:42.104Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-12-05T16:11:29Z",
+  "pushed_at": "2025-11-07T17:59:18Z",
+  "size": 181366,
+  "stars_now": 17009,
+  "forks": 3190,
+  "open_issues": 771,
+  "subscribers": 433,
+  "watchers": 17009,
+  "html_url": "https://github.com/material-components/material-components-android",
+  "api_url": "https://api.github.com/repos/material-components/material-components-android",
+  "fetched_at": "2025-11-10T08:31:41.548Z"
 }

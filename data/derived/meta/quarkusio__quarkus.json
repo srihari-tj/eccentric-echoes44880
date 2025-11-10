@@ -1,9 +1,31 @@
 {
+  "owner": "quarkusio",
   "repo": "quarkusio/quarkus",
-  "stars_now": 15173,
-  "forks": 2999,
-  "open_issues": 2706,
-  "subscribers": 259,
+  "name": "quarkus",
+  "full_name": "quarkusio/quarkus",
+  "description": "Quarkus: Supersonic Subatomic Java. ",
+  "homepage": "https://quarkus.io",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "cloud-native",
+    "hacktoberfest",
+    "java",
+    "kubernetes",
+    "reactive"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:58.826Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-07-06T00:44:20Z",
+  "pushed_at": "2025-11-10T08:24:26Z",
+  "size": 441963,
+  "stars_now": 15191,
+  "forks": 3001,
+  "open_issues": 2707,
+  "subscribers": 259,
+  "watchers": 15191,
+  "html_url": "https://github.com/quarkusio/quarkus",
+  "api_url": "https://api.github.com/repos/quarkusio/quarkus",
+  "fetched_at": "2025-11-10T08:32:03.361Z"
 }

@@ -1,9 +1,30 @@
 {
+  "owner": "spring-projects",
   "repo": "spring-projects/spring-boot",
-  "stars_now": 78919,
-  "forks": 41620,
-  "open_issues": 560,
-  "subscribers": 3330,
+  "name": "spring-boot",
+  "full_name": "spring-projects/spring-boot",
+  "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+  "homepage": "https://spring.io/projects/spring-boot",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "framework",
+    "java",
+    "spring",
+    "spring-boot"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:04.012Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-10-19T15:02:57Z",
+  "pushed_at": "2025-11-09T12:20:00Z",
+  "size": 208609,
+  "stars_now": 78938,
+  "forks": 41621,
+  "open_issues": 572,
+  "subscribers": 3331,
+  "watchers": 78938,
+  "html_url": "https://github.com/spring-projects/spring-boot",
+  "api_url": "https://api.github.com/repos/spring-projects/spring-boot",
+  "fetched_at": "2025-11-10T08:32:11.597Z"
 }

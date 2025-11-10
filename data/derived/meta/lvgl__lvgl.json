@@ -1,9 +1,33 @@
 {
+  "owner": "lvgl",
   "repo": "lvgl/lvgl",
-  "stars_now": 21888,
-  "forks": 3901,
+  "name": "lvgl",
+  "full_name": "lvgl/lvgl",
+  "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",
+  "homepage": "https://lvgl.io",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "c",
+    "embedded",
+    "graphics",
+    "gui",
+    "mcu",
+    "microcontroller",
+    "tft"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-06-08T04:14:34Z",
+  "pushed_at": "2025-11-06T15:58:26Z",
+  "size": 488940,
+  "stars_now": 21898,
+  "forks": 3900,
   "open_issues": 129,
   "subscribers": 317,
-  "default_branch": "master",
-  "fetched_at": "2025-11-09T09:55:40.409Z"
+  "watchers": 21898,
+  "html_url": "https://github.com/lvgl/lvgl",
+  "api_url": "https://api.github.com/repos/lvgl/lvgl",
+  "fetched_at": "2025-11-10T08:31:39.726Z"
 }

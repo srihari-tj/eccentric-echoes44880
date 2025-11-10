@@ -1,9 +1,30 @@
 {
+  "owner": "spring-projects",
   "repo": "spring-projects/spring-ai",
-  "stars_now": 7106,
-  "forks": 2012,
-  "open_issues": 962,
-  "subscribers": 97,
+  "name": "spring-ai",
+  "full_name": "spring-projects/spring-ai",
+  "description": "An Application Framework for AI Engineering",
+  "homepage": "https://docs.spring.io/spring-ai/reference/index.html",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "artificial-intelligence",
+    "hacktoberfest",
+    "java",
+    "spring-ai"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-07T17:31:49.539Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-06-27T18:57:29Z",
+  "pushed_at": "2025-11-09T00:05:05Z",
+  "size": 89881,
+  "stars_now": 7115,
+  "forks": 2012,
+  "open_issues": 957,
+  "subscribers": 97,
+  "watchers": 7115,
+  "html_url": "https://github.com/spring-projects/spring-ai",
+  "api_url": "https://api.github.com/repos/spring-projects/spring-ai",
+  "fetched_at": "2025-11-10T08:32:11.077Z"
 }

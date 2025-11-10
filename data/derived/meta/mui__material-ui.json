@@ -1,0 +1,31 @@
+{
+  "owner": "mui",
+  "repo": "mui/material-ui",
+  "name": "material-ui",
+  "full_name": "mui/material-ui",
+  "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+  "homepage": "https://mui.com/material-ui/",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "design-system",
+    "material-design",
+    "material-ui",
+    "react",
+    "react-components"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-08-18T19:11:54Z",
+  "pushed_at": "2025-11-10T07:41:35Z",
+  "size": 700045,
+  "stars_now": 97198,
+  "forks": 32719,
+  "open_issues": 1761,
+  "subscribers": 1311,
+  "watchers": 97198,
+  "html_url": "https://github.com/mui/material-ui",
+  "api_url": "https://api.github.com/repos/mui/material-ui",
+  "fetched_at": "2025-11-10T08:31:47.768Z"
+}

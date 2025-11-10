@@ -1,9 +1,31 @@
 {
+  "owner": "yhirose",
   "repo": "yhirose/cpp-httplib",
-  "stars_now": 15473,
-  "forks": 2550,
-  "open_issues": 8,
-  "subscribers": 193,
+  "name": "cpp-httplib",
+  "full_name": "yhirose/cpp-httplib",
+  "description": "A C++ header-only HTTP/HTTPS server and client library",
+  "homepage": "https://github.com/yhirose/cpp-httplib",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "cpp",
+    "cpp11",
+    "header-only",
+    "http",
+    "https"
+  ],
   "default_branch": "master",
-  "fetched_at": "2025-11-09T09:56:15.756Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-09-22T02:38:32Z",
+  "pushed_at": "2025-11-03T03:23:42Z",
+  "size": 3666,
+  "stars_now": 15485,
+  "forks": 2553,
+  "open_issues": 10,
+  "subscribers": 193,
+  "watchers": 15485,
+  "html_url": "https://github.com/yhirose/cpp-httplib",
+  "api_url": "https://api.github.com/repos/yhirose/cpp-httplib",
+  "fetched_at": "2025-11-10T08:32:26.570Z"
 }

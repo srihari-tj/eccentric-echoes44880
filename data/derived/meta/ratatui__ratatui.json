@@ -1,9 +1,33 @@
 {
+  "owner": "ratatui",
   "repo": "ratatui/ratatui",
-  "stars_now": 15931,
-  "forks": 494,
+  "name": "ratatui",
+  "full_name": "ratatui/ratatui",
+  "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+  "homepage": "https://ratatui.rs",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "cli",
+    "ratatui",
+    "rust",
+    "terminal",
+    "terminal-user-interface",
+    "tui",
+    "widgets"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-02-12T21:56:20Z",
+  "pushed_at": "2025-11-09T13:28:04Z",
+  "size": 137236,
+  "stars_now": 15951,
+  "forks": 495,
   "open_issues": 177,
   "subscribers": 43,
-  "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:59.238Z"
+  "watchers": 15951,
+  "html_url": "https://github.com/ratatui/ratatui",
+  "api_url": "https://api.github.com/repos/ratatui/ratatui",
+  "fetched_at": "2025-11-10T08:32:03.840Z"
 }

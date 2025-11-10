@@ -1,9 +1,32 @@
 {
+  "owner": "dani-garcia",
   "repo": "dani-garcia/vaultwarden",
-  "stars_now": 50676,
-  "forks": 2372,
-  "open_issues": 36,
-  "subscribers": 266,
+  "name": "vaultwarden",
+  "full_name": "dani-garcia/vaultwarden",
+  "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+  "homepage": "https://github.com/dani-garcia/vaultwarden",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "topics": [
+    "bitwarden",
+    "bitwarden-rs",
+    "docker",
+    "rocket",
+    "rust",
+    "vaultwarden"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:55:19.581Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-02-17T22:40:20Z",
+  "pushed_at": "2025-11-01T21:21:04Z",
+  "size": 10898,
+  "stars_now": 50702,
+  "forks": 2373,
+  "open_issues": 37,
+  "subscribers": 266,
+  "watchers": 50702,
+  "html_url": "https://github.com/dani-garcia/vaultwarden",
+  "api_url": "https://api.github.com/repos/dani-garcia/vaultwarden",
+  "fetched_at": "2025-11-10T08:31:05.800Z"
 }

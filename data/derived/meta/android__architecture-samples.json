@@ -1,0 +1,29 @@
+{
+  "owner": "android",
+  "repo": "android/architecture-samples",
+  "name": "architecture-samples",
+  "full_name": "android/architecture-samples",
+  "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+  "homepage": "https://github.com/android/architecture-samples",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "android-architecture",
+    "samples"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-02-05T13:42:07Z",
+  "pushed_at": "2025-11-09T11:52:27Z",
+  "size": 13335,
+  "stars_now": 45404,
+  "forks": 11816,
+  "open_issues": 216,
+  "subscribers": 2390,
+  "watchers": 45404,
+  "html_url": "https://github.com/android/architecture-samples",
+  "api_url": "https://api.github.com/repos/android/architecture-samples",
+  "fetched_at": "2025-11-10T08:30:45.569Z"
+}

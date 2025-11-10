@@ -1,9 +1,31 @@
 {
+  "owner": "vercel",
   "repo": "vercel/turborepo",
-  "stars_now": 29049,
-  "forks": 2127,
-  "open_issues": 161,
-  "subscribers": 149,
+  "name": "turborepo",
+  "full_name": "vercel/turborepo",
+  "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+  "homepage": "https://turborepo.com",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "build-system",
+    "build-tool",
+    "javascript",
+    "monorepo",
+    "typescript"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-09T09:56:13.366Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-10-05T17:37:11Z",
+  "pushed_at": "2025-11-10T05:37:23Z",
+  "size": 779727,
+  "stars_now": 29058,
+  "forks": 2127,
+  "open_issues": 159,
+  "subscribers": 149,
+  "watchers": 29058,
+  "html_url": "https://github.com/vercel/turborepo",
+  "api_url": "https://api.github.com/repos/vercel/turborepo",
+  "fetched_at": "2025-11-10T08:32:23.349Z"
 }

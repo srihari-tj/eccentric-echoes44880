@@ -56,647 +56,647 @@
     "rank": 8
   },
   {
+    "repo": "duixcom/Duix-Avatar",
+    "cumulative_start": 5194,
+    "cumulative_end": 10189,
+    "delta": 4995,
+    "rank": 9
+  },
+  {
     "repo": "nautechsystems/nautilus_trader",
     "cumulative_start": 4676,
     "cumulative_end": 9369,
     "delta": 4693,
-    "rank": 9
+    "rank": 10
   },
   {
     "repo": "glanceapp/glance",
     "cumulative_start": 20842,
     "cumulative_end": 25442,
     "delta": 4600,
-    "rank": 10
+    "rank": 11
   },
   {
     "repo": "GeeeekExplorer/nano-vllm",
     "cumulative_start": 0,
     "cumulative_end": 4591,
     "delta": 4591,
-    "rank": 11
+    "rank": 12
   },
   {
     "repo": "GraphiteEditor/Graphite",
     "cumulative_start": 11084,
     "cumulative_end": 15656,
     "delta": 4572,
-    "rank": 12
+    "rank": 13
   },
   {
     "repo": "ConardLi/easy-dataset",
     "cumulative_start": 4339,
     "cumulative_end": 8885,
     "delta": 4546,
-    "rank": 13
+    "rank": 14
   },
   {
     "repo": "ourongxing/newsnow",
     "cumulative_start": 7181,
     "cumulative_end": 11575,
     "delta": 4394,
-    "rank": 14
+    "rank": 15
   },
   {
     "repo": "elie222/inbox-zero",
     "cumulative_start": 3929,
     "cumulative_end": 8120,
     "delta": 4191,
-    "rank": 15
+    "rank": 16
   },
   {
     "repo": "block/goose",
     "cumulative_start": 10874,
     "cumulative_end": 15053,
     "delta": 4179,
-    "rank": 16
+    "rank": 17
   },
   {
     "repo": "topoteretes/cognee",
     "cumulative_start": 1751,
     "cumulative_end": 5864,
     "delta": 4113,
-    "rank": 17
+    "rank": 18
   },
   {
     "repo": "vanna-ai/vanna",
     "cumulative_start": 14388,
     "cumulative_end": 18262,
     "delta": 3874,
-    "rank": 18
+    "rank": 19
   },
   {
     "repo": "HeyPuter/puter",
     "cumulative_start": 29525,
     "cumulative_end": 33325,
     "delta": 3800,
-    "rank": 19
+    "rank": 20
   },
   {
     "repo": "gkd-kit/gkd",
     "cumulative_start": 25477,
     "cumulative_end": 28965,
     "delta": 3488,
-    "rank": 20
+    "rank": 21
+  },
+  {
+    "repo": "Raphire/Win11Debloat",
+    "cumulative_start": 18085,
+    "cumulative_end": 21493,
+    "delta": 3408,
+    "rank": 22
   },
   {
     "repo": "droidrun/droidrun",
     "cumulative_start": 0,
     "cumulative_end": 3165,
     "delta": 3165,
-    "rank": 21
+    "rank": 23
   },
   {
     "repo": "juanfont/headscale",
     "cumulative_start": 26125,
     "cumulative_end": 29267,
     "delta": 3142,
-    "rank": 22
+    "rank": 24
   },
   {
     "repo": "1Panel-dev/1Panel",
     "cumulative_start": 25963,
     "cumulative_end": 29101,
     "delta": 3138,
-    "rank": 23
+    "rank": 25
   },
   {
     "repo": "chaitin/PandaWiki",
     "cumulative_start": 0,
     "cumulative_end": 3121,
     "delta": 3121,
-    "rank": 24
+    "rank": 26
+  },
+  {
+    "repo": "keploy/keploy",
+    "cumulative_start": 6833,
+    "cumulative_end": 9878,
+    "delta": 3045,
+    "rank": 27
   },
   {
     "repo": "facebook/pyrefly",
     "cumulative_start": 77,
     "cumulative_end": 3095,
     "delta": 3018,
-    "rank": 25
+    "rank": 28
   },
   {
     "repo": "DioxusLabs/dioxus",
     "cumulative_start": 25923,
     "cumulative_end": 28849,
     "delta": 2926,
-    "rank": 26
+    "rank": 29
   },
   {
     "repo": "slidevjs/slidev",
     "cumulative_start": 35502,
     "cumulative_end": 38410,
     "delta": 2908,
-    "rank": 27
+    "rank": 30
   },
   {
     "repo": "longbridge/gpui-component",
     "cumulative_start": 637,
     "cumulative_end": 3222,
     "delta": 2585,
-    "rank": 28
+    "rank": 31
   },
   {
     "repo": "mudler/LocalAI",
     "cumulative_start": 30900,
     "cumulative_end": 33264,
     "delta": 2364,
-    "rank": 29
+    "rank": 32
   },
   {
     "repo": "musistudio/claude-code-router",
     "cumulative_start": 181,
     "cumulative_end": 2388,
     "delta": 2207,
-    "rank": 30
+    "rank": 33
   },
   {
     "repo": "cloudwego/eino",
     "cumulative_start": 2526,
     "cumulative_end": 4661,
     "delta": 2135,
-    "rank": 31
+    "rank": 34
+  },
+  {
+    "repo": "airweave-ai/airweave",
+    "cumulative_start": 538,
+    "cumulative_end": 2662,
+    "delta": 2124,
+    "rank": 35
   },
   {
     "repo": "zumerlab/snapdom",
     "cumulative_start": 0,
     "cumulative_end": 2103,
     "delta": 2103,
-    "rank": 32
+    "rank": 36
   },
   {
     "repo": "nocobase/nocobase",
     "cumulative_start": 13786,
     "cumulative_end": 15854,
     "delta": 2068,
-    "rank": 33
+    "rank": 37
   },
   {
     "repo": "suitenumerique/docs",
     "cumulative_start": 10600,
     "cumulative_end": 12595,
     "delta": 1995,
-    "rank": 34
+    "rank": 38
   },
   {
     "repo": "vnpy/vnpy",
     "cumulative_start": 28460,
     "cumulative_end": 30435,
     "delta": 1975,
-    "rank": 35
+    "rank": 39
   },
   {
     "repo": "RikkaApps/Shizuku",
     "cumulative_start": 13169,
     "cumulative_end": 15130,
     "delta": 1961,
-    "rank": 36
+    "rank": 40
   },
   {
     "repo": "AutoMQ/automq",
     "cumulative_start": 4728,
     "cumulative_end": 6661,
     "delta": 1933,
-    "rank": 37
+    "rank": 41
   },
   {
     "repo": "gitleaks/gitleaks",
     "cumulative_start": 19237,
     "cumulative_end": 21164,
     "delta": 1927,
-    "rank": 38
+    "rank": 42
   },
   {
     "repo": "chatboxai/chatbox",
     "cumulative_start": 33269,
     "cumulative_end": 35175,
     "delta": 1906,
-    "rank": 39
+    "rank": 43
   },
   {
     "repo": "usememos/memos",
     "cumulative_start": 38121,
     "cumulative_end": 40000,
     "delta": 1879,
-    "rank": 40
+    "rank": 44
   },
   {
     "repo": "YunaiV/ruoyi-vue-pro",
     "cumulative_start": 29794,
     "cumulative_end": 31651,
     "delta": 1857,
-    "rank": 41
+    "rank": 45
   },
   {
     "repo": "putyy/res-downloader",
     "cumulative_start": 5645,
     "cumulative_end": 7494,
     "delta": 1849,
-    "rank": 42
+    "rank": 46
   },
   {
     "repo": "bagisto/bagisto",
     "cumulative_start": 17459,
     "cumulative_end": 19294,
     "delta": 1835,
-    "rank": 43
+    "rank": 47
   },
   {
     "repo": "helix-editor/helix",
     "cumulative_start": 36170,
     "cumulative_end": 37891,
     "delta": 1721,
-    "rank": 44
+    "rank": 48
   },
   {
     "repo": "qdrant/qdrant",
     "cumulative_start": 22588,
     "cumulative_end": 24232,
     "delta": 1644,
-    "rank": 45
+    "rank": 49
   },
   {
     "repo": "kilimchoi/engineering-blogs",
     "cumulative_start": 32718,
     "cumulative_end": 34340,
     "delta": 1622,
-    "rank": 46
+    "rank": 50
   },
   {
     "repo": "mihonapp/mihon",
     "cumulative_start": 12555,
     "cumulative_end": 14137,
     "delta": 1582,
-    "rank": 47
+    "rank": 51
   },
   {
     "repo": "cocoindex-io/cocoindex",
     "cumulative_start": 413,
     "cumulative_end": 1983,
     "delta": 1570,
-    "rank": 48
+    "rank": 52
   },
   {
     "repo": "NginxProxyManager/nginx-proxy-manager",
     "cumulative_start": 25119,
     "cumulative_end": 26654,
     "delta": 1535,
-    "rank": 49
+    "rank": 53
   },
   {
     "repo": "FreeCAD/FreeCAD",
     "cumulative_start": 23482,
     "cumulative_end": 25008,
     "delta": 1526,
-    "rank": 50
+    "rank": 54
   },
   {
     "repo": "spring-projects/spring-ai",
     "cumulative_start": 4365,
     "cumulative_end": 5882,
     "delta": 1517,
-    "rank": 51
+    "rank": 55
+  },
+  {
+    "repo": "barry-ran/QtScrcpy",
+    "cumulative_start": 23210,
+    "cumulative_end": 24655,
+    "delta": 1445,
+    "rank": 56
   },
   {
     "repo": "ratatui/ratatui",
     "cumulative_start": 12297,
     "cumulative_end": 13713,
     "delta": 1416,
-    "rank": 52
+    "rank": 57
   },
   {
     "repo": "umami-software/umami",
     "cumulative_start": 25437,
     "cumulative_end": 26847,
     "delta": 1410,
-    "rank": 53
+    "rank": 58
   },
   {
     "repo": "hexgrad/kokoro",
     "cumulative_start": 2029,
     "cumulative_end": 3368,
     "delta": 1339,
-    "rank": 54
+    "rank": 59
   },
   {
     "repo": "kvcache-ai/ktransformers",
     "cumulative_start": 13031,
     "cumulative_end": 14361,
     "delta": 1330,
-    "rank": 55
+    "rank": 60
   },
   {
     "repo": "kingToolbox/WindTerm",
     "cumulative_start": 25476,
     "cumulative_end": 26796,
     "delta": 1320,
-    "rank": 56
+    "rank": 61
   },
   {
     "repo": "MatsuriDayo/NekoBoxForAndroid",
     "cumulative_start": 13257,
     "cumulative_end": 14559,
     "delta": 1302,
-    "rank": 57
+    "rank": 62
   },
   {
     "repo": "ml-explore/mlx",
     "cumulative_start": 19817,
     "cumulative_end": 21110,
     "delta": 1293,
-    "rank": 58
+    "rank": 63
   },
   {
     "repo": "hmjz100/LinkSwift",
     "cumulative_start": 3236,
     "cumulative_end": 4526,
     "delta": 1290,
-    "rank": 59
+    "rank": 64
   },
   {
     "repo": "pppscn/SmsForwarder",
     "cumulative_start": 20254,
     "cumulative_end": 21538,
     "delta": 1284,
-    "rank": 60
+    "rank": 65
   },
   {
     "repo": "hanxi/xiaomusic",
     "cumulative_start": 3305,
     "cumulative_end": 4559,
     "delta": 1254,
-    "rank": 61
+    "rank": 66
   },
   {
     "repo": "flameshot-org/flameshot",
     "cumulative_start": 25648,
     "cumulative_end": 26900,
     "delta": 1252,
-    "rank": 62
+    "rank": 67
   },
   {
     "repo": "assistant-ui/assistant-ui",
     "cumulative_start": 3789,
     "cumulative_end": 5024,
     "delta": 1235,
-    "rank": 63
+    "rank": 68
   },
   {
     "repo": "Canner/WrenAI",
     "cumulative_start": 7181,
     "cumulative_end": 8405,
     "delta": 1224,
-    "rank": 64
+    "rank": 69
   },
   {
     "repo": "plankanban/planka",
     "cumulative_start": 8781,
     "cumulative_end": 9966,
     "delta": 1185,
-    "rank": 65
+    "rank": 70
   },
   {
     "repo": "blackmatrix7/ios_rule_script",
     "cumulative_start": 20212,
     "cumulative_end": 21362,
     "delta": 1150,
-    "rank": 66
+    "rank": 71
   },
   {
     "repo": "opf/openproject",
     "cumulative_start": 10168,
     "cumulative_end": 11286,
     "delta": 1118,
-    "rank": 67
+    "rank": 72
   },
   {
     "repo": "Ackites/Nrfr",
     "cumulative_start": 1648,
     "cumulative_end": 2765,
     "delta": 1117,
-    "rank": 68
+    "rank": 73
   },
   {
     "repo": "lima-vm/lima",
     "cumulative_start": 16405,
     "cumulative_end": 17521,
     "delta": 1116,
-    "rank": 69
+    "rank": 74
   },
   {
     "repo": "projectdiscovery/nuclei",
     "cumulative_start": 22568,
     "cumulative_end": 23680,
     "delta": 1112,
-    "rank": 70
+    "rank": 75
   },
   {
     "repo": "coollabsio/coolify",
     "cumulative_start": 38894,
     "cumulative_end": 40000,
     "delta": 1106,
-    "rank": 71
+    "rank": 76
   },
   {
     "repo": "Freika/dawarich",
     "cumulative_start": 4311,
     "cumulative_end": 5409,
     "delta": 1098,
-    "rank": 72
+    "rank": 77
   },
   {
     "repo": "glzr-io/glazewm",
     "cumulative_start": 7771,
     "cumulative_end": 8866,
     "delta": 1095,
-    "rank": 73
+    "rank": 78
   },
   {
     "repo": "cactus-compute/cactus",
     "cumulative_start": 0,
     "cumulative_end": 1077,
     "delta": 1077,
-    "rank": 74
+    "rank": 79
   },
   {
     "repo": "trufflesecurity/trufflehog",
     "cumulative_start": 18506,
     "cumulative_end": 19576,
     "delta": 1070,
-    "rank": 75
+    "rank": 80
   },
   {
     "repo": "VectifyAI/PageIndex",
     "cumulative_start": 6,
     "cumulative_end": 1065,
     "delta": 1059,
-    "rank": 76
+    "rank": 81
   },
   {
     "repo": "2dust/v2rayNG",
     "cumulative_start": 38961,
     "cumulative_end": 40000,
     "delta": 1039,
-    "rank": 77
+    "rank": 82
+  },
+  {
+    "repo": "tmux/tmux",
+    "cumulative_start": 36680,
+    "cumulative_end": 37702,
+    "delta": 1022,
+    "rank": 83
   },
   {
     "repo": "tiann/KernelSU",
     "cumulative_start": 11663,
     "cumulative_end": 12682,
     "delta": 1019,
-    "rank": 78
+    "rank": 84
   },
   {
     "repo": "seaweedfs/seaweedfs",
     "cumulative_start": 23856,
     "cumulative_end": 24857,
     "delta": 1001,
-    "rank": 79
+    "rank": 85
   },
   {
     "repo": "k4yt3x/video2x",
     "cumulative_start": 12702,
     "cumulative_end": 13697,
     "delta": 995,
-    "rank": 80
+    "rank": 86
   },
   {
     "repo": "advplyr/audiobookshelf",
     "cumulative_start": 8142,
     "cumulative_end": 9133,
     "delta": 991,
-    "rank": 81
+    "rank": 87
   },
   {
     "repo": "curl/curl",
     "cumulative_start": 37023,
     "cumulative_end": 38004,
     "delta": 981,
-    "rank": 82
+    "rank": 88
   },
   {
     "repo": "sigoden/aichat",
     "cumulative_start": 6151,
     "cumulative_end": 7123,
     "delta": 972,
-    "rank": 83
+    "rank": 89
   },
   {
     "repo": "Skyvern-AI/skyvern",
     "cumulative_start": 12633,
     "cumulative_end": 13602,
     "delta": 969,
-    "rank": 84
+    "rank": 90
   },
   {
     "repo": "n0-computer/iroh",
     "cumulative_start": 4379,
     "cumulative_end": 5347,
     "delta": 968,
-    "rank": 85
+    "rank": 91
   },
   {
     "repo": "openwrt/openwrt",
     "cumulative_start": 21781,
     "cumulative_end": 22737,
     "delta": 956,
-    "rank": 86
+    "rank": 92
   },
   {
     "repo": "nginx/nginx",
     "cumulative_start": 26225,
     "cumulative_end": 27153,
     "delta": 928,
-    "rank": 87
+    "rank": 93
   },
   {
     "repo": "openobserve/openobserve",
     "cumulative_start": 14663,
     "cumulative_end": 15570,
     "delta": 907,
-    "rank": 88
+    "rank": 94
   },
   {
     "repo": "lvgl/lvgl",
     "cumulative_start": 18995,
     "cumulative_end": 19894,
     "delta": 899,
-    "rank": 89
+    "rank": 95
   },
   {
     "repo": "TEN-framework/ten-framework",
     "cumulative_start": 5341,
     "cumulative_end": 6226,
     "delta": 885,
-    "rank": 90
+    "rank": 96
   },
   {
     "repo": "KotatsuApp/Kotatsu",
     "cumulative_start": 4959,
     "cumulative_end": 5818,
     "delta": 859,
-    "rank": 91
+    "rank": 97
   },
   {
     "repo": "charmbracelet/glow",
     "cumulative_start": 17279,
     "cumulative_end": 18137,
     "delta": 858,
-    "rank": 92
+    "rank": 98
   },
   {
     "repo": "jetkvm/kvm",
     "cumulative_start": 1992,
     "cumulative_end": 2843,
     "delta": 851,
-    "rank": 93
+    "rank": 99
   },
   {
     "repo": "JetBrains/compose-multiplatform",
     "cumulative_start": 16871,
     "cumulative_end": 17721,
     "delta": 850,
-    "rank": 94
-  },
-  {
-    "repo": "VictoriaMetrics/VictoriaMetrics",
-    "cumulative_start": 13502,
-    "cumulative_end": 14322,
-    "delta": 820,
-    "rank": 95
-  },
-  {
-    "repo": "simdjson/simdjson",
-    "cumulative_start": 19871,
-    "cumulative_end": 20670,
-    "delta": 799,
-    "rank": 96
-  },
-  {
-    "repo": "zeromicro/go-zero",
-    "cumulative_start": 30420,
-    "cumulative_end": 31189,
-    "delta": 769,
-    "rank": 97
-  },
-  {
-    "repo": "timescale/timescaledb",
-    "cumulative_start": 18564,
-    "cumulative_end": 19325,
-    "delta": 761,
-    "rank": 98
-  },
-  {
-    "repo": "nextcloud/all-in-one",
-    "cumulative_start": 6360,
-    "cumulative_end": 7119,
-    "delta": 759,
-    "rank": 99
-  },
-  {
-    "repo": "wazuh/wazuh",
-    "cumulative_start": 11944,
-    "cumulative_end": 12700,
-    "delta": 756,
     "rank": 100
   }
 ]

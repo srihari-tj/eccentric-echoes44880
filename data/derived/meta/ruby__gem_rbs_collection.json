@@ -1,9 +1,30 @@
 {
+  "owner": "ruby",
   "repo": "ruby/gem_rbs_collection",
+  "name": "gem_rbs_collection",
+  "full_name": "ruby/gem_rbs_collection",
+  "description": "A collection of RBS for gems.",
+  "homepage": "https://github.com/ruby/gem_rbs_collection",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "hacktoberfest",
+    "rbs",
+    "ruby",
+    "typing"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-10-15T06:59:20Z",
+  "pushed_at": "2025-11-05T06:22:19Z",
+  "size": 4548,
   "stars_now": 294,
   "forks": 128,
   "open_issues": 17,
   "subscribers": 39,
-  "default_branch": "main",
-  "fetched_at": "2025-11-07T17:31:43.012Z"
+  "watchers": 294,
+  "html_url": "https://github.com/ruby/gem_rbs_collection",
+  "api_url": "https://api.github.com/repos/ruby/gem_rbs_collection",
+  "fetched_at": "2025-11-10T08:32:05.408Z"
 }
