@@ -63,10 +63,10 @@ jobs:
       #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
       #   run: node scripts/fetch_stars.js
 
-      - name: Fetch repo meta (stars_now/forks/etc)
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: node scripts/fetch_repo_meta.js
+      # - name: Fetch repo meta (stars_now/forks/etc)
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      #   run: node scripts/fetch_repo_meta.js
         
       - name: Enrich contributor location distribution (writes into meta files)
         env:
