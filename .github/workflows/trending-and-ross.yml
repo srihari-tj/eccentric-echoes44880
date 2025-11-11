@@ -67,6 +67,11 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/fetch_repo_meta.js
+        
+      - name: Enrich contributor location distribution (writes into meta files)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/enrich_contributor_locations.js
 
       - name: Aggregate weekly (stars_now passthrough)
         run: node scripts/aggregate_weekly.js
