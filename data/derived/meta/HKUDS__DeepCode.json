@@ -24,5 +24,10 @@
   "watchers": 9942,
   "html_url": "https://github.com/HKUDS/DeepCode",
   "api_url": "https://api.github.com/repos/HKUDS/DeepCode",
-  "fetched_at": "2025-11-10T08:30:25.949Z"
+  "fetched_at": "2025-11-10T08:30:25.949Z",
+  "contributor_locations": {
+    "unknown": 3,
+    "beijing china": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:29:36.769Z"
 }

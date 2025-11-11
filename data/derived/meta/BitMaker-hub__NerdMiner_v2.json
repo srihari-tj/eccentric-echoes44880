@@ -25,5 +25,22 @@
   "watchers": 2357,
   "html_url": "https://github.com/BitMaker-hub/NerdMiner_v2",
   "api_url": "https://api.github.com/repos/BitMaker-hub/NerdMiner_v2",
-  "fetched_at": "2025-11-10T08:30:16.193Z"
+  "fetched_at": "2025-11-10T08:30:16.193Z",
+  "contributor_locations": {
+    "unknown": 24,
+    "brasil": 1,
+    "bordeaux, france": 1,
+    "san antonio, tx": 1,
+    "germany": 1,
+    "italia": 1,
+    "bologna, italy": 1,
+    "brazil": 1,
+    "seville, spain": 1,
+    "hungary": 2,
+    "florence": 1,
+    "paris, fr": 1,
+    "bavaria germany": 1,
+    "munich, germany": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:12:11.771Z"
 }

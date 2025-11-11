@@ -25,5 +25,15 @@
   "watchers": 11729,
   "html_url": "https://github.com/ConardLi/easy-dataset",
   "api_url": "https://api.github.com/repos/ConardLi/easy-dataset",
-  "fetched_at": "2025-11-10T08:30:19.516Z"
+  "fetched_at": "2025-11-10T08:30:19.516Z",
+  "contributor_locations": {
+    "beijing": 2,
+    "xi'an,china": 1,
+    "unknown": 11,
+    "undefined😀": 1,
+    "global": 1,
+    "beijing, china": 2,
+    "china chongqing": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:18:59.596Z"
 }

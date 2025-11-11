@@ -30,5 +30,22 @@
   "watchers": 23561,
   "html_url": "https://github.com/Fosowl/agenticSeek",
   "api_url": "https://api.github.com/repos/Fosowl/agenticSeek",
-  "fetched_at": "2025-11-10T08:30:21.536Z"
+  "fetched_at": "2025-11-10T08:30:21.536Z",
+  "contributor_locations": {
+    "nice, france": 1,
+    "unknown": 14,
+    "everywhere": 1,
+    "dehradun": 1,
+    "spain": 1,
+    "brazil": 1,
+    "boca raton,fl": 1,
+    "dhaka, bangladesh": 1,
+    "tokyo, japan": 1,
+    "florida": 1,
+    "amsterdam": 1,
+    "prague": 1,
+    "hong kong": 1,
+    "kuta selatan, bali, indonesia": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:23:11.667Z"
 }

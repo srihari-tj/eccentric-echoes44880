@@ -28,5 +28,15 @@
   "watchers": 1703,
   "html_url": "https://github.com/CherryHQ/cherry-studio-app",
   "api_url": "https://api.github.com/repos/CherryHQ/cherry-studio-app",
-  "fetched_at": "2025-11-10T08:30:18.024Z"
+  "fetched_at": "2025-11-10T08:30:18.024Z",
+  "contributor_locations": {
+    "unknown": 10,
+    "nottingham uk": 1,
+    "beijing": 1,
+    "shanghai - china": 1,
+    "hang zhou": 1,
+    "liverpool": 1,
+    "china": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:16:49.171Z"
 }

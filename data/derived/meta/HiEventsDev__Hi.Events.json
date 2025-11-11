@@ -5,5 +5,22 @@
   "open_issues": 122,
   "subscribers": 21,
   "default_branch": "develop",
-  "fetched_at": "2025-11-07T17:30:20.580Z"
+  "fetched_at": "2025-11-07T17:30:20.580Z",
+  "contributor_locations": {
+    "dublin, ireland": 1,
+    "belgium": 1,
+    "unknown": 10,
+    "bahrain": 2,
+    "vicenza-italy": 1,
+    "australia": 1,
+    "united states": 2,
+    "hong kong": 1,
+    "new york, ny": 1,
+    "argentina": 1,
+    "viet nam": 1,
+    "tokyo, japan": 1,
+    "hangzhou": 1,
+    "vienna, austria": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:31:34.724Z"
 }

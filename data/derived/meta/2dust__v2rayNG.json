@@ -34,5 +34,27 @@
   "watchers": 46815,
   "html_url": "https://github.com/2dust/v2rayNG",
   "api_url": "https://api.github.com/repos/2dust/v2rayNG",
-  "fetched_at": "2025-11-10T08:30:11.747Z"
+  "fetched_at": "2025-11-10T08:30:11.747Z",
+  "contributor_locations": {
+    "unknown": 33,
+    "localhost": 1,
+    "iran": 1,
+    "mukden": 1,
+    "tehran": 2,
+    "sana'a": 1,
+    "下北泽": 1,
+    "alborz , iran": 1,
+    "tehran, iran": 2,
+    "amsterdam": 1,
+    "wonkaville": 1,
+    "chenhai, tuvalu(图瓦卢，辰海市)": 1,
+    "ufa, russia": 1,
+    "m78": 1,
+    "seoul": 1,
+    "baku": 1,
+    "suzhou, china": 1,
+    "china": 1,
+    "behbahan, iran": 1
+  },
+  "contributor_locations_updated_at": "2025-11-11T11:08:29.330Z"
 }
