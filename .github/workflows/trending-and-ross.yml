@@ -58,10 +58,10 @@ jobs:
           Q="${KEY##*-}"
           node scripts/build_candidates.js "$Y" "$Q"
 
-      - name: Fetch stars (timestamps for candidates)
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: node scripts/fetch_stars.js
+      # - name: Fetch stars (timestamps for candidates)
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      #   run: node scripts/fetch_stars.js
 
       - name: Fetch repo meta (stars_now/forks/etc)
         env:
