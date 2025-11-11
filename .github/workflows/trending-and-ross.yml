@@ -58,20 +58,23 @@ jobs:
           Q="${KEY##*-}"
           node scripts/build_candidates.js "$Y" "$Q"
 
-      # - name: Fetch stars (timestamps for candidates)
-      #   env:
-      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      #   run: node scripts/fetch_stars.js
-
-      # - name: Fetch repo meta (stars_now/forks/etc)
-      #   env:
-      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      #   run: node scripts/fetch_repo_meta.js
-        
-      - name: Enrich contributor location distribution (writes into meta files)
+      - name: Fetch stars (timestamps for candidates)
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/fetch_stars.js
+
+      - name: Fetch repo meta (stars_now/forks/etc)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/fetch_repo_meta.js
+        
+      - name: Enrich contributor locations (rate-limit aware)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCN_MAX_PAGES: ${{ inputs.max_pages_per_repo }}
+          LOCN_MAX_RUN_MS: ${{ inputs.max_run_ms }}
         run: node scripts/enrich_contributor_locations.js
+
 
       - name: Aggregate weekly (stars_now passthrough)
         run: node scripts/aggregate_weekly.js
