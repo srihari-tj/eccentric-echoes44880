@@ -2,7 +2,7 @@
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
-const { execSync } = require('child_process');  // ADDED for git commits
+import { execSync } from 'child_process';  // ✅ FIXED: ES module import
 
 const RAW_DIR = "data/raw/stars";
 const DERIVED_DIR = "data/derived";
@@ -14,7 +14,7 @@ fs.mkdirSync(STATE_DIR, { recursive: true });
 
 const START_TIME = Date.now();
 const MAX_RUN_MS = Number(process.env.MAX_RUN_MS || 5 * 60 * 60 * 1000);
-const CHECKPOINT_COMMIT_EVERY = 50;  // ADDED: commit every 50 repos
+const CHECKPOINT_COMMIT_EVERY = 50;
 
 function listQuarterDirs() {
   if (!fs.existsSync(DERIVED_DIR)) return [];
@@ -49,7 +49,7 @@ function saveState(state) {
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
 }
 
-function commitCheckpoint(idx) {  // ADDED: force git commit/push
+function commitCheckpoint(idx) {
   console.log(`Committing checkpoint at index ${idx}`);
   try {
     execSync('git add data/raw/stars data/state/fetch_stars_state.json', { stdio: 'inherit' });
@@ -144,27 +144,24 @@ async function fetchStargazerTimestamps(owner, repo, knownNewest) {
       console.error("error", owner + "/" + repo, e.message);
     }
 
-    // Save state every 10 repos
     if (idx % 10 === 0) {
       saveState({ index: idx + 1 });
     }
 
-    // COMMIT TO GIT every 50 repos
     if (idx % CHECKPOINT_COMMIT_EVERY === 0) {
       commitCheckpoint(idx + 1);
     }
 
-    // CRITICAL: TIME LIMIT → SAVE + COMMIT + EXIT
     if (Date.now() - START_TIME > MAX_RUN_MS) {
       console.log("Max run time reached, saving final state and committing...");
       saveState({ index: idx + 1 });
-      commitCheckpoint(idx + 1);  // ✅ COMMITS BEFORE EXIT
+      commitCheckpoint(idx + 1);
       console.log("Time limit checkpoint committed to Git, exiting cleanly");
       process.exit(0);
     }
   }
 
   saveState({ index: candidates.length });
-  commitCheckpoint(candidates.length);  // Final commit
+  commitCheckpoint(candidates.length);
   console.log("fetch_stars COMPLETED");
 })();
