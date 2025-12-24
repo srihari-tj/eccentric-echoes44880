@@ -2,25 +2,23 @@
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
+const { execSync } = require('child_process');  // ADDED for git commits
 
 const RAW_DIR = "data/raw/stars";
 const DERIVED_DIR = "data/derived";
 const STATE_DIR = "data/state";
 const STATE_FILE = path.join(STATE_DIR, "fetch_stars_state.json");
 
-// Ensure directories exist
 fs.mkdirSync(RAW_DIR, { recursive: true });
 fs.mkdirSync(STATE_DIR, { recursive: true });
 
-// Timeboxing inside the script, separate from job's timeout-minutes
 const START_TIME = Date.now();
-const MAX_RUN_MS = Number(process.env.MAX_RUN_MS || 5 * 60 * 60 * 1000); // default 5h
+const MAX_RUN_MS = Number(process.env.MAX_RUN_MS || 5 * 60 * 60 * 1000);
+const CHECKPOINT_COMMIT_EVERY = 50;  // ADDED: commit every 50 repos
 
 function listQuarterDirs() {
   if (!fs.existsSync(DERIVED_DIR)) return [];
-  return fs
-    .readdirSync(DERIVED_DIR)
-    .filter((d) => /^\d{4}-Q[1-4]$/.test(d));
+  return fs.readdirSync(DERIVED_DIR).filter((d) => /^\d{4}-Q[1-4]$/.test(d));
 }
 
 function loadCandidates() {
@@ -28,7 +26,6 @@ function loadCandidates() {
   if (chunk && fs.existsSync(chunk)) {
     return JSON.parse(fs.readFileSync(chunk, "utf8"));
   }
-
   const dirs = listQuarterDirs().sort().reverse();
   for (const d of dirs) {
     const f = path.join(DERIVED_DIR, d, "candidates.json");
@@ -52,10 +49,23 @@ function saveState(state) {
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
 }
 
+function commitCheckpoint(idx) {  // ADDED: force git commit/push
+  console.log(`Committing checkpoint at index ${idx}`);
+  try {
+    execSync('git add data/raw/stars data/state/fetch_stars_state.json', { stdio: 'inherit' });
+    execSync('git config user.name "github-actions[bot]"', { stdio: 'inherit' });
+    execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"', { stdio: 'inherit' });
+    execSync(`git commit -m "stars checkpoint ${idx} ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"`, { stdio: 'inherit' });
+    execSync('git push', { stdio: 'inherit' });
+    console.log("✅ Checkpoint committed to Git");
+  } catch (e) {
+    console.error("Commit failed:", e.message);
+  }
+}
+
 async function respectfulSleep(res, base = 250) {
   const remaining = Number(res.headers.get("x-ratelimit-remaining") || "0");
   const reset = Number(res.headers.get("x-ratelimit-reset") || "0");
-
   if (res.status === 403 && reset) {
     const waitMs = Math.max(0, reset * 1000 - Date.now()) + 5000;
     console.log("rate-limited; sleeping", waitMs, "ms");
@@ -69,50 +79,32 @@ async function respectfulSleep(res, base = 250) {
 async function fetchStargazerTimestamps(owner, repo, knownNewest) {
   const GH_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
   if (!GH_TOKEN) throw new Error("Missing GH_TOKEN or GITHUB_TOKEN");
-
   const headers = {
     Authorization: `Bearer ${GH_TOKEN}`,
     Accept: "application/vnd.github.v3.star+json",
     "X-GitHub-Api-Version": "2022-11-28",
   };
-
   const acc = [];
   let page = 1;
   const per_page = 100;
-
   while (true) {
     const url = `https://api.github.com/repos/${owner}/${repo}/stargazers?per_page=${per_page}&page=${page}`;
     const res = await fetch(url, { headers });
-
-    if (res.status === 404) {
-      await respectfulSleep(res);
-      break;
-    }
-    if (res.status === 403) {
-      await respectfulSleep(res);
-      continue;
-    }
-
+    if (res.status === 404) { await respectfulSleep(res); break; }
+    if (res.status === 403) { await respectfulSleep(res); continue; }
     const items = await res.json();
     await respectfulSleep(res);
-
     if (!Array.isArray(items) || items.length === 0) break;
-
     let overlap = false;
     for (const it of items) {
       const ts = it.starred_at;
       if (!ts) continue;
-      if (knownNewest && ts <= knownNewest) {
-        overlap = true;
-        break;
-      }
+      if (knownNewest && ts <= knownNewest) { overlap = true; break; }
       acc.push(ts);
     }
-
     if (overlap || items.length < per_page) break;
     page++;
   }
-
   return acc.sort();
 }
 
@@ -121,9 +113,12 @@ async function fetchStargazerTimestamps(owner, repo, knownNewest) {
   const state = loadState();
   let idx = state.index || 0;
 
-  console.log(
-    `Resuming fetch_stars from index ${idx}/${candidates.length}`
-  );
+  if (idx >= candidates.length) {
+    console.log("All candidates processed, nothing to do");
+    process.exit(0);
+  }
+
+  console.log(`Resuming fetch_stars from index ${idx}/${candidates.length}`);
 
   for (; idx < candidates.length; idx++) {
     const { owner, repo } = candidates[idx];
@@ -137,11 +132,7 @@ async function fetchStargazerTimestamps(owner, repo, knownNewest) {
     const knownNewest = existing.length ? existing[existing.length - 1] : null;
 
     try {
-      const newest = await fetchStargazerTimestamps(
-        owner,
-        repo,
-        knownNewest
-      );
+      const newest = await fetchStargazerTimestamps(owner, repo, knownNewest);
       if (newest.length > 0) {
         const merged = [...existing, ...newest].sort();
         fs.writeFileSync(fpath, JSON.stringify(merged, null, 2));
@@ -153,20 +144,27 @@ async function fetchStargazerTimestamps(owner, repo, knownNewest) {
       console.error("error", owner + "/" + repo, e.message);
     }
 
-    // periodically save progress
+    // Save state every 10 repos
     if (idx % 10 === 0) {
       saveState({ index: idx + 1 });
     }
 
-    // hard timebox to avoid hitting the 6h job limit
+    // COMMIT TO GIT every 50 repos
+    if (idx % CHECKPOINT_COMMIT_EVERY === 0) {
+      commitCheckpoint(idx + 1);
+    }
+
+    // CRITICAL: TIME LIMIT → SAVE + COMMIT + EXIT
     if (Date.now() - START_TIME > MAX_RUN_MS) {
-      console.log("Max run time reached, saving state and exiting");
+      console.log("Max run time reached, saving final state and committing...");
       saveState({ index: idx + 1 });
+      commitCheckpoint(idx + 1);  // ✅ COMMITS BEFORE EXIT
+      console.log("Time limit checkpoint committed to Git, exiting cleanly");
       process.exit(0);
     }
   }
 
-  // finished all candidates, mark state as complete
   saveState({ index: candidates.length });
-  console.log("fetch_stars done for all candidates");
+  commitCheckpoint(candidates.length);  // Final commit
+  console.log("fetch_stars COMPLETED");
 })();

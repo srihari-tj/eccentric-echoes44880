@@ -1,24 +1,27 @@
-name: Trending + Quarterly + ROSS (scheduled + manual)
+name: Trending + Quarterly + ROSS (Sat/Sun 2x daily + manual)
 
 on:
   schedule:
-    - cron: "17 6 * * 6"  # Saturday 06:17 UTC
-    - cron: "17 6 * * 0"  # Sunday 06:17 UTC
+    # Saturday: morning + evening
+    - cron: "17 6 * * 6"   # Sat 06:17 UTC = 11:47 AM IST
+    - cron: "17 18 * * 6"  # Sat 18:17 UTC = 11:47 PM IST
+    # Sunday: morning + evening
+    - cron: "17 6 * * 0"   # Sun 06:17 UTC = 11:47 AM IST
+    - cron: "17 18 * * 0"  # Sun 18:17 UTC = 11:47 PM IST
   workflow_dispatch:
     inputs:
       year:
-        description: "Override year (default: current UTC year)"
+        description: "Override year"
         required: false
         default: ""
       quarter:
-        description: "Override quarter (Q1..Q4, default: current)"
+        description: "Override quarter"
         required: false
         default: ""
-      # Optional overrides for long-running parts
       max_run_ms:
-        description: "Max run time in ms for long scripts (default ~5h)"
+        description: "Max run time ms (default 4h50m)"
         required: false
-        default: "17400000"   # 4h 50m
+        default: "17400000"
 
 permissions:
   contents: write
@@ -26,7 +29,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 350   # stay under 6h workflow limit [web:13]
+    timeout-minutes: 350  # < 6h hard limit
     steps:
       - uses: actions/checkout@v4
 
@@ -37,7 +40,14 @@ jobs:
       - name: Install deps
         run: npm install node-fetch@2
 
-      - name: Compute year/quarter (UTC or overrides)
+      - name: Check existing state
+        run: |
+          echo "=== Workspace state ==="
+          ls -la data/ || mkdir -p data
+          ls -la data/state/ || echo "No state dir yet"
+          cat data/state/fetch_stars_state.json 2>/dev/null || echo "No state file"
+
+      - name: Compute year/quarter
         id: compute
         run: |
           Y="${{ inputs.year }}"
@@ -48,14 +58,14 @@ jobs:
             echo "year=$Y" >> "$GITHUB_OUTPUT"
             echo "quarter_key=$Y-$Q" >> "$GITHUB_OUTPUT"
           fi
-          echo "Computed: year=${{ steps.compute.outputs.year }}, key=${{ steps.compute.outputs.quarter_key }}"
+          echo "year=${{ steps.compute.outputs.year }} quarter_key=${{ steps.compute.outputs.quarter_key }}"
 
-      - name: Scrape weekly trending (candidates)
+      - name: Scrape trending candidates
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/scrape_trending.js
 
-      - name: Build candidates for quarter (fallback to search if needed)
+      - name: Build candidates
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -65,74 +75,36 @@ jobs:
           Q="${KEY##*-}"
           node scripts/build_candidates.js "$Y" "$Q"
 
-      # ==========================
-      # Resumable stars fetch
-      # ==========================
-      - name: Fetch stars (timestamps for candidates)
+      - name: Fetch stars (resumable + auto-commit)
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           MAX_RUN_MS: ${{ inputs.max_run_ms }}
         run: node scripts/fetch_stars.js
 
-      - name: Commit stars batch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw/stars data/state/fetch_stars_state.json
-          git commit -m "stars batch ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
-          git push
-
-      # ==========================
-      # Existing meta + enrichment
-      # (you can later make these resumable in the same pattern if needed)
-      # ==========================
-      - name: Fetch repo meta (stars_now/forks/etc)
+      - name: Fetch repo meta
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/fetch_repo_meta.js
 
-      - name: Enrich contributor locations (rate-limit aware)
+      - name: Enrich contributor locations
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCN_MAX_PAGES: ${{ inputs.max_pages_per_repo }}
-          LOCN_MAX_RUN_MS: ${{ inputs.max_run_ms }}
         run: node scripts/enrich_contributor_locations.js
 
-      - name: Commit enrichment batch
+      - name: Aggregate + rank quarters
+        run: |
+          node scripts/aggregate_weekly.js
+          Y="${{ steps.compute.outputs.year }}"
+          for q in 1 2 3 4; do
+            node scripts/rank_quarter.js "$Y" "$q"
+            node scripts/rank_ross_quarter.js "$Y" "$q"
+          done
+
+      - name: Final commit
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/derived/meta data/derived/owner || true
-          git add data/raw/contributors* data/state || true
-          git commit -m "enrichment batch ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
-          git push
-
-      # ==========================
-      # Aggregation + ranking
-      # ==========================
-      - name: Aggregate weekly (stars_now passthrough)
-        run: node scripts/aggregate_weekly.js
-
-      - name: Normal quarter ranks (delta Q1..Q4 for year)
-        run: |
-          Y="${{ steps.compute.outputs.year }}"
-          node scripts/rank_quarter.js "$Y" 1
-          node scripts/rank_quarter.js "$Y" 2
-          node scripts/rank_quarter.js "$Y" 3
-          node scripts/rank_quarter.js "$Y" 4
-
-      - name: ROSS quarter ranks (Q1..Q4 for year; no startup filter)
-        run: |
-          Y="${{ steps.compute.outputs.year }}"
-          node scripts/rank_ross_quarter.js "$Y" 1
-          node scripts/rank_ross_quarter.js "$Y" 2
-          node scripts/rank_ross_quarter.js "$Y" 3
-          node scripts/rank_ross_quarter.js "$Y" 4
-
-      - name: Commit ranks + weekly aggregates
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/derived/weekly data/derived/quarter* || true
-          git commit -m "refresh ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
-          git push
+          git add data/
+          git commit -m "final refresh ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))" || echo "no changes"
+          git push || echo "no final changes"
