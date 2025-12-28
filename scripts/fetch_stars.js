@@ -14,7 +14,7 @@ fs.mkdirSync(STATE_DIR, { recursive: true });
 
 const START_TIME = Date.now();
 const MAX_RUN_MS = Number(process.env.MAX_RUN_MS || 5 * 60 * 60 * 1000);
-const CHECKPOINT_COMMIT_EVERY = 50;
+const CHECKPOINT_COMMIT_EVERY = 20;
 
 function listQuarterDirs() {
   if (!fs.existsSync(DERIVED_DIR)) return [];
