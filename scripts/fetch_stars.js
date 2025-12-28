@@ -52,6 +52,7 @@ function saveState(state) {
 function commitCheckpoint(idx) {
   console.log(`Committing checkpoint at index ${idx}`);
   try {
+    execSync('git pull', { stdio: 'inherit' }); 
     execSync('git add data/raw/stars data/state/fetch_stars_state.json', { stdio: 'inherit' });
     execSync('git config user.name "github-actions[bot]"', { stdio: 'inherit' });
     execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"', { stdio: 'inherit' });
