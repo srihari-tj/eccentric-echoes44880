@@ -15,7 +15,7 @@ on:
         required: false
         default: ""
       quarter:
-        description: "Override quarter"
+        description: "Override quarter (Q1..Q4 or 1..4)"
         required: false
         default: ""
       max_run_ms:
@@ -29,9 +29,9 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 350  # < 6h hard limit
+    timeout-minutes: 350 # < 6h hard limit
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4 # Checks out repo into $GITHUB_WORKSPACE. [web:48]
 
       - uses: actions/setup-node@v4
         with:
@@ -49,16 +49,32 @@ jobs:
 
       - name: Compute year/quarter
         id: compute
+        shell: bash
         run: |
+          # NOTE: Write step outputs via the $GITHUB_OUTPUT env-file. [web:23]
           Y="${{ inputs.year }}"
           Q="${{ inputs.quarter }}"
+
+          # Normalize quarter input like "Q4" -> "4"
+          if [ -n "$Q" ]; then
+            Q="${Q#Q}"
+          fi
+
           if [ -z "$Y" ] || [ -z "$Q" ]; then
-            node -e "const d=new Date();const y=d.getUTCFullYear();const m=d.getUTCMonth()+1;const q=m<=3?1:m<=6?2:m<=9?3:4;process.stdout.write(`year=${y}\nquarter_key=${y}-Q${q}\n`)" >> "$GITHUB_OUTPUT"
+            node -e '
+              const d = new Date();
+              const y = d.getUTCFullYear();
+              const m = d.getUTCMonth() + 1;
+              const q = m<=3?1:m<=6?2:m<=9?3:4;
+              console.log(`year=${y}`);
+              console.log(`quarter_key=${y}-Q${q}`);
+            ' >> "$GITHUB_OUTPUT"
           else
             echo "year=$Y" >> "$GITHUB_OUTPUT"
-            echo "quarter_key=$Y-$Q" >> "$GITHUB_OUTPUT"
+            echo "quarter_key=$Y-Q$Q" >> "$GITHUB_OUTPUT"
           fi
-          echo "year=${{ steps.compute.outputs.year }} quarter_key=${{ steps.compute.outputs.quarter_key }}"
+
+          echo "Computed: year=${{ steps.compute.outputs.year }} quarter_key=${{ steps.compute.outputs.quarter_key }}"
 
       - name: Scrape trending candidates
         env:
@@ -72,7 +88,8 @@ jobs:
         run: |
           KEY="${{ steps.compute.outputs.quarter_key }}"
           Y="${{ steps.compute.outputs.year }}"
-          Q="${KEY##*-}"
+          Q="${KEY##*-}"          # "Q4"
+          Q="${Q#Q}"              # "4"
           node scripts/build_candidates.js "$Y" "$Q"
 
       - name: Fetch stars (resumable + auto-commit)
