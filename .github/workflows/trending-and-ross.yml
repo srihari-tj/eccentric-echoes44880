@@ -29,9 +29,9 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 350 # < 6h hard limit
+    timeout-minutes: 350 # < 6h hard limit [web:6]
     steps:
-      - uses: actions/checkout@v4 # Checks out repo into $GITHUB_WORKSPACE. [web:48]
+      - uses: actions/checkout@v4 # Repo checkout to $GITHUB_WORKSPACE. [web:48]
 
       - uses: actions/setup-node@v4
         with:
@@ -51,7 +51,7 @@ jobs:
         id: compute
         shell: bash
         run: |
-          # NOTE: Write step outputs via the $GITHUB_OUTPUT env-file. [web:23]
+          # Step outputs should be written to $GITHUB_OUTPUT env file. [web:23]
           Y="${{ inputs.year }}"
           Q="${{ inputs.quarter }}"
 
@@ -62,10 +62,10 @@ jobs:
 
           if [ -z "$Y" ] || [ -z "$Q" ]; then
             node -e '
-              const d = new Date();
-              const y = d.getUTCFullYear();
-              const m = d.getUTCMonth() + 1;
-              const q = m<=3?1:m<=6?2:m<=9?3:4;
+              const d=new Date();
+              const y=d.getUTCFullYear();
+              const m=d.getUTCMonth()+1;
+              const q=m<=3?1:m<=6?2:m<=9?3:4;
               console.log(`year=${y}`);
               console.log(`quarter_key=${y}-Q${q}`);
             ' >> "$GITHUB_OUTPUT"
@@ -86,10 +86,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          KEY="${{ steps.compute.outputs.quarter_key }}"
-          Y="${{ steps.compute.outputs.year }}"
-          Q="${KEY##*-}"          # "Q4"
-          Q="${Q#Q}"              # "4"
+          KEY="${{ steps.compute.outputs.quarter_key }}"   # e.g. "2025-Q4"
+          Y="${{ steps.compute.outputs.year }}"            # e.g. "2025"
+          Q="${KEY##*-}"                                   # -> "Q4"
           node scripts/build_candidates.js "$Y" "$Q"
 
       - name: Fetch stars (resumable + auto-commit)
