@@ -1,0 +1,33 @@
+{
+  "owner": "reacherhq",
+  "repo": "reacherhq/check-if-email-exists",
+  "name": "check-if-email-exists",
+  "full_name": "reacherhq/check-if-email-exists",
+  "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+  "homepage": "https://reacher.email",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "email",
+    "email-validation",
+    "email-validation-api",
+    "email-verification",
+    "email-verification-api",
+    "email-verifier",
+    "hacktoberfest"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-04-25T12:47:51Z",
+  "pushed_at": "2025-10-27T01:06:33Z",
+  "size": 4484,
+  "stars_now": 7113,
+  "forks": 507,
+  "open_issues": 85,
+  "subscribers": 48,
+  "watchers": 7113,
+  "html_url": "https://github.com/reacherhq/check-if-email-exists",
+  "api_url": "https://api.github.com/repos/reacherhq/check-if-email-exists",
+  "fetched_at": "2025-12-29T14:19:58.679Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "elastic",
+  "repo": "elastic/elasticsearch",
+  "name": "elasticsearch",
+  "full_name": "elastic/elasticsearch",
+  "description": "Free and Open Source, Distributed, RESTful Search Engine",
+  "homepage": "https://www.elastic.co/products/elasticsearch",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "elasticsearch",
+    "java",
+    "search-engine"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-02-08T13:20:56Z",
+  "pushed_at": "2025-12-29T12:43:43Z",
+  "size": 1524759,
+  "stars_now": 75747,
+  "forks": 25750,
+  "open_issues": 5346,
+  "subscribers": 2638,
+  "watchers": 75747,
+  "html_url": "https://github.com/elastic/elasticsearch",
+  "api_url": "https://api.github.com/repos/elastic/elasticsearch",
+  "fetched_at": "2025-12-29T14:17:25.732Z"
+}

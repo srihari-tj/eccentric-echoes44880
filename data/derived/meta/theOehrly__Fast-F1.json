@@ -1,0 +1,29 @@
+{
+  "owner": "theOehrly",
+  "repo": "theOehrly/Fast-F1",
+  "name": "Fast-F1",
+  "full_name": "theOehrly/Fast-F1",
+  "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
+  "homepage": "https://docs.fastf1.dev",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "datascience",
+    "formula1",
+    "motorsport"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-04-18T10:00:31Z",
+  "pushed_at": "2025-12-13T21:35:58Z",
+  "size": 15904,
+  "stars_now": 4301,
+  "forks": 387,
+  "open_issues": 36,
+  "subscribers": 50,
+  "watchers": 4301,
+  "html_url": "https://github.com/theOehrly/Fast-F1",
+  "api_url": "https://api.github.com/repos/theOehrly/Fast-F1",
+  "fetched_at": "2025-12-29T14:20:40.396Z"
+}

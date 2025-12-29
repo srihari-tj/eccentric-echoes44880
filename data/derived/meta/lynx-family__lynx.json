@@ -1,0 +1,27 @@
+{
+  "owner": "lynx-family",
+  "repo": "lynx-family/lynx",
+  "name": "lynx",
+  "full_name": "lynx-family/lynx",
+  "description": "Empower the Web community and invite more to build across platforms.",
+  "homepage": "https://lynxjs.org",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "cross-platform"
+  ],
+  "default_branch": "develop",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-04T07:41:43Z",
+  "pushed_at": "2025-12-29T13:47:26Z",
+  "size": 37593,
+  "stars_now": 13991,
+  "forks": 494,
+  "open_issues": 688,
+  "subscribers": 82,
+  "watchers": 13991,
+  "html_url": "https://github.com/lynx-family/lynx",
+  "api_url": "https://api.github.com/repos/lynx-family/lynx",
+  "fetched_at": "2025-12-29T14:18:47.397Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "stan-smith",
+  "repo": "stan-smith/FossFLOW",
+  "name": "FossFLOW",
+  "full_name": "stan-smith/FossFLOW",
+  "description": "Make beautiful isometric infrastructure diagrams",
+  "homepage": "https://github.com/stan-smith/FossFLOW",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "devops",
+    "infra",
+    "infrastructure"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-06-30T14:31:21Z",
+  "pushed_at": "2025-12-28T19:57:08Z",
+  "size": 5086,
+  "stars_now": 15433,
+  "forks": 994,
+  "open_issues": 23,
+  "subscribers": 78,
+  "watchers": 15433,
+  "html_url": "https://github.com/stan-smith/FossFLOW",
+  "api_url": "https://api.github.com/repos/stan-smith/FossFLOW",
+  "fetched_at": "2025-12-29T14:20:27.451Z"
+}

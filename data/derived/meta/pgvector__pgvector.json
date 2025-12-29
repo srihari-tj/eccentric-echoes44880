@@ -1,0 +1,28 @@
+{
+  "owner": "pgvector",
+  "repo": "pgvector/pgvector",
+  "name": "pgvector",
+  "full_name": "pgvector/pgvector",
+  "description": "Open-source vector similarity search for Postgres",
+  "homepage": "https://github.com/pgvector/pgvector",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "approximate-nearest-neighbor-search",
+    "nearest-neighbor-search"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-04-20T21:13:52Z",
+  "pushed_at": "2025-12-13T19:33:49Z",
+  "size": 1780,
+  "stars_now": 19013,
+  "forks": 1011,
+  "open_issues": 12,
+  "subscribers": 126,
+  "watchers": 19013,
+  "html_url": "https://github.com/pgvector/pgvector",
+  "api_url": "https://api.github.com/repos/pgvector/pgvector",
+  "fetched_at": "2025-12-29T14:19:41.604Z"
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "hashicorp",
+  "repo": "hashicorp/consul",
+  "name": "consul",
+  "full_name": "hashicorp/consul",
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": "https://www.consul.io",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-11-04T22:15:27Z",
+  "pushed_at": "2025-12-29T06:11:15Z",
+  "size": 484459,
+  "stars_now": 29627,
+  "forks": 4555,
+  "open_issues": 1351,
+  "subscribers": 872,
+  "watchers": 29627,
+  "html_url": "https://github.com/hashicorp/consul",
+  "api_url": "https://api.github.com/repos/hashicorp/consul",
+  "fetched_at": "2025-12-29T14:18:06.466Z"
+}

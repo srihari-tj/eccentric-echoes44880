@@ -1,0 +1,30 @@
+{
+  "owner": "redlib-org",
+  "repo": "redlib-org/redlib",
+  "name": "redlib",
+  "full_name": "redlib-org/redlib",
+  "description": " Private front-end for Reddit ",
+  "homepage": "https://github.com/redlib-org/redlib",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "topics": [
+    "privacy",
+    "privacy-friendly-alternatives",
+    "privacy-frontend",
+    "rust"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-12-26T22:52:23Z",
+  "pushed_at": "2025-12-16T00:53:33Z",
+  "size": 2713,
+  "stars_now": 2940,
+  "forks": 202,
+  "open_issues": 181,
+  "subscribers": 25,
+  "watchers": 2940,
+  "html_url": "https://github.com/redlib-org/redlib",
+  "api_url": "https://api.github.com/repos/redlib-org/redlib",
+  "fetched_at": "2025-12-29T14:20:00.102Z"
+}

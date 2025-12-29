@@ -1,0 +1,28 @@
+{
+  "owner": "modelcontextprotocol",
+  "repo": "modelcontextprotocol/registry",
+  "name": "registry",
+  "full_name": "modelcontextprotocol/registry",
+  "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+  "homepage": "https://github.com/modelcontextprotocol/registry/tree/main/docs",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "mcp",
+    "mcp-servers"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-02-05T17:58:01Z",
+  "pushed_at": "2025-12-26T23:19:57Z",
+  "size": 76548,
+  "stars_now": 6184,
+  "forks": 543,
+  "open_issues": 112,
+  "subscribers": 72,
+  "watchers": 6184,
+  "html_url": "https://github.com/modelcontextprotocol/registry",
+  "api_url": "https://api.github.com/repos/modelcontextprotocol/registry",
+  "fetched_at": "2025-12-29T14:19:08.945Z"
+}

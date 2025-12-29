@@ -1,0 +1,29 @@
+{
+  "owner": "hufrea",
+  "repo": "hufrea/byedpi",
+  "name": "byedpi",
+  "full_name": "hufrea/byedpi",
+  "description": "Bypass DPI",
+  "homepage": "https://github.com/hufrea/byedpi",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "anticensorship",
+    "dpi",
+    "socks"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-06-01T21:16:59Z",
+  "pushed_at": "2025-10-07T20:23:49Z",
+  "size": 361,
+  "stars_now": 2811,
+  "forks": 188,
+  "open_issues": 61,
+  "subscribers": 52,
+  "watchers": 2811,
+  "html_url": "https://github.com/hufrea/byedpi",
+  "api_url": "https://api.github.com/repos/hufrea/byedpi",
+  "fetched_at": "2025-12-29T14:18:09.607Z"
+}

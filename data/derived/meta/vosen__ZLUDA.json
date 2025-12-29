@@ -1,0 +1,28 @@
+{
+  "owner": "vosen",
+  "repo": "vosen/ZLUDA",
+  "name": "ZLUDA",
+  "full_name": "vosen/ZLUDA",
+  "description": "CUDA on non-NVIDIA GPUs",
+  "homepage": "https://vosen.github.io/ZLUDA/",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "cuda",
+    "rust"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-01-05T18:26:03Z",
+  "pushed_at": "2025-12-19T11:35:58Z",
+  "size": 9726,
+  "stars_now": 13729,
+  "forks": 883,
+  "open_issues": 150,
+  "subscribers": 145,
+  "watchers": 13729,
+  "html_url": "https://github.com/vosen/ZLUDA",
+  "api_url": "https://api.github.com/repos/vosen/ZLUDA",
+  "fetched_at": "2025-12-29T14:21:03.487Z"
+}

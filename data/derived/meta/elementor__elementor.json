@@ -1,0 +1,27 @@
+{
+  "owner": "elementor",
+  "repo": "elementor/elementor",
+  "name": "elementor",
+  "full_name": "elementor/elementor",
+  "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+  "homepage": "https://elementor.com/",
+  "language": "PHP",
+  "license": "GPL-3.0",
+  "topics": [
+    "editor-shared"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-05-30T13:05:46Z",
+  "pushed_at": "2025-12-29T14:17:08Z",
+  "size": 318369,
+  "stars_now": 6773,
+  "forks": 1488,
+  "open_issues": 3960,
+  "subscribers": 220,
+  "watchers": 6773,
+  "html_url": "https://github.com/elementor/elementor",
+  "api_url": "https://api.github.com/repos/elementor/elementor",
+  "fetched_at": "2025-12-29T14:17:26.730Z"
+}

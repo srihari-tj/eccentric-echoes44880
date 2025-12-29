@@ -1,0 +1,30 @@
+{
+  "owner": "square",
+  "repo": "square/okhttp",
+  "name": "okhttp",
+  "full_name": "square/okhttp",
+  "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",
+  "homepage": "https://square.github.io/okhttp/",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "graalvm",
+    "java",
+    "kotlin"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-07-23T13:42:55Z",
+  "pushed_at": "2025-12-20T13:25:23Z",
+  "size": 63140,
+  "stars_now": 46813,
+  "forks": 9258,
+  "open_issues": 84,
+  "subscribers": 1611,
+  "watchers": 46813,
+  "html_url": "https://github.com/square/okhttp",
+  "api_url": "https://api.github.com/repos/square/okhttp",
+  "fetched_at": "2025-12-29T14:20:24.789Z"
+}

@@ -30,16 +30,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2016-06-02T08:28:18Z",
-  "pushed_at": "2025-12-29T08:52:31Z",
-  "size": 3110018,
-  "stars_now": 44895,
+  "pushed_at": "2025-12-29T14:10:25Z",
+  "size": 3110654,
+  "stars_now": 44897,
   "forks": 7927,
-  "open_issues": 5533,
+  "open_issues": 5532,
   "subscribers": 687,
-  "watchers": 44895,
+  "watchers": 44897,
   "html_url": "https://github.com/ClickHouse/ClickHouse",
   "api_url": "https://api.github.com/repos/ClickHouse/ClickHouse",
-  "fetched_at": "2025-12-29T09:19:58.867Z",
+  "fetched_at": "2025-12-29T14:14:58.739Z",
   "contributor_locations": {
     "amsterdam, netherlands": 11,
     "unknown": 156,
@@ -126,5 +126,5 @@
     "austin, tx": 1,
     "shanghai, china": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T09:34:02.107Z"
+  "contributor_locations_updated_at": "2025-12-29T14:31:58.593Z"
 }

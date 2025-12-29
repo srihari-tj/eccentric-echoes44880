@@ -22,14 +22,24 @@
   "archived": false,
   "disabled": false,
   "created_at": "2025-05-15T12:55:40Z",
-  "pushed_at": "2025-12-29T07:49:44Z",
-  "size": 41427,
-  "stars_now": 8683,
+  "pushed_at": "2025-12-29T09:37:54Z",
+  "size": 41437,
+  "stars_now": 8685,
   "forks": 788,
-  "open_issues": 376,
+  "open_issues": 375,
   "subscribers": 57,
-  "watchers": 8683,
+  "watchers": 8685,
   "html_url": "https://github.com/chaitin/PandaWiki",
   "api_url": "https://api.github.com/repos/chaitin/PandaWiki",
-  "fetched_at": "2025-12-29T09:21:47.397Z"
+  "fetched_at": "2025-12-29T14:16:57.829Z",
+  "contributor_locations": {
+    "unknown": 10,
+    "杭州": 1,
+    "hangzhou.ch": 1,
+    "chongqing university of posts and telecommunications 2 chongwen road, nan'an district, chongqing, china": 1,
+    "中国 - 北京": 1,
+    "beijing": 1,
+    "earth": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T17:22:54.340Z"
 }

@@ -1,0 +1,30 @@
+{
+  "owner": "mongodb",
+  "repo": "mongodb/mongo",
+  "name": "mongo",
+  "full_name": "mongodb/mongo",
+  "description": "The MongoDB Database",
+  "homepage": "https://www.mongodb.com/",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "c-plus-plus",
+    "database",
+    "mongodb",
+    "nosql"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-01-15T16:15:18Z",
+  "pushed_at": "2025-12-29T13:56:24Z",
+  "size": 1268419,
+  "stars_now": 27904,
+  "forks": 5730,
+  "open_issues": 21,
+  "subscribers": 1247,
+  "watchers": 27904,
+  "html_url": "https://github.com/mongodb/mongo",
+  "api_url": "https://api.github.com/repos/mongodb/mongo",
+  "fetched_at": "2025-12-29T14:19:10.866Z"
+}

@@ -6,6 +6,13 @@
   "subscribers": 26,
   "default_branch": "main",
   "fetched_at": "2025-11-07T17:30:25.216Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:11.163Z"
+  "contributor_locations": {
+    "redmond, wa": 1,
+    "netherlands": 1,
+    "illinois": 1,
+    "berlin": 1,
+    "unknown": 2,
+    "russian federation": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T15:24:31.804Z"
 }

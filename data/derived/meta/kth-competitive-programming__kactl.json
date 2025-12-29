@@ -1,0 +1,33 @@
+{
+  "owner": "kth-competitive-programming",
+  "repo": "kth-competitive-programming/kactl",
+  "name": "kactl",
+  "full_name": "kth-competitive-programming/kactl",
+  "description": "KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)",
+  "homepage": "https://github.com/kth-competitive-programming/kactl",
+  "language": "C++",
+  "license": null,
+  "topics": [
+    "algorithm",
+    "cc0",
+    "competitive-programming",
+    "contest",
+    "cpp",
+    "data-structures",
+    "notebook"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-05-28T21:22:20Z",
+  "pushed_at": "2025-11-14T12:44:39Z",
+  "size": 15464,
+  "stars_now": 3232,
+  "forks": 927,
+  "open_issues": 70,
+  "subscribers": 46,
+  "watchers": 3232,
+  "html_url": "https://github.com/kth-competitive-programming/kactl",
+  "api_url": "https://api.github.com/repos/kth-competitive-programming/kactl",
+  "fetched_at": "2025-12-29T14:18:31.412Z"
+}

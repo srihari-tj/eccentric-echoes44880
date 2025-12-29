@@ -1,0 +1,31 @@
+{
+  "owner": "libre-tube",
+  "repo": "libre-tube/LibreTube",
+  "name": "LibreTube",
+  "full_name": "libre-tube/LibreTube",
+  "description": "An alternative frontend for YouTube, for Android.",
+  "homepage": "https://libretube.dev",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "kotlin",
+    "material-design-3-expressive",
+    "privacy",
+    "youtube"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-12-09T12:31:36Z",
+  "pushed_at": "2025-12-29T12:07:06Z",
+  "size": 103767,
+  "stars_now": 11009,
+  "forks": 539,
+  "open_issues": 100,
+  "subscribers": 118,
+  "watchers": 11009,
+  "html_url": "https://github.com/libre-tube/LibreTube",
+  "api_url": "https://api.github.com/repos/libre-tube/LibreTube",
+  "fetched_at": "2025-12-29T14:18:40.869Z"
+}

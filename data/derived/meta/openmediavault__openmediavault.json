@@ -1,0 +1,28 @@
+{
+  "owner": "openmediavault",
+  "repo": "openmediavault/openmediavault",
+  "name": "openmediavault",
+  "full_name": "openmediavault/openmediavault",
+  "description": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.",
+  "homepage": "https://www.openmediavault.org",
+  "language": "PHP",
+  "license": "NOASSERTION",
+  "topics": [
+    "debian",
+    "nas"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-05-03T10:35:34Z",
+  "pushed_at": "2025-12-28T19:47:15Z",
+  "size": 553720,
+  "stars_now": 6308,
+  "forks": 553,
+  "open_issues": 105,
+  "subscribers": 164,
+  "watchers": 6308,
+  "html_url": "https://github.com/openmediavault/openmediavault",
+  "api_url": "https://api.github.com/repos/openmediavault/openmediavault",
+  "fetched_at": "2025-12-29T14:19:33.129Z"
+}

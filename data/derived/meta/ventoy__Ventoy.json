@@ -8,6 +8,7 @@
   "language": "C",
   "license": "GPL-3.0",
   "topics": [
+    "arm64",
     "auto-install",
     "bootable-usb",
     "bsd",
@@ -22,22 +23,22 @@
     "unattended",
     "unix",
     "usb",
-    "windows"
+    "windows",
+    "x86",
+    "x86-64"
   ],
   "default_branch": "master",
   "archived": false,
   "disabled": false,
   "created_at": "2020-03-10T15:19:19Z",
-  "pushed_at": "2025-08-18T16:13:54Z",
-  "size": 218248,
-  "stars_now": 72259,
-  "forks": 4559,
-  "open_issues": 1022,
-  "subscribers": 685,
-  "watchers": 72259,
+  "pushed_at": "2025-12-21T13:13:01Z",
+  "size": 219226,
+  "stars_now": 73415,
+  "forks": 4622,
+  "open_issues": 962,
+  "subscribers": 692,
+  "watchers": 73415,
   "html_url": "https://github.com/ventoy/Ventoy",
   "api_url": "https://api.github.com/repos/ventoy/Ventoy",
-  "fetched_at": "2025-11-10T08:32:22.857Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:15.791Z"
+  "fetched_at": "2025-12-29T14:20:59.084Z"
 }

@@ -1,0 +1,32 @@
+{
+  "owner": "facebook",
+  "repo": "facebook/react",
+  "name": "react",
+  "full_name": "facebook/react",
+  "description": "The library for web and native user interfaces.",
+  "homepage": "https://react.dev",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "declarative",
+    "frontend",
+    "javascript",
+    "library",
+    "react",
+    "ui"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-05-24T16:15:54Z",
+  "pushed_at": "2025-12-19T16:34:50Z",
+  "size": 880731,
+  "stars_now": 241915,
+  "forks": 50228,
+  "open_issues": 1099,
+  "subscribers": 6704,
+  "watchers": 241915,
+  "html_url": "https://github.com/facebook/react",
+  "api_url": "https://api.github.com/repos/facebook/react",
+  "fetched_at": "2025-12-29T14:17:34.015Z"
+}

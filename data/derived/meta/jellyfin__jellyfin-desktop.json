@@ -1,0 +1,28 @@
+{
+  "owner": "jellyfin",
+  "repo": "jellyfin/jellyfin-desktop",
+  "name": "jellyfin-desktop",
+  "full_name": "jellyfin/jellyfin-desktop",
+  "description": "Jellyfin Desktop Client",
+  "homepage": "https://github.com/jellyfin/jellyfin-desktop",
+  "language": "C++",
+  "license": "GPL-2.0",
+  "topics": [
+    "jellyfin",
+    "jellyfin-client"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-04-04T06:49:48Z",
+  "pushed_at": "2025-12-29T01:36:03Z",
+  "size": 6104,
+  "stars_now": 5120,
+  "forks": 464,
+  "open_issues": 362,
+  "subscribers": 35,
+  "watchers": 5120,
+  "html_url": "https://github.com/jellyfin/jellyfin-desktop",
+  "api_url": "https://api.github.com/repos/jellyfin/jellyfin-desktop",
+  "fetched_at": "2025-12-29T14:18:19.771Z"
+}

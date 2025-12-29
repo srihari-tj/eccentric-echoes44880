@@ -1,0 +1,28 @@
+{
+  "owner": "termux",
+  "repo": "termux/termux-api",
+  "name": "termux-api",
+  "full_name": "termux/termux-api",
+  "description": "Termux add-on app which exposes device functionality as API to command line programs.",
+  "homepage": "https://f-droid.org/en/packages/com.termux.api/",
+  "language": "Java",
+  "license": null,
+  "topics": [
+    "android",
+    "termux"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-07-03T00:57:59Z",
+  "pushed_at": "2025-12-15T13:05:42Z",
+  "size": 1343,
+  "stars_now": 3288,
+  "forks": 684,
+  "open_issues": 268,
+  "subscribers": 153,
+  "watchers": 3288,
+  "html_url": "https://github.com/termux/termux-api",
+  "api_url": "https://api.github.com/repos/termux/termux-api",
+  "fetched_at": "2025-12-29T14:20:38.524Z"
+}

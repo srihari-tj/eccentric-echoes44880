@@ -1,0 +1,33 @@
+{
+  "owner": "opcodesio",
+  "repo": "opcodesio/log-viewer",
+  "name": "log-viewer",
+  "full_name": "opcodesio/log-viewer",
+  "description": "Fast and beautiful Log Viewer for Laravel",
+  "homepage": "https://log-viewer.opcodes.io",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "laravel",
+    "laravel-package",
+    "laravel8",
+    "laravel9",
+    "log-viewer",
+    "logging",
+    "logs"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-08-15T07:02:33Z",
+  "pushed_at": "2025-10-30T08:51:06Z",
+  "size": 4784,
+  "stars_now": 4190,
+  "forks": 304,
+  "open_issues": 19,
+  "subscribers": 24,
+  "watchers": 4190,
+  "html_url": "https://github.com/opcodesio/log-viewer",
+  "api_url": "https://api.github.com/repos/opcodesio/log-viewer",
+  "fetched_at": "2025-12-29T14:19:28.463Z"
+}

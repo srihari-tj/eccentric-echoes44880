@@ -1,0 +1,29 @@
+{
+  "owner": "rhasspy",
+  "repo": "rhasspy/piper",
+  "name": "piper",
+  "full_name": "rhasspy/piper",
+  "description": "A fast, local neural text to speech system",
+  "homepage": "https://rhasspy.github.io/piper-samples/",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "speech-synthesis",
+    "text-to-speech",
+    "tts"
+  ],
+  "default_branch": "master",
+  "archived": true,
+  "disabled": false,
+  "created_at": "2023-01-10T22:25:40Z",
+  "pushed_at": "2025-08-26T15:01:29Z",
+  "size": 218456,
+  "stars_now": 10382,
+  "forks": 880,
+  "open_issues": 419,
+  "subscribers": 99,
+  "watchers": 10382,
+  "html_url": "https://github.com/rhasspy/piper",
+  "api_url": "https://api.github.com/repos/rhasspy/piper",
+  "fetched_at": "2025-12-29T14:20:03.391Z"
+}

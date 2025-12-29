@@ -1,0 +1,32 @@
+{
+  "owner": "kubernetes",
+  "repo": "kubernetes/minikube",
+  "name": "minikube",
+  "full_name": "kubernetes/minikube",
+  "description": "Run Kubernetes locally",
+  "homepage": "https://minikube.sigs.k8s.io/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "cluster",
+    "cncf",
+    "containers",
+    "go",
+    "kubernetes",
+    "minikube"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-04-15T22:38:35Z",
+  "pushed_at": "2025-12-29T03:39:50Z",
+  "size": 251612,
+  "stars_now": 31313,
+  "forks": 5137,
+  "open_issues": 612,
+  "subscribers": 477,
+  "watchers": 31313,
+  "html_url": "https://github.com/kubernetes/minikube",
+  "api_url": "https://api.github.com/repos/kubernetes/minikube",
+  "fetched_at": "2025-12-29T14:18:31.914Z"
+}

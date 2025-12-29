@@ -1,0 +1,31 @@
+{
+  "owner": "bitcoin",
+  "repo": "bitcoin/bitcoin",
+  "name": "bitcoin",
+  "full_name": "bitcoin/bitcoin",
+  "description": "Bitcoin Core integration/staging tree",
+  "homepage": "https://bitcoincore.org/en/download",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "bitcoin",
+    "c-plus-plus",
+    "cryptocurrency",
+    "cryptography",
+    "p2p"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-12-19T15:16:43Z",
+  "pushed_at": "2025-12-29T10:54:52Z",
+  "size": 301044,
+  "stars_now": 87414,
+  "forks": 38638,
+  "open_issues": 735,
+  "subscribers": 4058,
+  "watchers": 87414,
+  "html_url": "https://github.com/bitcoin/bitcoin",
+  "api_url": "https://api.github.com/repos/bitcoin/bitcoin",
+  "fetched_at": "2025-12-29T14:16:48.095Z"
+}

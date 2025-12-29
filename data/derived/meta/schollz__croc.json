@@ -1,0 +1,33 @@
+{
+  "owner": "schollz",
+  "repo": "schollz/croc",
+  "name": "croc",
+  "full_name": "schollz/croc",
+  "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+  "homepage": "https://schollz.com/software/croc6",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "data-transfer",
+    "file-sharing",
+    "golang",
+    "pake",
+    "peer-to-peer",
+    "tcp",
+    "transfer"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-10-17T15:20:18Z",
+  "pushed_at": "2025-12-29T08:03:47Z",
+  "size": 25182,
+  "stars_now": 33583,
+  "forks": 1320,
+  "open_issues": 6,
+  "subscribers": 250,
+  "watchers": 33583,
+  "html_url": "https://github.com/schollz/croc",
+  "api_url": "https://api.github.com/repos/schollz/croc",
+  "fetched_at": "2025-12-29T14:20:11.695Z"
+}

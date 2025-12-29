@@ -6,6 +6,22 @@
   "subscribers": 35,
   "default_branch": "main",
   "fetched_at": "2025-11-07T17:30:47.185Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:12.252Z"
+  "contributor_locations": {
+    "unknown": 19,
+    "earth": 1,
+    "new york | new delhi | hong kong": 1,
+    "london, uk": 1,
+    "portugal": 1,
+    "seattle, wa": 2,
+    "paris": 1,
+    "san francisco": 2,
+    "dallas, texas": 1,
+    "boston, ma": 1,
+    "seoul & seohyeon": 1,
+    "espoo, finland": 1,
+    "france": 1,
+    "oslo": 1,
+    "seattle": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T17:25:34.572Z"
 }

@@ -1,11 +1,27 @@
 {
+  "owner": "jetkvm",
   "repo": "jetkvm/kvm",
-  "stars_now": 3796,
-  "forks": 241,
-  "open_issues": 240,
-  "subscribers": 36,
+  "name": "kvm",
+  "full_name": "jetkvm/kvm",
+  "description": "JetKVM - Control any computer remotely",
+  "homepage": "https://jetkvm.com",
+  "language": "C",
+  "license": "GPL-2.0",
+  "topics": [
+    "kvm"
+  ],
   "default_branch": "dev",
-  "fetched_at": "2025-11-07T17:31:10.975Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:13.521Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-10-03T15:15:28Z",
+  "pushed_at": "2025-12-29T14:16:31Z",
+  "size": 18256,
+  "stars_now": 4143,
+  "forks": 269,
+  "open_issues": 256,
+  "subscribers": 35,
+  "watchers": 4143,
+  "html_url": "https://github.com/jetkvm/kvm",
+  "api_url": "https://api.github.com/repos/jetkvm/kvm",
+  "fetched_at": "2025-12-29T14:18:20.719Z"
 }

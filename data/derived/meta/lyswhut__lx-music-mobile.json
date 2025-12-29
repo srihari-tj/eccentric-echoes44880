@@ -1,0 +1,29 @@
+{
+  "owner": "lyswhut",
+  "repo": "lyswhut/lx-music-mobile",
+  "name": "lx-music-mobile",
+  "full_name": "lyswhut/lx-music-mobile",
+  "description": "一个基于 React native 开发的音乐软件",
+  "homepage": "https://lyswhut.github.io/lx-music-doc/",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "javascript",
+    "music-player",
+    "react-native-app"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-05-15T09:53:57Z",
+  "pushed_at": "2025-12-19T02:07:40Z",
+  "size": 10609,
+  "stars_now": 15047,
+  "forks": 1727,
+  "open_issues": 616,
+  "subscribers": 119,
+  "watchers": 15047,
+  "html_url": "https://github.com/lyswhut/lx-music-mobile",
+  "api_url": "https://api.github.com/repos/lyswhut/lx-music-mobile",
+  "fetched_at": "2025-12-29T14:18:47.861Z"
+}

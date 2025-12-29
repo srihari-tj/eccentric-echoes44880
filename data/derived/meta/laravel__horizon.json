@@ -1,11 +1,28 @@
 {
+  "owner": "laravel",
   "repo": "laravel/horizon",
-  "stars_now": 4053,
-  "forks": 700,
-  "open_issues": 11,
-  "subscribers": 81,
+  "name": "horizon",
+  "full_name": "laravel/horizon",
+  "description": "Dashboard and code-driven configuration for Laravel queues.",
+  "homepage": "https://laravel.com/docs/horizon",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "laravel",
+    "queue"
+  ],
   "default_branch": "5.x",
-  "fetched_at": "2025-11-07T17:31:15.626Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:13.765Z"
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-07-14T15:26:27Z",
+  "pushed_at": "2025-12-27T13:01:33Z",
+  "size": 30466,
+  "stars_now": 4131,
+  "forks": 712,
+  "open_issues": 12,
+  "subscribers": 81,
+  "watchers": 4131,
+  "html_url": "https://github.com/laravel/horizon",
+  "api_url": "https://api.github.com/repos/laravel/horizon",
+  "fetched_at": "2025-12-29T14:18:37.301Z"
 }

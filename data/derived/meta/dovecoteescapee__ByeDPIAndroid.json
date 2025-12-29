@@ -1,0 +1,30 @@
+{
+  "owner": "dovecoteescapee",
+  "repo": "dovecoteescapee/ByeDPIAndroid",
+  "name": "ByeDPIAndroid",
+  "full_name": "dovecoteescapee/ByeDPIAndroid",
+  "description": "App to bypass censorship on Android",
+  "homepage": "https://ntc.party/c/community-software/byedpi",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "anticensorship",
+    "censorship-circumvention",
+    "deep-packet-inspection",
+    "dpi"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-02-22T18:01:47Z",
+  "pushed_at": "2024-09-05T06:01:40Z",
+  "size": 19321,
+  "stars_now": 4899,
+  "forks": 401,
+  "open_issues": 122,
+  "subscribers": 48,
+  "watchers": 4899,
+  "html_url": "https://github.com/dovecoteescapee/ByeDPIAndroid",
+  "api_url": "https://api.github.com/repos/dovecoteescapee/ByeDPIAndroid",
+  "fetched_at": "2025-12-29T14:17:23.359Z"
+}

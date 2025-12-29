@@ -1,0 +1,33 @@
+{
+  "owner": "pmmp",
+  "repo": "pmmp/PocketMine-MP",
+  "name": "PocketMine-MP",
+  "full_name": "pmmp/PocketMine-MP",
+  "description": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
+  "homepage": "https://pmmp.io",
+  "language": "PHP",
+  "license": "LGPL-3.0",
+  "topics": [
+    "minecraft",
+    "minecraft-server",
+    "phpstan-l9",
+    "phpstan-strict",
+    "pmmp",
+    "pocketmine",
+    "pocketmine-mp"
+  ],
+  "default_branch": "stable",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-09-30T18:29:35Z",
+  "pushed_at": "2025-12-27T21:07:00Z",
+  "size": 56083,
+  "stars_now": 3469,
+  "forks": 1634,
+  "open_issues": 451,
+  "subscribers": 236,
+  "watchers": 3469,
+  "html_url": "https://github.com/pmmp/PocketMine-MP",
+  "api_url": "https://api.github.com/repos/pmmp/PocketMine-MP",
+  "fetched_at": "2025-12-29T14:19:43.903Z"
+}

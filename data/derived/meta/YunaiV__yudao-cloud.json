@@ -6,6 +6,22 @@
   "subscribers": 336,
   "default_branch": "master",
   "fetched_at": "2025-11-07T17:30:33.563Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:11.552Z"
+  "contributor_locations": {
+    "shanghai, china": 1,
+    "china-shenzhen": 2,
+    "unknown": 52,
+    "杭州": 2,
+    "保定": 1,
+    "shenzhen": 1,
+    "china": 3,
+    "tianjin of china": 1,
+    "hunan": 1,
+    "hangzhou": 1,
+    "我是外国人": 1,
+    "shanghai": 1,
+    "ottawa, canada": 1,
+    "beijing": 1,
+    "beijing china": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T16:15:18.381Z"
 }

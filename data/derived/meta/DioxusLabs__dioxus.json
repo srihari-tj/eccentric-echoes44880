@@ -14,7 +14,7 @@
     "riga": 1,
     "austria": 1,
     "barcelona, spain": 1,
-    "unknown": 148,
+    "unknown": 147,
     "paris": 2,
     "united kingdom": 3,
     "san francisco": 2,
@@ -141,6 +141,7 @@
     "mid-atlantic": 1,
     "redwood city, california": 1,
     "sydney, australia": 1,
+    "santiago, chile": 2,
     "mexico city": 1,
     "zurich, switzerland": 1,
     "castellar del vallès, spain": 1,
@@ -155,7 +156,6 @@
     "adelaide, australia": 1,
     "manchester, uk": 1,
     "bangkok <> canada": 1,
-    "::1": 1,
     "chicago,il": 1,
     "toronto, ontario": 1,
     "worcestershire, uk": 1,
@@ -169,7 +169,6 @@
     "dalian, china": 1,
     "valhalla": 1,
     "atlanta, ga": 1,
-    "santiago, chile": 1,
     "da nang, vietnam": 1,
     "šabac, serbia": 1,
     "universe, milky way, orion-cygnus arm, solar system, earth, europe": 1,
@@ -188,5 +187,5 @@
     "tāmaki makaurau, aotearoa": 1,
     "barcelona": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T09:37:17.154Z"
+  "contributor_locations_updated_at": "2025-12-29T14:35:40.708Z"
 }

@@ -1,0 +1,33 @@
+{
+  "owner": "mpv-player",
+  "repo": "mpv-player/mpv",
+  "name": "mpv",
+  "full_name": "mpv-player/mpv",
+  "description": "🎥 Command line media player",
+  "homepage": "https://mpv.io",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "audio",
+    "c",
+    "ffmpeg",
+    "mplayer",
+    "mpv",
+    "multimedia",
+    "video"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-10-13T08:08:44Z",
+  "pushed_at": "2025-12-29T10:24:36Z",
+  "size": 115743,
+  "stars_now": 33187,
+  "forks": 3184,
+  "open_issues": 1065,
+  "subscribers": 500,
+  "watchers": 33187,
+  "html_url": "https://github.com/mpv-player/mpv",
+  "api_url": "https://api.github.com/repos/mpv-player/mpv",
+  "fetched_at": "2025-12-29T14:19:13.144Z"
+}

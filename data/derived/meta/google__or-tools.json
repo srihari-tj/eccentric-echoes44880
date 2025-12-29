@@ -1,0 +1,31 @@
+{
+  "owner": "google",
+  "repo": "google/or-tools",
+  "name": "or-tools",
+  "full_name": "google/or-tools",
+  "description": "Google's Operations Research tools:",
+  "homepage": "https://developers.google.com/optimization/",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "combinatorial-optimization",
+    "linear-programming",
+    "operations-research",
+    "optimization",
+    "or-tools"
+  ],
+  "default_branch": "stable",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-02-21T01:25:35Z",
+  "pushed_at": "2025-12-28T00:49:40Z",
+  "size": 1305751,
+  "stars_now": 12899,
+  "forks": 2335,
+  "open_issues": 69,
+  "subscribers": 307,
+  "watchers": 12899,
+  "html_url": "https://github.com/google/or-tools",
+  "api_url": "https://api.github.com/repos/google/or-tools",
+  "fetched_at": "2025-12-29T14:17:59.595Z"
+}

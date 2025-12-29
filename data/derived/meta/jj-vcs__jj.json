@@ -1,0 +1,32 @@
+{
+  "owner": "jj-vcs",
+  "repo": "jj-vcs/jj",
+  "name": "jj",
+  "full_name": "jj-vcs/jj",
+  "description": "A Git-compatible VCS that is both simple and powerful",
+  "homepage": "https://jj-vcs.dev",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "cli",
+    "git",
+    "jj",
+    "jujutsu",
+    "mercurial",
+    "vcs"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-12-18T04:05:27Z",
+  "pushed_at": "2025-12-29T09:52:04Z",
+  "size": 66490,
+  "stars_now": 23907,
+  "forks": 862,
+  "open_issues": 950,
+  "subscribers": 95,
+  "watchers": 23907,
+  "html_url": "https://github.com/jj-vcs/jj",
+  "api_url": "https://api.github.com/repos/jj-vcs/jj",
+  "fetched_at": "2025-12-29T14:18:21.250Z"
+}

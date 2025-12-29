@@ -1,0 +1,30 @@
+{
+  "owner": "zen-browser",
+  "repo": "zen-browser/desktop",
+  "name": "desktop",
+  "full_name": "zen-browser/desktop",
+  "description": "Welcome to a calmer internet",
+  "homepage": "https://zen-browser.app",
+  "language": "JavaScript",
+  "license": "MPL-2.0",
+  "topics": [
+    "firefox",
+    "firefox-based",
+    "firefox-browser",
+    "zen-browser"
+  ],
+  "default_branch": "dev",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-03-28T00:05:55Z",
+  "pushed_at": "2025-12-29T01:01:36Z",
+  "size": 5899837,
+  "stars_now": 39025,
+  "forks": 1241,
+  "open_issues": 549,
+  "subscribers": 85,
+  "watchers": 39025,
+  "html_url": "https://github.com/zen-browser/desktop",
+  "api_url": "https://api.github.com/repos/zen-browser/desktop",
+  "fetched_at": "2025-12-29T14:21:17.601Z"
+}

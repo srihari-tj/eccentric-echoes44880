@@ -1,0 +1,33 @@
+{
+  "owner": "microsoft",
+  "repo": "microsoft/calculator",
+  "name": "calculator",
+  "full_name": "microsoft/calculator",
+  "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+  "homepage": "https://github.com/microsoft/calculator",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "cpp",
+    "csharp",
+    "uwp",
+    "windows",
+    "windows-10",
+    "windows-11",
+    "xaml"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-01-28T17:55:49Z",
+  "pushed_at": "2025-12-24T03:16:48Z",
+  "size": 39747,
+  "stars_now": 30803,
+  "forks": 5698,
+  "open_issues": 443,
+  "subscribers": 584,
+  "watchers": 30803,
+  "html_url": "https://github.com/microsoft/calculator",
+  "api_url": "https://api.github.com/repos/microsoft/calculator",
+  "fetched_at": "2025-12-29T14:19:02.017Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "hakimel",
+  "repo": "hakimel/reveal.js",
+  "name": "reveal.js",
+  "full_name": "hakimel/reveal.js",
+  "description": "The HTML Presentation Framework",
+  "homepage": "https://revealjs.com",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "presentations",
+    "slides",
+    "slideshow"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-06-07T18:54:22Z",
+  "pushed_at": "2025-12-23T07:49:15Z",
+  "size": 33417,
+  "stars_now": 70314,
+  "forks": 16813,
+  "open_issues": 881,
+  "subscribers": 1637,
+  "watchers": 70314,
+  "html_url": "https://github.com/hakimel/reveal.js",
+  "api_url": "https://api.github.com/repos/hakimel/reveal.js",
+  "fetched_at": "2025-12-29T14:18:04.687Z"
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "iptv-org",
+  "repo": "iptv-org/iptv",
+  "name": "iptv",
+  "full_name": "iptv-org/iptv",
+  "description": "Collection of publicly available IPTV channels from all over the world",
+  "homepage": "https://iptv-org.github.io",
+  "language": "TypeScript",
+  "license": "Unlicense",
+  "topics": [
+    "iptv",
+    "m3u",
+    "playlist",
+    "streams",
+    "tv"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-11-14T22:00:57Z",
+  "pushed_at": "2025-12-29T12:04:24Z",
+  "size": 1123529,
+  "stars_now": 107435,
+  "forks": 5103,
+  "open_issues": 325,
+  "subscribers": 2009,
+  "watchers": 107435,
+  "html_url": "https://github.com/iptv-org/iptv",
+  "api_url": "https://api.github.com/repos/iptv-org/iptv",
+  "fetched_at": "2025-12-29T14:18:16.575Z"
+}

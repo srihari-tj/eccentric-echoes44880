@@ -1,0 +1,29 @@
+{
+  "owner": "sebastianbergmann",
+  "repo": "sebastianbergmann/phpunit",
+  "name": "phpunit",
+  "full_name": "sebastianbergmann/phpunit",
+  "description": "The PHP Unit Testing framework.",
+  "homepage": "https://phpunit.de/",
+  "language": "PHP",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "php",
+    "phpunit",
+    "testing-tools"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-12-24T13:16:23Z",
+  "pushed_at": "2025-12-28T07:49:45Z",
+  "size": 212040,
+  "stars_now": 19977,
+  "forks": 2229,
+  "open_issues": 114,
+  "subscribers": 305,
+  "watchers": 19977,
+  "html_url": "https://github.com/sebastianbergmann/phpunit",
+  "api_url": "https://api.github.com/repos/sebastianbergmann/phpunit",
+  "fetched_at": "2025-12-29T14:20:13.206Z"
+}

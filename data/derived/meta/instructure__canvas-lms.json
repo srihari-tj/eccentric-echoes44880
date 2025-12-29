@@ -1,0 +1,29 @@
+{
+  "owner": "instructure",
+  "repo": "instructure/canvas-lms",
+  "name": "canvas-lms",
+  "full_name": "instructure/canvas-lms",
+  "description": "The open LMS by Instructure, Inc.",
+  "homepage": "https://github.com/instructure/canvas-lms/wiki",
+  "language": "Ruby",
+  "license": "AGPL-3.0",
+  "topics": [
+    "canvas-lms",
+    "gerrit-mirror",
+    "instructure"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-02-01T00:08:40Z",
+  "pushed_at": "2025-12-24T19:06:27Z",
+  "size": 2165272,
+  "stars_now": 6362,
+  "forks": 2824,
+  "open_issues": 643,
+  "subscribers": 291,
+  "watchers": 6362,
+  "html_url": "https://github.com/instructure/canvas-lms",
+  "api_url": "https://api.github.com/repos/instructure/canvas-lms",
+  "fetched_at": "2025-12-29T14:18:15.606Z"
+}

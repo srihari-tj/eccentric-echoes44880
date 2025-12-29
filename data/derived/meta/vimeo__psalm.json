@@ -1,0 +1,32 @@
+{
+  "owner": "vimeo",
+  "repo": "vimeo/psalm",
+  "name": "psalm",
+  "full_name": "vimeo/psalm",
+  "description": "A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications",
+  "homepage": "https://psalm.dev",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "hacktoberfest",
+    "php",
+    "security-analysis",
+    "static-analysis",
+    "taint-analysis",
+    "type-inference"
+  ],
+  "default_branch": "6.x",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-11-21T17:04:41Z",
+  "pushed_at": "2025-12-26T12:19:21Z",
+  "size": 116799,
+  "stars_now": 5789,
+  "forks": 684,
+  "open_issues": 1919,
+  "subscribers": 55,
+  "watchers": 5789,
+  "html_url": "https://github.com/vimeo/psalm",
+  "api_url": "https://api.github.com/repos/vimeo/psalm",
+  "fetched_at": "2025-12-29T14:21:01.255Z"
+}

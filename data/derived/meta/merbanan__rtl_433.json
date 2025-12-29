@@ -1,0 +1,32 @@
+{
+  "owner": "merbanan",
+  "repo": "merbanan/rtl_433",
+  "name": "rtl_433",
+  "full_name": "merbanan/rtl_433",
+  "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+  "homepage": "https://github.com/merbanan/rtl_433",
+  "language": "C",
+  "license": "GPL-2.0",
+  "topics": [
+    "433mhz",
+    "rf",
+    "rtl-sdr",
+    "sdr",
+    "sensors",
+    "signal-processing"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-01-19T16:40:34Z",
+  "pushed_at": "2025-12-29T14:03:48Z",
+  "size": 9379,
+  "stars_now": 7128,
+  "forks": 1458,
+  "open_issues": 239,
+  "subscribers": 199,
+  "watchers": 7128,
+  "html_url": "https://github.com/merbanan/rtl_433",
+  "api_url": "https://api.github.com/repos/merbanan/rtl_433",
+  "fetched_at": "2025-12-29T14:18:56.804Z"
+}

@@ -1,0 +1,30 @@
+{
+  "owner": "notepad-plus-plus",
+  "repo": "notepad-plus-plus/notepad-plus-plus",
+  "name": "notepad-plus-plus",
+  "full_name": "notepad-plus-plus/notepad-plus-plus",
+  "description": "Notepad++ official repository",
+  "homepage": "https://notepad-plus-plus.org/",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "editor",
+    "notepad",
+    "notepad-official",
+    "windows"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-03-28T00:05:08Z",
+  "pushed_at": "2025-12-28T13:28:29Z",
+  "size": 301097,
+  "stars_now": 26581,
+  "forks": 5041,
+  "open_issues": 2794,
+  "subscribers": 652,
+  "watchers": 26581,
+  "html_url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+  "api_url": "https://api.github.com/repos/notepad-plus-plus/notepad-plus-plus",
+  "fetched_at": "2025-12-29T14:19:24.753Z"
+}

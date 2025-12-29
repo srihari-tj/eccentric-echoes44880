@@ -1,0 +1,32 @@
+{
+  "owner": "recloudstream",
+  "repo": "recloudstream/cloudstream",
+  "name": "cloudstream",
+  "full_name": "recloudstream/cloudstream",
+  "description": "Android app for streaming and downloading media.",
+  "homepage": "https://github.com/recloudstream/cloudstream",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "good-first-issue",
+    "home-theater",
+    "media-center",
+    "multimedia",
+    "video-streaming"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-08-04T08:42:38Z",
+  "pushed_at": "2025-12-28T00:00:30Z",
+  "size": 49171,
+  "stars_now": 8523,
+  "forks": 740,
+  "open_issues": 439,
+  "subscribers": 224,
+  "watchers": 8523,
+  "html_url": "https://github.com/recloudstream/cloudstream",
+  "api_url": "https://api.github.com/repos/recloudstream/cloudstream",
+  "fetched_at": "2025-12-29T14:19:59.604Z"
+}

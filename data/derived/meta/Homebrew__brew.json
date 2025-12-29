@@ -18,16 +18,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2016-03-06T05:08:38Z",
-  "pushed_at": "2025-12-29T09:02:26Z",
-  "size": 106797,
-  "stars_now": 45996,
-  "forks": 10830,
-  "open_issues": 25,
+  "pushed_at": "2025-12-29T13:31:57Z",
+  "size": 106823,
+  "stars_now": 45998,
+  "forks": 10829,
+  "open_issues": 27,
   "subscribers": 728,
-  "watchers": 45996,
+  "watchers": 45998,
   "html_url": "https://github.com/Homebrew/brew",
   "api_url": "https://api.github.com/repos/Homebrew/brew",
-  "fetched_at": "2025-12-29T09:20:16.815Z",
+  "fetched_at": "2025-12-29T14:15:19.629Z",
   "contributor_locations": {
     "edinburgh, scotland": 1,
     "austria": 2,
@@ -219,5 +219,5 @@
     "vancouver": 1,
     "edinburgh, uk": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T09:46:17.488Z"
+  "contributor_locations_updated_at": "2025-12-29T15:17:58.046Z"
 }

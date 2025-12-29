@@ -1,0 +1,30 @@
+{
+  "owner": "trailbaseio",
+  "repo": "trailbaseio/trailbase",
+  "name": "trailbase",
+  "full_name": "trailbaseio/trailbase",
+  "description": "A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.",
+  "homepage": "https://trailbase.io",
+  "language": "Rust",
+  "license": "OSL-3.0",
+  "topics": [
+    "authentication",
+    "database",
+    "rest-api",
+    "rust"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-10-29T09:39:33Z",
+  "pushed_at": "2025-12-26T08:25:22Z",
+  "size": 16764,
+  "stars_now": 4325,
+  "forks": 121,
+  "open_issues": 38,
+  "subscribers": 21,
+  "watchers": 4325,
+  "html_url": "https://github.com/trailbaseio/trailbase",
+  "api_url": "https://api.github.com/repos/trailbaseio/trailbase",
+  "fetched_at": "2025-12-29T14:20:45.447Z"
+}

@@ -1,0 +1,28 @@
+{
+  "owner": "swaywm",
+  "repo": "swaywm/sway",
+  "name": "sway",
+  "full_name": "swaywm/sway",
+  "description": "i3-compatible Wayland compositor",
+  "homepage": "https://swaywm.org",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "compositor",
+    "wayland"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-08-05T01:31:45Z",
+  "pushed_at": "2025-12-21T15:38:07Z",
+  "size": 30707,
+  "stars_now": 16356,
+  "forks": 1217,
+  "open_issues": 1281,
+  "subscribers": 208,
+  "watchers": 16356,
+  "html_url": "https://github.com/swaywm/sway",
+  "api_url": "https://api.github.com/repos/swaywm/sway",
+  "fetched_at": "2025-12-29T14:20:32.440Z"
+}

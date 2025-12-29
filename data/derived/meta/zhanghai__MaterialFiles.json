@@ -1,0 +1,32 @@
+{
+  "owner": "zhanghai",
+  "repo": "zhanghai/MaterialFiles",
+  "name": "MaterialFiles",
+  "full_name": "zhanghai/MaterialFiles",
+  "description": "Material Design file manager for Android",
+  "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "android-application",
+    "file-manager",
+    "kotlin",
+    "kotlin-android",
+    "material-design"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-05-27T23:22:03Z",
+  "pushed_at": "2025-08-03T21:16:20Z",
+  "size": 16676,
+  "stars_now": 7773,
+  "forks": 572,
+  "open_issues": 565,
+  "subscribers": 85,
+  "watchers": 7773,
+  "html_url": "https://github.com/zhanghai/MaterialFiles",
+  "api_url": "https://api.github.com/repos/zhanghai/MaterialFiles",
+  "fetched_at": "2025-12-29T14:21:18.124Z"
+}

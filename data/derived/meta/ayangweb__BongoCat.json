@@ -28,12 +28,26 @@
   "created_at": "2025-03-28T04:50:22Z",
   "pushed_at": "2025-12-26T05:36:36Z",
   "size": 10250,
-  "stars_now": 15415,
-  "forks": 727,
+  "stars_now": 15432,
+  "forks": 729,
   "open_issues": 33,
   "subscribers": 31,
-  "watchers": 15415,
+  "watchers": 15432,
   "html_url": "https://github.com/ayangweb/BongoCat",
   "api_url": "https://api.github.com/repos/ayangweb/BongoCat",
-  "fetched_at": "2025-12-29T09:21:30.496Z"
+  "fetched_at": "2025-12-29T14:16:40.533Z",
+  "contributor_locations": {
+    "qinghai, china": 1,
+    "hangzhou, china": 1,
+    "unknown": 6,
+    "china,shanghai": 1,
+    "wuhan, china": 1,
+    "de": 1,
+    "shanghai, china": 1,
+    "beijing, china": 1,
+    "shanghai/liaoning/hebei": 1,
+    "china": 1,
+    "people's republic of china": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T16:37:08.440Z"
 }

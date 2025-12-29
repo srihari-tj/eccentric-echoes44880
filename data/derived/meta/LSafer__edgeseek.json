@@ -25,6 +25,9 @@
   "html_url": "https://github.com/LSafer/edgeseek",
   "api_url": "https://api.github.com/repos/LSafer/edgeseek",
   "fetched_at": "2025-11-10T08:30:29.207Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:11.076Z"
+  "contributor_locations": {
+    "iceland": 1,
+    "unknown": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T15:23:56.753Z"
 }

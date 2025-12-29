@@ -1,0 +1,31 @@
+{
+  "owner": "mui",
+  "repo": "mui/base-ui",
+  "name": "base-ui",
+  "full_name": "mui/base-ui",
+  "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+  "homepage": "https://base-ui.com",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "accessibility",
+    "design-system",
+    "react",
+    "react-components",
+    "wai-aria"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-02-23T13:23:54Z",
+  "pushed_at": "2025-12-29T13:01:11Z",
+  "size": 30878,
+  "stars_now": 7688,
+  "forks": 308,
+  "open_issues": 323,
+  "subscribers": 28,
+  "watchers": 7688,
+  "html_url": "https://github.com/mui/base-ui",
+  "api_url": "https://api.github.com/repos/mui/base-ui",
+  "fetched_at": "2025-12-29T14:19:14.964Z"
+}
