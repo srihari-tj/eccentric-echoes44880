@@ -22,16 +22,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2019-08-28T23:43:30Z",
-  "pushed_at": "2025-12-29T00:47:29Z",
-  "size": 81173,
-  "stars_now": 12535,
+  "pushed_at": "2025-12-29T05:22:17Z",
+  "size": 81186,
+  "stars_now": 12541,
   "forks": 320,
   "open_issues": 116,
   "subscribers": 51,
-  "watchers": 12535,
+  "watchers": 12541,
   "html_url": "https://github.com/ClementTsang/bottom",
   "api_url": "https://api.github.com/repos/ClementTsang/bottom",
-  "fetched_at": "2025-12-29T01:20:13.031Z",
+  "fetched_at": "2025-12-29T09:19:58.431Z",
   "contributor_locations": {
     "canada": 1,
     "unknown": 27,
@@ -85,5 +85,5 @@
     "chicago, il": 1,
     "wrocław, poland": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T01:31:54.189Z"
+  "contributor_locations_updated_at": "2025-12-29T09:32:39.772Z"
 }

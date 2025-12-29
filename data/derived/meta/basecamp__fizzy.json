@@ -1,0 +1,30 @@
+{
+  "owner": "basecamp",
+  "repo": "basecamp/fizzy",
+  "name": "fizzy",
+  "full_name": "basecamp/fizzy",
+  "description": "Kanban as it should be. Not as it has been.",
+  "homepage": "https://fizzy.do",
+  "language": "Ruby",
+  "license": "NOASSERTION",
+  "topics": [
+    "hotwire",
+    "kanban",
+    "rails",
+    "ruby"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-06-21T15:43:29Z",
+  "pushed_at": "2025-12-28T05:18:22Z",
+  "size": 59361,
+  "stars_now": 6372,
+  "forks": 810,
+  "open_issues": 33,
+  "subscribers": 34,
+  "watchers": 6372,
+  "html_url": "https://github.com/basecamp/fizzy",
+  "api_url": "https://api.github.com/repos/basecamp/fizzy",
+  "fetched_at": "2025-12-29T09:21:33.499Z"
+}

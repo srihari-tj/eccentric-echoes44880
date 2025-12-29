@@ -1,0 +1,30 @@
+{
+  "owner": "betaflight",
+  "repo": "betaflight/betaflight",
+  "name": "betaflight",
+  "full_name": "betaflight/betaflight",
+  "description": "Open Source Flight Controller Firmware",
+  "homepage": "https://github.com/betaflight/betaflight",
+  "language": "C",
+  "license": "GPL-3.0",
+  "topics": [
+    "betaflight",
+    "cleanflight",
+    "flight-controller",
+    "hacktoberfest"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-06-08T10:37:44Z",
+  "pushed_at": "2025-12-27T19:11:14Z",
+  "size": 411394,
+  "stars_now": 10403,
+  "forks": 3524,
+  "open_issues": 336,
+  "subscribers": 413,
+  "watchers": 10403,
+  "html_url": "https://github.com/betaflight/betaflight",
+  "api_url": "https://api.github.com/repos/betaflight/betaflight",
+  "fetched_at": "2025-12-29T09:21:36.524Z"
+}

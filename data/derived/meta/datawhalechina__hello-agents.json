@@ -1,0 +1,30 @@
+{
+  "owner": "datawhalechina",
+  "repo": "datawhalechina/hello-agents",
+  "name": "hello-agents",
+  "full_name": "datawhalechina/hello-agents",
+  "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+  "homepage": "https://datawhalechina.github.io/hello-agents/",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "agent",
+    "llm",
+    "rag",
+    "tutorial"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-09-07T09:50:24Z",
+  "pushed_at": "2025-12-26T06:16:49Z",
+  "size": 151895,
+  "stars_now": 13117,
+  "forks": 1370,
+  "open_issues": 41,
+  "subscribers": 53,
+  "watchers": 13117,
+  "html_url": "https://github.com/datawhalechina/hello-agents",
+  "api_url": "https://api.github.com/repos/datawhalechina/hello-agents",
+  "fetched_at": "2025-12-29T09:22:04.678Z"
+}

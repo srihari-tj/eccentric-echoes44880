@@ -1,0 +1,31 @@
+{
+  "owner": "danielmiessler",
+  "repo": "danielmiessler/Fabric",
+  "name": "Fabric",
+  "full_name": "danielmiessler/Fabric",
+  "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+  "homepage": "https://danielmiessler.com/p/fabric-origin-story",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "augmentation",
+    "flourishing",
+    "life",
+    "work"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-01-03T23:18:31Z",
+  "pushed_at": "2025-12-28T21:00:27Z",
+  "size": 233125,
+  "stars_now": 37213,
+  "forks": 3723,
+  "open_issues": 28,
+  "subscribers": 382,
+  "watchers": 37213,
+  "html_url": "https://github.com/danielmiessler/Fabric",
+  "api_url": "https://api.github.com/repos/danielmiessler/Fabric",
+  "fetched_at": "2025-12-29T09:22:02.989Z"
+}

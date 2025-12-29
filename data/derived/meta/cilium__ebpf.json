@@ -1,0 +1,31 @@
+{
+  "owner": "cilium",
+  "repo": "cilium/ebpf",
+  "name": "ebpf",
+  "full_name": "cilium/ebpf",
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": "https://ebpf-go.dev",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-09-05T20:13:28Z",
+  "pushed_at": "2025-12-15T10:14:52Z",
+  "size": 50668,
+  "stars_now": 7408,
+  "forks": 802,
+  "open_issues": 32,
+  "subscribers": 101,
+  "watchers": 7408,
+  "html_url": "https://github.com/cilium/ebpf",
+  "api_url": "https://api.github.com/repos/cilium/ebpf",
+  "fetched_at": "2025-12-29T09:21:50.633Z"
+}

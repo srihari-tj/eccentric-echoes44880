@@ -1,0 +1,32 @@
+{
+  "owner": "department-of-veterans-affairs",
+  "repo": "department-of-veterans-affairs/vets-api",
+  "name": "vets-api",
+  "full_name": "department-of-veterans-affairs/vets-api",
+  "description": "API powering VA.gov",
+  "homepage": "https://api.va.gov",
+  "language": "Ruby",
+  "license": "NOASSERTION",
+  "topics": [
+    "civic-tech",
+    "gov",
+    "hacktoberfest",
+    "platform",
+    "rails",
+    "ruby"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-07-01T17:33:19Z",
+  "pushed_at": "2025-12-29T09:03:14Z",
+  "size": 628607,
+  "stars_now": 251,
+  "forks": 83,
+  "open_issues": 152,
+  "subscribers": 198,
+  "watchers": 251,
+  "html_url": "https://github.com/department-of-veterans-affairs/vets-api",
+  "api_url": "https://api.github.com/repos/department-of-veterans-affairs/vets-api",
+  "fetched_at": "2025-12-29T09:22:08.214Z"
+}

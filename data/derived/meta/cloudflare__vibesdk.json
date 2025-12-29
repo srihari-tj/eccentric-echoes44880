@@ -1,0 +1,32 @@
+{
+  "owner": "cloudflare",
+  "repo": "cloudflare/vibesdk",
+  "name": "vibesdk",
+  "full_name": "cloudflare/vibesdk",
+  "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ",
+  "homepage": "https://build.cloudflare.dev",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "cloudflare-workers",
+    "coding-agent",
+    "durable-objects",
+    "text-to-app",
+    "vibe-coding"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-08-25T15:07:31Z",
+  "pushed_at": "2025-12-29T06:13:38Z",
+  "size": 4663,
+  "stars_now": 4518,
+  "forks": 1030,
+  "open_issues": 33,
+  "subscribers": 33,
+  "watchers": 4518,
+  "html_url": "https://github.com/cloudflare/vibesdk",
+  "api_url": "https://api.github.com/repos/cloudflare/vibesdk",
+  "fetched_at": "2025-12-29T09:21:53.701Z"
+}
