@@ -28,5 +28,27 @@
   "watchers": 3429,
   "html_url": "https://github.com/facebookresearch/habitat-sim",
   "api_url": "https://api.github.com/repos/facebookresearch/habitat-sim",
-  "fetched_at": "2025-12-29T14:17:35.406Z"
+  "fetched_at": "2025-12-29T14:17:35.406Z",
+  "contributor_locations": {
+    "atlanta ga": 1,
+    "hilo, hawaii": 1,
+    "new york, ny": 1,
+    "prague, czech republic": 1,
+    "unknown": 30,
+    "montreal": 1,
+    "menlo park, california, usa": 1,
+    "san francisco": 2,
+    "waterloo, on": 1,
+    "princeton, nj": 1,
+    "sf bay area, ca": 1,
+    "united states": 1,
+    "menlo park, california": 1,
+    "pittsburgh, usa": 1,
+    "atlanta": 2,
+    "london": 1,
+    "san francisco, california, usa": 1,
+    "seattle, wa": 1,
+    "copenhagen, denmark": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T22:24:09.155Z"
 }

@@ -27,5 +27,16 @@
   "watchers": 7128,
   "html_url": "https://github.com/droidrun/droidrun",
   "api_url": "https://api.github.com/repos/droidrun/droidrun",
-  "fetched_at": "2025-12-29T14:17:23.811Z"
+  "fetched_at": "2025-12-29T14:17:23.811Z",
+  "contributor_locations": {
+    "unknown": 14,
+    "germany": 2,
+    "baku": 1,
+    "india": 2,
+    "san francisco": 1,
+    "guangzhou": 1,
+    "remote - germany": 1,
+    "shenzheng，china": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T22:17:18.897Z"
 }

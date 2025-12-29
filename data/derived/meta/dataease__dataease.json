@@ -30,5 +30,26 @@
   "watchers": 22993,
   "html_url": "https://github.com/dataease/dataease",
   "api_url": "https://api.github.com/repos/dataease/dataease",
-  "fetched_at": "2025-12-29T14:17:15.475Z"
+  "fetched_at": "2025-12-29T14:17:15.475Z",
+  "contributor_locations": {
+    "unknown": 63,
+    "shanghai & hangzhou": 1,
+    "shanghai": 1,
+    "shasnghai": 1,
+    "beijing": 7,
+    "beijing, china": 4,
+    "china": 1,
+    "san jose, ca": 1,
+    "sunnyvale, ca": 1,
+    "taipei, taiwan": 1,
+    "china.guangzhou": 1,
+    "china beijing": 1,
+    "beijing,china": 1,
+    "tokyo, japan": 1,
+    "xian, shanxi, china": 1,
+    "chengdu, china": 1,
+    "hangzhou, china": 1,
+    "dependency heaven": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T21:31:07.657Z"
 }

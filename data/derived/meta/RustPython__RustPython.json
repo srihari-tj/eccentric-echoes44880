@@ -36,7 +36,7 @@
     "seoul, the republic of korea": 2,
     "madison wi/chicago il": 1,
     "deventer": 1,
-    "unknown": 137,
+    "unknown": 136,
     "johannesburg, south africa": 1,
     "::1": 1,
     "california": 1,
@@ -178,6 +178,7 @@
     "daejeon, republic of korea": 1,
     "wytheville, va": 1,
     "varanasi": 1,
+    "moscow": 1,
     "london, united kingdom": 1,
     "london / lisbon": 1,
     "pune, india": 1,
@@ -195,5 +196,5 @@
     "seattle, wa": 1,
     "dallas, tx, usa": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T15:32:58.887Z"
+  "contributor_locations_updated_at": "2025-12-29T19:25:19.784Z"
 }

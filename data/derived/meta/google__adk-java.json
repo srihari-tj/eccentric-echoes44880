@@ -40,5 +40,25 @@
   "watchers": 1177,
   "html_url": "https://github.com/google/adk-java",
   "api_url": "https://api.github.com/repos/google/adk-java",
-  "fetched_at": "2025-12-29T14:17:56.849Z"
+  "fetched_at": "2025-12-29T14:17:56.849Z",
+  "contributor_locations": {
+    "unknown": 16,
+    "switzerland": 1,
+    "paris, france": 1,
+    "bay area": 1,
+    "berlin germany": 1,
+    "boulder, co": 1,
+    "dnipro, ukraine": 1,
+    "mountain view, ca": 1,
+    "warsaw": 1,
+    "darmstadt, germany": 1,
+    "tallinn, estonia": 1,
+    "canada": 1,
+    "united states": 1,
+    "pittsburgh": 1,
+    "kyiv, ukraine": 1,
+    "beijing china": 1,
+    "zhengzhou china": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T23:21:12.111Z"
 }
