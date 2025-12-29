@@ -1,0 +1,33 @@
+{
+  "owner": "aircrack-ng",
+  "repo": "aircrack-ng/aircrack-ng",
+  "name": "aircrack-ng",
+  "full_name": "aircrack-ng/aircrack-ng",
+  "description": "WiFi security auditing tools suite",
+  "homepage": "https://aircrack-ng.org",
+  "language": "C",
+  "license": "GPL-2.0",
+  "topics": [
+    "audit",
+    "freeradius",
+    "hostapd",
+    "security",
+    "suite",
+    "wifi",
+    "wifi-security"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-03-10T17:11:11Z",
+  "pushed_at": "2025-07-28T01:45:19Z",
+  "size": 17216,
+  "stars_now": 6724,
+  "forks": 1188,
+  "open_issues": 443,
+  "subscribers": 256,
+  "watchers": 6724,
+  "html_url": "https://github.com/aircrack-ng/aircrack-ng",
+  "api_url": "https://api.github.com/repos/aircrack-ng/aircrack-ng",
+  "fetched_at": "2025-12-29T01:21:11.826Z"
+}

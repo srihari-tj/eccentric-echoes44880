@@ -1,0 +1,30 @@
+{
+  "owner": "MystenLabs",
+  "repo": "MystenLabs/sui",
+  "name": "sui",
+  "full_name": "MystenLabs/sui",
+  "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+  "homepage": "https://sui.io",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "blockchain",
+    "distributed-ledger-technology",
+    "move",
+    "smart-contracts"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-11-09T03:17:36Z",
+  "pushed_at": "2025-12-28T04:07:37Z",
+  "size": 459570,
+  "stars_now": 7551,
+  "forks": 11711,
+  "open_issues": 872,
+  "subscribers": 177,
+  "watchers": 7551,
+  "html_url": "https://github.com/MystenLabs/sui",
+  "api_url": "https://api.github.com/repos/MystenLabs/sui",
+  "fetched_at": "2025-12-29T01:20:40.629Z"
+}

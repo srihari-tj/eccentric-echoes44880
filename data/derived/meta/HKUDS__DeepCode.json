@@ -4,7 +4,7 @@
   "name": "DeepCode",
   "full_name": "HKUDS/DeepCode",
   "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-  "homepage": "https://github.com/HKUDS/DeepCode",
+  "homepage": "http://arxiv.org/abs/2512.07921",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -15,16 +15,19 @@
   "archived": false,
   "disabled": false,
   "created_at": "2025-05-14T05:23:02Z",
-  "pushed_at": "2025-11-10T03:40:48Z",
-  "size": 9242,
-  "stars_now": 9942,
-  "forks": 1345,
-  "open_issues": 22,
-  "subscribers": 96,
-  "watchers": 9942,
+  "pushed_at": "2025-12-11T10:16:04Z",
+  "size": 9544,
+  "stars_now": 13161,
+  "forks": 1774,
+  "open_issues": 44,
+  "subscribers": 120,
+  "watchers": 13161,
   "html_url": "https://github.com/HKUDS/DeepCode",
   "api_url": "https://api.github.com/repos/HKUDS/DeepCode",
-  "fetched_at": "2025-11-10T08:30:25.949Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:10.924Z"
+  "fetched_at": "2025-12-29T01:20:26.464Z",
+  "contributor_locations": {
+    "unknown": 3,
+    "beijing china": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T01:40:11.581Z"
 }

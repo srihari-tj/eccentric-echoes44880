@@ -1,0 +1,31 @@
+{
+  "owner": "MuntashirAkon",
+  "repo": "MuntashirAkon/AppManager",
+  "name": "AppManager",
+  "full_name": "MuntashirAkon/AppManager",
+  "description": "A full-featured package manager and viewer for Android",
+  "homepage": "https://muntashirakon.github.io/AppManager/",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "adb",
+    "android",
+    "apks",
+    "material-design",
+    "package-manager"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-05-30T04:08:56Z",
+  "pushed_at": "2025-12-08T22:18:51Z",
+  "size": 80143,
+  "stars_now": 7081,
+  "forks": 405,
+  "open_issues": 186,
+  "subscribers": 105,
+  "watchers": 7081,
+  "html_url": "https://github.com/MuntashirAkon/AppManager",
+  "api_url": "https://api.github.com/repos/MuntashirAkon/AppManager",
+  "fetched_at": "2025-12-29T01:20:40.209Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "afkarxyz",
+  "repo": "afkarxyz/SpotiFLAC",
+  "name": "SpotiFLAC",
+  "full_name": "afkarxyz/SpotiFLAC",
+  "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+  "homepage": "https://github.com/afkarxyz/SpotiFLAC",
+  "language": "TypeScript",
+  "license": null,
+  "topics": [
+    "spotify",
+    "spotify-downloader",
+    "wails"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-01-09T02:43:06Z",
+  "pushed_at": "2025-12-24T02:16:27Z",
+  "size": 1195,
+  "stars_now": 747,
+  "forks": 66,
+  "open_issues": 48,
+  "subscribers": 16,
+  "watchers": 747,
+  "html_url": "https://github.com/afkarxyz/SpotiFLAC",
+  "api_url": "https://api.github.com/repos/afkarxyz/SpotiFLAC",
+  "fetched_at": "2025-12-29T01:21:10.369Z"
+}

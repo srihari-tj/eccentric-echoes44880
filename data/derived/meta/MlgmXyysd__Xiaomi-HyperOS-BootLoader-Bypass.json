@@ -1,0 +1,33 @@
+{
+  "owner": "MlgmXyysd",
+  "repo": "MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+  "name": "Xiaomi-HyperOS-BootLoader-Bypass",
+  "full_name": "MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+  "description": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
+  "homepage": "https://www.neko.ink/",
+  "language": "PHP",
+  "license": null,
+  "topics": [
+    "android",
+    "android-development",
+    "bootloader",
+    "bootloader-unlock",
+    "hyperos",
+    "miui",
+    "xiaomi"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-11-20T18:41:07Z",
+  "pushed_at": "2025-11-11T09:59:26Z",
+  "size": 41,
+  "stars_now": 4274,
+  "forks": 428,
+  "open_issues": 147,
+  "subscribers": 37,
+  "watchers": 4274,
+  "html_url": "https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+  "api_url": "https://api.github.com/repos/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+  "fetched_at": "2025-12-29T01:20:38.685Z"
+}

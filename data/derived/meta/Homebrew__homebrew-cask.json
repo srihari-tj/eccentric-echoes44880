@@ -1,0 +1,29 @@
+{
+  "owner": "Homebrew",
+  "repo": "Homebrew/homebrew-cask",
+  "name": "homebrew-cask",
+  "full_name": "Homebrew/homebrew-cask",
+  "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+  "homepage": "https://brew.sh",
+  "language": "Ruby",
+  "license": "BSD-2-Clause",
+  "topics": [
+    "cask",
+    "hacktoberfest",
+    "homebrew"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-03-05T02:05:17Z",
+  "pushed_at": "2025-12-29T01:00:52Z",
+  "size": 428629,
+  "stars_now": 21730,
+  "forks": 11248,
+  "open_issues": 27,
+  "subscribers": 308,
+  "watchers": 21730,
+  "html_url": "https://github.com/Homebrew/homebrew-cask",
+  "api_url": "https://api.github.com/repos/Homebrew/homebrew-cask",
+  "fetched_at": "2025-12-29T01:20:28.912Z"
+}

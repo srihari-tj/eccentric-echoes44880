@@ -1,0 +1,29 @@
+{
+  "owner": "android",
+  "repo": "android/nowinandroid",
+  "name": "nowinandroid",
+  "full_name": "android/nowinandroid",
+  "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+  "homepage": "https://github.com/android/nowinandroid",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-04-19T20:40:24Z",
+  "pushed_at": "2025-12-28T21:54:51Z",
+  "size": 60277,
+  "stars_now": 20274,
+  "forks": 4081,
+  "open_issues": 233,
+  "subscribers": 385,
+  "watchers": 20274,
+  "html_url": "https://github.com/android/nowinandroid",
+  "api_url": "https://api.github.com/repos/android/nowinandroid",
+  "fetched_at": "2025-12-29T01:21:17.949Z"
+}

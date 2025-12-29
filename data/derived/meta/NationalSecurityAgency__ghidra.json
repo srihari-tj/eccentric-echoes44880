@@ -1,0 +1,29 @@
+{
+  "owner": "NationalSecurityAgency",
+  "repo": "NationalSecurityAgency/ghidra",
+  "name": "ghidra",
+  "full_name": "NationalSecurityAgency/ghidra",
+  "description": "Ghidra is a software reverse engineering (SRE) framework",
+  "homepage": "https://www.nsa.gov/ghidra",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "disassembler",
+    "reverse-engineering",
+    "software-analysis"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-03-01T03:27:48Z",
+  "pushed_at": "2025-12-23T17:36:57Z",
+  "size": 396116,
+  "stars_now": 63075,
+  "forks": 7007,
+  "open_issues": 1839,
+  "subscribers": 1086,
+  "watchers": 63075,
+  "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+  "api_url": "https://api.github.com/repos/NationalSecurityAgency/ghidra",
+  "fetched_at": "2025-12-29T01:20:42.628Z"
+}

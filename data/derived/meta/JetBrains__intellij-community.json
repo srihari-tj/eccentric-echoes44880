@@ -1,0 +1,31 @@
+{
+  "owner": "JetBrains",
+  "repo": "JetBrains/intellij-community",
+  "name": "intellij-community",
+  "full_name": "JetBrains/intellij-community",
+  "description": "IntelliJ IDEA & IntelliJ Platform",
+  "homepage": "https://jetbrains.com/idea",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "code-editor",
+    "ide",
+    "intellij",
+    "intellij-community",
+    "intellij-platform"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-09-30T13:33:05Z",
+  "pushed_at": "2025-12-28T17:29:48Z",
+  "size": 5532199,
+  "stars_now": 19431,
+  "forks": 5646,
+  "open_issues": 136,
+  "subscribers": 534,
+  "watchers": 19431,
+  "html_url": "https://github.com/JetBrains/intellij-community",
+  "api_url": "https://api.github.com/repos/JetBrains/intellij-community",
+  "fetched_at": "2025-12-29T01:20:30.377Z"
+}

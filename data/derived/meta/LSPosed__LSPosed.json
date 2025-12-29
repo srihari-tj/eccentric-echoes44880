@@ -1,0 +1,28 @@
+{
+  "owner": "LSPosed",
+  "repo": "LSPosed/LSPosed",
+  "name": "LSPosed",
+  "full_name": "LSPosed/LSPosed",
+  "description": "LSPosed Framework",
+  "homepage": "https://lsposed.org",
+  "language": "Java",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "xposed"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-12-12T08:39:37Z",
+  "pushed_at": "2025-03-04T21:28:36Z",
+  "size": 21605,
+  "stars_now": 22395,
+  "forks": 3436,
+  "open_issues": 5,
+  "subscribers": 305,
+  "watchers": 22395,
+  "html_url": "https://github.com/LSPosed/LSPosed",
+  "api_url": "https://api.github.com/repos/LSPosed/LSPosed",
+  "fetched_at": "2025-12-29T01:20:34.660Z"
+}

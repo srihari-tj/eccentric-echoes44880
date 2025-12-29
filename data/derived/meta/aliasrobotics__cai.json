@@ -1,0 +1,32 @@
+{
+  "owner": "aliasrobotics",
+  "repo": "aliasrobotics/cai",
+  "name": "cai",
+  "full_name": "aliasrobotics/cai",
+  "description": "Cybersecurity AI (CAI), the framework for AI Security",
+  "homepage": "https://aliasrobotics.github.io/cai/",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "artificial-intelligence",
+    "cybersecurity",
+    "framework",
+    "generative-ai",
+    "llm",
+    "pentesting"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-31T08:56:05Z",
+  "pushed_at": "2025-12-23T12:20:12Z",
+  "size": 205558,
+  "stars_now": 6522,
+  "forks": 889,
+  "open_issues": 5,
+  "subscribers": 65,
+  "watchers": 6522,
+  "html_url": "https://github.com/aliasrobotics/cai",
+  "api_url": "https://api.github.com/repos/aliasrobotics/cai",
+  "fetched_at": "2025-12-29T01:21:12.944Z"
+}

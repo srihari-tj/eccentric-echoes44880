@@ -1,0 +1,30 @@
+{
+  "owner": "Ingenimax",
+  "repo": "Ingenimax/agent-sdk-go",
+  "name": "agent-sdk-go",
+  "full_name": "Ingenimax/agent-sdk-go",
+  "description": "A powerful Go framework for building production-ready AI agents!",
+  "homepage": "https://docs.goagents.dev/",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "framework",
+    "golang"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-14T21:05:40Z",
+  "pushed_at": "2025-12-23T21:38:45Z",
+  "size": 18023,
+  "stars_now": 514,
+  "forks": 109,
+  "open_issues": 13,
+  "subscribers": 40,
+  "watchers": 514,
+  "html_url": "https://github.com/Ingenimax/agent-sdk-go",
+  "api_url": "https://api.github.com/repos/Ingenimax/agent-sdk-go",
+  "fetched_at": "2025-12-29T01:20:30.023Z"
+}

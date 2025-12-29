@@ -1,0 +1,32 @@
+{
+  "owner": "OrcaSlicer",
+  "repo": "OrcaSlicer/OrcaSlicer",
+  "name": "OrcaSlicer",
+  "full_name": "OrcaSlicer/OrcaSlicer",
+  "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+  "homepage": "https://www.orcaslicer.com",
+  "language": "C++",
+  "license": "AGPL-3.0",
+  "topics": [
+    "3d-printer",
+    "3d-printing",
+    "makers",
+    "orca",
+    "orcaslicer",
+    "slicer"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-07-16T11:01:21Z",
+  "pushed_at": "2025-12-28T18:28:57Z",
+  "size": 989109,
+  "stars_now": 11943,
+  "forks": 1601,
+  "open_issues": 1544,
+  "subscribers": 153,
+  "watchers": 11943,
+  "html_url": "https://github.com/OrcaSlicer/OrcaSlicer",
+  "api_url": "https://api.github.com/repos/OrcaSlicer/OrcaSlicer",
+  "fetched_at": "2025-12-29T01:20:44.900Z"
+}

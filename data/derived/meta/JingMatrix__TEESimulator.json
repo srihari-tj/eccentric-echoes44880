@@ -1,0 +1,31 @@
+{
+  "owner": "JingMatrix",
+  "repo": "JingMatrix/TEESimulator",
+  "name": "TEESimulator",
+  "full_name": "JingMatrix/TEESimulator",
+  "description": "Software simulation for Android hardware-backed key pairs with key attestation",
+  "homepage": "https://github.com/JingMatrix/TEESimulator",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "hardware-simulation",
+    "playintegrity",
+    "tee",
+    "trickystore"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-08-29T14:02:27Z",
+  "pushed_at": "2025-12-17T08:31:37Z",
+  "size": 759,
+  "stars_now": 472,
+  "forks": 29,
+  "open_issues": 10,
+  "subscribers": 14,
+  "watchers": 472,
+  "html_url": "https://github.com/JingMatrix/TEESimulator",
+  "api_url": "https://api.github.com/repos/JingMatrix/TEESimulator",
+  "fetched_at": "2025-12-29T01:20:31.836Z"
+}

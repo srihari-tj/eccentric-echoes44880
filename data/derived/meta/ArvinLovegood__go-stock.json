@@ -22,16 +22,20 @@
   "archived": false,
   "disabled": false,
   "created_at": "2024-12-17T04:46:28Z",
-  "pushed_at": "2025-10-31T10:37:55Z",
-  "size": 58562,
-  "stars_now": 3119,
-  "forks": 508,
-  "open_issues": 11,
+  "pushed_at": "2025-12-19T09:21:42Z",
+  "size": 68788,
+  "stars_now": 3532,
+  "forks": 572,
+  "open_issues": 16,
   "subscribers": 35,
-  "watchers": 3119,
+  "watchers": 3532,
   "html_url": "https://github.com/ArvinLovegood/go-stock",
   "api_url": "https://api.github.com/repos/ArvinLovegood/go-stock",
-  "fetched_at": "2025-11-10T08:30:14.733Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:10.493Z"
+  "fetched_at": "2025-12-29T01:20:07.427Z",
+  "contributor_locations": {
+    "unknown": 3,
+    "guangzhou": 1,
+    "beijing": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T01:26:57.534Z"
 }

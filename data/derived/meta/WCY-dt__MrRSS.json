@@ -1,0 +1,32 @@
+{
+  "owner": "WCY-dt",
+  "repo": "WCY-dt/MrRSS",
+  "name": "MrRSS",
+  "full_name": "WCY-dt/MrRSS",
+  "description": "A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.",
+  "homepage": "https://mrrss.ch3nyang.top/",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "topics": [
+    "ai",
+    "atom",
+    "feed-reader",
+    "feeds",
+    "rss",
+    "rss-reader"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-05-10T18:05:25Z",
+  "pushed_at": "2025-12-28T15:09:57Z",
+  "size": 21369,
+  "stars_now": 1026,
+  "forks": 41,
+  "open_issues": 33,
+  "subscribers": 4,
+  "watchers": 1026,
+  "html_url": "https://github.com/WCY-dt/MrRSS",
+  "api_url": "https://api.github.com/repos/WCY-dt/MrRSS",
+  "fetched_at": "2025-12-29T01:21:01.766Z"
+}

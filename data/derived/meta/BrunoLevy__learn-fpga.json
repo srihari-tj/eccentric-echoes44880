@@ -22,6 +22,22 @@
   "html_url": "https://github.com/BrunoLevy/learn-fpga",
   "api_url": "https://api.github.com/repos/BrunoLevy/learn-fpga",
   "fetched_at": "2025-11-10T08:30:16.608Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:10.571Z"
+  "contributor_locations": {
+    "saclay, france": 1,
+    "algeria": 1,
+    "adelaide": 1,
+    "croatia": 1,
+    "germany": 2,
+    "kingston, ri": 1,
+    "shanghai, china": 1,
+    "poland, wrocław": 1,
+    "unknown": 2,
+    "france": 2,
+    "kirkkonummi": 1,
+    "oslo, norway": 1,
+    "united kingdom": 1,
+    "hangzhou": 1,
+    "west lafayette": 1
+  },
+  "contributor_locations_updated_at": "2025-12-29T01:29:11.505Z"
 }

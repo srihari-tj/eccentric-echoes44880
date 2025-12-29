@@ -1,0 +1,31 @@
+{
+  "owner": "apple",
+  "repo": "apple/foundationdb",
+  "name": "foundationdb",
+  "full_name": "apple/foundationdb",
+  "description": "FoundationDB - the open source, distributed, transactional key-value store",
+  "homepage": "https://apple.github.io/foundationdb/",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "acid",
+    "distributed-database",
+    "foundationdb",
+    "key-value-store",
+    "transactional"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-12-14T01:40:42Z",
+  "pushed_at": "2025-12-22T22:55:05Z",
+  "size": 190564,
+  "stars_now": 16048,
+  "forks": 1457,
+  "open_issues": 831,
+  "subscribers": 302,
+  "watchers": 16048,
+  "html_url": "https://github.com/apple/foundationdb",
+  "api_url": "https://api.github.com/repos/apple/foundationdb",
+  "fetched_at": "2025-12-29T01:21:24.072Z"
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "PufferAI",
+  "repo": "PufferAI/PufferLib",
+  "name": "PufferLib",
+  "full_name": "PufferAI/PufferLib",
+  "description": "Simplifying reinforcement learning for complex game environments",
+  "homepage": "https://puffer.ai/",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "reinforcement-learning"
+  ],
+  "default_branch": "3.0",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-09-17T01:25:33Z",
+  "pushed_at": "2025-12-27T20:26:19Z",
+  "size": 336687,
+  "stars_now": 4666,
+  "forks": 350,
+  "open_issues": 101,
+  "subscribers": 28,
+  "watchers": 4666,
+  "html_url": "https://github.com/PufferAI/PufferLib",
+  "api_url": "https://api.github.com/repos/PufferAI/PufferLib",
+  "fetched_at": "2025-12-29T01:20:48.925Z"
+}

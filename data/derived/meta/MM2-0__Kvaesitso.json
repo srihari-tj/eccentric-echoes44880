@@ -1,0 +1,30 @@
+{
+  "owner": "MM2-0",
+  "repo": "MM2-0/Kvaesitso",
+  "name": "Kvaesitso",
+  "full_name": "MM2-0/Kvaesitso",
+  "description": "A search-focused Android launcher",
+  "homepage": "https://kvaesitso.mm20.de/",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "launcher"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-09-18T21:35:28Z",
+  "pushed_at": "2025-12-28T11:10:00Z",
+  "size": 75749,
+  "stars_now": 4058,
+  "forks": 174,
+  "open_issues": 626,
+  "subscribers": 38,
+  "watchers": 4058,
+  "html_url": "https://github.com/MM2-0/Kvaesitso",
+  "api_url": "https://api.github.com/repos/MM2-0/Kvaesitso",
+  "fetched_at": "2025-12-29T01:20:36.794Z"
+}

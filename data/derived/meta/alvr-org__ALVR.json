@@ -1,0 +1,31 @@
+{
+  "owner": "alvr-org",
+  "repo": "alvr-org/ALVR",
+  "name": "ALVR",
+  "full_name": "alvr-org/ALVR",
+  "description": "Stream VR games from your PC to your headset via Wi-Fi",
+  "homepage": "https://github.com/alvr-org/ALVR",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "oculus-go",
+    "oculus-quest",
+    "pcvr",
+    "steamvr",
+    "vr"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-07-16T14:40:08Z",
+  "pushed_at": "2025-12-19T15:52:31Z",
+  "size": 44035,
+  "stars_now": 7172,
+  "forks": 601,
+  "open_issues": 179,
+  "subscribers": 79,
+  "watchers": 7172,
+  "html_url": "https://github.com/alvr-org/ALVR",
+  "api_url": "https://api.github.com/repos/alvr-org/ALVR",
+  "fetched_at": "2025-12-29T01:21:14.555Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "DayuanJiang",
+  "repo": "DayuanJiang/next-ai-draw-io",
+  "name": "next-ai-draw-io",
+  "full_name": "DayuanJiang/next-ai-draw-io",
+  "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+  "homepage": "https://next-ai-drawio.jiang.jp/",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai",
+    "diagrams",
+    "productivity"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-23T15:03:48Z",
+  "pushed_at": "2025-12-29T01:11:49Z",
+  "size": 3094,
+  "stars_now": 15415,
+  "forks": 1592,
+  "open_issues": 67,
+  "subscribers": 55,
+  "watchers": 15415,
+  "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+  "api_url": "https://api.github.com/repos/DayuanJiang/next-ai-draw-io",
+  "fetched_at": "2025-12-29T01:20:15.886Z"
+}
