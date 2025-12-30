@@ -27,16 +27,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2012-09-09T08:25:02Z",
-  "pushed_at": "2025-12-29T10:33:12Z",
-  "size": 2338165,
-  "stars_now": 27799,
+  "pushed_at": "2025-12-30T04:48:14Z",
+  "size": 2342856,
+  "stars_now": 27812,
   "forks": 5047,
-  "open_issues": 3505,
+  "open_issues": 3489,
   "subscribers": 541,
-  "watchers": 27799,
+  "watchers": 27812,
   "html_url": "https://github.com/FreeCAD/FreeCAD",
   "api_url": "https://api.github.com/repos/FreeCAD/FreeCAD",
-  "fetched_at": "2025-12-29T14:15:12.368Z",
+  "fetched_at": "2025-12-30T05:12:34.332Z",
   "contributor_locations": {
     "unknown": 177,
     "brussels, belgium": 1,
@@ -154,5 +154,5 @@
     "belfast, uk": 1,
     "sofia, bulgaria": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T18:28:15.329Z"
+  "contributor_locations_updated_at": "2025-12-30T05:30:01.041Z"
 }

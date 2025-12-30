@@ -18,16 +18,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2013-12-22T17:56:48Z",
-  "pushed_at": "2025-12-26T17:03:35Z",
-  "size": 301343,
-  "stars_now": 14093,
-  "forks": 1830,
-  "open_issues": 722,
+  "pushed_at": "2025-12-29T23:10:06Z",
+  "size": 301482,
+  "stars_now": 14096,
+  "forks": 1829,
+  "open_issues": 723,
   "subscribers": 356,
-  "watchers": 14093,
+  "watchers": 14096,
   "html_url": "https://github.com/PCSX2/pcsx2",
   "api_url": "https://api.github.com/repos/PCSX2/pcsx2",
-  "fetched_at": "2025-12-29T14:15:39.446Z",
+  "fetched_at": "2025-12-30T05:12:55.783Z",
   "contributor_locations": {
     "unknown": 185,
     "brisbane, australia": 3,
@@ -140,5 +140,5 @@
     "kurzeme, latvija": 1,
     "mexico": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T19:21:07.904Z"
+  "contributor_locations_updated_at": "2025-12-30T06:21:24.259Z"
 }

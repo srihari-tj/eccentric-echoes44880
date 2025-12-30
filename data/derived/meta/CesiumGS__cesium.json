@@ -22,16 +22,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2012-03-02T22:27:14Z",
-  "pushed_at": "2025-12-24T23:33:32Z",
-  "size": 828250,
-  "stars_now": 14654,
+  "pushed_at": "2025-12-30T00:27:02Z",
+  "size": 828463,
+  "stars_now": 14658,
   "forks": 3724,
   "open_issues": 1554,
   "subscribers": 472,
-  "watchers": 14654,
+  "watchers": 14658,
   "html_url": "https://github.com/CesiumGS/cesium",
   "api_url": "https://api.github.com/repos/CesiumGS/cesium",
-  "fetched_at": "2025-12-29T14:14:56.788Z",
+  "fetched_at": "2025-12-30T05:12:22.626Z",
   "contributor_locations": {
     "philadelphia, pa": 11,
     "philadelphia": 3,
@@ -161,5 +161,5 @@
     "tokyo, japan": 1,
     "finland": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T18:20:20.416Z"
+  "contributor_locations_updated_at": "2025-12-30T05:22:33.439Z"
 }

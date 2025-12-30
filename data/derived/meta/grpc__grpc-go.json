@@ -26,13 +26,13 @@
   "pushed_at": "2025-12-26T06:24:09Z",
   "size": 43297,
   "stars_now": 22681,
-  "forks": 4630,
-  "open_issues": 150,
+  "forks": 4631,
+  "open_issues": 151,
   "subscribers": 462,
   "watchers": 22681,
   "html_url": "https://github.com/grpc/grpc-go",
   "api_url": "https://api.github.com/repos/grpc/grpc-go",
-  "fetched_at": "2025-12-29T14:18:02.833Z",
+  "fetched_at": "2025-12-30T05:14:50.796Z",
   "contributor_locations": {
     "ca, usa": 1,
     "unknown": 140,
@@ -227,5 +227,5 @@
     "zürich": 1,
     "athens, greece": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T23:29:23.674Z"
+  "contributor_locations_updated_at": "2025-12-30T10:29:20.149Z"
 }

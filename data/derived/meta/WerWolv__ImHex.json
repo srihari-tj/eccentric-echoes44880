@@ -33,16 +33,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2020-11-10T14:27:00Z",
-  "pushed_at": "2025-12-29T13:29:03Z",
-  "size": 50652,
-  "stars_now": 52124,
-  "forks": 2321,
+  "pushed_at": "2025-12-30T00:11:43Z",
+  "size": 50660,
+  "stars_now": 52131,
+  "forks": 2322,
   "open_issues": 310,
   "subscribers": 512,
-  "watchers": 52124,
+  "watchers": 52131,
   "html_url": "https://github.com/WerWolv/ImHex",
   "api_url": "https://api.github.com/repos/WerWolv/ImHex",
-  "fetched_at": "2025-12-29T14:16:02.807Z",
+  "fetched_at": "2025-12-30T05:13:13.348Z",
   "contributor_locations": {
     "switzerland": 1,
     "unknown": 78,
@@ -113,5 +113,5 @@
     "buenos aires, argentina": 1,
     "san jose, ca": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T19:30:12.679Z"
+  "contributor_locations_updated_at": "2025-12-30T06:29:42.828Z"
 }

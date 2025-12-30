@@ -15,16 +15,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2012-11-30T06:16:18Z",
-  "pushed_at": "2025-12-23T20:25:31Z",
-  "size": 232563,
-  "stars_now": 31279,
+  "pushed_at": "2025-12-30T01:15:52Z",
+  "size": 232510,
+  "stars_now": 31284,
   "forks": 6696,
-  "open_issues": 1367,
+  "open_issues": 1364,
   "subscribers": 985,
-  "watchers": 31279,
+  "watchers": 31284,
   "html_url": "https://github.com/facebook/rocksdb",
   "api_url": "https://api.github.com/repos/facebook/rocksdb",
-  "fetched_at": "2025-12-29T14:17:34.505Z",
+  "fetched_at": "2025-12-30T05:14:27.470Z",
   "contributor_locations": {
     "unknown": 132,
     "london": 5,
@@ -136,5 +136,5 @@
     "boston, ma": 1,
     "new york, ny, usa": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T22:23:57.462Z"
+  "contributor_locations_updated_at": "2025-12-30T09:24:25.620Z"
 }

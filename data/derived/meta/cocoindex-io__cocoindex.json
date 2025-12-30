@@ -33,16 +33,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2025-03-03T23:03:09Z",
-  "pushed_at": "2025-12-29T13:25:41Z",
-  "size": 102393,
-  "stars_now": 5442,
+  "pushed_at": "2025-12-29T18:17:22Z",
+  "size": 102392,
+  "stars_now": 5471,
   "forks": 410,
-  "open_issues": 66,
+  "open_issues": 61,
   "subscribers": 38,
-  "watchers": 5442,
+  "watchers": 5471,
   "html_url": "https://github.com/cocoindex-io/cocoindex",
   "api_url": "https://api.github.com/repos/cocoindex-io/cocoindex",
-  "fetched_at": "2025-12-29T14:17:05.368Z",
+  "fetched_at": "2025-12-30T05:14:02.965Z",
   "contributor_locations": {
     "san francisco": 1,
     "california": 2,
@@ -69,5 +69,5 @@
     "auckland": 1,
     "london": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T21:21:12.023Z"
+  "contributor_locations_updated_at": "2025-12-30T08:21:15.335Z"
 }

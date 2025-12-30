@@ -12,8 +12,8 @@
   "archived": false,
   "disabled": false,
   "created_at": "2016-12-05T16:41:44Z",
-  "pushed_at": "2025-12-29T11:33:06Z",
-  "size": 339174,
+  "pushed_at": "2025-12-29T23:14:06Z",
+  "size": 339034,
   "stars_now": 3181,
   "forks": 3181,
   "open_issues": 2429,
@@ -21,7 +21,7 @@
   "watchers": 3181,
   "html_url": "https://github.com/WordPress/wordpress-develop",
   "api_url": "https://api.github.com/repos/WordPress/wordpress-develop",
-  "fetched_at": "2025-12-29T14:16:03.807Z",
+  "fetched_at": "2025-12-30T05:13:14.118Z",
   "contributor_locations": {
     "dripping springs, tx, usa": 1,
     "rostov-on-don": 1,
@@ -99,5 +99,5 @@
     "lisboa, portugal": 1,
     "wijchen": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T19:30:37.841Z"
+  "contributor_locations_updated_at": "2025-12-30T06:30:06.175Z"
 }

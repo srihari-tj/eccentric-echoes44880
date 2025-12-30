@@ -21,16 +21,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2016-08-24T20:30:56Z",
-  "pushed_at": "2025-12-28T00:26:41Z",
-  "size": 91925,
-  "stars_now": 386,
+  "pushed_at": "2025-12-30T03:00:32Z",
+  "size": 91945,
+  "stars_now": 387,
   "forks": 397,
-  "open_issues": 193,
+  "open_issues": 191,
   "subscribers": 599,
-  "watchers": 386,
+  "watchers": 387,
   "html_url": "https://github.com/DataDog/dd-trace-rb",
   "api_url": "https://api.github.com/repos/DataDog/dd-trace-rb",
-  "fetched_at": "2025-12-29T14:15:01.051Z",
+  "fetched_at": "2025-12-30T05:12:25.829Z",
   "contributor_locations": {
     "london, united kingdom": 1,
     "british columbia, canada": 1,
@@ -145,5 +145,5 @@
     "prague, czech republic": 1,
     "poland": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T18:23:53.674Z"
+  "contributor_locations_updated_at": "2025-12-30T05:25:53.855Z"
 }

@@ -20,16 +20,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2013-01-12T00:25:55Z",
-  "pushed_at": "2025-12-29T14:17:02Z",
-  "size": 810150,
-  "stars_now": 45878,
-  "forks": 8764,
-  "open_issues": 132,
+  "pushed_at": "2025-12-30T05:05:55Z",
+  "size": 810232,
+  "stars_now": 45881,
+  "forks": 8763,
+  "open_issues": 130,
   "subscribers": 884,
-  "watchers": 45878,
+  "watchers": 45881,
   "html_url": "https://github.com/discourse/discourse",
   "api_url": "https://api.github.com/repos/discourse/discourse",
-  "fetched_at": "2025-12-29T14:17:21.530Z",
+  "fetched_at": "2025-12-30T05:14:17.131Z",
   "contributor_locations": {
     "sydney, australia": 2,
     "toronto": 4,
@@ -236,5 +236,5 @@
     "bristol": 1,
     "sheffield, uk": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T22:16:33.015Z"
+  "contributor_locations_updated_at": "2025-12-30T09:17:21.649Z"
 }

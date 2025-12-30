@@ -21,16 +21,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2015-11-13T00:27:43Z",
-  "pushed_at": "2025-12-24T22:11:17Z",
-  "size": 129569,
-  "stars_now": 20038,
-  "forks": 3745,
-  "open_issues": 514,
+  "pushed_at": "2025-12-29T23:07:31Z",
+  "size": 129696,
+  "stars_now": 20039,
+  "forks": 3747,
+  "open_issues": 516,
   "subscribers": 330,
-  "watchers": 20038,
+  "watchers": 20039,
   "html_url": "https://github.com/containerd/containerd",
   "api_url": "https://api.github.com/repos/containerd/containerd",
-  "fetched_at": "2025-12-29T14:17:08.960Z",
+  "fetched_at": "2025-12-30T05:14:05.918Z",
   "contributor_locations": {
     "unknown": 120,
     "virginia, usa": 1,
@@ -227,5 +227,5 @@
     "shijiazhuang, china": 1,
     "santa barbara, california": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T21:24:12.581Z"
+  "contributor_locations_updated_at": "2025-12-30T08:24:06.247Z"
 }

@@ -28,16 +28,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2025-02-19T21:09:33Z",
-  "pushed_at": "2025-12-28T14:21:44Z",
-  "size": 519552,
-  "stars_now": 5119,
+  "pushed_at": "2025-12-30T03:58:13Z",
+  "size": 525752,
+  "stars_now": 5123,
   "forks": 234,
-  "open_issues": 457,
+  "open_issues": 443,
   "subscribers": 18,
-  "watchers": 5119,
+  "watchers": 5123,
   "html_url": "https://github.com/facebook/pyrefly",
   "api_url": "https://api.github.com/repos/facebook/pyrefly",
-  "fetched_at": "2025-12-29T14:17:33.544Z",
+  "fetched_at": "2025-12-30T05:14:26.702Z",
   "contributor_locations": {
     "cambridge, uk": 1,
     "san francisco": 4,
@@ -106,5 +106,5 @@
     "evanston, il": 1,
     "new york, new york": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T22:22:56.035Z"
+  "contributor_locations_updated_at": "2025-12-30T09:23:27.410Z"
 }

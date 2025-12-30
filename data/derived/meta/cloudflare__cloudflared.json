@@ -19,14 +19,14 @@
   "created_at": "2017-10-13T19:54:47Z",
   "pushed_at": "2025-11-21T13:42:56Z",
   "size": 42058,
-  "stars_now": 12491,
-  "forks": 1121,
+  "stars_now": 12498,
+  "forks": 1122,
   "open_issues": 471,
   "subscribers": 112,
-  "watchers": 12491,
+  "watchers": 12498,
   "html_url": "https://github.com/cloudflare/cloudflared",
   "api_url": "https://api.github.com/repos/cloudflare/cloudflared",
-  "fetched_at": "2025-12-29T14:17:02.546Z",
+  "fetched_at": "2025-12-30T05:14:00.609Z",
   "contributor_locations": {
     "unknown": 30,
     "andromeda galaxy": 1,
@@ -91,5 +91,5 @@
     "antibes, france": 1,
     "amsterdam": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T21:20:14.508Z"
+  "contributor_locations_updated_at": "2025-12-30T08:20:21.392Z"
 }

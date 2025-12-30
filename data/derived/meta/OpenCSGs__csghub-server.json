@@ -20,16 +20,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2024-01-12T11:04:59Z",
-  "pushed_at": "2025-12-29T09:13:39Z",
-  "size": 36087,
+  "pushed_at": "2025-12-30T03:07:00Z",
+  "size": 36104,
   "stars_now": 1485,
   "forks": 408,
-  "open_issues": 21,
+  "open_issues": 20,
   "subscribers": 336,
   "watchers": 1485,
   "html_url": "https://github.com/OpenCSGs/csghub-server",
   "api_url": "https://api.github.com/repos/OpenCSGs/csghub-server",
-  "fetched_at": "2025-12-29T14:15:38.477Z",
+  "fetched_at": "2025-12-30T05:12:55.078Z",
   "contributor_locations": {
     "beijing": 1,
     "unknown": 15,
@@ -41,5 +41,5 @@
     "tokyo, japan": 1,
     "beijing·china": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T19:19:53.313Z"
+  "contributor_locations_updated_at": "2025-12-30T06:20:13.138Z"
 }

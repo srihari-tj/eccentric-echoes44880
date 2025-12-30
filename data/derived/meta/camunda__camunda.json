@@ -20,16 +20,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2016-03-20T03:38:04Z",
-  "pushed_at": "2025-12-29T14:11:54Z",
-  "size": 724909,
+  "pushed_at": "2025-12-29T21:49:13Z",
+  "size": 725411,
   "stars_now": 3950,
   "forks": 730,
-  "open_issues": 2632,
+  "open_issues": 2636,
   "subscribers": 105,
   "watchers": 3950,
   "html_url": "https://github.com/camunda/camunda",
   "api_url": "https://api.github.com/repos/camunda/camunda",
-  "fetched_at": "2025-12-29T14:16:53.882Z",
+  "fetched_at": "2025-12-30T05:13:53.932Z",
   "contributor_locations": {
     "unknown": 95,
     "germany - berlin": 1,
@@ -110,5 +110,5 @@
     "porto": 1,
     "cluj napoca": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T21:16:30.774Z"
+  "contributor_locations_updated_at": "2025-12-30T08:16:50.265Z"
 }

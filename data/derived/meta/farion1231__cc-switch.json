@@ -5,7 +5,7 @@
   "full_name": "farion1231/cc-switch",
   "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
   "homepage": "https://github.com/farion1231/cc-switch",
-  "language": "TypeScript",
+  "language": "Rust",
   "license": "MIT",
   "topics": [
     "ai-tools",
@@ -28,22 +28,23 @@
   "archived": false,
   "disabled": false,
   "created_at": "2025-08-04T14:16:16Z",
-  "pushed_at": "2025-12-29T09:25:25Z",
-  "size": 26507,
-  "stars_now": 8097,
-  "forks": 544,
-  "open_issues": 83,
+  "pushed_at": "2025-12-30T01:06:29Z",
+  "size": 26532,
+  "stars_now": 8155,
+  "forks": 546,
+  "open_issues": 85,
   "subscribers": 21,
-  "watchers": 8097,
+  "watchers": 8155,
   "html_url": "https://github.com/farion1231/cc-switch",
   "api_url": "https://api.github.com/repos/farion1231/cc-switch",
-  "fetched_at": "2025-12-29T14:17:36.273Z",
+  "fetched_at": "2025-12-30T05:14:28.973Z",
   "contributor_locations": {
     "unknown": 12,
     "sydney, nsw, australia": 1,
     "chengdu, china": 1,
     "中国": 1,
     "jarilo-ⅵ": 1,
+    "127.0.0.1:4221": 1,
     "_kernel_task + 0x108": 1,
     "beijing": 1,
     "guangzhou": 1,
@@ -51,5 +52,5 @@
     "canton": 1,
     "中国广东广州": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T22:25:41.449Z"
+  "contributor_locations_updated_at": "2025-12-30T09:26:05.631Z"
 }

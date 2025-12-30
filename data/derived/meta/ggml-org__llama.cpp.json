@@ -14,16 +14,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2023-03-10T18:58:00Z",
-  "pushed_at": "2025-12-29T13:51:13Z",
-  "size": 257842,
-  "stars_now": 92177,
-  "forks": 14292,
-  "open_issues": 978,
+  "pushed_at": "2025-12-30T04:25:22Z",
+  "size": 261018,
+  "stars_now": 92205,
+  "forks": 14303,
+  "open_issues": 979,
   "subscribers": 618,
-  "watchers": 92177,
+  "watchers": 92205,
   "html_url": "https://github.com/ggml-org/llama.cpp",
   "api_url": "https://api.github.com/repos/ggml-org/llama.cpp",
-  "fetched_at": "2025-12-29T14:17:47.766Z",
+  "fetched_at": "2025-12-30T05:14:38.517Z",
   "contributor_locations": {
     "sofia, bulgaria": 4,
     "spain": 2,
@@ -196,5 +196,5 @@
     "ireland": 1,
     "jyväskylä, finland": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T23:15:28.815Z"
+  "contributor_locations_updated_at": "2025-12-30T10:16:30.895Z"
 }

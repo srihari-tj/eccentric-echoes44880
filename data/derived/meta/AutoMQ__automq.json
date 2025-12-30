@@ -17,16 +17,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2023-08-17T07:50:13Z",
-  "pushed_at": "2025-12-29T11:40:19Z",
+  "pushed_at": "2025-12-29T20:01:02Z",
   "size": 168630,
-  "stars_now": 8937,
-  "forks": 612,
-  "open_issues": 72,
+  "stars_now": 8945,
+  "forks": 613,
+  "open_issues": 71,
   "subscribers": 54,
-  "watchers": 8937,
+  "watchers": 8945,
   "html_url": "https://github.com/AutoMQ/automq",
   "api_url": "https://api.github.com/repos/AutoMQ/automq",
-  "fetched_at": "2025-12-29T14:14:51.589Z",
+  "fetched_at": "2025-12-30T05:12:18.676Z",
   "contributor_locations": {
     "san francisco bay area, ca": 2,
     "unknown": 165,
@@ -154,5 +154,5 @@
     "rome, italy": 1,
     "moscow": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T18:17:57.268Z"
+  "contributor_locations_updated_at": "2025-12-30T05:20:19.211Z"
 }

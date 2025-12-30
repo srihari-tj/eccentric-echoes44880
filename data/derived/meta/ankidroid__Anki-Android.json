@@ -21,16 +21,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2013-01-20T13:55:53Z",
-  "pushed_at": "2025-12-29T12:28:50Z",
-  "size": 301960,
-  "stars_now": 10437,
+  "pushed_at": "2025-12-29T17:23:14Z",
+  "size": 302011,
+  "stars_now": 10441,
   "forks": 2595,
-  "open_issues": 357,
+  "open_issues": 358,
   "subscribers": 147,
-  "watchers": 10437,
+  "watchers": 10441,
   "html_url": "https://github.com/ankidroid/Anki-Android",
   "api_url": "https://api.github.com/repos/ankidroid/Anki-Android",
-  "fetched_at": "2025-12-29T14:16:23.538Z",
+  "fetched_at": "2025-12-30T05:13:29.577Z",
   "contributor_locations": {
     "unknown": 167,
     "paris, france": 2,
@@ -170,5 +170,5 @@
     "stuttgart, germany": 1,
     "jackson, ms": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T20:19:02.059Z"
+  "contributor_locations_updated_at": "2025-12-30T07:19:15.253Z"
 }

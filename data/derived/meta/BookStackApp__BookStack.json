@@ -19,16 +19,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2015-08-29T10:26:44Z",
-  "pushed_at": "2025-12-29T12:19:53Z",
-  "size": 49398,
-  "stars_now": 17948,
-  "forks": 2295,
-  "open_issues": 674,
+  "pushed_at": "2025-12-29T23:12:20Z",
+  "size": 49401,
+  "stars_now": 17952,
+  "forks": 2296,
+  "open_issues": 676,
   "subscribers": 192,
-  "watchers": 17948,
+  "watchers": 17952,
   "html_url": "https://github.com/BookStackApp/BookStack",
   "api_url": "https://api.github.com/repos/BookStackApp/BookStack",
-  "fetched_at": "2025-12-29T14:14:54.974Z",
+  "fetched_at": "2025-12-30T05:12:21.216Z",
   "contributor_locations": {
     "alton, hampshire, uk": 1,
     "bhubaneswar, india": 1,
@@ -125,5 +125,5 @@
     "barcelona / l'espluga calba, catalonia": 1,
     "london, uk": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T18:18:51.893Z"
+  "contributor_locations_updated_at": "2025-12-30T05:21:10.327Z"
 }

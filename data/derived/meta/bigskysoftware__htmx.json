@@ -19,18 +19,18 @@
   "archived": false,
   "disabled": false,
   "created_at": "2020-04-13T16:17:51Z",
-  "pushed_at": "2025-12-24T21:25:25Z",
-  "size": 127052,
-  "stars_now": 46983,
+  "pushed_at": "2025-12-29T15:29:18Z",
+  "size": 127053,
+  "stars_now": 46994,
   "forks": 1557,
   "open_issues": 658,
   "subscribers": 212,
-  "watchers": 46983,
+  "watchers": 46994,
   "html_url": "https://github.com/bigskysoftware/htmx",
   "api_url": "https://api.github.com/repos/bigskysoftware/htmx",
-  "fetched_at": "2025-12-29T14:16:47.645Z",
+  "fetched_at": "2025-12-30T05:13:48.992Z",
   "contributor_locations": {
-    "unknown": 138,
+    "unknown": 139,
     "colorado, usa": 1,
     "new york, new york": 1,
     "knoxville, tn": 1,
@@ -140,7 +140,6 @@
     "trieste, italy": 1,
     "brighton, uk": 1,
     "leicester, uk": 1,
-    "columbus, ohio": 1,
     "localhost": 1,
     "spain": 2,
     "olavarría, buenos aires, argentina": 1,
@@ -271,5 +270,5 @@
     "tokyo, japan": 1,
     "russian federation": 1
   },
-  "contributor_locations_updated_at": "2025-12-29T20:32:50.981Z"
+  "contributor_locations_updated_at": "2025-12-30T08:13:58.277Z"
 }
