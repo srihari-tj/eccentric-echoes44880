@@ -1,5 +1,7 @@
 // scripts/fetch_repo_meta.js
+
 // Enrich and store repo metadata only in meta files to keep downstream outputs lean.
+
 // Writes data/derived/meta/owner__repo.json with expanded fields.
 
 import fs from "fs";
@@ -8,6 +10,7 @@ import fetch from "node-fetch";
 
 const DERIVED_DIR = "data/derived";
 const META_DIR = "data/derived/meta";
+
 fs.mkdirSync(META_DIR, { recursive: true });
 
 function listQuarterDirs() {
@@ -20,11 +23,13 @@ function loadCandidates() {
   if (chunk && fs.existsSync(chunk)) {
     return JSON.parse(fs.readFileSync(chunk, "utf8"));
   }
+  
   const dirs = listQuarterDirs().sort().reverse();
   for (const d of dirs) {
     const f = path.join(DERIVED_DIR, d, "candidates.json");
     if (fs.existsSync(f)) return JSON.parse(fs.readFileSync(f, "utf8"));
   }
+  
   return [];
 }
 
@@ -37,15 +42,18 @@ async function fetchRepo(owner, repo) {
     "X-GitHub-Api-Version": "2022-11-28",
     ...(GH_TOKEN ? { "Authorization": `Bearer ${GH_TOKEN}` } : {})
   };
+  
   const url = `https://api.github.com/repos/${owner}/${repo}`;
   const res = await fetch(url, { headers });
+  
   if (!res.ok) {
     await respectfulSleep();
     throw new Error(`repo ${owner}/${repo} ${res.status}`);
   }
+  
   const j = await res.json();
   await respectfulSleep();
-
+  
   // Normalize and select useful fields
   return {
     // identification
@@ -53,35 +61,35 @@ async function fetchRepo(owner, repo) {
     repo: `${owner}/${repo}`,
     name: j.name ?? repo,
     full_name: j.full_name ?? `${owner}/${repo}`,
-
+    
     // descriptive
     description: j.description ?? null,
     homepage: j.homepage || j.html_url || null,
     language: j.language ?? null,
     license: j.license?.spdx_id ?? null,
     topics: Array.isArray(j.topics) ? j.topics : null,
-
+    
     // lifecycle flags
     default_branch: j.default_branch ?? "main",
     archived: !!j.archived,
     disabled: !!j.disabled,
-
+    
     // activity and size
     created_at: j.created_at ?? null,
     pushed_at: j.pushed_at ?? null,
     size: j.size ?? null,
-
+    
     // counters
     stars_now: j.stargazers_count ?? 0,
     forks: j.forks_count ?? j.network_count ?? 0,
     open_issues: j.open_issues_count ?? 0,
     subscribers: j.subscribers_count ?? 0,
     watchers: j.watchers_count ?? null,
-
+    
     // URLs
     html_url: j.html_url ?? `https://github.com/${owner}/${repo}`,
     api_url: j.url ?? url,
-
+    
     // fetch meta
     fetched_at: new Date().toISOString()
   };
@@ -89,8 +97,16 @@ async function fetchRepo(owner, repo) {
 
 (async () => {
   const candidates = loadCandidates();
+  
   for (const { owner, repo } of candidates) {
     const outPath = path.join(META_DIR, `${owner}__${repo}.json`);
+    
+    // Check if meta file already exists - skip if it does
+    if (fs.existsSync(outPath)) {
+      console.log("skip", `${owner}/${repo}`, "- meta already exists");
+      continue;
+    }
+    
     try {
       const meta = await fetchRepo(owner, repo);
       fs.writeFileSync(outPath, JSON.stringify(meta, null, 2));
