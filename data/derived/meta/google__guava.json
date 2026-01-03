@@ -57,7 +57,7 @@
     "california": 2,
     "cary, north carolina": 1,
     "seattle": 2,
-    "san francisco, ca": 4,
+    "clearwater, fl": 1,
     "california, usa": 1,
     "/waterloo|toronto|sf bay area/": 1,
     "redwood city, ca, usa": 1,
@@ -78,6 +78,7 @@
     "brooklyn, ny": 2,
     "china": 1,
     "hangzhou": 2,
+    "san francisco, ca": 3,
     "bordeaux": 1,
     "sf bay area": 2,
     "tianjin": 1,
@@ -145,5 +146,5 @@
     "innsbruck, austria": 1,
     "minneapolis, mn, usa": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T10:24:06.256Z"
+  "contributor_locations_updated_at": "2026-01-03T11:58:20.984Z"
 }

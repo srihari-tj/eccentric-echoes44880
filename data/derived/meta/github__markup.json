@@ -1,0 +1,27 @@
+{
+  "owner": "github",
+  "repo": "github/markup",
+  "name": "markup",
+  "full_name": "github/markup",
+  "description": "Determines which markup library to use to render a content file (e.g. README) on GitHub",
+  "homepage": "https://github.com/github/markup",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "readme"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-10-31T01:02:46Z",
+  "pushed_at": "2025-12-22T10:03:16Z",
+  "size": 760,
+  "stars_now": 6002,
+  "forks": 3382,
+  "open_issues": 35,
+  "subscribers": 618,
+  "watchers": 6002,
+  "html_url": "https://github.com/github/markup",
+  "api_url": "https://api.github.com/repos/github/markup",
+  "fetched_at": "2026-01-03T06:49:41.575Z"
+}

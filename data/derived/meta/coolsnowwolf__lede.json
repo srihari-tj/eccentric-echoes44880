@@ -41,8 +41,8 @@
     "croatia": 1,
     "mühltal": 1,
     "china jiangsu province suzhou": 1,
-    "undefine": 1,
     "chengdu,china": 1,
+    "undefine": 1,
     "ostrava, silesia": 1,
     "silicon valley, california": 1,
     "0::": 1,
@@ -120,7 +120,6 @@
     "united states": 4,
     "dublin, ireland": 1,
     "vantaa, finland": 1,
-    "boise, id": 1,
     "vancouver, bc": 1,
     "aachen, germany": 1,
     "davis, california": 1,
@@ -130,6 +129,7 @@
     "taipei": 2,
     "ann arbor, mi": 1,
     "shenzhen, guangdong, china": 1,
+    "boise, id": 1,
     "hongkong": 2,
     "toronto, canada": 1,
     "switzerland": 1,
@@ -163,5 +163,5 @@
     "337 meters from you.": 1,
     "surabaya, jawa timur, indonesia": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T08:27:05.021Z"
+  "contributor_locations_updated_at": "2026-01-03T10:02:13.762Z"
 }

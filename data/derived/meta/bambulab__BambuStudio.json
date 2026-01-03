@@ -23,9 +23,10 @@
   "api_url": "https://api.github.com/repos/bambulab/BambuStudio",
   "fetched_at": "2025-12-30T05:13:44.079Z",
   "contributor_locations": {
-    "unknown": 86,
+    "unknown": 85,
     "lyon": 1,
     "kyiv, ukraine": 1,
+    "singapor": 1,
     "mountain view, ca": 1,
     "fargo, nd": 1,
     "ri,usa": 1,
@@ -74,5 +75,5 @@
     "australia": 1,
     "china": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T07:29:38.558Z"
+  "contributor_locations_updated_at": "2026-01-03T09:04:52.153Z"
 }

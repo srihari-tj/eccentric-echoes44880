@@ -1,13 +1,34 @@
 {
+  "owner": "cjpais",
   "repo": "cjpais/Handy",
-  "stars_now": 5957,
-  "forks": 373,
-  "open_issues": 45,
-  "subscribers": 35,
+  "name": "Handy",
+  "full_name": "cjpais/Handy",
+  "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+  "homepage": "https://handy.computer",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "accessibility",
+    "cross-platform",
+    "speech-to-text",
+    "tauri-v2"
+  ],
   "default_branch": "main",
-  "fetched_at": "2025-11-07T17:30:47.185Z",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-02-13T02:42:29Z",
+  "pushed_at": "2026-01-01T14:05:02Z",
+  "size": 7547,
+  "stars_now": 9769,
+  "forks": 680,
+  "open_issues": 68,
+  "subscribers": 42,
+  "watchers": 9769,
+  "html_url": "https://github.com/cjpais/Handy",
+  "api_url": "https://api.github.com/repos/cjpais/Handy",
+  "fetched_at": "2026-01-03T06:49:30.260Z",
   "contributor_locations": {
-    "unknown": 19,
+    "unknown": 20,
     "earth": 1,
     "new york | new delhi | hong kong": 1,
     "london, uk": 1,
@@ -23,5 +44,5 @@
     "oslo": 1,
     "seattle": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T08:19:59.821Z"
+  "contributor_locations_updated_at": "2026-01-03T09:54:46.603Z"
 }

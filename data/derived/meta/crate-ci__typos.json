@@ -29,7 +29,7 @@
   "fetched_at": "2025-11-10T08:31:04.448Z",
   "contributor_locations": {
     "texas": 1,
-    "unknown": 26,
+    "unknown": 27,
     "finland": 1,
     "germany": 4,
     "g2rm+5m budapest": 1,
@@ -49,7 +49,6 @@
     "kiel, germany": 1,
     "berlin, germany": 1,
     "brittany, france": 1,
-    "shenzhen, china": 1,
     "tianjin": 1,
     "shenzhen/hong kong, china": 1,
     "portland, or": 1,
@@ -82,5 +81,5 @@
     "massachusetts, usa": 1,
     "boston ma, usa": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T08:27:19.584Z"
+  "contributor_locations_updated_at": "2026-01-03T10:02:29.200Z"
 }

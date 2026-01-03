@@ -25,16 +25,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2019-05-15T02:15:31Z",
-  "pushed_at": "2025-12-29T08:34:42Z",
-  "size": 266133,
-  "stars_now": 48830,
-  "forks": 6746,
-  "open_issues": 5,
-  "subscribers": 608,
-  "watchers": 48830,
+  "pushed_at": "2026-01-01T08:47:00Z",
+  "size": 266184,
+  "stars_now": 49011,
+  "forks": 6761,
+  "open_issues": 9,
+  "subscribers": 609,
+  "watchers": 49011,
   "html_url": "https://github.com/2dust/v2rayNG",
   "api_url": "https://api.github.com/repos/2dust/v2rayNG",
-  "fetched_at": "2025-12-30T05:12:13.606Z",
+  "fetched_at": "2026-01-03T06:49:01.859Z",
   "contributor_locations": {
     "unknown": 35,
     "localhost": 1,
@@ -57,5 +57,5 @@
     "osaka, japan": 1,
     "behbahan, iran": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T05:17:59.541Z"
+  "contributor_locations_updated_at": "2026-01-03T06:50:54.004Z"
 }

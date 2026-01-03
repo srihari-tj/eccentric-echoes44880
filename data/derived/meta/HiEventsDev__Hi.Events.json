@@ -45,9 +45,10 @@
   "contributor_locations": {
     "dublin, ireland": 1,
     "belgium": 1,
-    "unknown": 12,
+    "unknown": 11,
     "vicenza-italy": 1,
     "bahrain": 2,
+    "germany": 2,
     "australia": 1,
     "united states": 2,
     "hong kong": 1,
@@ -56,8 +57,7 @@
     "tokyo, japan": 1,
     "viet nam": 1,
     "argentina": 1,
-    "new york, ny": 1,
-    "germany": 1
+    "new york, ny": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T06:13:08.533Z"
+  "contributor_locations_updated_at": "2026-01-03T07:07:12.534Z"
 }

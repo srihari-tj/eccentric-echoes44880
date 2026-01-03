@@ -26,7 +26,7 @@
   "api_url": "https://api.github.com/repos/facebook/rocksdb",
   "fetched_at": "2025-12-30T05:14:27.470Z",
   "contributor_locations": {
-    "unknown": 132,
+    "unknown": 133,
     "london": 5,
     "bay area": 2,
     "seattle, wa": 2,
@@ -92,13 +92,12 @@
     "cebu, philippines": 1,
     "munich, germany": 1,
     "hangzhou": 1,
+    "zürich": 1,
+    "cape town, south africa": 1,
     "california, usa": 2,
     "copenhagen": 2,
-    "cape town, south africa": 1,
-    "zürich": 1,
     "berlin": 1,
     "honolulu, hi, usa": 1,
-    "vienna": 1,
     "israel": 1,
     "new york": 3,
     "haidian, beijing china": 1,
@@ -136,5 +135,5 @@
     "boston, ma": 1,
     "new york, ny, usa": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T09:24:25.620Z"
+  "contributor_locations_updated_at": "2026-01-03T10:58:53.286Z"
 }

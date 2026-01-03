@@ -1,0 +1,28 @@
+{
+  "owner": "justlovemaki",
+  "repo": "justlovemaki/AIClient-2-API",
+  "name": "AIClient-2-API",
+  "full_name": "justlovemaki/AIClient-2-API",
+  "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
+  "homepage": "https://aiproxy.justlikemaki.vip",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [
+    "aicoding",
+    "free"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-07-20T07:05:56Z",
+  "pushed_at": "2025-12-31T15:24:30Z",
+  "size": 1778,
+  "stars_now": 2175,
+  "forks": 339,
+  "open_issues": 6,
+  "subscribers": 12,
+  "watchers": 2175,
+  "html_url": "https://github.com/justlovemaki/AIClient-2-API",
+  "api_url": "https://api.github.com/repos/justlovemaki/AIClient-2-API",
+  "fetched_at": "2026-01-03T06:49:49.950Z"
+}

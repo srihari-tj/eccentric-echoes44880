@@ -1,0 +1,30 @@
+{
+  "owner": "aws",
+  "repo": "aws/aws-sdk-ruby",
+  "name": "aws-sdk-ruby",
+  "full_name": "aws/aws-sdk-ruby",
+  "description": "The official AWS SDK for Ruby",
+  "homepage": "https://aws.amazon.com/sdk-for-ruby/",
+  "language": "Ruby",
+  "license": "Apache-2.0",
+  "topics": [
+    "aws",
+    "aws-sdk",
+    "cloud",
+    "ruby"
+  ],
+  "default_branch": "version-3",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-07-14T22:21:47Z",
+  "pushed_at": "2026-01-02T20:21:51Z",
+  "size": 650896,
+  "stars_now": 3643,
+  "forks": 1229,
+  "open_issues": 30,
+  "subscribers": 130,
+  "watchers": 3643,
+  "html_url": "https://github.com/aws/aws-sdk-ruby",
+  "api_url": "https://api.github.com/repos/aws/aws-sdk-ruby",
+  "fetched_at": "2026-01-03T06:49:25.626Z"
+}

@@ -23,7 +23,7 @@
   "api_url": "https://api.github.com/repos/FreeRTOS/FreeRTOS-Kernel",
   "fetched_at": "2025-12-30T05:12:34.767Z",
   "contributor_locations": {
-    "unknown": 110,
+    "unknown": 111,
     "seattle": 2,
     "denver": 1,
     "seattle, washington": 1,
@@ -51,8 +51,8 @@
     "solar system, planet earth.": 1,
     "salem, ma": 1,
     "roznov pod radhostem cz": 1,
-    "sweden": 4,
     "toronto on, canada": 1,
+    "sweden": 4,
     "portland, or": 2,
     "pune, india": 1,
     "ottawa, canada": 1,
@@ -74,7 +74,6 @@
     "xiamen": 1,
     "ukraine": 1,
     "beijing, china": 2,
-    "bucharest, romania": 1,
     "bangalore, india": 1,
     "erlangen, germany": 1,
     "france": 1,
@@ -86,7 +85,7 @@
     "laufenburg (baden)": 1,
     "nanjing, china": 1,
     "braunschweig": 1,
-    "westwood, nj": 1,
+    "bucharest, romania": 1,
     "denmark": 1,
     "china": 1,
     "brazil": 1,
@@ -103,7 +102,8 @@
     "va, us": 1,
     "canada": 1,
     "belgium": 1,
-    "leiria, portugal": 1
+    "leiria, portugal": 1,
+    "westwood, nj": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T05:30:47.714Z"
+  "contributor_locations_updated_at": "2026-01-03T07:04:26.567Z"
 }

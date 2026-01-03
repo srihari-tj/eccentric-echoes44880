@@ -10,7 +10,7 @@
     "china": 11,
     "wuhan": 1,
     "changsha,china": 1,
-    "unknown": 130,
+    "unknown": 129,
     "bali, indonesia": 1,
     "shenzhen": 5,
     "{ user.address }": 1,
@@ -29,7 +29,7 @@
     "china,beijing": 1,
     "shanghai, china": 6,
     "singapore": 2,
-    "hong kong": 2,
+    "hong kong": 3,
     "seoul, south korea": 1,
     "milan": 1,
     "united states": 1,
@@ -96,5 +96,5 @@
     "taipei, taiwan": 1,
     "muğla, turkey": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T05:23:30.277Z"
+  "contributor_locations_updated_at": "2026-01-03T06:56:43.844Z"
 }

@@ -1,0 +1,32 @@
+{
+  "owner": "apache",
+  "repo": "apache/nuttx",
+  "name": "nuttx",
+  "full_name": "apache/nuttx",
+  "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+  "homepage": "https://nuttx.apache.org/",
+  "language": "C",
+  "license": "Apache-2.0",
+  "topics": [
+    "embedded",
+    "mcu",
+    "microcontroller",
+    "nuttx",
+    "real-time",
+    "rtos"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-12-14T23:27:55Z",
+  "pushed_at": "2026-01-02T10:55:37Z",
+  "size": 350306,
+  "stars_now": 3613,
+  "forks": 1432,
+  "open_issues": 753,
+  "subscribers": 101,
+  "watchers": 3613,
+  "html_url": "https://github.com/apache/nuttx",
+  "api_url": "https://api.github.com/repos/apache/nuttx",
+  "fetched_at": "2026-01-03T06:49:23.778Z"
+}

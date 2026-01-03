@@ -33,10 +33,10 @@
   "fetched_at": "2025-12-30T05:12:14.708Z",
   "contributor_locations": {
     "幻想郷": 1,
-    "unknown": 40,
+    "unknown": 39,
     "spain": 2,
-    "prague, czech republic": 1,
     "/home/": 1,
+    "prague, czech republic": 1,
     "somewhere on the world": 1,
     "the netherlands": 2,
     "singapore": 1,
@@ -50,7 +50,6 @@
     "czech republic": 1,
     "oslo, norway": 1,
     "california": 1,
-    "inside your computer": 1,
     "seattle, wa": 2,
     "netherlands": 1,
     "arizona": 1,
@@ -58,6 +57,7 @@
     "somewhere, but not here.": 1,
     "rome, italy": 1,
     "kernel ring 0": 1,
+    "inside your computer": 1,
     "toronto, ontario": 1,
     "ariana , tunisia": 1,
     "fyrestone": 1,
@@ -72,9 +72,10 @@
     "the united kingdom of great britian and northern ireland": 1,
     "portland, or": 1,
     "mainz": 1,
+    "where am i": 1,
     "germany": 2,
     "darmstadt, germany": 1,
     "budapest, hungary": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T05:18:25.617Z"
+  "contributor_locations_updated_at": "2026-01-03T06:51:22.458Z"
 }

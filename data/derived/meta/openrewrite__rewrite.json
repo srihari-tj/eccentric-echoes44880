@@ -1,0 +1,32 @@
+{
+  "owner": "openrewrite",
+  "repo": "openrewrite/rewrite",
+  "name": "rewrite",
+  "full_name": "openrewrite/rewrite",
+  "description": "Automated mass refactoring of source code.",
+  "homepage": "https://docs.openrewrite.org",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "abstract-syntax-tree",
+    "ast",
+    "code-search",
+    "java",
+    "refactoring",
+    "refactoring-tools"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-05-12T20:16:14Z",
+  "pushed_at": "2026-01-02T22:13:29Z",
+  "size": 113491,
+  "stars_now": 3229,
+  "forks": 496,
+  "open_issues": 392,
+  "subscribers": 21,
+  "watchers": 3229,
+  "html_url": "https://github.com/openrewrite/rewrite",
+  "api_url": "https://api.github.com/repos/openrewrite/rewrite",
+  "fetched_at": "2026-01-03T06:50:01.496Z"
+}

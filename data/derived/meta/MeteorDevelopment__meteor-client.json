@@ -1,0 +1,31 @@
+{
+  "owner": "MeteorDevelopment",
+  "repo": "MeteorDevelopment/meteor-client",
+  "name": "meteor-client",
+  "full_name": "MeteorDevelopment/meteor-client",
+  "description": "Based Minecraft utility mod.",
+  "homepage": "https://meteorclient.com",
+  "language": "Java",
+  "license": "GPL-3.0",
+  "topics": [
+    "fabricmc",
+    "minecraft",
+    "minecraft-fabric",
+    "minecraft-mod",
+    "utility-mod"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-11-03T15:33:49Z",
+  "pushed_at": "2026-01-02T15:03:17Z",
+  "size": 23425,
+  "stars_now": 3154,
+  "forks": 1292,
+  "open_issues": 684,
+  "subscribers": 54,
+  "watchers": 3154,
+  "html_url": "https://github.com/MeteorDevelopment/meteor-client",
+  "api_url": "https://api.github.com/repos/MeteorDevelopment/meteor-client",
+  "fetched_at": "2026-01-03T06:49:12.221Z"
+}

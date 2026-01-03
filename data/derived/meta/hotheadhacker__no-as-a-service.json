@@ -1,0 +1,29 @@
+{
+  "owner": "hotheadhacker",
+  "repo": "hotheadhacker/no-as-a-service",
+  "name": "no-as-a-service",
+  "full_name": "hotheadhacker/no-as-a-service",
+  "description": "No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.",
+  "homepage": "https://naas.isalman.dev/no",
+  "language": "JavaScript",
+  "license": null,
+  "topics": [
+    "api",
+    "expressjs",
+    "json"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-04-29T19:56:36Z",
+  "pushed_at": "2025-12-30T07:05:32Z",
+  "size": 1105,
+  "stars_now": 4580,
+  "forks": 268,
+  "open_issues": 48,
+  "subscribers": 12,
+  "watchers": 4580,
+  "html_url": "https://github.com/hotheadhacker/no-as-a-service",
+  "api_url": "https://api.github.com/repos/hotheadhacker/no-as-a-service",
+  "fetched_at": "2026-01-03T06:49:45.874Z"
+}

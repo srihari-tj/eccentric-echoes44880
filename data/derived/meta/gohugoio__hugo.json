@@ -1,0 +1,33 @@
+{
+  "owner": "gohugoio",
+  "repo": "gohugoio/hugo",
+  "name": "hugo",
+  "full_name": "gohugoio/hugo",
+  "description": "The world’s fastest framework for building websites.",
+  "homepage": "https://gohugo.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-07-04T15:26:26Z",
+  "pushed_at": "2026-01-02T16:53:32Z",
+  "size": 135398,
+  "stars_now": 85730,
+  "forks": 8159,
+  "open_issues": 308,
+  "subscribers": 1076,
+  "watchers": 85730,
+  "html_url": "https://github.com/gohugoio/hugo",
+  "api_url": "https://api.github.com/repos/gohugoio/hugo",
+  "fetched_at": "2026-01-03T06:49:42.781Z"
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "barryvdh",
+  "repo": "barryvdh/laravel-debugbar",
+  "name": "laravel-debugbar",
+  "full_name": "barryvdh/laravel-debugbar",
+  "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+  "homepage": "http://laraveldebugbar.com/",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "debugbar",
+    "developer-tool",
+    "hacktoberfest",
+    "laravel",
+    "profiler",
+    "toolbar"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-09-05T10:26:54Z",
+  "pushed_at": "2026-01-02T19:28:12Z",
+  "size": 14140,
+  "stars_now": 18960,
+  "forks": 1599,
+  "open_issues": 82,
+  "subscribers": 280,
+  "watchers": 18960,
+  "html_url": "https://github.com/barryvdh/laravel-debugbar",
+  "api_url": "https://api.github.com/repos/barryvdh/laravel-debugbar",
+  "fetched_at": "2026-01-03T06:49:27.120Z"
+}

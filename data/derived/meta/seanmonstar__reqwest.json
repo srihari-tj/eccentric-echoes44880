@@ -1,0 +1,29 @@
+{
+  "owner": "seanmonstar",
+  "repo": "seanmonstar/reqwest",
+  "name": "reqwest",
+  "full_name": "seanmonstar/reqwest",
+  "description": "An easy and powerful Rust HTTP Client",
+  "homepage": "https://docs.rs/reqwest",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "http",
+    "http-client",
+    "rust"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-07-01T00:23:08Z",
+  "pushed_at": "2026-01-02T19:39:12Z",
+  "size": 2454,
+  "stars_now": 11280,
+  "forks": 1310,
+  "open_issues": 442,
+  "subscribers": 80,
+  "watchers": 11280,
+  "html_url": "https://github.com/seanmonstar/reqwest",
+  "api_url": "https://api.github.com/repos/seanmonstar/reqwest",
+  "fetched_at": "2026-01-03T06:50:09.491Z"
+}

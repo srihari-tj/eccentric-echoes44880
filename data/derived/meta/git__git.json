@@ -71,8 +71,8 @@
     "salt lake city, ut": 1,
     "stelle, germany": 1,
     "russia, moscow": 1,
-    "sydney, australia": 2,
     "karlsruhe, germany": 1,
+    "sydney, australia": 2,
     "melbourne, australia": 2,
     "upstate new york": 1,
     "dresden, germany": 1,
@@ -122,14 +122,14 @@
     "belgium": 1,
     "nanjing": 1,
     "bielefeld, germany": 1,
+    "seattle, wa": 3,
     "san leandro, ca": 1,
     "lagos, nigeria.": 1,
-    "seattle, wa": 3,
     "new york, ny": 1,
     "eu/poland/wrocław": 1,
-    "bangalore, india": 1,
-    "cambridge, united kingdom": 1,
     "richmond, va": 1,
+    "cambridge, united kingdom": 1,
+    "bangalore, india": 1,
     "zurich, switzerland": 2,
     "swarthmore, pa": 1,
     "finland": 4,
@@ -213,5 +213,5 @@
     "munich": 1,
     "durham, north carolina, usa": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T10:17:57.101Z"
+  "contributor_locations_updated_at": "2026-01-03T11:51:56.383Z"
 }

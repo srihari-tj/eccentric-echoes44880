@@ -23,7 +23,7 @@
   "api_url": "https://api.github.com/repos/cloudflare/pingora",
   "fetched_at": "2025-12-30T05:14:01.005Z",
   "contributor_locations": {
-    "unknown": 28,
+    "unknown": 29,
     "san mateo, ca": 1,
     "ottawa": 1,
     "denver, co": 1,
@@ -36,10 +36,11 @@
     "san francisco bay area, ca, usa": 1,
     "hangzhou,china": 1,
     "shanghai": 1,
-    "canada": 1,
-    "malmö, sweden": 1,
-    "united states": 1,
     "michigan": 1,
+    "united states": 1,
+    "malmö, sweden": 1,
+    "canada": 1,
+    "south africa": 1,
     "mom's basement": 1,
     "south korea": 1,
     "hong kong": 1,
@@ -50,7 +51,6 @@
     "shanghai china": 1,
     "guangzhou, china": 1,
     "china": 2,
-    "south africa": 1,
     "seoul, south korea": 1,
     "west africa": 1,
     "within the bromley contingent": 1,
@@ -65,5 +65,5 @@
     "india": 1,
     "lisboa, portugal": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T08:20:36.402Z"
+  "contributor_locations_updated_at": "2026-01-03T09:55:25.533Z"
 }

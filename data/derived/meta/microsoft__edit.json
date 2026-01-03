@@ -1,0 +1,30 @@
+{
+  "owner": "microsoft",
+  "repo": "microsoft/edit",
+  "name": "edit",
+  "full_name": "microsoft/edit",
+  "description": "We all edit.",
+  "homepage": "https://github.com/microsoft/edit",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "editor",
+    "rust",
+    "terminal",
+    "text-editor"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-21T18:58:21Z",
+  "pushed_at": "2025-12-24T13:02:17Z",
+  "size": 1892,
+  "stars_now": 13229,
+  "forks": 609,
+  "open_issues": 140,
+  "subscribers": 79,
+  "watchers": 13229,
+  "html_url": "https://github.com/microsoft/edit",
+  "api_url": "https://api.github.com/repos/microsoft/edit",
+  "fetched_at": "2026-01-03T06:49:55.227Z"
+}

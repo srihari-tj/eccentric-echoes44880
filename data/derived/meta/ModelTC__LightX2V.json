@@ -1,0 +1,30 @@
+{
+  "owner": "ModelTC",
+  "repo": "ModelTC/LightX2V",
+  "name": "LightX2V",
+  "full_name": "ModelTC/LightX2V",
+  "description": "Light Image Video Generation Inference Framework",
+  "homepage": "https://github.com/ModelTC/LightX2V",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "auto-regressive-diffusion-model",
+    "diffusion-models",
+    "video-generation",
+    "wan-video"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-24T10:27:56Z",
+  "pushed_at": "2025-12-31T15:16:08Z",
+  "size": 17082,
+  "stars_now": 1665,
+  "forks": 119,
+  "open_issues": 85,
+  "subscribers": 16,
+  "watchers": 1665,
+  "html_url": "https://github.com/ModelTC/LightX2V",
+  "api_url": "https://api.github.com/repos/ModelTC/LightX2V",
+  "fetched_at": "2026-01-03T06:49:12.930Z"
+}

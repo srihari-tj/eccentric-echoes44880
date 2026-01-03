@@ -19,16 +19,16 @@
   "archived": false,
   "disabled": false,
   "created_at": "2018-02-17T22:40:20Z",
-  "pushed_at": "2025-12-29T21:54:53Z",
-  "size": 11687,
-  "stars_now": 52591,
-  "forks": 2439,
-  "open_issues": 36,
-  "subscribers": 272,
-  "watchers": 52591,
+  "pushed_at": "2026-01-01T16:52:11Z",
+  "size": 11688,
+  "stars_now": 52807,
+  "forks": 2444,
+  "open_issues": 39,
+  "subscribers": 273,
+  "watchers": 52807,
   "html_url": "https://github.com/dani-garcia/vaultwarden",
   "api_url": "https://api.github.com/repos/dani-garcia/vaultwarden",
-  "fetched_at": "2025-12-30T05:14:09.746Z",
+  "fetched_at": "2026-01-03T06:49:32.547Z",
   "contributor_locations": {
     "asturias, spain": 1,
     "netherlands": 3,
@@ -104,5 +104,5 @@
     "trondheim, norway": 1,
     "karlsruhe, germany": 1
   },
-  "contributor_locations_updated_at": "2025-12-30T09:12:31.120Z"
+  "contributor_locations_updated_at": "2026-01-03T10:05:43.203Z"
 }

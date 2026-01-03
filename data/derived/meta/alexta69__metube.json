@@ -1,0 +1,30 @@
+{
+  "owner": "alexta69",
+  "repo": "alexta69/metube",
+  "name": "metube",
+  "full_name": "alexta69/metube",
+  "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+  "homepage": "https://github.com/alexta69/metube",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+    "self-hosted",
+    "youtube",
+    "youtube-dl",
+    "yt-dlp"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-11-29T17:24:51Z",
+  "pushed_at": "2026-01-02T06:27:23Z",
+  "size": 5628,
+  "stars_now": 11864,
+  "forks": 801,
+  "open_issues": 159,
+  "subscribers": 44,
+  "watchers": 11864,
+  "html_url": "https://github.com/alexta69/metube",
+  "api_url": "https://api.github.com/repos/alexta69/metube",
+  "fetched_at": "2026-01-03T06:49:20.144Z"
+}

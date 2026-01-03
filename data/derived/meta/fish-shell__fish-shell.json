@@ -1,0 +1,30 @@
+{
+  "owner": "fish-shell",
+  "repo": "fish-shell/fish-shell",
+  "name": "fish-shell",
+  "full_name": "fish-shell/fish-shell",
+  "description": "The user-friendly command line shell.",
+  "homepage": "https://fishshell.com",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "fish",
+    "rust",
+    "shell",
+    "terminal"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-05-10T03:00:55Z",
+  "pushed_at": "2026-01-02T00:11:36Z",
+  "size": 141325,
+  "stars_now": 31988,
+  "forks": 2188,
+  "open_issues": 524,
+  "subscribers": 279,
+  "watchers": 31988,
+  "html_url": "https://github.com/fish-shell/fish-shell",
+  "api_url": "https://api.github.com/repos/fish-shell/fish-shell",
+  "fetched_at": "2026-01-03T06:49:37.690Z"
+}

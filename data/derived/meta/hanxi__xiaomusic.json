@@ -32,5 +32,16 @@
   "watchers": 8692,
   "html_url": "https://github.com/hanxi/xiaomusic",
   "api_url": "https://api.github.com/repos/hanxi/xiaomusic",
-  "fetched_at": "2025-12-30T05:14:52.980Z"
+  "fetched_at": "2025-12-30T05:14:52.980Z",
+  "contributor_locations": {
+    "guangzhou": 1,
+    "unknown": 22,
+    "sha tin, hong kong, china": 1,
+    "beijing,china": 2,
+    "london": 1,
+    "wuhan, hubei, china": 1,
+    "cd": 1,
+    "nanjing": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T12:05:35.616Z"
 }

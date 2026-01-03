@@ -1,0 +1,27 @@
+{
+  "owner": "FabricMC",
+  "repo": "FabricMC/fabric-example-mod",
+  "name": "fabric-example-mod",
+  "full_name": "FabricMC/fabric-example-mod",
+  "description": "Example Fabric mod",
+  "homepage": "https://github.com/FabricMC/fabric-example-mod",
+  "language": "Java",
+  "license": "CC0-1.0",
+  "topics": [
+    "fabric"
+  ],
+  "default_branch": "1.21",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-11-03T20:32:07Z",
+  "pushed_at": "2025-12-09T18:36:28Z",
+  "size": 711,
+  "stars_now": 2065,
+  "forks": 1184,
+  "open_issues": 9,
+  "subscribers": 54,
+  "watchers": 2065,
+  "html_url": "https://github.com/FabricMC/fabric-example-mod",
+  "api_url": "https://api.github.com/repos/FabricMC/fabric-example-mod",
+  "fetched_at": "2026-01-03T06:49:05.701Z"
+}
