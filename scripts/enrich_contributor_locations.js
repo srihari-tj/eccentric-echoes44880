@@ -144,6 +144,9 @@ async function fetchUserLocation(login, GH_TOKEN, cache) {
   let loc = "unknown";
   if (resp.ok && resp.json) {
     loc = normalizeLocation(resp.json.location || "");
+  } else if (resp.status === 404) {
+    // User not found - cache as unknown
+    loc = "unknown";
   }
   cache[login] = { value: loc, fetched_at: new Date().toISOString() };
   return loc;
