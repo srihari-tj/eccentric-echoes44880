@@ -149,6 +149,19 @@ async function fetchUserLocation(login, GH_TOKEN, cache) {
   return loc;
 }
 
+
+function hasContributorLocations(owner, repo) {
+  const metaPath = path.join(META_DIR, `${owner}__${repo}.json`);
+  if (!fs.existsSync(metaPath)) return false;
+  
+  try {
+    const meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+    return meta.contributor_locations && Object.keys(meta.contributor_locations).length > 0;
+  } catch {
+    return false;
+  }
+}
+
 function mergeIntoMeta(owner, repo, distribution) {
   const metaPath = path.join(META_DIR, `${owner}__${repo}.json`);
   let current = {};
@@ -173,6 +186,12 @@ function mergeIntoMeta(owner, repo, distribution) {
     if (MAX_RUN_MS && Date.now() - START_TS > MAX_RUN_MS) {
       console.log(`Max run time reached (${MAX_RUN_MS}ms); stopping for this run.`);
       break;
+    }
+
+    // Check if contributor_locations already exists - skip if it does
+    if (hasContributorLocations(owner, repo)) {
+      console.log(`skip ${owner}/${repo} - contributor_locations already exists`);
+      continue;
     }
 
     try {
