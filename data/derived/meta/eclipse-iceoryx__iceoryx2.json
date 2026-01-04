@@ -34,5 +34,20 @@
   "watchers": 1946,
   "html_url": "https://github.com/eclipse-iceoryx/iceoryx2",
   "api_url": "https://api.github.com/repos/eclipse-iceoryx/iceoryx2",
-  "fetched_at": "2025-12-30T05:14:20.056Z"
+  "fetched_at": "2025-12-30T05:14:20.056Z",
+  "contributor_locations": {
+    "berlin": 2,
+    "berlin, germany": 2,
+    "germany": 2,
+    "münchen, germany": 1,
+    "unknown": 10,
+    "singapore": 1,
+    "paris": 1,
+    "sabah, borneo": 1,
+    "bayern, germany": 1,
+    "los angeles": 1,
+    "eindhoven - the netherlands": 1,
+    "timisoara": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T06:48:20.094Z"
 }
