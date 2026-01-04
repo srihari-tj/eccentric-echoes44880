@@ -21,5 +21,19 @@
   "watchers": 1864,
   "html_url": "https://github.com/utkarshdalal/GameNative",
   "api_url": "https://api.github.com/repos/utkarshdalal/GameNative",
-  "fetched_at": "2025-12-30T05:17:06.639Z"
+  "fetched_at": "2025-12-30T05:17:06.639Z",
+  "contributor_locations": {
+    "unknown": 10,
+    "sioux city, ia": 1,
+    "scotland": 1,
+    "netherlands": 1,
+    "hong kong": 2,
+    "the netherlands": 1,
+    "germany": 1,
+    "$pwd": 1,
+    "berlin, germany": 1,
+    "france": 1,
+    "china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T04:00:39.621Z"
 }
