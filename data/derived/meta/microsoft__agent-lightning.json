@@ -27,5 +27,17 @@
   "watchers": 9949,
   "html_url": "https://github.com/microsoft/agent-lightning",
   "api_url": "https://api.github.com/repos/microsoft/agent-lightning",
-  "fetched_at": "2025-12-30T05:15:37.494Z"
+  "fetched_at": "2025-12-30T05:15:37.494Z",
+  "contributor_locations": {
+    "shanghai": 5,
+    "unknown": 13,
+    "south korea": 1,
+    "sfo": 1,
+    "china": 1,
+    "dublin, ireland": 1,
+    "canberra, australia": 1,
+    "shenzhen china": 1,
+    "sydney": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T23:50:51.519Z"
 }

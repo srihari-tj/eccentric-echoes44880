@@ -42,5 +42,24 @@
   "watchers": 19993,
   "html_url": "https://github.com/pavlobu/deskreen",
   "api_url": "https://api.github.com/repos/pavlobu/deskreen",
-  "fetched_at": "2025-12-30T05:16:08.590Z"
+  "fetched_at": "2025-12-30T05:16:08.590Z",
+  "contributor_locations": {
+    "unknown": 8,
+    "tempe": 1,
+    "brazil": 1,
+    "raleigh, nc, usa; bangkok, thailand": 1,
+    "deventer, nl": 1,
+    "bristol, uk": 1,
+    "göteborg, sweden": 1,
+    "/volumes/": 1,
+    "seoul, korea": 1,
+    "cologne, germany": 1,
+    "bengaluru": 1,
+    "italy": 1,
+    "japan": 1,
+    "montevideo, uruguay": 1,
+    "bw": 1,
+    "ternopil, ukraine": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T01:03:41.936Z"
 }

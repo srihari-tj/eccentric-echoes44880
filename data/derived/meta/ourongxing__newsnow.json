@@ -24,5 +24,14 @@
   "watchers": 15602,
   "html_url": "https://github.com/ourongxing/newsnow",
   "api_url": "https://api.github.com/repos/ourongxing/newsnow",
-  "fetched_at": "2025-12-30T05:16:06.493Z"
+  "fetched_at": "2025-12-30T05:16:06.493Z",
+  "contributor_locations": {
+    "shenzhen, china": 1,
+    "unknown": 12,
+    "china": 1,
+    "shanghai, china": 1,
+    "china hengyang": 1,
+    "beijing china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T01:01:57.086Z"
 }

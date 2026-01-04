@@ -30,5 +30,29 @@
   "watchers": 23986,
   "html_url": "https://github.com/monicahq/monica",
   "api_url": "https://api.github.com/repos/monicahq/monica",
-  "fetched_at": "2026-01-03T06:49:57.257Z"
+  "fetched_at": "2026-01-03T06:49:57.257Z",
+  "contributor_locations": {
+    "montréal": 1,
+    "montreuil, france": 1,
+    "unknown": 19,
+    "g2rm+5m budapest": 1,
+    "frankfurt, germany": 1,
+    "croatia": 1,
+    "nairobi, kenya": 1,
+    "united kingdom": 1,
+    "france, lyon": 1,
+    "germany": 2,
+    "twin cities, mn": 1,
+    "nigeria": 1,
+    "bordeaux, france": 1,
+    "south korea": 1,
+    "tokyo, japan": 1,
+    "damascus, syria": 1,
+    "amsterdam, netherlands": 1,
+    "south jordan, ut": 1,
+    "denmark": 1,
+    "deutschland": 1,
+    "maulvibazar, sylhet, bangladesh": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T23:54:53.742Z"
 }

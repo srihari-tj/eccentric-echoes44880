@@ -36,5 +36,30 @@
   "watchers": 18532,
   "html_url": "https://github.com/lionsoul2014/ip2region",
   "api_url": "https://api.github.com/repos/lionsoul2014/ip2region",
-  "fetched_at": "2025-12-30T05:15:23.957Z"
+  "fetched_at": "2025-12-30T05:15:23.957Z",
+  "contributor_locations": {
+    "shenzhen, china": 1,
+    "hong kong": 1,
+    "suzhou, china": 1,
+    "hangzhou, china": 1,
+    "hangzhou": 2,
+    "unknown": 16,
+    "beijing": 2,
+    "guangzhou": 1,
+    "guangzhou china": 1,
+    "shanghai": 1,
+    "china": 3,
+    "xi'an, china": 1,
+    "taipei": 1,
+    "shanghai, china": 2,
+    "shanghai china": 1,
+    "南京": 1,
+    "united kingdom": 1,
+    "chengdu,china": 1,
+    "prc": 1,
+    "beijing, china": 1,
+    "shenzhen": 1,
+    "wuhan, china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T22:56:06.727Z"
 }

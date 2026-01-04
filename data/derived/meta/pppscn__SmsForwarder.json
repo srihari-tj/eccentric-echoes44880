@@ -6,6 +6,15 @@
   "subscribers": 122,
   "default_branch": "main",
   "fetched_at": "2025-11-07T17:31:37.019Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:14.745Z"
+  "contributor_locations": {
+    "unknown": 17,
+    "gotham city": 1,
+    "china": 2,
+    "中华人民共和国": 1,
+    "silvermoon city": 1,
+    "new york": 1,
+    "chongqing, china": 1,
+    "wuhu": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T01:04:52.643Z"
 }

@@ -21,5 +21,14 @@
   "watchers": 5390,
   "html_url": "https://github.com/remzi-arpacidusseau/ostep-projects",
   "api_url": "https://api.github.com/repos/remzi-arpacidusseau/ostep-projects",
-  "fetched_at": "2025-12-30T05:16:24.660Z"
+  "fetched_at": "2025-12-30T05:16:24.660Z",
+  "contributor_locations": {
+    "madison, wi": 1,
+    "london, uk": 1,
+    "dubrovnik, croatia": 1,
+    "budapest, hungary": 1,
+    "canada": 1,
+    "unknown": 2
+  },
+  "contributor_locations_updated_at": "2026-01-04T01:57:17.793Z"
 }

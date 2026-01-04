@@ -25,5 +25,14 @@
   "watchers": 977,
   "html_url": "https://github.com/leukipp/touchkio",
   "api_url": "https://api.github.com/repos/leukipp/touchkio",
-  "fetched_at": "2025-12-30T05:15:20.155Z"
+  "fetched_at": "2025-12-30T05:15:20.155Z",
+  "contributor_locations": {
+    "unknown": 2,
+    "germany": 1,
+    "australia": 1,
+    "maribor, slovenia": 1,
+    "amsterdam, nl": 1,
+    "leeds, west yorkshire, uk": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T22:54:46.775Z"
 }

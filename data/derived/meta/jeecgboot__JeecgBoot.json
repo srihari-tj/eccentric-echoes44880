@@ -42,5 +42,15 @@
   "watchers": 44872,
   "html_url": "https://github.com/jeecgboot/JeecgBoot",
   "api_url": "https://api.github.com/repos/jeecgboot/JeecgBoot",
-  "fetched_at": "2025-12-30T05:15:02.896Z"
+  "fetched_at": "2025-12-30T05:15:02.896Z",
+  "contributor_locations": {
+    "北京": 1,
+    "unknown": 20,
+    "shanghai": 1,
+    "china": 2,
+    "朝阳区": 1,
+    "beijing": 1,
+    "山东省青岛市李沧区": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T22:04:06.696Z"
 }

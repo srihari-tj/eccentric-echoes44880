@@ -6,6 +6,22 @@
   "subscribers": 88,
   "default_branch": "main",
   "fetched_at": "2025-11-07T17:31:27.353Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:14.263Z"
+  "contributor_locations": {
+    "hangzhou": 2,
+    "québec, canada": 1,
+    "cn": 1,
+    "unknown": 10,
+    "new delhi": 1,
+    "warsaw": 1,
+    "china": 1,
+    "germany": 1,
+    "stockholm, sweden": 1,
+    "chiba": 1,
+    "espoo, finland": 1,
+    "taiwan": 1,
+    "shenzhen": 1,
+    "anywhere": 1,
+    "singapore ⇄ philippines": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T23:58:35.977Z"
 }

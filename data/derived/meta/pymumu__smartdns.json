@@ -38,5 +38,22 @@
   "watchers": 10382,
   "html_url": "https://github.com/pymumu/smartdns",
   "api_url": "https://api.github.com/repos/pymumu/smartdns",
-  "fetched_at": "2025-12-30T05:16:17.239Z"
+  "fetched_at": "2025-12-30T05:16:17.239Z",
+  "contributor_locations": {
+    "planet earth": 1,
+    "wuhan, china": 1,
+    "unknown": 24,
+    "hong kong": 1,
+    "china": 5,
+    "beijing, china": 1,
+    "somewhere on earth": 1,
+    "{aepri, ustc, hefei; hangzhou}, china": 1,
+    "中国": 1,
+    "beijing": 1,
+    "boston, ma": 1,
+    "dublin": 1,
+    "baltimore, md": 1,
+    "feiyun slope, liyue, teyvat": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T01:50:50.935Z"
 }

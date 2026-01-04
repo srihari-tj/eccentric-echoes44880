@@ -1,0 +1,32 @@
+{
+  "owner": "wezterm",
+  "repo": "wezterm/wezterm",
+  "name": "wezterm",
+  "full_name": "wezterm/wezterm",
+  "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+  "homepage": "https://wezterm.org/",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "rust",
+    "serial",
+    "serial-port",
+    "terminal",
+    "terminal-emulator",
+    "terminal-emulators"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-02-07T05:35:46Z",
+  "pushed_at": "2026-01-01T00:40:51Z",
+  "size": 309549,
+  "stars_now": 23166,
+  "forks": 1098,
+  "open_issues": 1523,
+  "subscribers": 100,
+  "watchers": 23166,
+  "html_url": "https://github.com/wezterm/wezterm",
+  "api_url": "https://api.github.com/repos/wezterm/wezterm",
+  "fetched_at": "2026-01-03T21:59:44.666Z"
+}

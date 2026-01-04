@@ -32,5 +32,18 @@
   "watchers": 16544,
   "html_url": "https://github.com/k4yt3x/video2x",
   "api_url": "https://api.github.com/repos/k4yt3x/video2x",
-  "fetched_at": "2025-12-30T05:15:08.749Z"
+  "fetched_at": "2025-12-30T05:15:08.749Z",
+  "contributor_locations": {
+    "montréal, canada": 1,
+    "toronto": 1,
+    "unknown": 14,
+    "china": 1,
+    "taiwan, r.o.c": 1,
+    "folsom, ca": 1,
+    "taichung, taiwan": 1,
+    "victoria, australia": 1,
+    "beijing,china": 1,
+    "morocco": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T22:09:20.030Z"
 }

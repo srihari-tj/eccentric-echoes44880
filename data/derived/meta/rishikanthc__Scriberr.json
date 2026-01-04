@@ -1,0 +1,30 @@
+{
+  "owner": "rishikanthc",
+  "repo": "rishikanthc/Scriberr",
+  "name": "Scriberr",
+  "full_name": "rishikanthc/Scriberr",
+  "description": "Self-hosted AI audio transcription",
+  "homepage": "https://scriberr.app",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "audio",
+    "transcript",
+    "transcription"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-10-04T19:11:50Z",
+  "pushed_at": "2026-01-01T20:47:42Z",
+  "size": 109380,
+  "stars_now": 1800,
+  "forks": 131,
+  "open_issues": 21,
+  "subscribers": 14,
+  "watchers": 1800,
+  "html_url": "https://github.com/rishikanthc/Scriberr",
+  "api_url": "https://api.github.com/repos/rishikanthc/Scriberr",
+  "fetched_at": "2026-01-03T21:59:43.465Z"
+}

@@ -23,5 +23,32 @@
   "watchers": 4146,
   "html_url": "https://github.com/jetkvm/kvm",
   "api_url": "https://api.github.com/repos/jetkvm/kvm",
-  "fetched_at": "2025-12-30T05:15:05.084Z"
+  "fetched_at": "2025-12-30T05:15:05.084Z",
+  "contributor_locations": {
+    "berlin, germany": 3,
+    "saint louis, missouri, midwest, united states of america, north america, western hemisphere, earth, sol, orion arm, milky way, local group, virgo supercluster, lanikea supercluster, universe": 1,
+    "unknown": 24,
+    "cumbria, united kingdom": 1,
+    "japan": 1,
+    "belfast": 1,
+    "san francisco, ca": 1,
+    "san antonio, tx": 1,
+    "montreal, qc, canada": 1,
+    "marburg, germany": 2,
+    "denmark": 1,
+    "tokyo": 1,
+    "iasi, românia": 1,
+    "ukraine, kyiv": 1,
+    "netherlands": 1,
+    "neuland": 1,
+    "minneapolis, mn": 1,
+    "norway": 1,
+    "sweden": 1,
+    "aarhus, denmark": 1,
+    "los angeles, ca": 1,
+    "london, united kingdom": 1,
+    "australia": 1,
+    "romania": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T22:07:07.390Z"
 }

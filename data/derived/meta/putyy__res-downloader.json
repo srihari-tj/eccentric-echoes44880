@@ -6,6 +6,11 @@
   "subscribers": 71,
   "default_branch": "master",
   "fetched_at": "2025-11-07T17:31:39.146Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:14.842Z"
+  "contributor_locations": {
+    "chongqing": 1,
+    "unknown": 1,
+    "guangzhou china": 1,
+    "wuhan,china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T01:50:43.036Z"
 }

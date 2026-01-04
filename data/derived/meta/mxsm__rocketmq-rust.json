@@ -1,0 +1,33 @@
+{
+  "owner": "mxsm",
+  "repo": "mxsm/rocketmq-rust",
+  "name": "rocketmq-rust",
+  "full_name": "mxsm/rocketmq-rust",
+  "description": "🚀Apache RocketMQ build in  Rust🦀. Faster, safer, and with lower memory usage.⭐Star if you like it!",
+  "homepage": "https://rocketmqrust.com",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "cloud-native",
+    "messaging",
+    "rocketmq",
+    "rocketmq-rust",
+    "rocketmq-rust-client",
+    "rocketmq-rust-sdk",
+    "rust"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-12-13T09:39:05Z",
+  "pushed_at": "2026-01-03T16:12:40Z",
+  "size": 50549,
+  "stars_now": 1410,
+  "forks": 211,
+  "open_issues": 75,
+  "subscribers": 76,
+  "watchers": 1410,
+  "html_url": "https://github.com/mxsm/rocketmq-rust",
+  "api_url": "https://api.github.com/repos/mxsm/rocketmq-rust",
+  "fetched_at": "2026-01-03T21:59:41.671Z"
+}

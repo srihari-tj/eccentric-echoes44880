@@ -36,5 +36,30 @@
   "watchers": 8966,
   "html_url": "https://github.com/sigoden/aichat",
   "api_url": "https://api.github.com/repos/sigoden/aichat",
-  "fetched_at": "2025-12-30T05:16:37.483Z"
+  "fetched_at": "2025-12-30T05:16:37.483Z",
+  "contributor_locations": {
+    "unknown": 12,
+    "earth": 2,
+    "bengaluru": 1,
+    "limassol, cyprus": 1,
+    "houston, tx": 1,
+    "between keyboard and chair": 1,
+    "austria": 1,
+    "zurich area, switzerland": 1,
+    "india": 1,
+    "seattle, usa": 1,
+    "vancouver, b.c., canada": 1,
+    "sweden": 1,
+    "@home": 1,
+    "somewhere on planet earth": 1,
+    "tel aviv, israel": 1,
+    "oslo": 1,
+    "seattle, wa": 1,
+    "tokyo, japan": 1,
+    "lviv, ukraine": 1,
+    "wuhan": 1,
+    "baltimore": 1,
+    "japan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T02:48:33.153Z"
 }

@@ -1,0 +1,31 @@
+{
+  "owner": "pret",
+  "repo": "pret/pokeemerald",
+  "name": "pokeemerald",
+  "full_name": "pret/pokeemerald",
+  "description": "Decompilation of Pokémon Emerald",
+  "homepage": "https://github.com/pret/pokeemerald",
+  "language": "C",
+  "license": null,
+  "topics": [
+    "c",
+    "decompilation",
+    "gameboy-advance",
+    "pokemon",
+    "reverse-engineering"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-10-05T10:09:22Z",
+  "pushed_at": "2026-01-03T19:26:04Z",
+  "size": 194855,
+  "stars_now": 2874,
+  "forks": 3675,
+  "open_issues": 60,
+  "subscribers": 83,
+  "watchers": 2874,
+  "html_url": "https://github.com/pret/pokeemerald",
+  "api_url": "https://api.github.com/repos/pret/pokeemerald",
+  "fetched_at": "2026-01-03T21:59:43.110Z"
+}

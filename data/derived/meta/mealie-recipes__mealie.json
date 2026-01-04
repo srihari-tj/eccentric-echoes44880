@@ -1,0 +1,31 @@
+{
+  "owner": "mealie-recipes",
+  "repo": "mealie-recipes/mealie",
+  "name": "mealie",
+  "full_name": "mealie-recipes/mealie",
+  "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+  "homepage": "https://docs.mealie.io",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+    "hacktoberfest",
+    "hacktoberfest2022",
+    "meal-plans",
+    "recipe-manager",
+    "self-hosted"
+  ],
+  "default_branch": "mealie-next",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-12-07T01:04:17Z",
+  "pushed_at": "2026-01-03T12:31:34Z",
+  "size": 425937,
+  "stars_now": 11008,
+  "forks": 1080,
+  "open_issues": 180,
+  "subscribers": 42,
+  "watchers": 11008,
+  "html_url": "https://github.com/mealie-recipes/mealie",
+  "api_url": "https://api.github.com/repos/mealie-recipes/mealie",
+  "fetched_at": "2026-01-03T21:59:41.299Z"
+}

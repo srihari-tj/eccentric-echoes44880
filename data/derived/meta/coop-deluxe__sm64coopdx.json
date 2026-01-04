@@ -1,0 +1,33 @@
+{
+  "owner": "coop-deluxe",
+  "repo": "coop-deluxe/sm64coopdx",
+  "name": "sm64coopdx",
+  "full_name": "coop-deluxe/sm64coopdx",
+  "description": "An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.",
+  "homepage": "https://sm64coopdx.com",
+  "language": "C",
+  "license": null,
+  "topics": [
+    "fan-project",
+    "fanproject",
+    "fork",
+    "lua",
+    "mario",
+    "sm64",
+    "sm64ex-coop"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-10-30T03:11:39Z",
+  "pushed_at": "2026-01-01T04:00:36Z",
+  "size": 266815,
+  "stars_now": 929,
+  "forks": 190,
+  "open_issues": 151,
+  "subscribers": 32,
+  "watchers": 929,
+  "html_url": "https://github.com/coop-deluxe/sm64coopdx",
+  "api_url": "https://api.github.com/repos/coop-deluxe/sm64coopdx",
+  "fetched_at": "2026-01-03T21:59:37.432Z"
+}

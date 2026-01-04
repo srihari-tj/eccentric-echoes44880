@@ -22,6 +22,17 @@
   "html_url": "https://github.com/tmux/tmux",
   "api_url": "https://api.github.com/repos/tmux/tmux",
   "fetched_at": "2025-11-10T08:32:16.516Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:15.577Z"
+  "contributor_locations": {
+    "unknown": 9,
+    "england": 1,
+    "ottery st. mary, devon, uk": 1,
+    "zurich": 1,
+    "karlsruhe, germany": 1,
+    "vancouver, british columbia, canada": 1,
+    "boulder, co": 1,
+    "toulouse, france": 1,
+    "oslo": 1,
+    "europe": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T03:49:03.507Z"
 }

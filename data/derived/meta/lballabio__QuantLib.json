@@ -1,0 +1,27 @@
+{
+  "owner": "lballabio",
+  "repo": "lballabio/QuantLib",
+  "name": "QuantLib",
+  "full_name": "lballabio/QuantLib",
+  "description": "The QuantLib C++ library",
+  "homepage": "http://quantlib.org",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "quantitative-finance"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-12-17T16:29:33Z",
+  "pushed_at": "2026-01-03T18:07:16Z",
+  "size": 84079,
+  "stars_now": 6620,
+  "forks": 2071,
+  "open_issues": 65,
+  "subscribers": 260,
+  "watchers": 6620,
+  "html_url": "https://github.com/lballabio/QuantLib",
+  "api_url": "https://api.github.com/repos/lballabio/QuantLib",
+  "fetched_at": "2026-01-03T21:59:40.903Z"
+}

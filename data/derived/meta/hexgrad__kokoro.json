@@ -6,6 +6,20 @@
   "subscribers": 48,
   "default_branch": "main",
   "fetched_at": "2025-11-07T17:31:07.817Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:13.395Z"
+  "contributor_locations": {
+    "unknown": 10,
+    "canada": 1,
+    "toronto": 1,
+    "milan, italy": 1,
+    "united states": 1,
+    "bangalore, india": 1,
+    "batumi": 1,
+    "the netherlands": 1,
+    "toronto, canada": 1,
+    "singapore": 1,
+    "brazil": 1,
+    "suzhou, china": 1,
+    "bengaluru": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T22:01:12.302Z"
 }

@@ -33,5 +33,25 @@
   "watchers": 12775,
   "html_url": "https://github.com/metersphere/metersphere",
   "api_url": "https://api.github.com/repos/metersphere/metersphere",
-  "fetched_at": "2025-12-30T05:15:34.930Z"
+  "fetched_at": "2025-12-30T05:15:34.930Z",
+  "contributor_locations": {
+    "beijing": 7,
+    "unknown": 70,
+    "hubei china": 1,
+    "shanghai": 3,
+    "beijing, china": 4,
+    "cn": 1,
+    "guangzhou": 2,
+    "chengdu, china": 2,
+    "shasnghai": 1,
+    "freedom": 1,
+    "china": 1,
+    "shanghai & hangzhou": 1,
+    "zurich": 1,
+    "auckland, new zealand": 1,
+    "lisbon": 1,
+    "3rd rock from the sun": 1,
+    "shanghai, china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-03T23:49:55.707Z"
 }
