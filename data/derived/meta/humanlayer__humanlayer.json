@@ -32,5 +32,27 @@
   "watchers": 8306,
   "html_url": "https://github.com/humanlayer/humanlayer",
   "api_url": "https://api.github.com/repos/humanlayer/humanlayer",
-  "fetched_at": "2025-12-30T05:14:57.316Z"
+  "fetched_at": "2025-12-30T05:14:57.316Z",
+  "contributor_locations": {
+    "unknown": 8,
+    "san francisco": 1,
+    "chicago, il": 2,
+    "san francisco bay area, san luis obispo": 1,
+    "san francisco, ca": 2,
+    "nyc": 1,
+    "bellevue, wa": 1,
+    "new york, ny": 1,
+    "canada": 1,
+    "seattle, wa": 1,
+    "nairobi": 1,
+    "austin, tx": 1,
+    "san luis obispo, california": 1,
+    "monterrey, mexico": 1,
+    "san francisco/new york city": 1,
+    "greater boston": 1,
+    "bengaluru": 1,
+    "in the valley": 1,
+    "tokyo, japan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T08:10:24.084Z"
 }

@@ -25,5 +25,15 @@
   "watchers": 2813,
   "html_url": "https://github.com/hufrea/byedpi",
   "api_url": "https://api.github.com/repos/hufrea/byedpi",
-  "fetched_at": "2025-12-30T05:14:56.239Z"
+  "fetched_at": "2025-12-30T05:14:56.239Z",
+  "contributor_locations": {
+    "earth": 2,
+    "unknown": 8,
+    "moscow, russia": 1,
+    "tokyo, japan": 1,
+    "russia, saint-petersburg": 1,
+    "russian federation": 1,
+    "russia, st.petersburg": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T08:10:11.601Z"
 }

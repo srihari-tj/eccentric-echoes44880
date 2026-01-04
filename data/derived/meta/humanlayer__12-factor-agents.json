@@ -33,5 +33,19 @@
   "watchers": 17351,
   "html_url": "https://github.com/humanlayer/12-factor-agents",
   "api_url": "https://api.github.com/repos/humanlayer/12-factor-agents",
-  "fetched_at": "2025-12-30T05:14:56.949Z"
+  "fetched_at": "2025-12-30T05:14:56.949Z",
+  "contributor_locations": {
+    "unknown": 6,
+    "dubai": 1,
+    "bay area": 1,
+    "tokyo, japan": 1,
+    "paris, france": 1,
+    "amsterdam, netherlands": 1,
+    "boston, ma": 1,
+    "🌉 sf / 🇳🇱 ams": 1,
+    "g2rm+5m budapest": 1,
+    "singapore": 1,
+    "chicago": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T08:10:16.605Z"
 }
