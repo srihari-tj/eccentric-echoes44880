@@ -31,5 +31,23 @@
   "watchers": 13830,
   "html_url": "https://github.com/kekingcn/kkFileView",
   "api_url": "https://api.github.com/repos/kekingcn/kkFileView",
-  "fetched_at": "2025-12-30T05:15:10.756Z"
+  "fetched_at": "2025-12-30T05:15:10.756Z",
+  "contributor_locations": {
+    "shanghai china": 3,
+    "unknown": 27,
+    "changsha, hunan, china": 1,
+    "tianjin": 1,
+    "beijing, beijing, china": 1,
+    "chengdu": 1,
+    "nanjing, china": 1,
+    "guangdong": 1,
+    "shenzhen, china": 1,
+    "重庆": 1,
+    "浙江杭州": 1,
+    "中国四川成都": 1,
+    "烟台·山东": 1,
+    "beijing, china": 1,
+    "local": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:10:00.538Z"
 }

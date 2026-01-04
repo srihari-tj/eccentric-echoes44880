@@ -37,5 +37,16 @@
   "watchers": 4460,
   "html_url": "https://github.com/karma9874/AndroRAT",
   "api_url": "https://api.github.com/repos/karma9874/AndroRAT",
-  "fetched_at": "2025-12-30T05:15:09.495Z"
+  "fetched_at": "2025-12-30T05:15:09.495Z",
+  "contributor_locations": {
+    "bangalore, india": 1,
+    "islamabad": 1,
+    "hyderabad, india": 1,
+    "bengaluru": 1,
+    "unknown": 2,
+    "iran": 1,
+    "new york city": 1,
+    "eastern eu": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:08:10.086Z"
 }

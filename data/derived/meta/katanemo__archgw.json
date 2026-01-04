@@ -39,5 +39,22 @@
   "watchers": 4712,
   "html_url": "https://github.com/katanemo/plano",
   "api_url": "https://api.github.com/repos/katanemo/plano",
-  "fetched_at": "2025-12-30T05:15:10.003Z"
+  "fetched_at": "2025-12-30T05:15:10.003Z",
+  "contributor_locations": {
+    "unknown": 5,
+    "seattle, wa": 5,
+    "austin": 1,
+    "west lafayette, indiana": 1,
+    "tokyo, japan": 1,
+    "houston": 1,
+    "sunnyvale, ca": 1,
+    "united states": 1,
+    "morocco": 1,
+    ":8332": 1,
+    "massachusetts": 1,
+    "rockville, md": 1,
+    "dallas, tx": 1,
+    "redmond": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:08:17.534Z"
 }

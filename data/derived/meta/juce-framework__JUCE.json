@@ -34,5 +34,29 @@
   "watchers": 7875,
   "html_url": "https://github.com/juce-framework/JUCE",
   "api_url": "https://api.github.com/repos/juce-framework/JUCE",
-  "fetched_at": "2025-12-30T05:15:06.982Z"
+  "fetched_at": "2025-12-30T05:15:06.982Z",
+  "contributor_locations": {
+    "united kingdom": 4,
+    "sunnyvale, ca": 1,
+    "london, uk": 4,
+    "london": 4,
+    "unknown": 15,
+    "tokyo": 1,
+    "berlin": 1,
+    "breuillet, france": 1,
+    "santa barbara, ca": 1,
+    "vienna, austria": 1,
+    "porto, portugal": 1,
+    "beijing, china": 1,
+    "japan": 2,
+    "paris, fr": 1,
+    "tokyo, jp": 1,
+    "france": 1,
+    "victoria, bc": 1,
+    "los angeles, ca": 1,
+    "bristol, uk": 1,
+    "copenhagen, dk": 1,
+    "lyon, france": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:05:36.566Z"
 }
