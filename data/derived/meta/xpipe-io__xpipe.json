@@ -38,5 +38,17 @@
   "watchers": 12198,
   "html_url": "https://github.com/xpipe-io/xpipe",
   "api_url": "https://api.github.com/repos/xpipe-io/xpipe",
-  "fetched_at": "2025-12-30T05:17:19.740Z"
+  "fetched_at": "2025-12-30T05:17:19.740Z",
+  "contributor_locations": {
+    "germany": 1,
+    "unknown": 7,
+    "france": 2,
+    "south korea": 1,
+    "china": 2,
+    "tokyo, japan": 1,
+    "cologne, germany": 1,
+    "mountain view, ca, usa": 1,
+    "mainz": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T22:02:09.198Z"
 }

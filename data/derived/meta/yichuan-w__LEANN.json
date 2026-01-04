@@ -38,5 +38,19 @@
   "watchers": 7988,
   "html_url": "https://github.com/yichuan-w/LEANN",
   "api_url": "https://api.github.com/repos/yichuan-w/LEANN",
-  "fetched_at": "2026-01-03T06:50:17.736Z"
+  "fetched_at": "2026-01-03T06:50:17.736Z",
+  "contributor_locations": {
+    "unknown": 10,
+    "china": 1,
+    "san francisco, california": 1,
+    "new york metropolitan area": 1,
+    "paris": 1,
+    "auckland": 1,
+    "cupertino": 1,
+    "germany, berlin": 1,
+    "los angeles, ca": 1,
+    "tempe, az, us": 1,
+    "shijiazhuang, hebei, china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T22:05:16.813Z"
 }

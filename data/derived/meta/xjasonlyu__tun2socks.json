@@ -40,5 +40,17 @@
   "watchers": 4765,
   "html_url": "https://github.com/xjasonlyu/tun2socks",
   "api_url": "https://api.github.com/repos/xjasonlyu/tun2socks",
-  "fetched_at": "2025-12-30T05:17:18.359Z"
+  "fetched_at": "2025-12-30T05:17:18.359Z",
+  "contributor_locations": {
+    "greater toronto area, ca": 1,
+    "unknown": 7,
+    "beijing": 1,
+    "chengdu, china": 1,
+    "japan": 1,
+    "hangzhou, china": 2,
+    "brisbane": 1,
+    "somewhere on planet earth": 1,
+    "undisclosed location": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T22:00:49.871Z"
 }

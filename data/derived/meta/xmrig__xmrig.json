@@ -31,5 +31,31 @@
   "watchers": 9721,
   "html_url": "https://github.com/xmrig/xmrig",
   "api_url": "https://api.github.com/repos/xmrig/xmrig",
-  "fetched_at": "2025-12-30T05:17:18.732Z"
+  "fetched_at": "2025-12-30T05:17:18.732Z",
+  "contributor_locations": {
+    "unknown": 34,
+    "cañon city, co": 1,
+    "beijing, china": 1,
+    "edmonton": 1,
+    "iowa": 1,
+    "canada": 1,
+    "0x7f000001": 1,
+    "moldova": 1,
+    "hamburg, germany": 1,
+    "nicosia,cyprus": 1,
+    "tønsberg, norway": 1,
+    "/dev/null": 1,
+    "not china": 1,
+    "united kingdom": 1,
+    "zurich, switzerland": 1,
+    "salt lake city, ut": 1,
+    "europe": 1,
+    "wuhan, china": 1,
+    "italy": 1,
+    "seattle": 1,
+    "tokyo, japan": 1,
+    "a world gone mad": 1,
+    "taipei city, taiwan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T22:01:04.644Z"
 }
