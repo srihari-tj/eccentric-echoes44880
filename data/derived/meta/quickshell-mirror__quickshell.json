@@ -42,5 +42,20 @@
   "watchers": 1715,
   "html_url": "https://github.com/quickshell-mirror/quickshell",
   "api_url": "https://api.github.com/repos/quickshell-mirror/quickshell",
-  "fetched_at": "2025-12-30T05:16:19.383Z"
+  "fetched_at": "2025-12-30T05:16:19.383Z",
+  "contributor_locations": {
+    "united states": 1,
+    "cleveland, oh": 1,
+    "unknown": 7,
+    "sydney": 1,
+    "moscow, russia": 1,
+    "valencia, spain": 1,
+    "miami, fl": 1,
+    "kaiserslautern": 1,
+    "louisville, kentucky": 1,
+    "lausanne, switzerland": 1,
+    "0.0.0.0": 1,
+    "denmark": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T18:59:38.190Z"
 }

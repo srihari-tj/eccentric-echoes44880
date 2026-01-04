@@ -1,0 +1,31 @@
+{
+  "owner": "OpenTTD",
+  "repo": "OpenTTD/OpenTTD",
+  "name": "OpenTTD",
+  "full_name": "OpenTTD/OpenTTD",
+  "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+  "homepage": "https://www.openttd.org/",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "game",
+    "isometric",
+    "openttd",
+    "sandbox",
+    "simulation"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-04-06T18:06:22Z",
+  "pushed_at": "2026-01-04T17:55:00Z",
+  "size": 650259,
+  "stars_now": 7432,
+  "forks": 1075,
+  "open_issues": 338,
+  "subscribers": 117,
+  "watchers": 7432,
+  "html_url": "https://github.com/OpenTTD/OpenTTD",
+  "api_url": "https://api.github.com/repos/OpenTTD/OpenTTD",
+  "fetched_at": "2026-01-04T18:44:44.845Z"
+}

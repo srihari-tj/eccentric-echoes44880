@@ -1,0 +1,30 @@
+{
+  "owner": "prawnpdf",
+  "repo": "prawnpdf/prawn",
+  "name": "prawn",
+  "full_name": "prawnpdf/prawn",
+  "description": "Fast, Nimble PDF Writer for Ruby",
+  "homepage": "https://prawnpdf.org",
+  "language": "Ruby",
+  "license": "NOASSERTION",
+  "topics": [
+    "pdf",
+    "pdf-generator",
+    "prawn",
+    "ruby"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2008-04-04T22:37:39Z",
+  "pushed_at": "2025-05-02T06:47:10Z",
+  "size": 44277,
+  "stars_now": 4785,
+  "forks": 697,
+  "open_issues": 97,
+  "subscribers": 88,
+  "watchers": 4785,
+  "html_url": "https://github.com/prawnpdf/prawn",
+  "api_url": "https://api.github.com/repos/prawnpdf/prawn",
+  "fetched_at": "2026-01-04T18:44:51.133Z"
+}

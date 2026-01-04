@@ -24,5 +24,24 @@
   "watchers": 19017,
   "html_url": "https://github.com/pgvector/pgvector",
   "api_url": "https://api.github.com/repos/pgvector/pgvector",
-  "fetched_at": "2025-12-30T05:16:09.332Z"
+  "fetched_at": "2025-12-30T05:16:09.332Z",
+  "contributor_locations": {
+    "san francisco, ca": 1,
+    "unknown": 3,
+    "new york": 2,
+    "the cloud": 1,
+    "nuremberg, germany": 1,
+    "athens, greece": 1,
+    "chengdu": 1,
+    "台北市，台灣": 1,
+    "los angeles, ca": 1,
+    "armenia": 1,
+    "st. louis": 1,
+    "georgia": 1,
+    "sf bay area": 1,
+    "poland, warsaw": 1,
+    "toronto": 1,
+    "china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T18:46:01.729Z"
 }

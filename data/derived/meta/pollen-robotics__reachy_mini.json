@@ -21,5 +21,20 @@
   "watchers": 639,
   "html_url": "https://github.com/pollen-robotics/reachy_mini",
   "api_url": "https://api.github.com/repos/pollen-robotics/reachy_mini",
-  "fetched_at": "2025-12-30T05:16:11.868Z"
+  "fetched_at": "2025-12-30T05:16:11.868Z",
+  "contributor_locations": {
+    "bordeaux": 3,
+    "prague, cz": 1,
+    "unknown": 9,
+    "zurich, ch": 1,
+    "bern, switzerland": 1,
+    "france": 3,
+    "france, metz": 1,
+    "amsterdam": 1,
+    "paris": 1,
+    "new york": 1,
+    "bordeaux, france": 1,
+    "tokyo, japan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T18:51:10.305Z"
 }

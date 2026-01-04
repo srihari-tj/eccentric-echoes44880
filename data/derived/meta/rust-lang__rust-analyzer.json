@@ -1,0 +1,29 @@
+{
+  "owner": "rust-lang",
+  "repo": "rust-lang/rust-analyzer",
+  "name": "rust-analyzer",
+  "full_name": "rust-lang/rust-analyzer",
+  "description": "A Rust compiler front-end for IDEs",
+  "homepage": "https://rust-analyzer.github.io/",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "hacktoberfest",
+    "lsp-server",
+    "rust"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-12-21T19:24:42Z",
+  "pushed_at": "2026-01-04T18:36:18Z",
+  "size": 104272,
+  "stars_now": 15892,
+  "forks": 1907,
+  "open_issues": 1927,
+  "subscribers": 87,
+  "watchers": 15892,
+  "html_url": "https://github.com/rust-lang/rust-analyzer",
+  "api_url": "https://api.github.com/repos/rust-lang/rust-analyzer",
+  "fetched_at": "2026-01-04T18:44:51.634Z"
+}

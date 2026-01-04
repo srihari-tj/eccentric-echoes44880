@@ -1,0 +1,32 @@
+{
+  "owner": "opensourcepos",
+  "repo": "opensourcepos/opensourcepos",
+  "name": "opensourcepos",
+  "full_name": "opensourcepos/opensourcepos",
+  "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface.",
+  "homepage": "http://www.opensourcepos.org",
+  "language": "PHP",
+  "license": "NOASSERTION",
+  "topics": [
+    "bootstrap3",
+    "codeigniter3",
+    "inventory-management",
+    "php",
+    "point-of-sale",
+    "reporting"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-11-26T18:09:05Z",
+  "pushed_at": "2025-12-23T08:25:32Z",
+  "size": 57513,
+  "stars_now": 3994,
+  "forks": 2431,
+  "open_issues": 325,
+  "subscribers": 259,
+  "watchers": 3994,
+  "html_url": "https://github.com/opensourcepos/opensourcepos",
+  "api_url": "https://api.github.com/repos/opensourcepos/opensourcepos",
+  "fetched_at": "2026-01-04T18:44:50.193Z"
+}

@@ -21,5 +21,16 @@
   "watchers": 20316,
   "html_url": "https://github.com/resemble-ai/chatterbox",
   "api_url": "https://api.github.com/repos/resemble-ai/chatterbox",
-  "fetched_at": "2026-01-03T06:50:07.586Z"
+  "fetched_at": "2026-01-03T06:50:07.586Z",
+  "contributor_locations": {
+    "bengaluru": 1,
+    "san francisco": 1,
+    "barcelona": 1,
+    "toronto": 1,
+    "medellin-colombia": 1,
+    "unknown": 5,
+    "poland": 1,
+    "san francisco, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T19:09:08.497Z"
 }

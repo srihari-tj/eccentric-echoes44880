@@ -32,5 +32,18 @@
   "watchers": 4415,
   "html_url": "https://github.com/psviderski/uncloud",
   "api_url": "https://api.github.com/repos/psviderski/uncloud",
-  "fetched_at": "2025-12-30T05:16:15.781Z"
+  "fetched_at": "2025-12-30T05:16:15.781Z",
+  "contributor_locations": {
+    "australia": 1,
+    "vienna, austria": 1,
+    "san diego, california": 1,
+    "london": 1,
+    "amsterdam nl": 1,
+    "paris, france": 1,
+    "porto": 1,
+    "germany": 1,
+    "unknown": 3,
+    "buenos aires, argentina": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T18:55:34.674Z"
 }

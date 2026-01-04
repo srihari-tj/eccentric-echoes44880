@@ -1,0 +1,33 @@
+{
+  "owner": "godotengine",
+  "repo": "godotengine/godot",
+  "name": "godot",
+  "full_name": "godotengine/godot",
+  "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+  "homepage": "https://godotengine.org",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "godot",
+    "godotengine",
+    "multi-platform",
+    "open-source"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-01-04T16:05:36Z",
+  "pushed_at": "2026-01-04T14:03:00Z",
+  "size": 1708054,
+  "stars_now": 104781,
+  "forks": 23951,
+  "open_issues": 17146,
+  "subscribers": 1497,
+  "watchers": 104781,
+  "html_url": "https://github.com/godotengine/godot",
+  "api_url": "https://api.github.com/repos/godotengine/godot",
+  "fetched_at": "2026-01-04T18:44:47.023Z"
+}

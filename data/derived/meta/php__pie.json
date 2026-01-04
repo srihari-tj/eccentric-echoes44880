@@ -21,5 +21,32 @@
   "watchers": 1660,
   "html_url": "https://github.com/php/pie",
   "api_url": "https://api.github.com/repos/php/pie",
-  "fetched_at": "2025-12-30T05:16:09.689Z"
+  "fetched_at": "2025-12-30T05:16:09.689Z",
+  "contributor_locations": {
+    "east yorkshire, uk": 1,
+    "unknown": 2,
+    "greece": 1,
+    "north rhine-westphalia, germany": 1,
+    "lyon, france": 1,
+    "radom, polska": 1,
+    "ferrara, italy": 1,
+    "europe": 1,
+    "são carlos, são paulo, brazil": 1,
+    "lyon": 1,
+    "leiden": 1,
+    "belgium": 1,
+    "earth": 1,
+    "poland": 1,
+    "paris, france": 1,
+    "istanbul": 1,
+    "chongqing": 1,
+    "luxembourg": 1,
+    "warsaw, poland": 1,
+    "china": 1,
+    "brazil": 1,
+    "barcelona, spain": 1,
+    "nelson, british columbia": 1,
+    "none": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T18:46:08.043Z"
 }

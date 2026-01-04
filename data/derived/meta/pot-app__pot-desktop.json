@@ -33,5 +33,30 @@
   "watchers": 16476,
   "html_url": "https://github.com/pot-app/pot-desktop",
   "api_url": "https://api.github.com/repos/pot-app/pot-desktop",
-  "fetched_at": "2025-12-30T05:16:12.604Z"
+  "fetched_at": "2025-12-30T05:16:12.604Z",
+  "contributor_locations": {
+    "china": 6,
+    "unknown": 21,
+    "hangzhou": 1,
+    "❄️": 1,
+    "some lake": 1,
+    "北京": 1,
+    "europe": 1,
+    "harbin": 1,
+    "hanghzou": 1,
+    "vicenza-italy": 1,
+    "taiwan, r.o.c": 1,
+    "loading information...": 1,
+    "caen, france": 1,
+    "yoshkar-ola, russia": 1,
+    "seoul, south korea": 1,
+    "republic of korea": 1,
+    "tokyo, japan": 1,
+    "beijing": 2,
+    "bay area": 1,
+    "tianjin agricultural college, no. 22, jinjing road, zhangjiawo town, xiqing district, tianjin, china": 1,
+    "behbahan, iran": 1,
+    "shanghai": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T18:51:22.197Z"
 }
