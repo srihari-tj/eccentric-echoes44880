@@ -21,5 +21,26 @@
   "watchers": 11264,
   "html_url": "https://github.com/modelscope/DiffSynth-Studio",
   "api_url": "https://api.github.com/repos/modelscope/DiffSynth-Studio",
-  "fetched_at": "2025-12-30T05:15:44.142Z"
+  "fetched_at": "2025-12-30T05:15:44.142Z",
+  "contributor_locations": {
+    "unknown": 25,
+    "bellevue, wa, united states": 1,
+    "beijing": 1,
+    "turkey, mersin": 1,
+    "wuhan, china": 1,
+    "shenzhen": 1,
+    "hangzhou, china": 1,
+    "hangzhou": 1,
+    "shanghai, china": 2,
+    "china": 1,
+    "shanghai": 1,
+    "beijing, china": 1,
+    "hanoi, vietnam": 1,
+    "hsinchu, taiwan": 1,
+    "tokyo, japan": 1,
+    "new york, ny": 1,
+    "baltimore, md": 1,
+    "israel": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:22:25.903Z"
 }

@@ -21,5 +21,10 @@
   "watchers": 952,
   "html_url": "https://github.com/mnh-jansson/open-battery-information",
   "api_url": "https://api.github.com/repos/mnh-jansson/open-battery-information",
-  "fetched_at": "2025-12-30T05:15:41.871Z"
+  "fetched_at": "2025-12-30T05:15:41.871Z",
+  "contributor_locations": {
+    "unknown": 4,
+    "finland": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:21:32.202Z"
 }

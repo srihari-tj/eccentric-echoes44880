@@ -21,5 +21,29 @@
   "watchers": 9043,
   "html_url": "https://github.com/mit-pdos/xv6-riscv",
   "api_url": "https://api.github.com/repos/mit-pdos/xv6-riscv",
-  "fetched_at": "2025-12-30T05:15:40.816Z"
+  "fetched_at": "2025-12-30T05:15:40.816Z",
+  "contributor_locations": {
+    "unknown": 24,
+    "cambridge, ma": 1,
+    "japan": 2,
+    "san francisco, ca": 2,
+    "beijing, china": 2,
+    "cairo, egypt": 1,
+    "niigata japan": 1,
+    "new zealand": 1,
+    "tehran": 1,
+    "paris, france": 1,
+    "tokyo": 2,
+    "madison, wi": 1,
+    "paphos, cyprus": 1,
+    "seattle, wa": 2,
+    "hangzhou,china": 1,
+    "bloomington, indiana": 1,
+    "antarctica": 1,
+    "taiwan": 1,
+    "princeton, nj": 1,
+    "can": 1,
+    "germany": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:19:52.147Z"
 }
