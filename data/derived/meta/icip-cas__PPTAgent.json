@@ -30,5 +30,13 @@
   "watchers": 2976,
   "html_url": "https://github.com/icip-cas/PPTAgent",
   "api_url": "https://api.github.com/repos/icip-cas/PPTAgent",
-  "fetched_at": "2025-12-30T05:14:58.790Z"
+  "fetched_at": "2025-12-30T05:14:58.790Z",
+  "contributor_locations": {
+    "china": 1,
+    "unknown": 7,
+    "hangzhou, china": 1,
+    "sichuan, china": 1,
+    "hong kong": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T08:13:49.292Z"
 }

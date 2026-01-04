@@ -35,5 +35,16 @@
   "watchers": 9751,
   "html_url": "https://github.com/iamgio/quarkdown",
   "api_url": "https://api.github.com/repos/iamgio/quarkdown",
-  "fetched_at": "2025-12-30T05:14:58.011Z"
+  "fetched_at": "2025-12-30T05:14:58.011Z",
+  "contributor_locations": {
+    "san francisco": 1,
+    "unknown": 6,
+    "i̇zmir, türkiye": 1,
+    "venice, italy": 1,
+    "turin, italy": 1,
+    "tokyo, japan": 1,
+    "japan": 1,
+    "france": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T08:12:21.352Z"
 }

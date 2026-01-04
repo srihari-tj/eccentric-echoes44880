@@ -21,5 +21,18 @@
   "watchers": 440,
   "html_url": "https://github.com/imputnet/helium-linux",
   "api_url": "https://api.github.com/repos/imputnet/helium-linux",
-  "fetched_at": "2025-12-30T05:15:00.237Z"
+  "fetched_at": "2025-12-30T05:15:00.237Z",
+  "contributor_locations": {
+    "germany": 2,
+    "unknown": 12,
+    "lausanne - ch": 1,
+    "interstellar": 1,
+    "italy": 1,
+    "earth": 1,
+    "canary islands": 1,
+    "candia": 1,
+    "united states": 1,
+    "helsinki": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T08:18:12.553Z"
 }
