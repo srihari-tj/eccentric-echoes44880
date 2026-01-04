@@ -21,5 +21,18 @@
   "watchers": 4481,
   "html_url": "https://github.com/opa334/Dopamine",
   "api_url": "https://api.github.com/repos/opa334/Dopamine",
-  "fetched_at": "2025-12-30T05:15:58.608Z"
+  "fetched_at": "2025-12-30T05:15:58.608Z",
+  "contributor_locations": {
+    "unknown": 18,
+    "united states": 1,
+    "spain": 1,
+    "bangkok": 1,
+    "netherlands": 1,
+    "california": 1,
+    "taiwan": 1,
+    "earth": 1,
+    "italy": 1,
+    "localhost": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T11:19:49.307Z"
 }

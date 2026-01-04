@@ -42,5 +42,16 @@
   "watchers": 3467,
   "html_url": "https://github.com/nkaz001/hftbacktest",
   "api_url": "https://api.github.com/repos/nkaz001/hftbacktest",
-  "fetched_at": "2025-12-30T05:15:55.117Z"
+  "fetched_at": "2025-12-30T05:15:55.117Z",
+  "contributor_locations": {
+    "unknown": 15,
+    "seoul, korea": 1,
+    "edinburgh": 1,
+    "glasgow": 1,
+    "south korea": 1,
+    "delft, netherlands": 1,
+    "israel": 1,
+    "zurich , switzerland": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T11:12:43.014Z"
 }

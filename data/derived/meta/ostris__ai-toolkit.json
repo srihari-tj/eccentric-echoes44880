@@ -21,5 +21,16 @@
   "watchers": 8651,
   "html_url": "https://github.com/ostris/ai-toolkit",
   "api_url": "https://api.github.com/repos/ostris/ai-toolkit",
-  "fetched_at": "2025-12-30T05:16:06.120Z"
+  "fetched_at": "2025-12-30T05:16:06.120Z",
+  "contributor_locations": {
+    "littleton, co": 1,
+    "unknown": 4,
+    "luxembourg": 1,
+    "spain": 1,
+    "localhost": 1,
+    "japan": 1,
+    "united kingdom": 1,
+    "china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T11:25:08.433Z"
 }

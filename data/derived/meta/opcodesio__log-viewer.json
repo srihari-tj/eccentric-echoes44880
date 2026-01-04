@@ -29,5 +29,28 @@
   "watchers": 4190,
   "html_url": "https://github.com/opcodesio/log-viewer",
   "api_url": "https://api.github.com/repos/opcodesio/log-viewer",
-  "fetched_at": "2025-12-30T05:15:58.954Z"
+  "fetched_at": "2025-12-30T05:15:58.954Z",
+  "contributor_locations": {
+    "vilnius, lithuania": 1,
+    "br santana de parnaíba": 1,
+    "unknown": 14,
+    "the netherlands": 1,
+    "ukraine": 1,
+    "haarlem, the netherlands": 1,
+    "dar es salaam, tanzania": 1,
+    "roeselare, belgium": 1,
+    "norway": 1,
+    "chuncheon, korea": 1,
+    "sidoarjo, east java, indonesia": 1,
+    "russian federation": 1,
+    "ho chi minh, vietnam": 1,
+    "belgium, ghent": 1,
+    "united states": 1,
+    "pakistan": 1,
+    "paris, france": 1,
+    "gurnee, il": 1,
+    "istanbul, turkey": 1,
+    "tehran, iran": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T11:19:58.599Z"
 }
