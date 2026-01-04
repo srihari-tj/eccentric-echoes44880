@@ -28,5 +28,10 @@
   "watchers": 7775,
   "html_url": "https://github.com/zhanghai/MaterialFiles",
   "api_url": "https://api.github.com/repos/zhanghai/MaterialFiles",
-  "fetched_at": "2025-12-30T05:17:24.992Z"
+  "fetched_at": "2025-12-30T05:17:24.992Z",
+  "contributor_locations": {
+    "san jose, ca": 1,
+    "taiwan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T22:08:27.079Z"
 }

@@ -21,5 +21,25 @@
   "watchers": 1471,
   "html_url": "https://github.com/zeldaret/tp",
   "api_url": "https://api.github.com/repos/zeldaret/tp",
-  "fetched_at": "2025-12-30T05:17:24.293Z"
+  "fetched_at": "2025-12-30T05:17:24.293Z",
+  "contributor_locations": {
+    "washington, usa": 1,
+    "unknown": 43,
+    "united states": 3,
+    "tangent space": 1,
+    "nyc": 1,
+    "göttingen, germany": 1,
+    "québec, canada": 1,
+    "boston, ma": 1,
+    "quebec, canada": 1,
+    "cedar rapids, ia": 1,
+    "malmö": 1,
+    "dordrecht": 1,
+    "brisbane, queensland, australia": 1,
+    "cleveland": 1,
+    "y o u g o": 1,
+    "uppsala, sweden": 1,
+    "palo alto": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T22:07:40.726Z"
 }
