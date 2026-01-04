@@ -25,5 +25,20 @@
   "watchers": 15467,
   "html_url": "https://github.com/stan-smith/FossFLOW",
   "api_url": "https://api.github.com/repos/stan-smith/FossFLOW",
-  "fetched_at": "2025-12-30T05:16:44.252Z"
+  "fetched_at": "2025-12-30T05:16:44.252Z",
+  "contributor_locations": {
+    "unknown": 11,
+    "ci": 1,
+    "bangalore, india": 1,
+    "bangalore,india": 1,
+    "al wakrah, qatar": 1,
+    "bangkok, thailand": 1,
+    "berlin": 1,
+    "london": 1,
+    "gdansk": 1,
+    "monaco": 1,
+    "italy": 1,
+    "chennai": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:05:53.355Z"
 }

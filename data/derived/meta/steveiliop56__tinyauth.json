@@ -34,5 +34,19 @@
   "watchers": 6591,
   "html_url": "https://github.com/steveiliop56/tinyauth",
   "api_url": "https://api.github.com/repos/steveiliop56/tinyauth",
-  "fetched_at": "2025-12-30T05:16:45.243Z"
+  "fetched_at": "2025-12-30T05:16:45.243Z",
+  "contributor_locations": {
+    "athens/greece": 1,
+    "unknown": 9,
+    "tokyo": 1,
+    "munich": 1,
+    "detroit, mi": 1,
+    "lithuania": 1,
+    "estonia": 1,
+    "ottawa, on, ca": 1,
+    "new zealand": 1,
+    "pittsburgh, pa, u.s.a.": 1,
+    "united kingdom": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:08:03.929Z"
 }
