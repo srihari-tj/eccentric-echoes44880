@@ -37,5 +37,22 @@
   "watchers": 22626,
   "html_url": "https://github.com/tw93/Mole",
   "api_url": "https://api.github.com/repos/tw93/Mole",
-  "fetched_at": "2025-12-30T05:17:02.212Z"
+  "fetched_at": "2025-12-30T05:17:02.212Z",
+  "contributor_locations": {
+    "hangzhou, china": 1,
+    "new york": 1,
+    "unknown": 16,
+    "shanghai": 1,
+    "gothenburg, sweden": 1,
+    "leiria": 1,
+    "paihia, new zealand": 1,
+    "herta space station, world": 1,
+    "morocco": 1,
+    "germany": 1,
+    "taiwan - tainan": 1,
+    "+233": 1,
+    "singapore": 1,
+    "dnipro, ukraine": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:08:46.574Z"
 }

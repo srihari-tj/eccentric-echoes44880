@@ -24,5 +24,16 @@
   "watchers": 13733,
   "html_url": "https://github.com/vosen/ZLUDA",
   "api_url": "https://api.github.com/repos/vosen/ZLUDA",
-  "fetched_at": "2025-12-30T05:17:13.021Z"
+  "fetched_at": "2025-12-30T05:17:13.021Z",
+  "contributor_locations": {
+    "unknown": 7,
+    "netherlands": 1,
+    "taiwan": 1,
+    "warsaw, poland": 1,
+    "köln": 1,
+    "hannover, germany": 1,
+    "hong kong": 1,
+    "nagano, japan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:54:20.166Z"
 }

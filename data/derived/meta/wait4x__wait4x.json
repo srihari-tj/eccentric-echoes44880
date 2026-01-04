@@ -39,5 +39,16 @@
   "watchers": 1281,
   "html_url": "https://github.com/wait4x/wait4x",
   "api_url": "https://api.github.com/repos/wait4x/wait4x",
-  "fetched_at": "2025-12-30T05:17:13.671Z"
+  "fetched_at": "2025-12-30T05:17:13.671Z",
+  "contributor_locations": {
+    "netherlands": 2,
+    "unknown": 4,
+    "united kingdom": 1,
+    "new york, ny": 1,
+    "haifa": 1,
+    "helsinki": 1,
+    "stuttgart, germny": 1,
+    "/dev/null": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:54:28.645Z"
 }

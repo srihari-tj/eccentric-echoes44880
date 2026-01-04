@@ -42,5 +42,30 @@
   "watchers": 23855,
   "html_url": "https://github.com/wshobson/agents",
   "api_url": "https://api.github.com/repos/wshobson/agents",
-  "fetched_at": "2025-12-30T05:17:16.927Z"
+  "fetched_at": "2025-12-30T05:17:16.927Z",
+  "contributor_locations": {
+    "nc, usa": 1,
+    "los angeles": 1,
+    "new zealand": 1,
+    "bergen, norway": 1,
+    "unknown": 11,
+    "schrödinger’s desk": 1,
+    "remote - utc-4": 1,
+    "atx": 1,
+    "china xian": 1,
+    "seattle, wa": 1,
+    "manchester, uk": 1,
+    "austria, salzburg": 1,
+    "san francisco, ca": 1,
+    "cyprus": 1,
+    "scottsdale, az": 1,
+    "manila, philippines": 1,
+    "hamburg, germany": 1,
+    "amsterdam": 1,
+    "earth": 1,
+    "guang zhou": 1,
+    "tokyo": 1,
+    "seoul, south korea": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:58:58.997Z"
 }

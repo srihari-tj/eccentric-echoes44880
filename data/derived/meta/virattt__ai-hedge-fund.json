@@ -21,5 +21,30 @@
   "watchers": 44260,
   "html_url": "https://github.com/virattt/ai-hedge-fund",
   "api_url": "https://api.github.com/repos/virattt/ai-hedge-fund",
-  "fetched_at": "2025-12-30T05:17:11.610Z"
+  "fetched_at": "2025-12-30T05:17:11.610Z",
+  "contributor_locations": {
+    "new york, ny": 1,
+    "unknown": 10,
+    "united states": 2,
+    "france": 1,
+    "california, united states": 1,
+    "india, hyderabad": 1,
+    "copenhagen": 1,
+    "california": 2,
+    "tainan, taiwan": 1,
+    "españa, madrid, ibiza": 1,
+    "stockholm, sweden": 1,
+    "amsterdam": 1,
+    "gurgaon, ncr, india": 1,
+    "mumbai": 1,
+    "atl": 1,
+    "thessaloniki, greece": 1,
+    "san francisco, ca": 1,
+    "amsterdam, the netherlands": 1,
+    "oslo, norway": 1,
+    "india": 1,
+    "manipal": 1,
+    "perth, australia": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:53:49.036Z"
 }

@@ -42,5 +42,19 @@
   "watchers": 9489,
   "html_url": "https://github.com/thedotmack/claude-mem",
   "api_url": "https://api.github.com/repos/thedotmack/claude-mem",
-  "fetched_at": "2025-12-30T05:16:55.011Z"
+  "fetched_at": "2025-12-30T05:16:55.011Z",
+  "contributor_locations": {
+    "unknown": 6,
+    "seattle": 1,
+    "shenzhen, guangdong": 1,
+    "new york, ny": 1,
+    "dallas, tx": 1,
+    "oldenburg, germany": 1,
+    "atlanta, ga": 1,
+    "leipzig, germany": 1,
+    "louisiana": 1,
+    "washington, d.c.": 1,
+    "united states": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:56:37.108Z"
 }

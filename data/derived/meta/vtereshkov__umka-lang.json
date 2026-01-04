@@ -34,5 +34,23 @@
   "watchers": 1916,
   "html_url": "https://github.com/vtereshkov/umka-lang",
   "api_url": "https://api.github.com/repos/vtereshkov/umka-lang",
-  "fetched_at": "2025-12-30T05:17:13.325Z"
+  "fetched_at": "2025-12-30T05:17:13.325Z",
+  "contributor_locations": {
+    "yerevan, armenia": 1,
+    "unknown": 5,
+    "czech republic": 1,
+    "switzerland": 1,
+    "dominican republic": 1,
+    "turkiye": 1,
+    "new york": 1,
+    "pwd": 1,
+    "gdynia, pl": 1,
+    "perth, australia": 1,
+    "faroe islands": 1,
+    "saint-petersburg, russia": 1,
+    "belgrade, serbia": 1,
+    "novosibirsk": 1,
+    "moscow, russia": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:54:25.103Z"
 }

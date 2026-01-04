@@ -31,5 +31,29 @@
   "watchers": 1859,
   "html_url": "https://github.com/vllm-project/vllm-omni",
   "api_url": "https://api.github.com/repos/vllm-project/vllm-omni",
-  "fetched_at": "2025-12-30T05:17:12.347Z"
+  "fetched_at": "2025-12-30T05:17:12.347Z",
+  "contributor_locations": {
+    "hong kong": 7,
+    "shanghai": 1,
+    "hong kong, china": 1,
+    "unknown": 15,
+    "beijing, china": 3,
+    "shenzhen, china": 2,
+    "china hangzhou": 1,
+    "singapore": 3,
+    "guangdong, china": 1,
+    "shanghai, china": 2,
+    "durham, nc": 1,
+    "hong kong s.a.r.": 1,
+    "hangzhou": 1,
+    "bolton, vermont usa": 1,
+    "gargantua": 1,
+    "seoul korea": 1,
+    "hangzhou, china": 1,
+    "nanjing, china": 1,
+    "xi'an, china": 1,
+    "bengaluru": 1,
+    "australia": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:54:17.445Z"
 }

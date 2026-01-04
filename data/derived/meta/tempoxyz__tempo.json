@@ -21,5 +21,32 @@
   "watchers": 606,
   "html_url": "https://github.com/tempoxyz/tempo",
   "api_url": "https://api.github.com/repos/tempoxyz/tempo",
-  "fetched_at": "2025-12-30T05:16:51.154Z"
+  "fetched_at": "2025-12-30T05:16:51.154Z",
+  "contributor_locations": {
+    "unknown": 22,
+    "amsterdam": 1,
+    "dubai, united arab emirates": 1,
+    "berlin, germany": 1,
+    "london, uk": 1,
+    "the ether": 1,
+    "seattle, wa": 1,
+    "copenhagen": 1,
+    "/dev/null": 1,
+    "prague, cz": 1,
+    "san francisco, ca": 1,
+    "melbourne, australia": 1,
+    "internet": 1,
+    "sremska mitrovica, serbia": 1,
+    "lisbon": 1,
+    "thessaloniki, greece": 1,
+    "pierre.eth": 1,
+    "lausanne, switzerland": 1,
+    "singapore": 2,
+    "sf": 1,
+    "sunnyvale, ca": 1,
+    "poland": 1,
+    "california": 1,
+    "united states": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:50:09.498Z"
 }

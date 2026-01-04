@@ -30,5 +30,20 @@
   "watchers": 15821,
   "html_url": "https://github.com/wavetermdev/waveterm",
   "api_url": "https://api.github.com/repos/wavetermdev/waveterm",
-  "fetched_at": "2025-12-30T05:17:14.424Z"
+  "fetched_at": "2025-12-30T05:17:14.424Z",
+  "contributor_locations": {
+    "san francisco": 1,
+    "unknown": 17,
+    "philippines": 1,
+    "austin, tx": 1,
+    "sweden, halmstad": 1,
+    "bengaluru": 1,
+    "seattle": 1,
+    "hk": 1,
+    "gb": 1,
+    "tokyo, japan": 1,
+    "greensboro, nc": 1,
+    "singapore": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:54:43.064Z"
 }

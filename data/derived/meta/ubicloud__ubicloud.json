@@ -34,5 +34,21 @@
   "watchers": 11634,
   "html_url": "https://github.com/ubicloud/ubicloud",
   "api_url": "https://api.github.com/repos/ubicloud/ubicloud",
-  "fetched_at": "2025-12-30T05:17:04.116Z"
+  "fetched_at": "2025-12-30T05:17:04.116Z",
+  "contributor_locations": {
+    "sacramento, california, usa": 1,
+    "i̇stanbul": 1,
+    "unknown": 13,
+    "netherlands": 1,
+    "munich, germany": 1,
+    "vancouver, bc": 1,
+    "ankara": 1,
+    "amsterdam, the netherlands": 1,
+    "iowa city, ia": 1,
+    "bangalore, india": 1,
+    "geneva, switzerland": 1,
+    "tokyo, japan": 1,
+    "japan": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:10:34.304Z"
 }

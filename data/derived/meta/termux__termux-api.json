@@ -24,5 +24,31 @@
   "watchers": 3291,
   "html_url": "https://github.com/termux/termux-api",
   "api_url": "https://api.github.com/repos/termux/termux-api",
-  "fetched_at": "2025-12-30T05:16:53.173Z"
+  "fetched_at": "2025-12-30T05:16:53.173Z",
+  "contributor_locations": {
+    "stockholm, sweden": 1,
+    "unknown": 26,
+    "stockholm": 1,
+    "italy": 2,
+    "england": 1,
+    "españa": 1,
+    "hong kong china": 1,
+    "basel, switzerland": 1,
+    "seattle, wa": 1,
+    "toronto, canada": 1,
+    "berlin, germany": 1,
+    "asheville": 1,
+    "russian federation": 1,
+    "beijing, china": 1,
+    "tanzania": 1,
+    "rio de janeiro, brazil": 1,
+    "san francisco, ca": 1,
+    "caraguatatuba, brazil": 1,
+    "idaho falls, idaho": 1,
+    "redding, ca": 1,
+    "boise, id": 1,
+    "japan": 1,
+    "germany": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:53:10.342Z"
 }

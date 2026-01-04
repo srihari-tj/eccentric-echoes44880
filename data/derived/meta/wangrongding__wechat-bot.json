@@ -27,5 +27,22 @@
   "watchers": 9374,
   "html_url": "https://github.com/wangrongding/wechat-bot",
   "api_url": "https://api.github.com/repos/wangrongding/wechat-bot",
-  "fetched_at": "2025-12-30T05:17:14.018Z"
+  "fetched_at": "2025-12-30T05:17:14.018Z",
+  "contributor_locations": {
+    "beijing, china": 1,
+    "unknown": 9,
+    "guangzhou": 1,
+    "china chongqing": 1,
+    "china": 2,
+    "beijing china": 1,
+    "princeton": 1,
+    "shanghai": 2,
+    "gz,china": 1,
+    "shanghai, china": 1,
+    "seattle": 1,
+    "beijing": 1,
+    "wuxi, china": 1,
+    "jiangsu": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:54:35.730Z"
 }

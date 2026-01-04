@@ -21,5 +21,31 @@
   "watchers": 4572,
   "html_url": "https://github.com/tencentmusic/supersonic",
   "api_url": "https://api.github.com/repos/tencentmusic/supersonic",
-  "fetched_at": "2025-12-30T05:16:51.500Z"
+  "fetched_at": "2025-12-30T05:16:51.500Z",
+  "contributor_locations": {
+    "shenzhen": 2,
+    "unknown": 56,
+    "shanghai": 4,
+    "hangzhou": 1,
+    "beijing": 2,
+    "heilongjianggongyexueyuan": 1,
+    "guangzhou, china": 1,
+    "shanghai,china": 1,
+    "大连": 1,
+    "china": 3,
+    "suzhou": 1,
+    "nanjin,china": 1,
+    "hefei": 1,
+    "guangzhou": 1,
+    "深圳": 1,
+    "shenzhen,china": 1,
+    "nanjing,china": 1,
+    "china hangzhou": 1,
+    "hangzhou, china": 2,
+    "chongqing": 1,
+    "chengdu": 1,
+    "tokyo, japan": 1,
+    "nanjing china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:50:34.829Z"
 }

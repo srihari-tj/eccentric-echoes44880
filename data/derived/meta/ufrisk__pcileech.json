@@ -21,5 +21,10 @@
   "watchers": 7324,
   "html_url": "https://github.com/ufrisk/pcileech",
   "api_url": "https://api.github.com/repos/ufrisk/pcileech",
-  "fetched_at": "2025-12-30T05:17:04.447Z"
+  "fetched_at": "2025-12-30T05:17:04.447Z",
+  "contributor_locations": {
+    "sweden": 1,
+    "unknown": 6
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:10:36.457Z"
 }

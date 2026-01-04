@@ -21,5 +21,16 @@
   "watchers": 2276,
   "html_url": "https://github.com/tsoding/nob.h",
   "api_url": "https://api.github.com/repos/tsoding/nob.h",
-  "fetched_at": "2025-12-30T05:17:01.506Z"
+  "fetched_at": "2025-12-30T05:17:01.506Z",
+  "contributor_locations": {
+    "novosibirsk": 1,
+    "unknown": 18,
+    "brasil": 1,
+    "4th dimension": 1,
+    "null": 1,
+    "tbilisi, georgia": 1,
+    "ukraine": 1,
+    "russian federation": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T21:07:54.662Z"
 }
