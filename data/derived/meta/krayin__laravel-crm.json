@@ -37,5 +37,28 @@
   "watchers": 20590,
   "html_url": "https://github.com/krayin/laravel-crm",
   "api_url": "https://api.github.com/repos/krayin/laravel-crm",
-  "fetched_at": "2025-12-30T05:15:13.176Z"
+  "fetched_at": "2025-12-30T05:15:13.176Z",
+  "contributor_locations": {
+    "noida, india": 2,
+    "unknown": 15,
+    "dwarka, new delhi, india": 1,
+    "भारत": 3,
+    "delhi": 1,
+    "bangalore": 1,
+    "india": 1,
+    "noida sector 63 india": 1,
+    "noida": 3,
+    "brasil": 1,
+    "dominican republic": 1,
+    "guwahati, india": 1,
+    "the milky way": 1,
+    "bucharest \\ copenhagen": 1,
+    "tokyo, japan": 1,
+    "mansoura": 1,
+    "méxico": 1,
+    "lahore, pakistan": 1,
+    "vn": 1,
+    "meerut": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:13:28.988Z"
 }

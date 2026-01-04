@@ -39,5 +39,19 @@
   "watchers": 8215,
   "html_url": "https://github.com/majd/ipatool",
   "api_url": "https://api.github.com/repos/majd/ipatool",
-  "fetched_at": "2025-12-30T05:15:27.919Z"
+  "fetched_at": "2025-12-30T05:15:27.919Z",
+  "contributor_locations": {
+    "unknown": 14,
+    "china": 1,
+    "earth": 1,
+    "canada": 1,
+    "still not st. petersburg": 1,
+    "copenhagen": 1,
+    "montevideo, uruguay": 1,
+    "cuba": 1,
+    "london, united kingdom": 1,
+    "braunschweig, germany": 1,
+    "yemen": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:03:49.171Z"
 }

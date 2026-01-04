@@ -37,5 +37,12 @@
   "watchers": 2143,
   "html_url": "https://github.com/memodb-io/Acontext",
   "api_url": "https://api.github.com/repos/memodb-io/Acontext",
-  "fetched_at": "2025-12-30T05:15:33.432Z"
+  "fetched_at": "2025-12-30T05:15:33.432Z",
+  "contributor_locations": {
+    "unknown": 4,
+    "beijing china": 1,
+    "helsinki, finland": 1,
+    "beijing": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:09:17.904Z"
 }

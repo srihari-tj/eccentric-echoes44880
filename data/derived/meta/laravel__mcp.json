@@ -21,5 +21,22 @@
   "watchers": 616,
   "html_url": "https://github.com/laravel/mcp",
   "api_url": "https://api.github.com/repos/laravel/mcp",
-  "fetched_at": "2025-12-30T05:15:18.395Z"
+  "fetched_at": "2025-12-30T05:15:18.395Z",
+  "contributor_locations": {
+    "copenhagen, denmark": 1,
+    "portugal": 1,
+    "england": 1,
+    "india": 1,
+    "little rock, ar": 1,
+    "unknown": 9,
+    "united kingdom": 1,
+    "minneapolis, mn": 1,
+    "the netherlands": 1,
+    "utah": 1,
+    "eindhoven": 1,
+    "malaysia": 1,
+    "remote": 1,
+    "salt lake city, ut": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:19:58.317Z"
 }

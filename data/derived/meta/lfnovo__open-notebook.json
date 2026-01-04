@@ -28,5 +28,14 @@
   "watchers": 16839,
   "html_url": "https://github.com/lfnovo/open-notebook",
   "api_url": "https://api.github.com/repos/lfnovo/open-notebook",
-  "fetched_at": "2025-12-30T05:15:20.561Z"
+  "fetched_at": "2025-12-30T05:15:20.561Z",
+  "contributor_locations": {
+    "são paulo, brazil": 1,
+    "unknown": 7,
+    "sydney, australia": 1,
+    "@shanghai": 1,
+    "new york": 1,
+    "上海": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:22:58.001Z"
 }

@@ -30,5 +30,21 @@
   "watchers": 9517,
   "html_url": "https://github.com/microsoft/magentic-ui",
   "api_url": "https://api.github.com/repos/microsoft/magentic-ui",
-  "fetched_at": "2025-12-30T05:15:38.246Z"
+  "fetched_at": "2025-12-30T05:15:38.246Z",
+  "contributor_locations": {
+    "unknown": 18,
+    "redmond, wa": 1,
+    "new york, usa": 1,
+    "new york, ny": 1,
+    "new york city": 1,
+    "seattle, wa": 1,
+    "boston, ma": 1,
+    "tallinn, estonia": 1,
+    "new york": 1,
+    "uden, the netherlands": 1,
+    "republic of korea": 1,
+    "gujranwala, pakistan": 1,
+    "ann arbor, mi": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:16:16.307Z"
 }

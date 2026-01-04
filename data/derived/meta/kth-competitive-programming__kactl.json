@@ -29,5 +29,17 @@
   "watchers": 3234,
   "html_url": "https://github.com/kth-competitive-programming/kactl",
   "api_url": "https://api.github.com/repos/kth-competitive-programming/kactl",
-  "fetched_at": "2025-12-30T05:15:13.551Z"
+  "fetched_at": "2025-12-30T05:15:13.551Z",
+  "contributor_locations": {
+    "stockholm, sweden": 2,
+    "unknown": 17,
+    "aarhus, denmark": 2,
+    "sweden": 3,
+    "vietnam": 1,
+    "united states": 1,
+    "orlando, fl": 1,
+    "stockholm": 1,
+    "mari, pb, brazil": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:13:38.157Z"
 }

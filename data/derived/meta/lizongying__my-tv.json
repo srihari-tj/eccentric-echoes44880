@@ -26,5 +26,15 @@
   "watchers": 32206,
   "html_url": "https://github.com/lizongying/my-tv",
   "api_url": "https://api.github.com/repos/lizongying/my-tv",
-  "fetched_at": "2025-12-30T05:15:24.636Z"
+  "fetched_at": "2025-12-30T05:15:24.636Z",
+  "contributor_locations": {
+    "china": 1,
+    "unknown": 3,
+    "bbq": 1,
+    "changsha city, hunan province, china": 1,
+    "shenzhen, cn": 1,
+    "japan": 1,
+    "baotou, chn": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T09:28:52.079Z"
 }
