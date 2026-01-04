@@ -39,5 +39,18 @@
   "watchers": 1832,
   "html_url": "https://github.com/mudler/edgevpn",
   "api_url": "https://api.github.com/repos/mudler/edgevpn",
-  "fetched_at": "2025-12-30T05:15:47.744Z"
+  "fetched_at": "2025-12-30T05:15:47.744Z",
+  "contributor_locations": {
+    "unknown": 6,
+    "italy": 1,
+    "ghent, be": 1,
+    "paris, france": 1,
+    "germany": 1,
+    "buxton, uk": 1,
+    "eepyland": 1,
+    "madrid": 1,
+    "leuven, belgium": 1,
+    "france": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T10:28:05.360Z"
 }
