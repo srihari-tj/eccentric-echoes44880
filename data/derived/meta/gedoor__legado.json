@@ -21,5 +21,20 @@
   "watchers": 42888,
   "html_url": "https://github.com/gedoor/legado",
   "api_url": "https://api.github.com/repos/gedoor/legado",
-  "fetched_at": "2026-01-03T06:49:39.569Z"
+  "fetched_at": "2026-01-03T06:49:39.569Z",
+  "contributor_locations": {
+    "unknown": 54,
+    "taiwan": 1,
+    "127.0.0.1": 2,
+    "tianjin": 1,
+    "china": 2,
+    "https://tryquiet.org": 1,
+    "hong kong - china": 1,
+    "earth, solar system, orion arm, milky way, virgo sc": 1,
+    "wuhan, china": 1,
+    "china nanjing": 1,
+    "nanchang, china": 1,
+    "浙江": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:17:09.656Z"
 }

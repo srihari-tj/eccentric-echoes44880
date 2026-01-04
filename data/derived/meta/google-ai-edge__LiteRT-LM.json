@@ -21,5 +21,15 @@
   "watchers": 663,
   "html_url": "https://github.com/google-ai-edge/LiteRT-LM",
   "api_url": "https://api.github.com/repos/google-ai-edge/LiteRT-LM",
-  "fetched_at": "2025-12-30T05:14:44.168Z"
+  "fetched_at": "2025-12-30T05:14:44.168Z",
+  "contributor_locations": {
+    "unknown": 17,
+    "california": 2,
+    "london": 1,
+    "san francisco bay area": 1,
+    "zürich": 1,
+    "taipei, taiwan": 1,
+    "seattle": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:24:09.047Z"
 }

@@ -21,5 +21,14 @@
   "watchers": 14688,
   "html_url": "https://github.com/google-ai-edge/gallery",
   "api_url": "https://api.github.com/repos/google-ai-edge/gallery",
-  "fetched_at": "2025-12-30T05:14:44.546Z"
+  "fetched_at": "2025-12-30T05:14:44.546Z",
+  "contributor_locations": {
+    "unknown": 4,
+    "california": 1,
+    "san jose": 1,
+    "san francisco bay area": 1,
+    "san francisco, bay area": 1,
+    "berlin": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:24:45.891Z"
 }
