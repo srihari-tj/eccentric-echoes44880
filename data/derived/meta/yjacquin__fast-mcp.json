@@ -28,6 +28,22 @@
   "html_url": "https://github.com/yjacquin/fast-mcp",
   "api_url": "https://api.github.com/repos/yjacquin/fast-mcp",
   "fetched_at": "2025-11-10T08:32:26.996Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:15.946Z"
+  "contributor_locations": {
+    "paris, france": 2,
+    "kraków, poland": 3,
+    "unknown": 5,
+    "egypt": 1,
+    "sf": 1,
+    "warsaw": 1,
+    "toronto, canada": 1,
+    "melbourne, australia": 1,
+    "seattle, wa": 1,
+    "paris": 1,
+    "brighton, uk": 1,
+    "argentina": 1,
+    "baltimore, maryland, usa": 1,
+    "halifax, ns, canada": 1,
+    "são paulo, sp, brasil": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T04:07:12.576Z"
 }

@@ -6,6 +6,20 @@
   "subscribers": 20,
   "default_branch": "main",
   "fetched_at": "2025-11-07T17:32:06.181Z",
-  "contributor_locations": {},
-  "contributor_locations_updated_at": "2025-12-21T06:52:16.070Z"
+  "contributor_locations": {
+    "world": 1,
+    "unknown": 11,
+    "china": 3,
+    "london, uk": 1,
+    "md": 1,
+    "shanghai": 1,
+    "netherlands": 1,
+    "shenzhen, china": 1,
+    "montreal, qc, canada": 1,
+    "sydney, nsw": 1,
+    "taiwan": 1,
+    "malaysia": 1,
+    "montevideo, uruguay": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T04:51:08.049Z"
 }

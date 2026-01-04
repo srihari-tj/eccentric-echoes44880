@@ -28,5 +28,17 @@
   "watchers": 5531,
   "html_url": "https://github.com/zabbix/zabbix",
   "api_url": "https://api.github.com/repos/zabbix/zabbix",
-  "fetched_at": "2025-12-30T05:17:22.429Z"
+  "fetched_at": "2025-12-30T05:17:22.429Z",
+  "contributor_locations": {
+    "riga, latvia": 4,
+    "unknown": 24,
+    "riga": 1,
+    "latvia": 1,
+    "riga/latvia": 1,
+    "serbia": 3,
+    "mexico": 1,
+    "moscow": 1,
+    "norway": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T04:08:50.103Z"
 }
