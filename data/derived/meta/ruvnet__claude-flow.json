@@ -42,5 +42,13 @@
   "watchers": 10949,
   "html_url": "https://github.com/ruvnet/claude-flow",
   "api_url": "https://api.github.com/repos/ruvnet/claude-flow",
-  "fetched_at": "2025-12-30T05:16:30.949Z"
+  "fetched_at": "2025-12-30T05:16:30.949Z",
+  "contributor_locations": {
+    "0x": 1,
+    "unknown": 7,
+    "iceland": 1,
+    "toronto, on.": 1,
+    "hungary": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T19:52:46.767Z"
 }

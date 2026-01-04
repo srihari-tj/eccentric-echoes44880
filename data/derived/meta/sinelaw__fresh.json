@@ -21,5 +21,23 @@
   "watchers": 4583,
   "html_url": "https://github.com/sinelaw/fresh",
   "api_url": "https://api.github.com/repos/sinelaw/fresh",
-  "fetched_at": "2026-01-03T06:50:10.259Z"
+  "fetched_at": "2026-01-03T06:50:10.259Z",
+  "contributor_locations": {
+    "unknown": 11,
+    "london": 1,
+    "tokyo": 1,
+    "beijing, china": 1,
+    "paducah, ky": 1,
+    "earth, solar system, orion arm, milky way": 1,
+    "la muse": 1,
+    "kyiv, ukraine": 1,
+    "minnesota, united states": 1,
+    "india": 1,
+    "los angeles, prague": 1,
+    "bulgaria": 1,
+    "blacksburg va": 1,
+    "florida, usa": 1,
+    "palm springs, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:00:49.278Z"
 }

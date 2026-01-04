@@ -40,5 +40,23 @@
   "watchers": 24666,
   "html_url": "https://github.com/simstudioai/sim",
   "api_url": "https://api.github.com/repos/simstudioai/sim",
-  "fetched_at": "2025-12-30T05:16:38.210Z"
+  "fetched_at": "2025-12-30T05:16:38.210Z",
+  "contributor_locations": {
+    "san francisco": 3,
+    "unknown": 11,
+    "new delhi, india": 1,
+    "phoenix, arizona": 1,
+    "new york city": 1,
+    "san jose, ca": 1,
+    "united states": 2,
+    "argentina": 1,
+    "new delhi": 1,
+    "stara zagora": 1,
+    "taiwan, r.o.c": 1,
+    "ahmedabad,india": 1,
+    "delhi, india": 1,
+    "london": 1,
+    "seoul, korea": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:00:42.371Z"
 }

@@ -21,5 +21,17 @@
   "watchers": 2646,
   "html_url": "https://github.com/sgl-project/mini-sglang",
   "api_url": "https://api.github.com/repos/sgl-project/mini-sglang",
-  "fetched_at": "2025-12-30T05:16:34.558Z"
+  "fetched_at": "2025-12-30T05:16:34.558Z",
+  "contributor_locations": {
+    "unknown": 9,
+    "auckland": 1,
+    "united states": 1,
+    "beijing, china": 2,
+    "hangzhou, china": 1,
+    "china": 1,
+    "hangzhou": 1,
+    "shanghai": 1,
+    "cheng du": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T19:57:13.073Z"
 }

@@ -35,5 +35,15 @@
   "watchers": 487,
   "html_url": "https://github.com/sparkison/m3u-editor",
   "api_url": "https://api.github.com/repos/sparkison/m3u-editor",
-  "fetched_at": "2026-01-03T06:50:10.597Z"
+  "fetched_at": "2026-01-03T06:50:10.597Z",
+  "contributor_locations": {
+    "fort collins": 1,
+    "unknown": 11,
+    "bermuda / uk": 1,
+    "los angeles, ca": 1,
+    "ontario, canada": 1,
+    "columbus, oh": 1,
+    "brazil": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T20:00:57.263Z"
 }
