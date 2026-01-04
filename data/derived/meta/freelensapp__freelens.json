@@ -28,5 +28,29 @@
   "watchers": 4283,
   "html_url": "https://github.com/freelensapp/freelens",
   "api_url": "https://api.github.com/repos/freelensapp/freelens",
-  "fetched_at": "2025-12-30T05:14:35.562Z"
+  "fetched_at": "2025-12-30T05:14:35.562Z",
+  "contributor_locations": {
+    "unknown": 14,
+    "warszawa, poland": 1,
+    "prato (italy)": 1,
+    "des moines, iowa": 1,
+    "france": 1,
+    "austin, tx": 1,
+    "italy": 1,
+    "milan, italy": 1,
+    "romania": 1,
+    "germany": 2,
+    "lisbon": 1,
+    "hannover, germany": 1,
+    "lyon, france": 1,
+    "el salvador": 1,
+    "chittagong , bangladesh": 1,
+    "hamburg": 1,
+    "austria": 1,
+    "rotterdam": 1,
+    "israel": 1,
+    "the netherlands": 1,
+    "rome 🍕": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:14:48.611Z"
 }

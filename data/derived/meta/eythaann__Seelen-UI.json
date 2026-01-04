@@ -41,5 +41,27 @@
   "watchers": 15215,
   "html_url": "https://github.com/eythaann/Seelen-UI",
   "api_url": "https://api.github.com/repos/eythaann/Seelen-UI",
-  "fetched_at": "2025-12-30T05:14:25.538Z"
+  "fetched_at": "2025-12-30T05:14:25.538Z",
+  "contributor_locations": {
+    "ecuador": 1,
+    "unknown": 18,
+    "hungary": 2,
+    "suzhou, jiangsu, mainland china": 1,
+    "japan": 2,
+    "south korea": 2,
+    "france": 2,
+    "germany": 1,
+    "korea": 1,
+    "florida, earth, solar system, milky way, universe": 1,
+    "china": 1,
+    "berlin": 1,
+    "san luis, argentina": 1,
+    "loading information...": 1,
+    "everywhere": 1,
+    "araçatuba/sp": 1,
+    "/home/tr": 1,
+    "ukraine": 1,
+    "localhost:3000": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:00:22.755Z"
 }

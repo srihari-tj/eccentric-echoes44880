@@ -28,5 +28,10 @@
   "watchers": 8445,
   "html_url": "https://github.com/fishjar/kiss-translator",
   "api_url": "https://api.github.com/repos/fishjar/kiss-translator",
-  "fetched_at": "2025-12-30T05:14:32.509Z"
+  "fetched_at": "2025-12-30T05:14:32.509Z",
+  "contributor_locations": {
+    "unknown": 21,
+    "shanghai, china": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:11:24.481Z"
 }

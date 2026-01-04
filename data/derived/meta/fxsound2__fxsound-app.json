@@ -21,5 +21,15 @@
   "watchers": 3411,
   "html_url": "https://github.com/fxsound2/fxsound-app",
   "api_url": "https://api.github.com/repos/fxsound2/fxsound-app",
-  "fetched_at": "2025-12-30T05:14:36.229Z"
+  "fetched_at": "2025-12-30T05:14:36.229Z",
+  "contributor_locations": {
+    "bangalore, india": 1,
+    "austria": 1,
+    "unknown": 3,
+    "kassel, germany": 1,
+    "sussy town": 1,
+    "warsaw, poland": 1,
+    "russian federation": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:14:51.563Z"
 }
