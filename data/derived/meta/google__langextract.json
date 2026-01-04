@@ -33,5 +33,19 @@
   "watchers": 19806,
   "html_url": "https://github.com/google/langextract",
   "api_url": "https://api.github.com/repos/google/langextract",
-  "fetched_at": "2025-12-30T05:14:47.353Z"
+  "fetched_at": "2025-12-30T05:14:47.353Z",
+  "contributor_locations": {
+    "new york city": 1,
+    "unknown": 6,
+    "germany": 1,
+    "buenos aires, argentina": 1,
+    "nyc": 1,
+    "indonesia": 1,
+    "london": 1,
+    "france": 1,
+    "brussels, belgium": 1,
+    "paris": 1,
+    "shanghai": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:26:35.729Z"
 }

@@ -21,5 +21,18 @@
   "watchers": 8397,
   "html_url": "https://github.com/google/A2UI",
   "api_url": "https://api.github.com/repos/google/A2UI",
-  "fetched_at": "2025-12-30T05:14:45.296Z"
+  "fetched_at": "2025-12-30T05:14:45.296Z",
+  "contributor_locations": {
+    "london, united kingdom": 1,
+    "unknown": 10,
+    "copenhagen": 1,
+    "boulder, co, usa": 1,
+    "austin, tx": 1,
+    "boulder, co": 1,
+    "mountain view, ca": 1,
+    "switzerland / france": 1,
+    "lille, france": 1,
+    "chicago, il": 1
+  },
+  "contributor_locations_updated_at": "2026-01-04T07:25:14.124Z"
 }
