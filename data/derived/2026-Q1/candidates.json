@@ -4,8 +4,28 @@
     "repo": "v2rayNG"
   },
   {
+    "owner": "3b1b",
+    "repo": "manim"
+  },
+  {
     "owner": "4ian",
     "repo": "GDevelop"
+  },
+  {
+    "owner": "5rahim",
+    "repo": "seanime"
+  },
+  {
+    "owner": "AlexandreRouma",
+    "repo": "SDRPlusPlus"
+  },
+  {
+    "owner": "AlistGo",
+    "repo": "alist"
+  },
+  {
+    "owner": "BitMaker-hub",
+    "repo": "NerdMiner_v2"
   },
   {
     "owner": "BloopAI",
@@ -14,6 +34,10 @@
   {
     "owner": "Bodmer",
     "repo": "TFT_eSPI"
+  },
+  {
+    "owner": "BookStackApp",
+    "repo": "BookStack"
   },
   {
     "owner": "ClassicOldSong",
@@ -64,6 +88,10 @@
     "repo": "FreshRSS"
   },
   {
+    "owner": "GEIGEIGEIST",
+    "repo": "TOTEM"
+  },
+  {
     "owner": "Genymobile",
     "repo": "scrcpy"
   },
@@ -104,8 +132,16 @@
     "repo": "lawnchair"
   },
   {
+    "owner": "LycheeOrg",
+    "repo": "Lychee"
+  },
+  {
     "owner": "MCRcortex",
     "repo": "voxy"
+  },
+  {
+    "owner": "MarlinFirmware",
+    "repo": "Marlin"
   },
   {
     "owner": "MeteorDevelopment",
@@ -116,8 +152,16 @@
     "repo": "Xiaomi-HyperOS-BootLoader-Bypass"
   },
   {
+    "owner": "NationalSecurityAgency",
+    "repo": "ghidra"
+  },
+  {
     "owner": "Next-Flip",
     "repo": "Momentum-Firmware"
+  },
+  {
+    "owner": "NightscoutFoundation",
+    "repo": "xDrip"
   },
   {
     "owner": "OpenBB-finance",
@@ -134,6 +178,10 @@
   {
     "owner": "OrcaSlicer",
     "repo": "OrcaSlicer"
+  },
+  {
+    "owner": "PHP-CS-Fixer",
+    "repo": "PHP-CS-Fixer"
   },
   {
     "owner": "PaperMC",
@@ -172,6 +220,14 @@
     "repo": "faster-whisper"
   },
   {
+    "owner": "SillyTavern",
+    "repo": "SillyTavern"
+  },
+  {
+    "owner": "SuiteCRM",
+    "repo": "SuiteCRM"
+  },
+  {
     "owner": "SuperMonster003",
     "repo": "AutoJs6"
   },
@@ -186,6 +242,10 @@
   {
     "owner": "ToolJet",
     "repo": "ToolJet"
+  },
+  {
+    "owner": "TwiN",
+    "repo": "gatus"
   },
   {
     "owner": "Vita3K",
@@ -220,6 +280,10 @@
     "repo": "tunnelto"
   },
   {
+    "owner": "aistra0528",
+    "repo": "Hail"
+  },
+  {
     "owner": "alexta69",
     "repo": "metube"
   },
@@ -230,6 +294,10 @@
   {
     "owner": "anddea",
     "repo": "revanced-patches"
+  },
+  {
+    "owner": "androidx",
+    "repo": "media"
   },
   {
     "owner": "anomalyco",
@@ -268,8 +336,16 @@
     "repo": "dujiaoka"
   },
   {
+    "owner": "asterinas",
+    "repo": "asterinas"
+  },
+  {
     "owner": "avelino",
     "repo": "awesome-go"
+  },
+  {
+    "owner": "aws",
+    "repo": "aws-sdk-ruby"
   },
   {
     "owner": "azahar-emu",
@@ -310,6 +386,10 @@
   {
     "owner": "c3lang",
     "repo": "c3c"
+  },
+  {
+    "owner": "cemu-project",
+    "repo": "Cemu"
   },
   {
     "owner": "cexll",
@@ -372,6 +452,10 @@
     "repo": "ytdlnis"
   },
   {
+    "owner": "department-of-veterans-affairs",
+    "repo": "vets-api"
+  },
+  {
     "owner": "discourse",
     "repo": "discourse"
   },
@@ -396,8 +480,16 @@
     "repo": "express"
   },
   {
+    "owner": "faker-ruby",
+    "repo": "faker"
+  },
+  {
     "owner": "farion1231",
     "repo": "cc-switch"
+  },
+  {
+    "owner": "fastfetch-cli",
+    "repo": "fastfetch"
   },
   {
     "owner": "filamentphp",
@@ -430,6 +522,10 @@
   {
     "owner": "github",
     "repo": "explore"
+  },
+  {
+    "owner": "github",
+    "repo": "markup"
   },
   {
     "owner": "gitroomhq",
@@ -474,6 +570,10 @@
   {
     "owner": "henrypp",
     "repo": "simplewall"
+  },
+  {
+    "owner": "hexgrad",
+    "repo": "kokoro"
   },
   {
     "owner": "higress-group",
@@ -536,8 +636,16 @@
     "repo": "gaggimate"
   },
   {
+    "owner": "joncampbell123",
+    "repo": "dosbox-x"
+  },
+  {
     "owner": "jrouwe",
     "repo": "JoltPhysics"
+  },
+  {
+    "owner": "keiyoushi",
+    "repo": "extensions-source"
   },
   {
     "owner": "keploy",
@@ -588,6 +696,14 @@
     "repo": "uptime-kuma"
   },
   {
+    "owner": "makeplane",
+    "repo": "plane"
+  },
+  {
+    "owner": "mastodon",
+    "repo": "mastodon"
+  },
+  {
     "owner": "maxrave-dev",
     "repo": "SimpMusic"
   },
@@ -598,6 +714,10 @@
   {
     "owner": "microsoft",
     "repo": "edit"
+  },
+  {
+    "owner": "mobile-dev-inc",
+    "repo": "Maestro"
   },
   {
     "owner": "mockito",
@@ -652,6 +772,10 @@
     "repo": "opencode-openai-codex-auth"
   },
   {
+    "owner": "open5gs",
+    "repo": "open5gs"
+  },
+  {
     "owner": "opencart",
     "repo": "opencart"
   },
@@ -680,6 +804,10 @@
     "repo": "organicmaps"
   },
   {
+    "owner": "otwcode",
+    "repo": "otwarchive"
+  },
+  {
     "owner": "ourongxing",
     "repo": "newsnow"
   },
@@ -694,6 +822,10 @@
   {
     "owner": "permissionlesstech",
     "repo": "bitchat-android"
+  },
+  {
+    "owner": "portfolio-performance",
+    "repo": "portfolio"
   },
   {
     "owner": "prasathmani",
@@ -736,12 +868,24 @@
     "repo": "chatterbox"
   },
   {
+    "owner": "rishikanthc",
+    "repo": "Scriberr"
+  },
+  {
     "owner": "rubocop",
     "repo": "rubocop"
   },
   {
     "owner": "rust-lang",
     "repo": "rust-analyzer"
+  },
+  {
+    "owner": "sherlock-project",
+    "repo": "sherlock"
+  },
+  {
+    "owner": "signalapp",
+    "repo": "libsignal"
   },
   {
     "owner": "simulot",
@@ -768,6 +912,10 @@
     "repo": "stalwart"
   },
   {
+    "owner": "starship",
+    "repo": "starship"
+  },
+  {
     "owner": "sxyazi",
     "repo": "yazi"
   },
@@ -782,6 +930,14 @@
   {
     "owner": "taskflow",
     "repo": "taskflow"
+  },
+  {
+    "owner": "tasks",
+    "repo": "tasks"
+  },
+  {
+    "owner": "tdlib",
+    "repo": "td"
   },
   {
     "owner": "telegramdesktop",
@@ -808,12 +964,24 @@
     "repo": "typesense"
   },
   {
+    "owner": "uber",
+    "repo": "h3"
+  },
+  {
     "owner": "usememos",
     "repo": "memos"
   },
   {
+    "owner": "v2fly",
+    "repo": "v2ray-core"
+  },
+  {
     "owner": "vanilla-wiiu",
     "repo": "vanilla"
+  },
+  {
+    "owner": "viarotel-org",
+    "repo": "escrcpy"
   },
   {
     "owner": "vitodeploy",
@@ -830,6 +998,10 @@
   {
     "owner": "yichuan-w",
     "repo": "LEANN"
+  },
+  {
+    "owner": "zellij-org",
+    "repo": "zellij"
   },
   {
     "owner": "zen-browser",
