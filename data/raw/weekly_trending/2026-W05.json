@@ -1,6 +1,6 @@
 {
   "week": "2026-W05",
-  "captured_at": "2026-01-31T18:52:00.184Z",
+  "captured_at": "2026-02-01T07:05:02.459Z",
   "overall": [
     {
       "owner": "openclaw",
@@ -29,10 +29,6 @@
     {
       "owner": "badlogic",
       "repo": "pi-mono"
-    },
-    {
-      "owner": "OpenBMB",
-      "repo": "UltraRAG"
     },
     {
       "owner": "supermemoryai",
@@ -154,10 +150,6 @@
         "repo": "kimi-cli"
       },
       {
-        "owner": "OpenBMB",
-        "repo": "UltraRAG"
-      },
-      {
         "owner": "Free-TV",
         "repo": "IPTV"
       },
@@ -200,10 +192,6 @@
       {
         "owner": "HKUDS",
         "repo": "ViMax"
-      },
-      {
-        "owner": "Shubhamsaboo",
-        "repo": "awesome-llm-apps"
       },
       {
         "owner": "Epodonios",
