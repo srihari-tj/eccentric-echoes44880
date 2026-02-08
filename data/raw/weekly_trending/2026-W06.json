@@ -1,6 +1,6 @@
 {
   "week": "2026-W06",
-  "captured_at": "2026-02-07T18:55:56.102Z",
+  "captured_at": "2026-02-08T07:06:36.252Z",
   "overall": [
     {
       "owner": "openclaw",
@@ -348,10 +348,6 @@
       {
         "owner": "cloudflare",
         "repo": "pingora"
-      },
-      {
-        "owner": "YaLTeR",
-        "repo": "niri"
       },
       {
         "owner": "firecracker-microvm",
