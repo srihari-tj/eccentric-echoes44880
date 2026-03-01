@@ -1,6 +1,6 @@
 {
   "week": "2026-W09",
-  "captured_at": "2026-02-28T18:50:49.669Z",
+  "captured_at": "2026-03-01T07:03:44.997Z",
   "overall": [
     {
       "owner": "abhigyanpatwari",
@@ -45,6 +45,10 @@
     {
       "owner": "NVlabs",
       "repo": "GR00T-WholeBodyControl"
+    },
+    {
+      "owner": "ruvnet",
+      "repo": "wifi-densepose"
     },
     {
       "owner": "moonshine-ai",
@@ -176,6 +180,10 @@
       {
         "owner": "mihail911",
         "repo": "modern-software-dev-assignments"
+      },
+      {
+        "owner": "ruvnet",
+        "repo": "wifi-densepose"
       },
       {
         "owner": "anthropics",
