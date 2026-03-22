@@ -1,6 +1,6 @@
 {
   "week": "2026-W12",
-  "captured_at": "2026-03-21T18:55:39.284Z",
+  "captured_at": "2026-03-22T07:07:41.634Z",
   "overall": [
     {
       "owner": "666ghj",
@@ -76,10 +76,6 @@
       {
         "owner": "thedotmack",
         "repo": "claude-mem"
-      },
-      {
-        "owner": "justlovemaki",
-        "repo": "AIClient-2-API"
       },
       {
         "owner": "ComposioHQ",
@@ -196,6 +192,10 @@
       {
         "owner": "vectorize-io",
         "repo": "hindsight"
+      },
+      {
+        "owner": "alirezarezvani",
+        "repo": "claude-skills"
       },
       {
         "owner": "langflow-ai",
