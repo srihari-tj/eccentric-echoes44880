@@ -32,6 +32,10 @@
     "repo": "seanime"
   },
   {
+    "owner": "648540858",
+    "repo": "wvp-GB28181-pro"
+  },
+  {
     "owner": "666ghj",
     "repo": "BettaFish"
   },
@@ -74,6 +78,10 @@
   {
     "owner": "AdguardTeam",
     "repo": "AdGuardHome"
+  },
+  {
+    "owner": "Agent-Field",
+    "repo": "agentfield"
   },
   {
     "owner": "AlexanderGrooff",
@@ -608,6 +616,10 @@
     "repo": "TEESimulator"
   },
   {
+    "owner": "JingMatrix",
+    "repo": "Vector"
+  },
+  {
     "owner": "Julow",
     "repo": "Unexpected-Keyboard"
   },
@@ -764,6 +776,10 @@
     "repo": "Xiaomi-HyperOS-BootLoader-Bypass"
   },
   {
+    "owner": "MobSF",
+    "repo": "Mobile-Security-Framework-MobSF"
+  },
+  {
     "owner": "MoonshotAI",
     "repo": "kimi-cli"
   },
@@ -782,10 +798,6 @@
   {
     "owner": "N64Recomp",
     "repo": "N64Recomp"
-  },
-  {
-    "owner": "NVIDIA",
-    "repo": "cccl"
   },
   {
     "owner": "NVIDIA",
@@ -846,6 +858,10 @@
   {
     "owner": "OlaProeis",
     "repo": "Ferrite"
+  },
+  {
+    "owner": "Open-Dev-Society",
+    "repo": "OpenStock"
   },
   {
     "owner": "OpenAPITools",
@@ -960,10 +976,6 @@
     "repo": "HAMi"
   },
   {
-    "owner": "ProtonVPN",
-    "repo": "android-app"
-  },
-  {
     "owner": "PufferAI",
     "repo": "PufferLib"
   },
@@ -1054,6 +1066,10 @@
   {
     "owner": "SYSTRAN",
     "repo": "faster-whisper"
+  },
+  {
+    "owner": "SakanaAI",
+    "repo": "AI-Scientist-v2"
   },
   {
     "owner": "SaladDay",
@@ -1364,6 +1380,10 @@
     "repo": "LLD"
   },
   {
+    "owner": "adityatandon15",
+    "repo": "Low-Level-Design-Course"
+  },
+  {
     "owner": "advplyr",
     "repo": "audiobookshelf"
   },
@@ -1390,6 +1410,10 @@
   {
     "owner": "agrinman",
     "repo": "tunnelto"
+  },
+  {
+    "owner": "ahmetb",
+    "repo": "kubectx"
   },
   {
     "owner": "ahrm",
@@ -1430,6 +1454,10 @@
   {
     "owner": "alexjustesen",
     "repo": "speedtest-tracker"
+  },
+  {
+    "owner": "alexpasmantier",
+    "repo": "television"
   },
   {
     "owner": "alexta69",
@@ -1641,10 +1669,6 @@
   },
   {
     "owner": "apache",
-    "repo": "nuttx"
-  },
-  {
-    "owner": "apache",
     "repo": "polaris"
   },
   {
@@ -1769,6 +1793,10 @@
   },
   {
     "owner": "aws",
+    "repo": "aws-sdk-java-v2"
+  },
+  {
+    "owner": "aws",
     "repo": "aws-sdk-php"
   },
   {
@@ -1856,6 +1884,10 @@
     "repo": "android"
   },
   {
+    "owner": "bkaradzic",
+    "repo": "bgfx"
+  },
+  {
     "owner": "blakeblackshear",
     "repo": "frigate"
   },
@@ -1878,10 +1910,6 @@
   {
     "owner": "brahmkshatriya",
     "repo": "echo"
-  },
-  {
-    "owner": "brave",
-    "repo": "brave-core"
   },
   {
     "owner": "breezy-weather",
@@ -1910,10 +1938,6 @@
   {
     "owner": "butzist",
     "repo": "ActivityLauncher"
-  },
-  {
-    "owner": "bytecodealliance",
-    "repo": "wasm-micro-runtime"
   },
   {
     "owner": "bytecodealliance",
@@ -2336,10 +2360,6 @@
     "repo": "YTMusicUltimate"
   },
   {
-    "owner": "daytonaio",
-    "repo": "daytona"
-  },
-  {
     "owner": "dbeaver",
     "repo": "dbeaver"
   },
@@ -2464,6 +2484,10 @@
     "repo": "drawdb"
   },
   {
+    "owner": "dreammis",
+    "repo": "social-auto-upload"
+  },
+  {
     "owner": "drogonframework",
     "repo": "drogon"
   },
@@ -2492,16 +2516,16 @@
     "repo": "mosquitto"
   },
   {
+    "owner": "eclipse-threadx",
+    "repo": "threadx"
+  },
+  {
     "owner": "eclipse",
     "repo": "openvsx"
   },
   {
     "owner": "eigent-ai",
     "repo": "eigent"
-  },
-  {
-    "owner": "elabftw",
-    "repo": "elabftw"
   },
   {
     "owner": "electron",
@@ -2594,10 +2618,6 @@
   {
     "owner": "expressjs",
     "repo": "express"
-  },
-  {
-    "owner": "eyaltoledano",
-    "repo": "claude-task-master"
   },
   {
     "owner": "facebook",
@@ -2756,6 +2776,10 @@
     "repo": "laravel-debugbar"
   },
   {
+    "owner": "fxsound2",
+    "repo": "fxsound-app"
+  },
+  {
     "owner": "gaotianliuyun",
     "repo": "gao"
   },
@@ -2866,10 +2890,6 @@
   {
     "owner": "gitroomhq",
     "repo": "postiz-app"
-  },
-  {
-    "owner": "gitui-org",
-    "repo": "gitui"
   },
   {
     "owner": "gkd-kit",
@@ -3396,6 +3416,10 @@
     "repo": "k8sgpt"
   },
   {
+    "owner": "kagent-dev",
+    "repo": "kagent"
+  },
+  {
     "owner": "kagisearch",
     "repo": "smallweb"
   },
@@ -3556,10 +3580,6 @@
     "repo": "deepagents"
   },
   {
-    "owner": "langchain-ai",
-    "repo": "open-swe"
-  },
-  {
     "owner": "langchain4j",
     "repo": "langchain4j"
   },
@@ -3610,10 +3630,6 @@
   {
     "owner": "letta-ai",
     "repo": "claude-subconscious"
-  },
-  {
-    "owner": "levnikolaevich",
-    "repo": "claude-code-skills"
   },
   {
     "owner": "libaxuan",
@@ -3762,6 +3778,10 @@
   {
     "owner": "mark3labs",
     "repo": "mcp-go"
+  },
+  {
+    "owner": "markedjs",
+    "repo": "marked"
   },
   {
     "owner": "martinrotter",
@@ -3956,14 +3976,6 @@
     "repo": "airi"
   },
   {
-    "owner": "moghtech",
-    "repo": "komodo"
-  },
-  {
-    "owner": "mollyim",
-    "repo": "mollyim-android"
-  },
-  {
     "owner": "mongodb",
     "repo": "mongo"
   },
@@ -4048,6 +4060,10 @@
     "repo": "navidrome"
   },
   {
+    "owner": "navinreddy20",
+    "repo": "Javacode"
+  },
+  {
     "owner": "nayuki",
     "repo": "QR-Code-generator"
   },
@@ -4112,6 +4128,10 @@
     "repo": "nocodb"
   },
   {
+    "owner": "nodejs",
+    "repo": "node"
+  },
+  {
     "owner": "nomic-ai",
     "repo": "gpt4all"
   },
@@ -4166,10 +4186,6 @@
   {
     "owner": "open-ani",
     "repo": "animeko"
-  },
-  {
-    "owner": "open-policy-agent",
-    "repo": "opa"
   },
   {
     "owner": "open-telemetry",
@@ -4286,6 +4302,10 @@
   {
     "owner": "osqzss",
     "repo": "gps-sdr-sim"
+  },
+  {
+    "owner": "ossrs",
+    "repo": "srs"
   },
   {
     "owner": "ostris",
@@ -4820,6 +4840,10 @@
     "repo": "libsignal"
   },
   {
+    "owner": "sigoden",
+    "repo": "aichat"
+  },
+  {
     "owner": "simdjson",
     "repo": "simdjson"
   },
@@ -5244,6 +5268,10 @@
     "repo": "libsql"
   },
   {
+    "owner": "twentyhq",
+    "repo": "twenty"
+  },
+  {
     "owner": "twitter",
     "repo": "the-algorithm"
   },
@@ -5524,10 +5552,6 @@
     "repo": "LEANN"
   },
   {
-    "owner": "yikart",
-    "repo": "AiToEarn"
-  },
-  {
     "owner": "yt-dlp",
     "repo": "yt-dlp"
   },
@@ -5568,10 +5592,6 @@
     "repo": "zephyr"
   },
   {
-    "owner": "zeux",
-    "repo": "meshoptimizer"
-  },
-  {
     "owner": "zhaoolee",
     "repo": "ChromeAppHeroes"
   },
@@ -5590,9 +5610,5 @@
   {
     "owner": "zmkfirmware",
     "repo": "zmk"
-  },
-  {
-    "owner": "zxing",
-    "repo": "zxing"
   }
 ]
