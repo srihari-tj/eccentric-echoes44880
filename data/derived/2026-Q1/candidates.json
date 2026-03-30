@@ -204,6 +204,10 @@
     "repo": "cherry-studio"
   },
   {
+    "owner": "ChristopherKahler",
+    "repo": "paul"
+  },
+  {
     "owner": "ChromeDevTools",
     "repo": "chrome-devtools-mcp"
   },
@@ -776,10 +780,6 @@
     "repo": "Xiaomi-HyperOS-BootLoader-Bypass"
   },
   {
-    "owner": "MobSF",
-    "repo": "Mobile-Security-Framework-MobSF"
-  },
-  {
     "owner": "MoonshotAI",
     "repo": "kimi-cli"
   },
@@ -860,10 +860,6 @@
     "repo": "Ferrite"
   },
   {
-    "owner": "Open-Dev-Society",
-    "repo": "OpenStock"
-  },
-  {
     "owner": "OpenAPITools",
     "repo": "openapi-generator"
   },
@@ -910,10 +906,6 @@
   {
     "owner": "OrcaSlicer",
     "repo": "OrcaSlicer"
-  },
-  {
-    "owner": "OxygenCobalt",
-    "repo": "Auxio"
   },
   {
     "owner": "PCSX2",
@@ -1184,6 +1176,10 @@
     "repo": "WeKnora"
   },
   {
+    "owner": "Tencent",
+    "repo": "puerts"
+  },
+  {
     "owner": "TermoraDev",
     "repo": "termora"
   },
@@ -1304,6 +1300,10 @@
     "repo": "niri"
   },
   {
+    "owner": "Yeachan-Heo",
+    "repo": "oh-my-claudecode"
+  },
+  {
     "owner": "YenalyLiew",
     "repo": "Han1meViewer"
   },
@@ -1370,6 +1370,10 @@
   {
     "owner": "activeadmin",
     "repo": "activeadmin"
+  },
+  {
+    "owner": "actix",
+    "repo": "actix-web"
   },
   {
     "owner": "actualbudget",
@@ -1669,6 +1673,10 @@
   },
   {
     "owner": "apache",
+    "repo": "nuttx"
+  },
+  {
+    "owner": "apache",
     "repo": "polaris"
   },
   {
@@ -1793,10 +1801,6 @@
   },
   {
     "owner": "aws",
-    "repo": "aws-sdk-java-v2"
-  },
-  {
-    "owner": "aws",
     "repo": "aws-sdk-php"
   },
   {
@@ -1830,6 +1834,10 @@
   {
     "owner": "bannedbook",
     "repo": "fanqiang"
+  },
+  {
+    "owner": "barefootford",
+    "repo": "buttercut"
   },
   {
     "owner": "barry-ran",
@@ -1882,10 +1890,6 @@
   {
     "owner": "bitwarden",
     "repo": "android"
-  },
-  {
-    "owner": "bkaradzic",
-    "repo": "bgfx"
   },
   {
     "owner": "blakeblackshear",
@@ -2514,10 +2518,6 @@
   {
     "owner": "eclipse-mosquitto",
     "repo": "mosquitto"
-  },
-  {
-    "owner": "eclipse-threadx",
-    "repo": "threadx"
   },
   {
     "owner": "eclipse",
@@ -3780,10 +3780,6 @@
     "repo": "mcp-go"
   },
   {
-    "owner": "markedjs",
-    "repo": "marked"
-  },
-  {
     "owner": "martinrotter",
     "repo": "rssguard"
   },
@@ -3913,10 +3909,6 @@
   },
   {
     "owner": "microsoft",
-    "repo": "typescript-go"
-  },
-  {
-    "owner": "microsoft",
     "repo": "typespec"
   },
   {
@@ -3974,6 +3966,10 @@
   {
     "owner": "moeru-ai",
     "repo": "airi"
+  },
+  {
+    "owner": "moghtech",
+    "repo": "komodo"
   },
   {
     "owner": "mongodb",
@@ -4246,10 +4242,6 @@
   {
     "owner": "openmediavault",
     "repo": "openmediavault"
-  },
-  {
-    "owner": "openrocket",
-    "repo": "openrocket"
   },
   {
     "owner": "opensearch-project",
@@ -4692,10 +4684,6 @@
     "repo": "piper"
   },
   {
-    "owner": "riba2534",
-    "repo": "feishu-cli"
-  },
-  {
     "owner": "rishikanthc",
     "repo": "Scriberr"
   },
@@ -4910,6 +4898,10 @@
   {
     "owner": "spiceai",
     "repo": "spiceai"
+  },
+  {
+    "owner": "spicetify",
+    "repo": "cli"
   },
   {
     "owner": "spree",
@@ -5357,6 +5349,10 @@
   },
   {
     "owner": "vercel",
+    "repo": "next.js"
+  },
+  {
+    "owner": "vercel",
     "repo": "turborepo"
   },
   {
@@ -5484,10 +5480,6 @@
     "repo": "system-prompts-and-models-of-ai-tools"
   },
   {
-    "owner": "x64dbg",
-    "repo": "x64dbg"
-  },
-  {
     "owner": "xCollateral",
     "repo": "VulkanMod"
   },
@@ -5568,10 +5560,6 @@
     "repo": "SmartTube"
   },
   {
-    "owner": "yuzono",
-    "repo": "tachiyomi-extensions"
-  },
-  {
     "owner": "zammad",
     "repo": "zammad"
   },
@@ -5606,6 +5594,10 @@
   {
     "owner": "zitadel",
     "repo": "zitadel"
+  },
+  {
+    "owner": "zly2006",
+    "repo": "zhihu-plus-plus"
   },
   {
     "owner": "zmkfirmware",
