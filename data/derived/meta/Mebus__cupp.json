@@ -28,5 +28,19 @@
   "watchers": 5382,
   "html_url": "https://github.com/Mebus/cupp",
   "api_url": "https://api.github.com/repos/Mebus/cupp",
-  "fetched_at": "2025-12-30T05:12:49.599Z"
+  "fetched_at": "2025-12-30T05:12:49.599Z",
+  "contributor_locations": {
+    "aachen, germany": 1,
+    "karachi, pakistan.": 1,
+    "azerbaycan": 1,
+    "kobe": 1,
+    "unknown": 3,
+    "between \"void *\" and \"malloc\"": 1,
+    "praha": 1,
+    "bristol, uk": 1,
+    "amsterdam, netherlands": 1,
+    "hyderabad, telangana, in": 1,
+    "lisbon": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T12:16:43.896Z"
 }

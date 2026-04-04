@@ -36,5 +36,16 @@
   "watchers": 7276,
   "html_url": "https://github.com/NexaAI/nexa-sdk",
   "api_url": "https://api.github.com/repos/NexaAI/nexa-sdk",
-  "fetched_at": "2025-12-30T05:12:53.636Z"
+  "fetched_at": "2025-12-30T05:12:53.636Z",
+  "contributor_locations": {
+    "0xffffffff": 1,
+    "unknown": 18,
+    "san francisco bay area": 1,
+    "cupertino, ca": 1,
+    "hangzhou": 1,
+    "rochester, ny, us": 1,
+    "il, usa": 1,
+    "dublin, ireland": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T12:21:54.505Z"
 }

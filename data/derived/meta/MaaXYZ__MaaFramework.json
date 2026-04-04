@@ -24,5 +24,27 @@
   "watchers": 2995,
   "html_url": "https://github.com/MaaXYZ/MaaFramework",
   "api_url": "https://api.github.com/repos/MaaXYZ/MaaFramework",
-  "fetched_at": "2025-12-30T05:12:48.509Z"
+  "fetched_at": "2025-12-30T05:12:48.509Z",
+  "contributor_locations": {
+    "unknown": 55,
+    "china": 7,
+    "china guangxi guilin": 1,
+    "shenyang, china": 1,
+    "[rhine lab]": 1,
+    "shanghai, china": 2,
+    "中国": 1,
+    "moon": 1,
+    "tianjin": 1,
+    "成都": 1,
+    "shenzhen": 1,
+    "eorzea": 1,
+    "hangzhou, china": 1,
+    "fuzhou, china": 1,
+    "beijing": 1,
+    "guangzhou,china": 1,
+    "shanghai": 1,
+    "nanjing, jiangsu, china": 1,
+    "south china agricultural university": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T12:16:22.882Z"
 }

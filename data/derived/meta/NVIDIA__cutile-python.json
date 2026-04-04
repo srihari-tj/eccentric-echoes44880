@@ -29,5 +29,17 @@
   "watchers": 1700,
   "html_url": "https://github.com/NVIDIA/cutile-python",
   "api_url": "https://api.github.com/repos/NVIDIA/cutile-python",
-  "fetched_at": "2025-12-30T05:12:52.170Z"
+  "fetched_at": "2025-12-30T05:12:52.170Z",
+  "contributor_locations": {
+    "seattle": 1,
+    "unknown": 8,
+    "san jose, ca": 1,
+    "stockholm": 1,
+    "minneapolis, mn": 1,
+    "sunnyvale, ca": 1,
+    "bordeaux": 1,
+    "fujian / shanghai, china": 1,
+    "santa clara, ca, usa": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T12:19:27.742Z"
 }
