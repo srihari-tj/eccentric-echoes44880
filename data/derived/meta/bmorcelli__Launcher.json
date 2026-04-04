@@ -21,5 +21,16 @@
   "watchers": 1097,
   "html_url": "https://github.com/bmorcelli/Launcher",
   "api_url": "https://api.github.com/repos/bmorcelli/Launcher",
-  "fetched_at": "2026-01-03T06:49:28.740Z"
+  "fetched_at": "2026-01-03T06:49:28.740Z",
+  "contributor_locations": {
+    "foz do iguaçu - pr - brasil": 1,
+    "california, usa": 1,
+    "birmigham, uk": 1,
+    "unknown": 6,
+    "portland, or": 1,
+    "poland": 1,
+    "united kingdom": 1,
+    "australia": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T21:25:04.083Z"
 }

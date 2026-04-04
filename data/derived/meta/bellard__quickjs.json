@@ -21,5 +21,20 @@
   "watchers": 10242,
   "html_url": "https://github.com/bellard/quickjs",
   "api_url": "https://api.github.com/repos/bellard/quickjs",
-  "fetched_at": "2026-01-03T06:49:27.470Z"
+  "fetched_at": "2026-01-03T06:49:27.470Z",
+  "contributor_locations": {
+    "paris": 1,
+    "unknown": 4,
+    "the netherlands": 1,
+    "united states": 1,
+    "denmark": 1,
+    "szeged": 1,
+    "san jose, ca": 1,
+    "szeged, hungary": 1,
+    "san francisco, ca": 1,
+    "the internet": 1,
+    "amsterdam": 1,
+    "wisconsin, usa": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T20:42:57.354Z"
 }

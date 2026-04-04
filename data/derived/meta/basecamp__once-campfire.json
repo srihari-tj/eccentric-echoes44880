@@ -21,5 +21,25 @@
   "watchers": 3803,
   "html_url": "https://github.com/basecamp/once-campfire",
   "api_url": "https://api.github.com/repos/basecamp/once-campfire",
-  "fetched_at": "2025-12-30T05:13:46.870Z"
+  "fetched_at": "2025-12-30T05:13:46.870Z",
+  "contributor_locations": {
+    "zagreb": 1,
+    "unknown": 6,
+    "tokyo": 1,
+    "edinburgh, scotland": 1,
+    "edmond, ok": 1,
+    "san diego, ca": 1,
+    "bangalore": 1,
+    "berlin, germany": 1,
+    "new york city / new jersey": 1,
+    "timisoara, romania": 1,
+    "jordan": 1,
+    "remote, from italy": 1,
+    "tokyo, japan": 1,
+    "lancaster county, pa": 1,
+    "wellington, new zealand": 1,
+    "madrid 🇪🇸 / antwerp 🇧🇪": 1,
+    "india": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T20:42:44.687Z"
 }
