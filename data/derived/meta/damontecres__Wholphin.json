@@ -26,5 +26,13 @@
   "watchers": 848,
   "html_url": "https://github.com/damontecres/Wholphin",
   "api_url": "https://api.github.com/repos/damontecres/Wholphin",
-  "fetched_at": "2025-12-30T05:14:09.383Z"
+  "fetched_at": "2025-12-30T05:14:09.383Z",
+  "contributor_locations": {
+    "unknown": 9,
+    "polska": 1,
+    "germany": 1,
+    "poland": 1,
+    "italy": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T21:43:02.471Z"
 }

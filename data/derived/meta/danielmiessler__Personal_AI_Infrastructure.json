@@ -25,5 +25,19 @@
   "watchers": 2959,
   "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
   "api_url": "https://api.github.com/repos/danielmiessler/Personal_AI_Infrastructure",
-  "fetched_at": "2026-01-03T06:49:33.218Z"
+  "fetched_at": "2026-01-03T06:49:33.218Z",
+  "contributor_locations": {
+    "san francisco bay area": 1,
+    "unknown": 12,
+    "california, united states": 1,
+    "germany": 2,
+    "canada": 1,
+    "london, uk": 1,
+    "earth": 1,
+    "hamburg, germany": 1,
+    "brighton, uk": 1,
+    "[\"phl\", \"iow\"]": 1,
+    "los angeles, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T21:44:11.798Z"
 }

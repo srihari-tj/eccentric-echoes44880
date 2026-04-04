@@ -21,5 +21,14 @@
   "watchers": 274,
   "html_url": "https://github.com/dependabot/demo",
   "api_url": "https://api.github.com/repos/dependabot/demo",
-  "fetched_at": "2025-12-30T05:14:15.975Z"
+  "fetched_at": "2025-12-30T05:14:15.975Z",
+  "contributor_locations": {
+    "unknown": 4,
+    "bellingham, wa": 1,
+    "stockholm, sweden": 1,
+    "seattle, wa": 1,
+    "zurich, switzerland": 1,
+    "st. louis, missouri, usa": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T22:25:43.433Z"
 }

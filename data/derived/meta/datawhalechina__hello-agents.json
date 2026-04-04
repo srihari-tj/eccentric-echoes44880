@@ -26,5 +26,32 @@
   "watchers": 13280,
   "html_url": "https://github.com/datawhalechina/hello-agents",
   "api_url": "https://api.github.com/repos/datawhalechina/hello-agents",
-  "fetched_at": "2025-12-30T05:14:12.048Z"
+  "fetched_at": "2025-12-30T05:14:12.048Z",
+  "contributor_locations": {
+    "china": 2,
+    "unknown": 34,
+    "shanghai": 3,
+    "hunan university changsha": 1,
+    "london": 1,
+    "beijing prc": 1,
+    "hangzhou,zhejiang": 1,
+    "上海": 1,
+    "广州": 1,
+    "chengdu,china": 1,
+    "beijing, china": 1,
+    "shanghai dianji university": 1,
+    "shanghai,china": 1,
+    "shenzhen": 1,
+    "hangzhou": 1,
+    "hunan": 1,
+    "guangzhou": 1,
+    "福建省厦门市集美区集美大道668号": 1,
+    "beijing": 2,
+    "taiwan": 1,
+    "beijing,china": 1,
+    "japan": 1,
+    "chengdu, sichuan province, china": 1,
+    "beijing china": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T21:46:02.992Z"
 }
