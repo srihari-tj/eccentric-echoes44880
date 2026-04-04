@@ -21,5 +21,21 @@
   "watchers": 619,
   "html_url": "https://github.com/RosettaCommons/foundry",
   "api_url": "https://api.github.com/repos/RosettaCommons/foundry",
-  "fetched_at": "2025-12-30T05:13:03.123Z"
+  "fetched_at": "2025-12-30T05:13:03.123Z",
+  "contributor_locations": {
+    "seattle": 5,
+    "oxford, uk": 1,
+    "san francisco, ca": 1,
+    "unknown": 17,
+    "cambridge uk": 1,
+    "seattle, washington": 1,
+    "seattle, u.s.": 1,
+    "cambridge, uk": 1,
+    "seoul, korea": 1,
+    "seattle, wa": 1,
+    "palo alto, ca": 1,
+    "stanford university": 1,
+    "oxford": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T12:32:54.882Z"
 }

@@ -21,5 +21,10 @@
   "watchers": 5444,
   "html_url": "https://github.com/SkyworkAI/SkyReels-V2",
   "api_url": "https://api.github.com/repos/SkyworkAI/SkyReels-V2",
-  "fetched_at": "2025-12-30T05:13:05.328Z"
+  "fetched_at": "2025-12-30T05:13:05.328Z",
+  "contributor_locations": {
+    "unknown": 8,
+    "beijing": 3
+  },
+  "contributor_locations_updated_at": "2026-04-04T13:10:53.220Z"
 }

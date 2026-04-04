@@ -23,5 +23,26 @@
   "watchers": 291,
   "html_url": "https://github.com/TheOdinProject/ruby-exercises",
   "api_url": "https://api.github.com/repos/TheOdinProject/ruby-exercises",
-  "fetched_at": "2025-12-30T05:13:08.761Z"
+  "fetched_at": "2025-12-30T05:13:08.761Z",
+  "contributor_locations": {
+    "illinois": 1,
+    "portland, or": 1,
+    "unknown": 12,
+    "ireland": 1,
+    "newcastle region, nsw australia": 1,
+    "new jersey": 1,
+    "india": 1,
+    "florida": 1,
+    "united states": 2,
+    "united kingdom": 1,
+    "são paulo, brasil": 1,
+    "lviv, ukraine": 1,
+    "poland": 1,
+    "lomita, ca": 1,
+    "mtl, québec": 1,
+    "california, usa": 1,
+    "brazil": 1,
+    "vienna, austria": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T13:15:47.804Z"
 }

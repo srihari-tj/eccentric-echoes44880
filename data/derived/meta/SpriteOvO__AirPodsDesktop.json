@@ -32,5 +32,15 @@
   "watchers": 2352,
   "html_url": "https://github.com/SpriteOvO/AirPodsDesktop",
   "api_url": "https://api.github.com/repos/SpriteOvO/AirPodsDesktop",
-  "fetched_at": "2025-12-30T05:13:05.641Z"
+  "fetched_at": "2025-12-30T05:13:05.641Z",
+  "contributor_locations": {
+    "wuhan <- chengdu, china": 1,
+    "unknown": 2,
+    "china": 1,
+    "kyiv, ukraine": 1,
+    "taiwan, r.o.c": 1,
+    "okayama, japan": 1,
+    "germany": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T13:10:54.970Z"
 }
