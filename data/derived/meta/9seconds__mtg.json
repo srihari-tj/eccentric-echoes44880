@@ -1,0 +1,29 @@
+{
+  "owner": "9seconds",
+  "repo": "9seconds/mtg",
+  "name": "mtg",
+  "full_name": "9seconds/mtg",
+  "description": "Highly opinionated MTPROTO proxy for Telegram",
+  "homepage": "https://github.com/9seconds/mtg",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "mtproto",
+    "mtproxy",
+    "telegram"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-05-31T06:55:52Z",
+  "pushed_at": "2026-04-01T15:20:33Z",
+  "size": 11362,
+  "stars_now": 3120,
+  "forks": 337,
+  "open_issues": 6,
+  "subscribers": 55,
+  "watchers": 3120,
+  "html_url": "https://github.com/9seconds/mtg",
+  "api_url": "https://api.github.com/repos/9seconds/mtg",
+  "fetched_at": "2026-04-04T10:09:53.975Z"
+}

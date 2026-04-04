@@ -1,0 +1,30 @@
+{
+  "owner": "OuterTune",
+  "repo": "OuterTune/OuterTune",
+  "name": "OuterTune",
+  "full_name": "OuterTune/OuterTune",
+  "description": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
+  "homepage": "https://github.com/OuterTune/OuterTune",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "jetpack-compose",
+    "material-ui",
+    "music-player"
+  ],
+  "default_branch": "dev",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-05-13T13:55:37Z",
+  "pushed_at": "2026-03-31T22:33:11Z",
+  "size": 63099,
+  "stars_now": 4907,
+  "forks": 288,
+  "open_issues": 278,
+  "subscribers": 51,
+  "watchers": 4907,
+  "html_url": "https://github.com/OuterTune/OuterTune",
+  "api_url": "https://api.github.com/repos/OuterTune/OuterTune",
+  "fetched_at": "2026-04-04T10:09:59.894Z"
+}

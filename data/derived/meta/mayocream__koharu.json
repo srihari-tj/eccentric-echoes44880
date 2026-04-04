@@ -1,0 +1,33 @@
+{
+  "owner": "mayocream",
+  "repo": "mayocream/koharu",
+  "name": "koharu",
+  "full_name": "mayocream/koharu",
+  "description": "ML-powered manga translator, written in Rust.",
+  "homepage": "https://koharu.rs",
+  "language": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+    "computer-vision",
+    "deep-learning",
+    "gpu",
+    "japanese",
+    "manga",
+    "rust",
+    "tauri"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-04-09T10:52:34Z",
+  "pushed_at": "2026-04-03T22:44:57Z",
+  "size": 33298,
+  "stars_now": 1703,
+  "forks": 82,
+  "open_issues": 71,
+  "subscribers": 8,
+  "watchers": 1703,
+  "html_url": "https://github.com/mayocream/koharu",
+  "api_url": "https://api.github.com/repos/mayocream/koharu",
+  "fetched_at": "2026-04-04T10:10:15.747Z"
+}

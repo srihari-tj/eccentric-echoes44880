@@ -29,5 +29,12 @@
   "watchers": 2817,
   "html_url": "https://github.com/AAswordman/Operit",
   "api_url": "https://api.github.com/repos/AAswordman/Operit",
-  "fetched_at": "2025-12-30T05:12:15.022Z"
+  "fetched_at": "2025-12-30T05:12:15.022Z",
+  "contributor_locations": {
+    "unknown": 10,
+    "chengdu": 1,
+    "zhejiang, china": 1,
+    "松树桥第一中学": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T10:10:52.074Z"
 }

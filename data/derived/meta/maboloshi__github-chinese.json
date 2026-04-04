@@ -1,0 +1,32 @@
+{
+  "owner": "maboloshi",
+  "repo": "maboloshi/github-chinese",
+  "name": "github-chinese",
+  "full_name": "maboloshi/github-chinese",
+  "description": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)",
+  "homepage": "https://maboloshi.github.io/github-chinese/",
+  "language": "JavaScript",
+  "license": "GPL-3.0",
+  "topics": [
+    "github",
+    "greasyfork",
+    "macaque",
+    "tampermonkey",
+    "userscript",
+    "violentmonkey"
+  ],
+  "default_branch": "gh-pages",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-09-27T08:47:55Z",
+  "pushed_at": "2026-04-02T16:15:14Z",
+  "size": 69813,
+  "stars_now": 22375,
+  "forks": 1244,
+  "open_issues": 53,
+  "subscribers": 95,
+  "watchers": 22375,
+  "html_url": "https://github.com/maboloshi/github-chinese",
+  "api_url": "https://api.github.com/repos/maboloshi/github-chinese",
+  "fetched_at": "2026-04-04T10:10:15.106Z"
+}

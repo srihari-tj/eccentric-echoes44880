@@ -1,0 +1,31 @@
+{
+  "owner": "dmtrKovalenko",
+  "repo": "dmtrKovalenko/fff.nvim",
+  "name": "fff.nvim",
+  "full_name": "dmtrKovalenko/fff.nvim",
+  "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+  "homepage": "https://fff.dmtrkovalenko.dev/",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "filesearch",
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "rust"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-07-31T22:01:49Z",
+  "pushed_at": "2026-04-04T10:07:35Z",
+  "size": 4446,
+  "stars_now": 3422,
+  "forks": 141,
+  "open_issues": 50,
+  "subscribers": 3,
+  "watchers": 3422,
+  "html_url": "https://github.com/dmtrKovalenko/fff.nvim",
+  "api_url": "https://api.github.com/repos/dmtrKovalenko/fff.nvim",
+  "fetched_at": "2026-04-04T10:10:07.856Z"
+}

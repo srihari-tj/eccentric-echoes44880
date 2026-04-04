@@ -25,5 +25,21 @@
   "watchers": 3461,
   "html_url": "https://github.com/ArthurBrussee/brush",
   "api_url": "https://api.github.com/repos/ArthurBrussee/brush",
-  "fetched_at": "2025-12-30T05:12:17.895Z"
+  "fetched_at": "2025-12-30T05:12:17.895Z",
+  "contributor_locations": {
+    "london, engeland": 1,
+    "braunschweig, germany": 1,
+    "france": 1,
+    "unknown": 3,
+    "zurich, switzerland": 1,
+    "paris": 1,
+    "belgium": 1,
+    "munich, germany": 1,
+    "earth": 1,
+    "den haag": 1,
+    "the netherlands": 1,
+    "amsterdam": 1,
+    "kiel, germany": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T10:14:13.313Z"
 }

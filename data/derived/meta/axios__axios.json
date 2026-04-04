@@ -1,0 +1,31 @@
+{
+  "owner": "axios",
+  "repo": "axios/axios",
+  "name": "axios",
+  "full_name": "axios/axios",
+  "description": "Promise based HTTP client for the browser and node.js",
+  "homepage": "https://axios-http.com",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "hacktoberfest",
+    "http-client",
+    "javascript",
+    "nodejs",
+    "promise"
+  ],
+  "default_branch": "v1.x",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-08-18T22:30:27Z",
+  "pushed_at": "2026-04-04T01:31:51Z",
+  "size": 25314,
+  "stars_now": 109023,
+  "forks": 11594,
+  "open_issues": 358,
+  "subscribers": 1166,
+  "watchers": 109023,
+  "html_url": "https://github.com/axios/axios",
+  "api_url": "https://api.github.com/repos/axios/axios",
+  "fetched_at": "2026-04-04T10:10:04.369Z"
+}

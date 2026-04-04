@@ -1,0 +1,31 @@
+{
+  "owner": "siddharthvaddem",
+  "repo": "siddharthvaddem/openscreen",
+  "name": "openscreen",
+  "full_name": "siddharthvaddem/openscreen",
+  "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
+  "homepage": "https://openscreen.vercel.app",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "electron",
+    "open-source",
+    "pixijs",
+    "screen-capture",
+    "screen-recorder"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-10-10T05:36:55Z",
+  "pushed_at": "2026-04-04T05:56:02Z",
+  "size": 161085,
+  "stars_now": 18721,
+  "forks": 1285,
+  "open_issues": 63,
+  "subscribers": 41,
+  "watchers": 18721,
+  "html_url": "https://github.com/siddharthvaddem/openscreen",
+  "api_url": "https://api.github.com/repos/siddharthvaddem/openscreen",
+  "fetched_at": "2026-04-04T10:10:22.070Z"
+}

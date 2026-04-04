@@ -1,0 +1,31 @@
+{
+  "owner": "dreamhunter2333",
+  "repo": "dreamhunter2333/cloudflare_temp_email",
+  "name": "cloudflare_temp_email",
+  "full_name": "dreamhunter2333/cloudflare_temp_email",
+  "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+  "homepage": "https://mail.awsl.uk",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "cloudflare-email",
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "email",
+    "free"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-08-15T16:35:52Z",
+  "pushed_at": "2026-04-04T09:36:45Z",
+  "size": 8356,
+  "stars_now": 7977,
+  "forks": 4738,
+  "open_issues": 30,
+  "subscribers": 20,
+  "watchers": 7977,
+  "html_url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+  "api_url": "https://api.github.com/repos/dreamhunter2333/cloudflare_temp_email",
+  "fetched_at": "2026-04-04T10:10:08.162Z"
+}

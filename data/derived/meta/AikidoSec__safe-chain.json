@@ -21,5 +21,16 @@
   "watchers": 653,
   "html_url": "https://github.com/AikidoSec/safe-chain",
   "api_url": "https://api.github.com/repos/AikidoSec/safe-chain",
-  "fetched_at": "2025-12-30T05:12:16.433Z"
+  "fetched_at": "2025-12-30T05:12:16.433Z",
+  "contributor_locations": {
+    "langemark, belgium": 1,
+    "portland, or": 1,
+    "bruxelles": 1,
+    "belgium": 2,
+    "unknown": 5,
+    "cologne, germany": 1,
+    "the netherlands": 2,
+    "mönchengladbach / germany": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T10:12:47.752Z"
 }

@@ -1,0 +1,29 @@
+{
+  "owner": "rack",
+  "repo": "rack/rack",
+  "name": "rack",
+  "full_name": "rack/rack",
+  "description": "A modular Ruby web server interface.",
+  "homepage": "https://github.com/rack/rack",
+  "language": "Ruby",
+  "license": "NOASSERTION",
+  "topics": [
+    "rack",
+    "ruby",
+    "web"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2008-12-24T03:03:12Z",
+  "pushed_at": "2026-04-03T01:06:37Z",
+  "size": 10744,
+  "stars_now": 5108,
+  "forks": 1672,
+  "open_issues": 20,
+  "subscribers": 154,
+  "watchers": 5108,
+  "html_url": "https://github.com/rack/rack",
+  "api_url": "https://api.github.com/repos/rack/rack",
+  "fetched_at": "2026-04-04T10:10:19.577Z"
+}

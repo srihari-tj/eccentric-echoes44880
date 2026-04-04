@@ -1,0 +1,33 @@
+{
+  "owner": "apache",
+  "repo": "apache/incubator-seata",
+  "name": "incubator-seata",
+  "full_name": "apache/incubator-seata",
+  "description": ":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+  "homepage": "https://seata.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "at",
+    "consistency",
+    "distributed-transaction",
+    "microservice",
+    "saga",
+    "tcc",
+    "xa"
+  ],
+  "default_branch": "2.x",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-12-28T08:37:22Z",
+  "pushed_at": "2026-04-02T10:17:09Z",
+  "size": 31237,
+  "stars_now": 25969,
+  "forks": 8892,
+  "open_issues": 878,
+  "subscribers": 828,
+  "watchers": 25969,
+  "html_url": "https://github.com/apache/incubator-seata",
+  "api_url": "https://api.github.com/repos/apache/incubator-seata",
+  "fetched_at": "2026-04-04T10:10:04.012Z"
+}

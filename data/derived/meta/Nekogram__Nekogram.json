@@ -1,0 +1,28 @@
+{
+  "owner": "Nekogram",
+  "repo": "Nekogram/Nekogram",
+  "name": "Nekogram",
+  "full_name": "Nekogram/Nekogram",
+  "description": "Open-source third-party Telegram client with not many but useful modifications.",
+  "homepage": "https://nekogram.app",
+  "language": "Java",
+  "license": "GPL-2.0",
+  "topics": [
+    "nekogram",
+    "telegram"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-09-10T07:07:51Z",
+  "pushed_at": "2026-04-01T12:06:49Z",
+  "size": 524545,
+  "stars_now": 3608,
+  "forks": 216,
+  "open_issues": 26,
+  "subscribers": 21,
+  "watchers": 3608,
+  "html_url": "https://github.com/Nekogram/Nekogram",
+  "api_url": "https://api.github.com/repos/Nekogram/Nekogram",
+  "fetched_at": "2026-04-04T10:09:59.212Z"
+}

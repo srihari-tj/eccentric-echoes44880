@@ -1,0 +1,28 @@
+{
+  "owner": "nicbarker",
+  "repo": "nicbarker/clay",
+  "name": "clay",
+  "full_name": "nicbarker/clay",
+  "description": "High performance UI layout library in C.",
+  "homepage": "https://nicbarker.com/clay",
+  "language": "C",
+  "license": "Zlib",
+  "topics": [
+    "layout",
+    "ui"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-07-21T01:40:27Z",
+  "pushed_at": "2026-04-02T02:14:08Z",
+  "size": 18869,
+  "stars_now": 16950,
+  "forks": 656,
+  "open_issues": 242,
+  "subscribers": 99,
+  "watchers": 16950,
+  "html_url": "https://github.com/nicbarker/clay",
+  "api_url": "https://api.github.com/repos/nicbarker/clay",
+  "fetched_at": "2026-04-04T10:10:16.715Z"
+}

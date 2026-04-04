@@ -1,0 +1,29 @@
+{
+  "owner": "fathyb",
+  "repo": "fathyb/carbonyl",
+  "name": "carbonyl",
+  "full_name": "fathyb/carbonyl",
+  "description": "Chromium running inside your terminal",
+  "homepage": "https://github.com/fathyb/carbonyl",
+  "language": "Rust",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "browser",
+    "chromium",
+    "terminal"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-01-20T10:58:22Z",
+  "pushed_at": "2024-07-01T14:31:50Z",
+  "size": 283,
+  "stars_now": 18044,
+  "forks": 466,
+  "open_issues": 82,
+  "subscribers": 91,
+  "watchers": 18044,
+  "html_url": "https://github.com/fathyb/carbonyl",
+  "api_url": "https://api.github.com/repos/fathyb/carbonyl",
+  "fetched_at": "2026-04-04T10:10:08.832Z"
+}
