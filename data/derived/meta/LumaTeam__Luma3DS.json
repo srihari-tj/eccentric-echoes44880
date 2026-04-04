@@ -1,0 +1,30 @@
+{
+  "owner": "LumaTeam",
+  "repo": "LumaTeam/Luma3DS",
+  "name": "Luma3DS",
+  "full_name": "LumaTeam/Luma3DS",
+  "description": "Nintendo 3DS \"Custom Firmware\"",
+  "homepage": "https://github.com/LumaTeam/Luma3DS",
+  "language": "C",
+  "license": "GPL-3.0",
+  "topics": [
+    "3ds",
+    "custom-firmware",
+    "homebrew",
+    "nintendo-3ds"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-02-08T02:26:12Z",
+  "pushed_at": "2026-04-02T22:54:32Z",
+  "size": 8982,
+  "stars_now": 6327,
+  "forks": 618,
+  "open_issues": 132,
+  "subscribers": 340,
+  "watchers": 6327,
+  "html_url": "https://github.com/LumaTeam/Luma3DS",
+  "api_url": "https://api.github.com/repos/LumaTeam/Luma3DS",
+  "fetched_at": "2026-04-04T19:21:35.008Z"
+}

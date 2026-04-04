@@ -21,5 +21,27 @@
   "watchers": 1647,
   "html_url": "https://github.com/a2x/cs2-dumper",
   "api_url": "https://api.github.com/repos/a2x/cs2-dumper",
-  "fetched_at": "2025-12-30T05:13:17.234Z"
+  "fetched_at": "2025-12-30T05:13:17.234Z",
+  "contributor_locations": {
+    "unknown": 24,
+    "canada": 1,
+    "united states": 2,
+    "marília - sp": 1,
+    "waianae": 1,
+    "washington dc": 1,
+    "poland": 1,
+    "croatia": 1,
+    "sasebo naval commander": 1,
+    "germany, lower saxony": 1,
+    "moscow, russia": 1,
+    "kazakhstan": 1,
+    "warsaw": 1,
+    "vilnius, lithuania": 1,
+    "prague": 1,
+    "hershey, pa": 1,
+    "undefined": 1,
+    "hanzhong": 1,
+    "tehran, iran": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:24:56.106Z"
 }

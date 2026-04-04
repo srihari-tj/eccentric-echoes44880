@@ -21,5 +21,23 @@
   "watchers": 13527,
   "html_url": "https://github.com/agentsmd/agents.md",
   "api_url": "https://api.github.com/repos/agentsmd/agents.md",
-  "fetched_at": "2025-12-30T05:13:21.603Z"
+  "fetched_at": "2025-12-30T05:13:21.603Z",
+  "contributor_locations": {
+    "san francisco, ca": 1,
+    "unknown": 6,
+    "united states": 1,
+    "stanford": 1,
+    "new york": 1,
+    "london, uk": 1,
+    "brisbane, australia": 1,
+    "india": 1,
+    "taiwan, r.o.c": 1,
+    "cyprus": 1,
+    "san francisco": 1,
+    "austin, tx": 1,
+    "pa, usa": 1,
+    "sao paulo": 1,
+    "new orleans, la": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:30:24.565Z"
 }

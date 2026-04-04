@@ -1,0 +1,32 @@
+{
+  "owner": "go-git",
+  "repo": "go-git/go-git",
+  "name": "go-git",
+  "full_name": "go-git/go-git",
+  "description": "A highly extensible Git implementation in pure Go.",
+  "homepage": "https://pkg.go.dev/github.com/go-git/go-git/v6",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "git",
+    "git-client",
+    "git-library",
+    "git-server",
+    "go-git",
+    "golang"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-12-19T10:27:02Z",
+  "pushed_at": "2026-04-04T07:50:42Z",
+  "size": 8830,
+  "stars_now": 7302,
+  "forks": 905,
+  "open_issues": 175,
+  "subscribers": 42,
+  "watchers": 7302,
+  "html_url": "https://github.com/go-git/go-git",
+  "api_url": "https://api.github.com/repos/go-git/go-git",
+  "fetched_at": "2026-04-04T19:21:37.540Z"
+}

@@ -21,5 +21,12 @@
   "watchers": 3575,
   "html_url": "https://github.com/aaa1115910/bv",
   "api_url": "https://api.github.com/repos/aaa1115910/bv",
-  "fetched_at": "2025-12-30T05:13:17.574Z"
+  "fetched_at": "2025-12-30T05:13:17.574Z",
+  "contributor_locations": {
+    "unknown": 5,
+    "chengdu, china": 1,
+    "china": 1,
+    "sanya,china": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:24:58.653Z"
 }

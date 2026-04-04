@@ -42,5 +42,17 @@
   "watchers": 6907,
   "html_url": "https://github.com/aandrew-me/ytDownloader",
   "api_url": "https://api.github.com/repos/aandrew-me/ytDownloader",
-  "fetched_at": "2025-12-30T05:13:17.959Z"
+  "fetched_at": "2025-12-30T05:13:17.959Z",
+  "contributor_locations": {
+    "127.0.0.1": 1,
+    "vicenza-italy": 1,
+    "unknown": 7,
+    "brazil": 1,
+    "chile": 1,
+    "mars": 1,
+    "yekaterinburg": 1,
+    "norway": 1,
+    "guangzhou, china": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:25:03.322Z"
 }

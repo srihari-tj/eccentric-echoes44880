@@ -25,5 +25,22 @@
   "watchers": 2107,
   "html_url": "https://github.com/afkarxyz/SpotiFLAC",
   "api_url": "https://api.github.com/repos/afkarxyz/SpotiFLAC",
-  "fetched_at": "2026-01-03T06:49:19.811Z"
+  "fetched_at": "2026-01-03T06:49:19.811Z",
+  "contributor_locations": {
+    "east java": 2,
+    "unknown": 6,
+    "germany": 2,
+    "localhost": 1,
+    "phoenix, az": 1,
+    "illinois, usa": 1,
+    "devon, united kingdom": 1,
+    "westfield, in": 1,
+    "smwhere in france": 1,
+    "morocco": 1,
+    "prague - czech republic": 1,
+    "vietnam": 1,
+    "brasil": 1,
+    "burlington, vt": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:30:00.448Z"
 }

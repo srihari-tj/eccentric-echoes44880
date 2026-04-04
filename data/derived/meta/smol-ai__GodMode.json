@@ -1,0 +1,31 @@
+{
+  "owner": "smol-ai",
+  "repo": "smol-ai/GodMode",
+  "name": "GodMode",
+  "full_name": "smol-ai/GodMode",
+  "description": "AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.",
+  "homepage": "https://smol.ai",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "bard",
+    "chatgpt",
+    "electron",
+    "google",
+    "menubar"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-05-15T07:39:14Z",
+  "pushed_at": "2024-07-29T00:31:03Z",
+  "size": 5736,
+  "stars_now": 4919,
+  "forks": 436,
+  "open_issues": 59,
+  "subscribers": 45,
+  "watchers": 4919,
+  "html_url": "https://github.com/smol-ai/GodMode",
+  "api_url": "https://api.github.com/repos/smol-ai/GodMode",
+  "fetched_at": "2026-04-04T19:21:40.490Z"
+}
