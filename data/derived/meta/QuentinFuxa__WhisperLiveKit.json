@@ -21,5 +21,32 @@
   "watchers": 9365,
   "html_url": "https://github.com/QuentinFuxa/WhisperLiveKit",
   "api_url": "https://api.github.com/repos/QuentinFuxa/WhisperLiveKit",
-  "fetched_at": "2025-12-30T05:13:00.083Z"
+  "fetched_at": "2025-12-30T05:13:00.083Z",
+  "contributor_locations": {
+    "paris": 1,
+    "prague": 1,
+    "geneva": 1,
+    "unknown": 11,
+    "the netherlands": 1,
+    "argentina": 1,
+    "tokyo, japan": 1,
+    "montevideo, uruguay": 1,
+    "lecco, italy": 1,
+    "united states": 1,
+    "sydney, australia": 1,
+    "italy": 1,
+    "china": 2,
+    "buffalo, ny": 1,
+    "hangzhou,china": 1,
+    "seoul, south korea": 1,
+    "portland, oregon": 1,
+    "online; prague, czechia": 1,
+    "gurugram": 1,
+    "helsinki": 1,
+    "barcelona, spain": 1,
+    "korea": 1,
+    "cologne": 1,
+    "beijing": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T12:31:20.428Z"
 }
