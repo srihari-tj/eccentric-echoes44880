@@ -21,5 +21,24 @@
   "watchers": 12996,
   "html_url": "https://github.com/anthropics/claude-quickstarts",
   "api_url": "https://api.github.com/repos/anthropics/claude-quickstarts",
-  "fetched_at": "2025-12-30T05:13:30.509Z"
+  "fetched_at": "2025-12-30T05:13:30.509Z",
+  "contributor_locations": {
+    "sf": 1,
+    "san francisco": 3,
+    "colorado": 1,
+    "new york city": 1,
+    "unknown": 11,
+    "asheville, nc": 1,
+    "california": 1,
+    "united states": 1,
+    "new york": 1,
+    "bangkok, thailand": 1,
+    "crested butte, co, usa": 1,
+    "tokyo, japan": 1,
+    "brooklyn, ny": 1,
+    "berkeley, ca usa": 1,
+    "new york, usa": 1,
+    "denver, co": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:37:55.633Z"
 }

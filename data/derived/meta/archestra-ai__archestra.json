@@ -42,5 +42,28 @@
   "watchers": 386,
   "html_url": "https://github.com/archestra-ai/archestra",
   "api_url": "https://api.github.com/repos/archestra-ai/archestra",
-  "fetched_at": "2025-12-30T05:13:37.168Z"
+  "fetched_at": "2025-12-30T05:13:37.168Z",
+  "contributor_locations": {
+    "montréal, canada": 1,
+    "unknown": 18,
+    "wrocław": 1,
+    "london": 1,
+    "berlin, germany": 1,
+    "brazil": 1,
+    "vienna": 1,
+    "pune, india": 1,
+    "india": 3,
+    "chandigarh": 1,
+    "pakistan": 1,
+    "lyon, france": 1,
+    "argentina": 1,
+    "delhi. india": 1,
+    "berkeley, ca": 1,
+    "ukraine, odessa": 1,
+    "spain, valencia": 1,
+    "dublin": 1,
+    "delhi": 1,
+    "aix-en-provence": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T20:27:15.900Z"
 }

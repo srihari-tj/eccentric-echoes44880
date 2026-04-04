@@ -31,5 +31,27 @@
   "watchers": 9395,
   "html_url": "https://github.com/amnezia-vpn/amnezia-client",
   "api_url": "https://api.github.com/repos/amnezia-vpn/amnezia-client",
-  "fetched_at": "2025-12-30T05:13:26.438Z"
+  "fetched_at": "2025-12-30T05:13:26.438Z",
+  "contributor_locations": {
+    "unknown": 57,
+    "kiev": 1,
+    "belgrade": 1,
+    "haifa": 1,
+    "ukraine": 1,
+    "kyiv": 1,
+    "egypt": 1,
+    "tlemcen, algeria": 1,
+    "moscow, russia": 1,
+    "amritsar": 1,
+    "north carolina": 1,
+    "yerevan, armenia": 1,
+    "paphos, cyprus": 1,
+    "stockholm, sweden": 1,
+    "tbilisi, georgia": 1,
+    "cocos islands": 1,
+    "toronto": 1,
+    "georgia, tbilisi": 1,
+    "tokyo, japan": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:34:56.684Z"
 }

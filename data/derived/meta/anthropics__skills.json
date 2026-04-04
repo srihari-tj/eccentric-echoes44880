@@ -21,5 +21,13 @@
   "watchers": 31936,
   "html_url": "https://github.com/anthropics/skills",
   "api_url": "https://api.github.com/repos/anthropics/skills",
-  "fetched_at": "2026-01-03T06:49:21.794Z"
+  "fetched_at": "2026-01-03T06:49:21.794Z",
+  "contributor_locations": {
+    "cleveland": 1,
+    "unknown": 6,
+    "belgium": 1,
+    "brooklyn, ny": 1,
+    "san francisco, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:37:58.817Z"
 }

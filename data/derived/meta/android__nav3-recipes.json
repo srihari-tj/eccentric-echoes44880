@@ -25,5 +25,28 @@
   "watchers": 1060,
   "html_url": "https://github.com/android/nav3-recipes",
   "api_url": "https://api.github.com/repos/android/nav3-recipes",
-  "fetched_at": "2025-12-30T05:13:28.828Z"
+  "fetched_at": "2025-12-30T05:13:28.828Z",
+  "contributor_locations": {
+    "london": 1,
+    "vancouver bc canada": 1,
+    "fossano": 1,
+    "atlanta": 1,
+    "new york": 1,
+    "france": 1,
+    "unknown": 2,
+    "sunnyvale, ca": 1,
+    "chengdu, china": 1,
+    "kyoto /japan": 1,
+    "china": 1,
+    "san francisco, california": 1,
+    "atlanta, ga": 1,
+    "japan": 1,
+    "earth": 1,
+    "bandung, indonesia": 1,
+    "the netherlands": 1,
+    "madrid, spain": 1,
+    "london, uk": 1,
+    "schrödinger’s desk": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T19:36:54.014Z"
 }
