@@ -28,5 +28,13 @@
   "watchers": 1055,
   "html_url": "https://github.com/WCY-dt/MrRSS",
   "api_url": "https://api.github.com/repos/WCY-dt/MrRSS",
-  "fetched_at": "2025-12-30T05:13:12.613Z"
+  "fetched_at": "2025-12-30T05:13:12.613Z",
+  "contributor_locations": {
+    "nearby": 1,
+    "unknown": 5,
+    "changsha": 1,
+    "china": 1,
+    "127.1": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T13:17:43.716Z"
 }
