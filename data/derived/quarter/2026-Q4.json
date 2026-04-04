@@ -1,701 +1,701 @@
 [
   {
+    "repo": "0x23/MicroManipulatorStepper",
+    "cumulative_start": 1474,
+    "cumulative_end": 1474,
+    "delta": 0,
+    "rank": 1
+  },
+  {
+    "repo": "0x4m4/hexstrike-ai",
+    "cumulative_start": 6129,
+    "cumulative_end": 6129,
+    "delta": 0,
+    "rank": 2
+  },
+  {
+    "repo": "0xPlaygrounds/rig",
+    "cumulative_start": 5428,
+    "cumulative_end": 5428,
+    "delta": 0,
+    "rank": 3
+  },
+  {
     "repo": "1Panel-dev/1Panel",
     "cumulative_start": 31961,
     "cumulative_end": 31961,
     "delta": 0,
-    "rank": 1
+    "rank": 4
   },
   {
     "repo": "2dust/v2rayNG",
     "cumulative_start": 40000,
     "cumulative_end": 40000,
     "delta": 0,
-    "rank": 2
+    "rank": 5
+  },
+  {
+    "repo": "3b1b/manim",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 6
   },
   {
     "repo": "4ian/GDevelop",
     "cumulative_start": 18847,
     "cumulative_end": 18847,
     "delta": 0,
-    "rank": 3
+    "rank": 7
+  },
+  {
+    "repo": "5rahim/seanime",
+    "cumulative_start": 2369,
+    "cumulative_end": 2369,
+    "delta": 0,
+    "rank": 8
+  },
+  {
+    "repo": "648540858/wvp-GB28181-pro",
+    "cumulative_start": 6587,
+    "cumulative_end": 6587,
+    "delta": 0,
+    "rank": 9
   },
   {
     "repo": "666ghj/BettaFish",
     "cumulative_start": 17316,
     "cumulative_end": 17316,
     "delta": 0,
-    "rank": 4
+    "rank": 10
+  },
+  {
+    "repo": "666ghj/MiroFish",
+    "cumulative_start": 6760,
+    "cumulative_end": 6760,
+    "delta": 0,
+    "rank": 11
+  },
+  {
+    "repo": "7836246/cursor2api",
+    "cumulative_start": 1035,
+    "cumulative_end": 1035,
+    "delta": 0,
+    "rank": 12
+  },
+  {
+    "repo": "78/xiaozhi-esp32",
+    "cumulative_start": 23037,
+    "cumulative_end": 23037,
+    "delta": 0,
+    "rank": 13
+  },
+  {
+    "repo": "7Sageer/sublink-worker",
+    "cumulative_start": 4160,
+    "cumulative_end": 4160,
+    "delta": 0,
+    "rank": 14
   },
   {
     "repo": "9001/copyparty",
     "cumulative_start": 34064,
     "cumulative_end": 34064,
     "delta": 0,
-    "rank": 5
+    "rank": 15
+  },
+  {
+    "repo": "9seconds/mtg",
+    "cumulative_start": 2692,
+    "cumulative_end": 2692,
+    "delta": 0,
+    "rank": 16
+  },
+  {
+    "repo": "A-EDev/Flow",
+    "cumulative_start": 238,
+    "cumulative_end": 238,
+    "delta": 0,
+    "rank": 17
   },
   {
     "repo": "AAswordman/Operit",
     "cumulative_start": 2796,
     "cumulative_end": 2796,
     "delta": 0,
-    "rank": 6
+    "rank": 18
+  },
+  {
+    "repo": "AFLplusplus/AFLplusplus",
+    "cumulative_start": 6327,
+    "cumulative_end": 6327,
+    "delta": 0,
+    "rank": 19
+  },
+  {
+    "repo": "ARMmbed/mbed-os",
+    "cumulative_start": 4819,
+    "cumulative_end": 4819,
+    "delta": 0,
+    "rank": 20
   },
   {
     "repo": "AUTOMATIC1111/stable-diffusion-webui",
     "cumulative_start": 40000,
     "cumulative_end": 40000,
     "delta": 0,
-    "rank": 7
+    "rank": 21
   },
   {
     "repo": "Ackites/Nrfr",
     "cumulative_start": 4948,
     "cumulative_end": 4948,
     "delta": 0,
-    "rank": 8
+    "rank": 22
+  },
+  {
+    "repo": "Acode-Foundation/Acode",
+    "cumulative_start": 4430,
+    "cumulative_end": 4430,
+    "delta": 0,
+    "rank": 23
+  },
+  {
+    "repo": "Adaptix-Framework/AdaptixC2",
+    "cumulative_start": 2651,
+    "cumulative_end": 2651,
+    "delta": 0,
+    "rank": 24
   },
   {
     "repo": "AdguardTeam/AdGuardHome",
     "cumulative_start": 31708,
     "cumulative_end": 31708,
     "delta": 0,
-    "rank": 9
+    "rank": 25
+  },
+  {
+    "repo": "Agent-Field/agentfield",
+    "cumulative_start": 1184,
+    "cumulative_end": 1184,
+    "delta": 0,
+    "rank": 26
+  },
+  {
+    "repo": "Aider-AI/aider",
+    "cumulative_start": 39627,
+    "cumulative_end": 39627,
+    "delta": 0,
+    "rank": 27
   },
   {
     "repo": "AikidoSec/safe-chain",
     "cumulative_start": 650,
     "cumulative_end": 650,
     "delta": 0,
-    "rank": 10
+    "rank": 28
+  },
+  {
+    "repo": "AlexanderGrooff/mermaid-ascii",
+    "cumulative_start": 1086,
+    "cumulative_end": 1086,
+    "delta": 0,
+    "rank": 29
+  },
+  {
+    "repo": "AlexandreRouma/SDRPlusPlus",
+    "cumulative_start": 5474,
+    "cumulative_end": 5474,
+    "delta": 0,
+    "rank": 30
+  },
+  {
+    "repo": "Alexays/Waybar",
+    "cumulative_start": 10642,
+    "cumulative_end": 10642,
+    "delta": 0,
+    "rank": 31
+  },
+  {
+    "repo": "AlexxIT/go2rtc",
+    "cumulative_start": 11899,
+    "cumulative_end": 11899,
+    "delta": 0,
+    "rank": 32
+  },
+  {
+    "repo": "AlistGo/alist",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 33
   },
   {
     "repo": "AndroidIDEOfficial/AndroidIDE",
     "cumulative_start": 2741,
     "cumulative_end": 2741,
     "delta": 0,
-    "rank": 11
+    "rank": 34
+  },
+  {
+    "repo": "AntennaPod/AntennaPod",
+    "cumulative_start": 7549,
+    "cumulative_end": 7549,
+    "delta": 0,
+    "rank": 35
   },
   {
     "repo": "Anuken/Mindustry",
     "cumulative_start": 26063,
     "cumulative_end": 26063,
     "delta": 0,
-    "rank": 12
+    "rank": 36
+  },
+  {
+    "repo": "AprilRobotics/apriltag",
+    "cumulative_start": 2110,
+    "cumulative_end": 2110,
+    "delta": 0,
+    "rank": 37
   },
   {
     "repo": "ArchiveBox/ArchiveBox",
     "cumulative_start": 25515,
     "cumulative_end": 25515,
     "delta": 0,
-    "rank": 13
+    "rank": 38
+  },
+  {
+    "repo": "Archmage83/tvapk",
+    "cumulative_start": 5724,
+    "cumulative_end": 5724,
+    "delta": 0,
+    "rank": 39
+  },
+  {
+    "repo": "ArduPilot/ardupilot",
+    "cumulative_start": 14400,
+    "cumulative_end": 14400,
+    "delta": 0,
+    "rank": 40
   },
   {
     "repo": "ArthurBrussee/brush",
     "cumulative_start": 3453,
     "cumulative_end": 3453,
     "delta": 0,
-    "rank": 14
+    "rank": 41
+  },
+  {
+    "repo": "ArthurSonzogni/FTXUI",
+    "cumulative_start": 9438,
+    "cumulative_end": 9438,
+    "delta": 0,
+    "rank": 42
+  },
+  {
+    "repo": "Arturo254/OpenTune",
+    "cumulative_start": 1115,
+    "cumulative_end": 1115,
+    "delta": 0,
+    "rank": 43
   },
   {
     "repo": "ArvinLovegood/go-stock",
     "cumulative_start": 3084,
     "cumulative_end": 3084,
     "delta": 0,
-    "rank": 15
+    "rank": 44
+  },
+  {
+    "repo": "Asabeneh/30-Days-Of-Python",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 45
+  },
+  {
+    "repo": "AsamK/signal-cli",
+    "cumulative_start": 4065,
+    "cumulative_end": 4065,
+    "delta": 0,
+    "rank": 46
+  },
+  {
+    "repo": "AstrBotDevs/AstrBot",
+    "cumulative_start": 17082,
+    "cumulative_end": 17082,
+    "delta": 0,
+    "rank": 47
+  },
+  {
+    "repo": "Atmosphere-NX/Atmosphere",
+    "cumulative_start": 17733,
+    "cumulative_end": 17733,
+    "delta": 0,
+    "rank": 48
+  },
+  {
+    "repo": "AtsushiSakai/PythonRobotics",
+    "cumulative_start": 28350,
+    "cumulative_end": 28350,
+    "delta": 0,
+    "rank": 49
   },
   {
     "repo": "AutoMQ/automq",
     "cumulative_start": 7560,
     "cumulative_end": 7560,
     "delta": 0,
-    "rank": 16
+    "rank": 50
   },
   {
     "repo": "Automattic/harper",
     "cumulative_start": 8878,
     "cumulative_end": 8878,
     "delta": 0,
-    "rank": 17
+    "rank": 51
+  },
+  {
+    "repo": "Automattic/jetpack",
+    "cumulative_start": 1770,
+    "cumulative_end": 1770,
+    "delta": 0,
+    "rank": 52
   },
   {
     "repo": "Automattic/wordpress-mcp",
     "cumulative_start": 648,
     "cumulative_end": 648,
     "delta": 0,
-    "rank": 18
+    "rank": 53
+  },
+  {
+    "repo": "AztecProtocol/aztec-packages",
+    "cumulative_start": 427,
+    "cumulative_end": 427,
+    "delta": 0,
+    "rank": 54
+  },
+  {
+    "repo": "AzuraCast/AzuraCast",
+    "cumulative_start": 3742,
+    "cumulative_end": 3742,
+    "delta": 0,
+    "rank": 55
+  },
+  {
+    "repo": "Azure/azure-sdk-for-java",
+    "cumulative_start": 2562,
+    "cumulative_end": 2562,
+    "delta": 0,
+    "rank": 56
   },
   {
     "repo": "BasedHardware/omi",
     "cumulative_start": 7407,
     "cumulative_end": 7407,
     "delta": 0,
-    "rank": 19
+    "rank": 57
+  },
+  {
+    "repo": "BehaviorTree/BehaviorTree.CPP",
+    "cumulative_start": 3827,
+    "cumulative_end": 3827,
+    "delta": 0,
+    "rank": 58
   },
   {
     "repo": "BitMaker-hub/NerdMiner_v2",
     "cumulative_start": 2341,
     "cumulative_end": 2341,
     "delta": 0,
-    "rank": 20
+    "rank": 59
   },
   {
     "repo": "BlackTechX011/Hacx-GPT",
     "cumulative_start": 818,
     "cumulative_end": 818,
     "delta": 0,
-    "rank": 21
+    "rank": 60
+  },
+  {
+    "repo": "Blaizzy/mlx-audio",
+    "cumulative_start": 3998,
+    "cumulative_end": 3998,
+    "delta": 0,
+    "rank": 61
   },
   {
     "repo": "BloopAI/vibe-kanban",
     "cumulative_start": 7068,
     "cumulative_end": 7068,
     "delta": 0,
-    "rank": 22
+    "rank": 62
+  },
+  {
+    "repo": "Bodmer/TFT_eSPI",
+    "cumulative_start": 4523,
+    "cumulative_end": 4523,
+    "delta": 0,
+    "rank": 63
   },
   {
     "repo": "BookStackApp/BookStack",
     "cumulative_start": 17653,
     "cumulative_end": 17653,
     "delta": 0,
-    "rank": 23
+    "rank": 64
+  },
+  {
+    "repo": "BrasilAPI/BrasilAPI",
+    "cumulative_start": 10195,
+    "cumulative_end": 10195,
+    "delta": 0,
+    "rank": 65
   },
   {
     "repo": "BrowserWorks/waterfox",
     "cumulative_start": 5175,
     "cumulative_end": 5175,
     "delta": 0,
-    "rank": 24
+    "rank": 66
   },
   {
     "repo": "BrunoLevy/learn-fpga",
     "cumulative_start": 3256,
     "cumulative_end": 3256,
     "delta": 0,
-    "rank": 25
+    "rank": 67
   },
   {
     "repo": "C4illin/ConvertX",
     "cumulative_start": 13138,
     "cumulative_end": 13138,
     "delta": 0,
-    "rank": 26
+    "rank": 68
+  },
+  {
+    "repo": "CCBlueX/LiquidBounce",
+    "cumulative_start": 2129,
+    "cumulative_end": 2129,
+    "delta": 0,
+    "rank": 69
+  },
+  {
+    "repo": "CMSgov/price-transparency-guide",
+    "cumulative_start": 434,
+    "cumulative_end": 434,
+    "delta": 0,
+    "rank": 70
+  },
+  {
+    "repo": "CTCaer/hekate",
+    "cumulative_start": 8169,
+    "cumulative_end": 8169,
+    "delta": 0,
+    "rank": 71
+  },
+  {
+    "repo": "CanCanCommunity/cancancan",
+    "cumulative_start": 5668,
+    "cumulative_end": 5668,
+    "delta": 0,
+    "rank": 72
   },
   {
     "repo": "Canner/WrenAI",
     "cumulative_start": 12862,
     "cumulative_end": 12862,
     "delta": 0,
-    "rank": 27
+    "rank": 73
+  },
+  {
+    "repo": "CapSoftware/Cap",
+    "cumulative_start": 16377,
+    "cumulative_end": 16377,
+    "delta": 0,
+    "rank": 74
+  },
+  {
+    "repo": "Card-Forge/forge",
+    "cumulative_start": 2178,
+    "cumulative_end": 2178,
+    "delta": 0,
+    "rank": 75
   },
   {
     "repo": "CesiumGS/cesium",
     "cumulative_start": 14426,
     "cumulative_end": 14426,
     "delta": 0,
-    "rank": 28
+    "rank": 76
+  },
+  {
+    "repo": "CeuiLiSA/Pixiv-Shaft",
+    "cumulative_start": 6843,
+    "cumulative_end": 6843,
+    "delta": 0,
+    "rank": 77
+  },
+  {
+    "repo": "ChaoMixian/vFlow",
+    "cumulative_start": 413,
+    "cumulative_end": 413,
+    "delta": 0,
+    "rank": 78
   },
   {
     "repo": "ChatGPTNextWeb/NextChat",
     "cumulative_start": 40000,
     "cumulative_end": 40000,
     "delta": 0,
-    "rank": 29
+    "rank": 79
+  },
+  {
+    "repo": "CherretGit/zaprett-app",
+    "cumulative_start": 358,
+    "cumulative_end": 358,
+    "delta": 0,
+    "rank": 80
   },
   {
     "repo": "CherryHQ/cherry-studio-app",
     "cumulative_start": 1702,
     "cumulative_end": 1702,
     "delta": 0,
-    "rank": 30
+    "rank": 81
+  },
+  {
+    "repo": "CherryHQ/cherry-studio",
+    "cumulative_start": 40000,
+    "cumulative_end": 40000,
+    "delta": 0,
+    "rank": 82
+  },
+  {
+    "repo": "ChrisWiles/claude-code-showcase",
+    "cumulative_start": 5703,
+    "cumulative_end": 5703,
+    "delta": 0,
+    "rank": 83
+  },
+  {
+    "repo": "ChristopherKahler/paul",
+    "cumulative_start": 567,
+    "cumulative_end": 567,
+    "delta": 0,
+    "rank": 84
   },
   {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
     "cumulative_start": 18064,
     "cumulative_end": 18064,
     "delta": 0,
-    "rank": 31
+    "rank": 85
   },
   {
     "repo": "ClassicOldSong/Apollo",
     "cumulative_start": 7185,
     "cumulative_end": 7185,
     "delta": 0,
-    "rank": 32
+    "rank": 86
   },
   {
     "repo": "ClementTsang/bottom",
     "cumulative_start": 12218,
     "cumulative_end": 12218,
     "delta": 0,
-    "rank": 33
+    "rank": 87
   },
   {
     "repo": "ClickHouse/ClickHouse",
     "cumulative_start": 40000,
     "cumulative_end": 40000,
     "delta": 0,
-    "rank": 34
+    "rank": 88
+  },
+  {
+    "repo": "CodePhiliaX/Chat2DB",
+    "cumulative_start": 25133,
+    "cumulative_end": 25133,
+    "delta": 0,
+    "rank": 89
+  },
+  {
+    "repo": "CodeWithHarry/Sigma-Web-Dev-Course",
+    "cumulative_start": 11165,
+    "cumulative_end": 11165,
+    "delta": 0,
+    "rank": 90
+  },
+  {
+    "repo": "CodebuffAI/codebuff",
+    "cumulative_start": 4040,
+    "cumulative_end": 4040,
+    "delta": 0,
+    "rank": 91
+  },
+  {
+    "repo": "Coding-Solo/godot-mcp",
+    "cumulative_start": 1523,
+    "cumulative_end": 1523,
+    "delta": 0,
+    "rank": 92
+  },
+  {
+    "repo": "CollaboraOnline/online",
+    "cumulative_start": 3110,
+    "cumulative_end": 3110,
+    "delta": 0,
+    "rank": 93
   },
   {
     "repo": "Comfy-Org/ComfyUI-Manager",
     "cumulative_start": 12980,
     "cumulative_end": 12980,
     "delta": 0,
-    "rank": 35
+    "rank": 94
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-plugins",
+    "cumulative_start": 1208,
+    "cumulative_end": 1208,
+    "delta": 0,
+    "rank": 95
+  },
+  {
+    "repo": "ComposioHQ/awesome-claude-skills",
+    "cumulative_start": 20678,
+    "cumulative_end": 20678,
+    "delta": 0,
+    "rank": 96
+  },
+  {
+    "repo": "ComposioHQ/composio",
+    "cumulative_start": 27056,
+    "cumulative_end": 27056,
+    "delta": 0,
+    "rank": 97
+  },
+  {
+    "repo": "ComposioHQ/open-claude-cowork",
+    "cumulative_start": 3550,
+    "cumulative_end": 3550,
+    "delta": 0,
+    "rank": 98
   },
   {
     "repo": "ConardLi/easy-dataset",
     "cumulative_start": 11673,
     "cumulative_end": 11673,
     "delta": 0,
-    "rank": 36
+    "rank": 99
   },
   {
     "repo": "CopilotKit/CopilotKit",
     "cumulative_start": 27522,
     "cumulative_end": 27522,
-    "delta": 0,
-    "rank": 37
-  },
-  {
-    "repo": "DarkFlippers/unleashed-firmware",
-    "cumulative_start": 20715,
-    "cumulative_end": 20715,
-    "delta": 0,
-    "rank": 38
-  },
-  {
-    "repo": "DataDog/dd-trace-rb",
-    "cumulative_start": 382,
-    "cumulative_end": 382,
-    "delta": 0,
-    "rank": 39
-  },
-  {
-    "repo": "DaveGamble/cJSON",
-    "cumulative_start": 12157,
-    "cumulative_end": 12157,
-    "delta": 0,
-    "rank": 40
-  },
-  {
-    "repo": "DayuanJiang/next-ai-draw-io",
-    "cumulative_start": 15390,
-    "cumulative_end": 15390,
-    "delta": 0,
-    "rank": 41
-  },
-  {
-    "repo": "DenverCoder1/github-readme-streak-stats",
-    "cumulative_start": 6369,
-    "cumulative_end": 6369,
-    "delta": 0,
-    "rank": 42
-  },
-  {
-    "repo": "DenverCoder1/readme-typing-svg",
-    "cumulative_start": 8098,
-    "cumulative_end": 8098,
-    "delta": 0,
-    "rank": 43
-  },
-  {
-    "repo": "DependencyTrack/dependency-track",
-    "cumulative_start": 3492,
-    "cumulative_end": 3492,
-    "delta": 0,
-    "rank": 44
-  },
-  {
-    "repo": "Dev4Mod/WaEnhancer",
-    "cumulative_start": 1125,
-    "cumulative_end": 1125,
-    "delta": 0,
-    "rank": 45
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
-    "cumulative_start": 31655,
-    "cumulative_end": 31655,
-    "delta": 0,
-    "rank": 46
-  },
-  {
-    "repo": "Dokploy/dokploy",
-    "cumulative_start": 28530,
-    "cumulative_end": 28530,
-    "delta": 0,
-    "rank": 47
-  },
-  {
-    "repo": "EFForg/rayhunter",
-    "cumulative_start": 3876,
-    "cumulative_end": 3876,
-    "delta": 0,
-    "rank": 48
-  },
-  {
-    "repo": "EpicGamesExt/raddebugger",
-    "cumulative_start": 6425,
-    "cumulative_end": 6425,
-    "delta": 0,
-    "rank": 49
-  },
-  {
-    "repo": "ExistentialAudio/BlackHole",
-    "cumulative_start": 18000,
-    "cumulative_end": 18000,
-    "delta": 0,
-    "rank": 50
-  },
-  {
-    "repo": "FOSSBilling/FOSSBilling",
-    "cumulative_start": 1357,
-    "cumulative_end": 1357,
-    "delta": 0,
-    "rank": 51
-  },
-  {
-    "repo": "FabricMC/fabric",
-    "cumulative_start": 2955,
-    "cumulative_end": 2955,
-    "delta": 0,
-    "rank": 52
-  },
-  {
-    "repo": "FalkorDB/FalkorDB",
-    "cumulative_start": 1676,
-    "cumulative_end": 1676,
-    "delta": 0,
-    "rank": 53
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "cumulative_start": 40000,
-    "cumulative_end": 40000,
-    "delta": 0,
-    "rank": 54
-  },
-  {
-    "repo": "Fosowl/agenticSeek",
-    "cumulative_start": 23436,
-    "cumulative_end": 23436,
-    "delta": 0,
-    "rank": 55
-  },
-  {
-    "repo": "FossifyOrg/Gallery",
-    "cumulative_start": 2719,
-    "cumulative_end": 2719,
-    "delta": 0,
-    "rank": 56
-  },
-  {
-    "repo": "FossifyOrg/Messages",
-    "cumulative_start": 1130,
-    "cumulative_end": 1130,
-    "delta": 0,
-    "rank": 57
-  },
-  {
-    "repo": "Fredolx/open-tv",
-    "cumulative_start": 2338,
-    "cumulative_end": 2338,
-    "delta": 0,
-    "rank": 58
-  },
-  {
-    "repo": "Free-TV/IPTV",
-    "cumulative_start": 9022,
-    "cumulative_end": 9022,
-    "delta": 0,
-    "rank": 59
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
-    "cumulative_start": 26916,
-    "cumulative_end": 26916,
-    "delta": 0,
-    "rank": 60
-  },
-  {
-    "repo": "FreeRTOS/FreeRTOS-Kernel",
-    "cumulative_start": 3637,
-    "cumulative_end": 3637,
-    "delta": 0,
-    "rank": 61
-  },
-  {
-    "repo": "Freika/dawarich",
-    "cumulative_start": 7216,
-    "cumulative_end": 7216,
-    "delta": 0,
-    "rank": 62
-  },
-  {
-    "repo": "FreshRSS/FreshRSS",
-    "cumulative_start": 13473,
-    "cumulative_end": 13473,
-    "delta": 0,
-    "rank": 63
-  },
-  {
-    "repo": "GeeeekExplorer/nano-vllm",
-    "cumulative_start": 8355,
-    "cumulative_end": 8355,
-    "delta": 0,
-    "rank": 64
-  },
-  {
-    "repo": "Genymobile/scrcpy",
-    "cumulative_start": 40000,
-    "cumulative_end": 40000,
-    "delta": 0,
-    "rank": 65
-  },
-  {
-    "repo": "GeyserMC/Geyser",
-    "cumulative_start": 5385,
-    "cumulative_end": 5385,
-    "delta": 0,
-    "rank": 66
-  },
-  {
-    "repo": "GoogleCloudPlatform/agent-starter-pack",
-    "cumulative_start": 5311,
-    "cumulative_end": 5311,
-    "delta": 0,
-    "rank": 67
-  },
-  {
-    "repo": "GraphiteEditor/Graphite",
-    "cumulative_start": 22556,
-    "cumulative_end": 22556,
-    "delta": 0,
-    "rank": 68
-  },
-  {
-    "repo": "GreyDGL/PentestGPT",
-    "cumulative_start": 10643,
-    "cumulative_end": 10643,
-    "delta": 0,
-    "rank": 69
-  },
-  {
-    "repo": "HKUDS/DeepCode",
-    "cumulative_start": 9617,
-    "cumulative_end": 9617,
-    "delta": 0,
-    "rank": 70
-  },
-  {
-    "repo": "HandBrake/HandBrake",
-    "cumulative_start": 21857,
-    "cumulative_end": 21857,
-    "delta": 0,
-    "rank": 71
-  },
-  {
-    "repo": "HapeLee/legado-with-MD3",
-    "cumulative_start": 1510,
-    "cumulative_end": 1510,
-    "delta": 0,
-    "rank": 72
-  },
-  {
-    "repo": "Helium314/HeliBoard",
-    "cumulative_start": 4334,
-    "cumulative_end": 4334,
-    "delta": 0,
-    "rank": 73
-  },
-  {
-    "repo": "HeyPuter/puter",
-    "cumulative_start": 37123,
-    "cumulative_end": 37123,
-    "delta": 0,
-    "rank": 74
-  },
-  {
-    "repo": "HiEventsDev/Hi.Events",
-    "cumulative_start": 3257,
-    "cumulative_end": 3257,
-    "delta": 0,
-    "rank": 75
-  },
-  {
-    "repo": "Homebrew/brew",
-    "cumulative_start": 40000,
-    "cumulative_end": 40000,
-    "delta": 0,
-    "rank": 76
-  },
-  {
-    "repo": "Homebrew/homebrew-cask",
-    "cumulative_start": 21731,
-    "cumulative_end": 21731,
-    "delta": 0,
-    "rank": 77
-  },
-  {
-    "repo": "Homebrew/homebrew-core",
-    "cumulative_start": 14789,
-    "cumulative_end": 14789,
-    "delta": 0,
-    "rank": 78
-  },
-  {
-    "repo": "InfinityLoop1308/PipePipe",
-    "cumulative_start": 3951,
-    "cumulative_end": 3951,
-    "delta": 0,
-    "rank": 79
-  },
-  {
-    "repo": "Ingenimax/agent-sdk-go",
-    "cumulative_start": 513,
-    "cumulative_end": 513,
-    "delta": 0,
-    "rank": 80
-  },
-  {
-    "repo": "JetBrains/compose-multiplatform",
-    "cumulative_start": 18436,
-    "cumulative_end": 18436,
-    "delta": 0,
-    "rank": 81
-  },
-  {
-    "repo": "JetBrains/intellij-community",
-    "cumulative_start": 19428,
-    "cumulative_end": 19428,
-    "delta": 0,
-    "rank": 82
-  },
-  {
-    "repo": "JetBrains/kotlin",
-    "cumulative_start": 40000,
-    "cumulative_end": 40000,
-    "delta": 0,
-    "rank": 83
-  },
-  {
-    "repo": "Jguer/yay",
-    "cumulative_start": 12963,
-    "cumulative_end": 12963,
-    "delta": 0,
-    "rank": 84
-  },
-  {
-    "repo": "Jigsaw-Code/Intra",
-    "cumulative_start": 1977,
-    "cumulative_end": 1977,
-    "delta": 0,
-    "rank": 85
-  },
-  {
-    "repo": "JingMatrix/TEESimulator",
-    "cumulative_start": 467,
-    "cumulative_end": 467,
-    "delta": 0,
-    "rank": 86
-  },
-  {
-    "repo": "JunkFood02/Seal",
-    "cumulative_start": 23573,
-    "cumulative_end": 23573,
-    "delta": 0,
-    "rank": 87
-  },
-  {
-    "repo": "KaTeX/KaTeX",
-    "cumulative_start": 19562,
-    "cumulative_end": 19562,
-    "delta": 0,
-    "rank": 88
-  },
-  {
-    "repo": "Klipper3d/klipper",
-    "cumulative_start": 11133,
-    "cumulative_end": 11133,
-    "delta": 0,
-    "rank": 89
-  },
-  {
-    "repo": "Koenkk/zigbee2mqtt",
-    "cumulative_start": 14405,
-    "cumulative_end": 14405,
-    "delta": 0,
-    "rank": 90
-  },
-  {
-    "repo": "KotatsuApp/Kotatsu",
-    "cumulative_start": 7196,
-    "cumulative_end": 7196,
-    "delta": 0,
-    "rank": 91
-  },
-  {
-    "repo": "Kotlin/kotlin-lsp",
-    "cumulative_start": 2689,
-    "cumulative_end": 2689,
-    "delta": 0,
-    "rank": 92
-  },
-  {
-    "repo": "KurtBestor/Hitomi-Downloader",
-    "cumulative_start": 26976,
-    "cumulative_end": 26976,
-    "delta": 0,
-    "rank": 93
-  },
-  {
-    "repo": "LSPosed/LSPosed",
-    "cumulative_start": 22391,
-    "cumulative_end": 22391,
-    "delta": 0,
-    "rank": 94
-  },
-  {
-    "repo": "LSafer/edgeseek",
-    "cumulative_start": 306,
-    "cumulative_end": 306,
-    "delta": 0,
-    "rank": 95
-  },
-  {
-    "repo": "LadybirdBrowser/ladybird",
-    "cumulative_start": 40000,
-    "cumulative_end": 40000,
-    "delta": 0,
-    "rank": 96
-  },
-  {
-    "repo": "Leantime/leantime",
-    "cumulative_start": 8804,
-    "cumulative_end": 8804,
-    "delta": 0,
-    "rank": 97
-  },
-  {
-    "repo": "LizardByte/Sunshine",
-    "cumulative_start": 32908,
-    "cumulative_end": 32908,
-    "delta": 0,
-    "rank": 98
-  },
-  {
-    "repo": "MCRcortex/voxy",
-    "cumulative_start": 542,
-    "cumulative_end": 542,
-    "delta": 0,
-    "rank": 99
-  },
-  {
-    "repo": "MISP/MISP",
-    "cumulative_start": 6065,
-    "cumulative_end": 6065,
     "delta": 0,
     "rank": 100
   }
