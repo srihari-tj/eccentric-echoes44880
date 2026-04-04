@@ -27,5 +27,11 @@
   "watchers": 477,
   "html_url": "https://github.com/JingMatrix/TEESimulator",
   "api_url": "https://api.github.com/repos/JingMatrix/TEESimulator",
-  "fetched_at": "2025-12-30T05:12:43.290Z"
+  "fetched_at": "2025-12-30T05:12:43.290Z",
+  "contributor_locations": {
+    "toulouse, france": 1,
+    "unknown": 3,
+    "canada": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T11:26:55.157Z"
 }

@@ -21,5 +21,30 @@
   "watchers": 3903,
   "html_url": "https://github.com/EFForg/rayhunter",
   "api_url": "https://api.github.com/repos/EFForg/rayhunter",
-  "fetched_at": "2025-12-30T05:12:29.282Z"
+  "fetched_at": "2025-12-30T05:12:29.282Z",
+  "contributor_locations": {
+    "austria": 1,
+    "san francisco, ca": 2,
+    "unknown": 22,
+    "orciny": 1,
+    "wouldn't you like to know weatherboy": 1,
+    "planet earth.": 1,
+    "san francisco": 1,
+    "seattle, washington, usa": 1,
+    "london, united kingdom": 1,
+    "united states": 1,
+    "london": 1,
+    "paranaque, ph": 1,
+    "longmont, colorado": 1,
+    "melbourne, australia": 1,
+    "edinburgh, uk": 1,
+    "seattle, wa": 1,
+    "perth, australia": 2,
+    "san francisco, ca usa": 1,
+    "new jersey, usa": 1,
+    "$home": 1,
+    "austin, tx": 1,
+    "lansing, mi": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T11:18:38.955Z"
 }

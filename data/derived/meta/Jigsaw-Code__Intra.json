@@ -21,5 +21,14 @@
   "watchers": 1982,
   "html_url": "https://github.com/Jigsaw-Code/Intra",
   "api_url": "https://api.github.com/repos/Jigsaw-Code/Intra",
-  "fetched_at": "2025-12-30T05:12:42.979Z"
+  "fetched_at": "2025-12-30T05:12:42.979Z",
+  "contributor_locations": {
+    "new york, ny": 1,
+    "new york city": 1,
+    "unknown": 3,
+    "united states": 1,
+    "toronto, ontario": 1,
+    "shiraz": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T11:26:54.050Z"
 }

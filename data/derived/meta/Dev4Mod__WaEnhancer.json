@@ -25,5 +25,19 @@
   "watchers": 1127,
   "html_url": "https://github.com/Dev4Mod/WaEnhancer",
   "api_url": "https://api.github.com/repos/Dev4Mod/WaEnhancer",
-  "fetched_at": "2025-12-30T05:12:28.217Z"
+  "fetched_at": "2025-12-30T05:12:28.217Z",
+  "contributor_locations": {
+    "unknown": 8,
+    "localhost": 1,
+    "indonesia": 2,
+    "brazil": 2,
+    "cairo, egypt": 1,
+    "malaya union": 1,
+    "tasikmalaya, indonesia": 1,
+    "seattle": 1,
+    "united kingdom": 1,
+    "italy": 1,
+    "pakistan": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T11:17:28.367Z"
 }

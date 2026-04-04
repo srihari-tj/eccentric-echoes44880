@@ -27,5 +27,21 @@
   "watchers": 18007,
   "html_url": "https://github.com/ExistentialAudio/BlackHole",
   "api_url": "https://api.github.com/repos/ExistentialAudio/BlackHole",
-  "fetched_at": "2025-12-30T05:12:29.991Z"
+  "fetched_at": "2025-12-30T05:12:29.991Z",
+  "contributor_locations": {
+    "vancouver, bc, canada": 2,
+    "denmark": 1,
+    "montreal": 1,
+    "different places": 1,
+    "bath, england": 1,
+    "paris, france": 1,
+    "yokohama, japan": 1,
+    "unknown": 4,
+    "israel": 1,
+    "portugal": 1,
+    "lost in emacs - @arialdo@mastodon.online": 1,
+    "krasnodar city, russia.": 1,
+    "istanbul, turkey": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T11:18:46.566Z"
 }

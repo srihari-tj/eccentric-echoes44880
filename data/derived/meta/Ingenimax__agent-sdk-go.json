@@ -26,5 +26,17 @@
   "watchers": 513,
   "html_url": "https://github.com/Ingenimax/agent-sdk-go",
   "api_url": "https://api.github.com/repos/Ingenimax/agent-sdk-go",
-  "fetched_at": "2025-12-30T05:12:41.552Z"
+  "fetched_at": "2025-12-30T05:12:41.552Z",
+  "contributor_locations": {
+    "unknown": 13,
+    "kraków, poland": 1,
+    "pune, india": 1,
+    "world wide web": 1,
+    "cairo, egypt": 1,
+    "mountain view, ca": 1,
+    "paris - lyon": 1,
+    "germany": 1,
+    "france": 1
+  },
+  "contributor_locations_updated_at": "2026-04-04T11:25:13.991Z"
 }
