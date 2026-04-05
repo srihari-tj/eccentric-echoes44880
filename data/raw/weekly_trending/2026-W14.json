@@ -1,6 +1,6 @@
 {
   "week": "2026-W14",
-  "captured_at": "2026-04-04T19:03:47.534Z",
+  "captured_at": "2026-04-05T07:22:06.254Z",
   "overall": [
     {
       "owner": "luongnv89",
@@ -92,6 +92,10 @@
       {
         "owner": "ChrisWiles",
         "repo": "claude-code-showcase"
+      },
+      {
+        "owner": "rohitg00",
+        "repo": "awesome-claude-code-toolkit"
       },
       {
         "owner": "CodeWithHarry",
