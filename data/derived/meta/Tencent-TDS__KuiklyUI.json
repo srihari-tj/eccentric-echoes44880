@@ -33,5 +33,22 @@
   "watchers": 3024,
   "html_url": "https://github.com/Tencent-TDS/KuiklyUI",
   "api_url": "https://api.github.com/repos/Tencent-TDS/KuiklyUI",
-  "fetched_at": "2026-04-04T10:10:01.649Z"
+  "fetched_at": "2026-04-04T10:10:01.649Z",
+  "contributor_locations": {
+    "unknown": 26,
+    "shenzhen": 2,
+    "earth": 1,
+    "china": 2,
+    "qingdao, shandong province, china": 1,
+    "amoy，china": 1,
+    "beijing, china": 1,
+    "深圳": 1,
+    "chengdu, china": 1,
+    "北京": 1,
+    "北京市丰台": 1,
+    "shenyang, liaoning province, china": 1,
+    "guangzhou": 1,
+    "beijing": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:40:21.927Z"
 }

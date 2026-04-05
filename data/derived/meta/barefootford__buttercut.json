@@ -21,5 +21,10 @@
   "watchers": 305,
   "html_url": "https://github.com/barefootford/buttercut",
   "api_url": "https://api.github.com/repos/barefootford/buttercut",
-  "fetched_at": "2026-04-04T10:10:04.797Z"
+  "fetched_at": "2026-04-04T10:10:04.797Z",
+  "contributor_locations": {
+    "san francisco": 1,
+    "unknown": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:49:51.325Z"
 }

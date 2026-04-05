@@ -38,5 +38,30 @@
   "watchers": 5805,
   "html_url": "https://github.com/antinomyhq/forgecode",
   "api_url": "https://api.github.com/repos/antinomyhq/forgecode",
-  "fetched_at": "2026-04-04T10:10:03.646Z"
+  "fetched_at": "2026-04-04T10:10:03.646Z",
+  "contributor_locations": {
+    "mumbai": 2,
+    "india": 2,
+    "united states": 1,
+    "unknown": 22,
+    "varanasi": 1,
+    "pune, india": 1,
+    "poland": 1,
+    "pune, maharashtra": 1,
+    "finland": 1,
+    "china beijing": 1,
+    "potland, or, usa": 1,
+    "ukraine": 1,
+    "vancouver, canada": 1,
+    "prague": 1,
+    "gothenburg, sweden": 1,
+    "wuhan china": 1,
+    "earth": 1,
+    "istanbul, turkey": 1,
+    "bali": 1,
+    "i̇stanbul, türkiye": 1,
+    "tokyo, japan": 1,
+    "indonesia": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:46:20.772Z"
 }

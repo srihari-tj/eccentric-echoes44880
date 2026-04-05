@@ -21,5 +21,23 @@
   "watchers": 14741,
   "html_url": "https://github.com/Yeachan-Heo/oh-my-codex",
   "api_url": "https://api.github.com/repos/Yeachan-Heo/oh-my-codex",
-  "fetched_at": "2026-04-04T10:10:02.670Z"
+  "fetched_at": "2026-04-04T10:10:02.670Z",
+  "contributor_locations": {
+    "seoul": 2,
+    "unknown": 18,
+    "seoul, korea": 1,
+    "south korea / seoul": 1,
+    "earth": 1,
+    "seoul/korea": 1,
+    "ho chi minh": 1,
+    "china": 1,
+    "dallas, tx": 1,
+    "athens, greece": 1,
+    "austin, tx": 1,
+    "taipei, taiwan": 1,
+    "seoul, south korea": 1,
+    "seoul | kelowna, vancouver, bc": 1,
+    "seoul, republic of korea": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:45:09.820Z"
 }

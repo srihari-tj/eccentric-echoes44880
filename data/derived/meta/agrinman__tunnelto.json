@@ -27,5 +27,13 @@
   "watchers": 5061,
   "html_url": "https://github.com/agrinman/tunnelto",
   "api_url": "https://api.github.com/repos/agrinman/tunnelto",
-  "fetched_at": "2026-01-03T21:59:34.829Z"
+  "fetched_at": "2026-01-03T21:59:34.829Z",
+  "contributor_locations": {
+    "unknown": 1,
+    "quito, ecuador": 1,
+    "san francisco, ca": 1,
+    "amsterdam": 1,
+    "valencia": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:45:49.654Z"
 }
