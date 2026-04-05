@@ -80,6 +80,38 @@
     "rank": 5
   },
   {
+    "repo": "accomplish-ai/accomplish",
+    "quarter": "2026-Q2",
+    "stars_now": 10511,
+    "forks": 1240,
+    "open_issues": 25,
+    "subscribers": 53,
+    "best_window_start": "2026-01-17",
+    "best_window_end": "2026-04-16",
+    "window_start_stars": 1098,
+    "window_end_stars": 10511,
+    "abs_gain_90d": 9413,
+    "rel_gain_90d": 8.57286,
+    "owner": null,
+    "rank": 6
+  },
+  {
+    "repo": "code-yeongyu/oh-my-openagent",
+    "quarter": "2026-Q2",
+    "stars_now": 48520,
+    "forks": 3808,
+    "open_issues": 421,
+    "subscribers": 188,
+    "best_window_start": "2026-01-02",
+    "best_window_end": "2026-04-01",
+    "window_start_stars": 4655,
+    "window_end_stars": 40000,
+    "abs_gain_90d": 35345,
+    "rel_gain_90d": 7.592911,
+    "owner": null,
+    "rank": 7
+  },
+  {
     "repo": "666ghj/MiroFish",
     "quarter": "2026-Q2",
     "stars_now": null,
@@ -93,7 +125,7 @@
     "abs_gain_90d": 5748,
     "rel_gain_90d": 5.679842,
     "owner": null,
-    "rank": 6
+    "rank": 8
   },
   {
     "repo": "Crosstalk-Solutions/project-nomad",
@@ -109,7 +141,7 @@
     "abs_gain_90d": 5057,
     "rel_gain_90d": 4.75282,
     "owner": null,
-    "rank": 7
+    "rank": 9
   },
   {
     "repo": "InsForge/InsForge",
@@ -125,7 +157,7 @@
     "abs_gain_90d": 3965,
     "rel_gain_90d": 3.965,
     "owner": null,
-    "rank": 8
+    "rank": 10
   },
   {
     "repo": "K-Dense-AI/claude-scientific-skills",
@@ -141,7 +173,7 @@
     "abs_gain_90d": 10740,
     "rel_gain_90d": 3.902616,
     "owner": null,
-    "rank": 9
+    "rank": 11
   },
   {
     "repo": "virattt/dexter",
@@ -157,7 +189,7 @@
     "abs_gain_90d": 16333,
     "rel_gain_90d": 3.714578,
     "owner": null,
-    "rank": 10
+    "rank": 12
   },
   {
     "repo": "vas3k/TaxHacker",
@@ -173,7 +205,7 @@
     "abs_gain_90d": 3454,
     "rel_gain_90d": 3.454,
     "owner": null,
-    "rank": 11
+    "rank": 13
   },
   {
     "repo": "siddharthvaddem/openscreen",
@@ -189,7 +221,7 @@
     "abs_gain_90d": 13758,
     "rel_gain_90d": 2.792369,
     "owner": null,
-    "rank": 12
+    "rank": 14
   },
   {
     "repo": "MiroMindAI/MiroThinker",
@@ -205,7 +237,7 @@
     "abs_gain_90d": 3724,
     "rel_gain_90d": 2.656205,
     "owner": null,
-    "rank": 13
+    "rank": 15
   },
   {
     "repo": "bol-van/zapret2",
@@ -221,7 +253,7 @@
     "abs_gain_90d": 2386,
     "rel_gain_90d": 2.386,
     "owner": null,
-    "rank": 14
+    "rank": 16
   },
   {
     "repo": "ComposioHQ/open-claude-cowork",
@@ -237,7 +269,7 @@
     "abs_gain_90d": 2431,
     "rel_gain_90d": 2.172475,
     "owner": null,
-    "rank": 15
+    "rank": 17
   },
   {
     "repo": "shareAI-lab/learn-claude-code",
@@ -253,7 +285,7 @@
     "abs_gain_90d": 27332,
     "rel_gain_90d": 2.157562,
     "owner": null,
-    "rank": 16
+    "rank": 18
   },
   {
     "repo": "ChrisWiles/claude-code-showcase",
@@ -269,7 +301,7 @@
     "abs_gain_90d": 3849,
     "rel_gain_90d": 2.076052,
     "owner": null,
-    "rank": 17
+    "rank": 19
   },
   {
     "repo": "obra/superpowers",
@@ -285,7 +317,7 @@
     "abs_gain_90d": 26929,
     "rel_gain_90d": 2.06021,
     "owner": null,
-    "rank": 18
+    "rank": 20
   },
   {
     "repo": "dmtrKovalenko/fff.nvim",
@@ -301,7 +333,7 @@
     "abs_gain_90d": 2197,
     "rel_gain_90d": 1.857143,
     "owner": null,
-    "rank": 19
+    "rank": 21
   },
   {
     "repo": "HenryNdubuaku/maths-cs-ai-compendium",
@@ -317,7 +349,7 @@
     "abs_gain_90d": 1849,
     "rel_gain_90d": 1.830693,
     "owner": null,
-    "rank": 20
+    "rank": 22
   },
   {
     "repo": "KeygraphHQ/shannon",
@@ -333,7 +365,7 @@
     "abs_gain_90d": 5907,
     "rel_gain_90d": 1.830493,
     "owner": null,
-    "rank": 21
+    "rank": 23
   },
   {
     "repo": "ThePrimeagen/99",
@@ -349,7 +381,7 @@
     "abs_gain_90d": 1674,
     "rel_gain_90d": 1.672328,
     "owner": null,
-    "rank": 22
+    "rank": 24
   },
   {
     "repo": "maximhq/bifrost",
@@ -365,7 +397,7 @@
     "abs_gain_90d": 1993,
     "rel_gain_90d": 1.334003,
     "owner": null,
-    "rank": 23
+    "rank": 25
   },
   {
     "repo": "TheCraigHewitt/seomachine",
@@ -381,7 +413,7 @@
     "abs_gain_90d": 1517,
     "rel_gain_90d": 1.293265,
     "owner": null,
-    "rank": 24
+    "rank": 26
   },
   {
     "repo": "D4Vinci/Scrapling",
@@ -397,7 +429,7 @@
     "abs_gain_90d": 10035,
     "rel_gain_90d": 1.20584,
     "owner": null,
-    "rank": 25
+    "rank": 27
   },
   {
     "repo": "bytedance/deer-flow",
@@ -413,7 +445,7 @@
     "abs_gain_90d": 21382,
     "rel_gain_90d": 1.148458,
     "owner": null,
-    "rank": 26
+    "rank": 28
   },
   {
     "repo": "GVCLab/PersonaLive",
@@ -429,7 +461,7 @@
     "abs_gain_90d": 1181,
     "rel_gain_90d": 1.023397,
     "owner": null,
-    "rank": 27
+    "rank": 29
   },
   {
     "repo": "DaKheera47/job-ops",
@@ -445,7 +477,7 @@
     "abs_gain_90d": 1042,
     "rel_gain_90d": 1.00969,
     "owner": null,
-    "rank": 28
+    "rank": 30
   },
   {
     "repo": "datalab-to/chandra",
@@ -461,7 +493,7 @@
     "abs_gain_90d": 4074,
     "rel_gain_90d": 0.978856,
     "owner": null,
-    "rank": 29
+    "rank": 31
   },
   {
     "repo": "google-research/timesfm",
@@ -477,7 +509,7 @@
     "abs_gain_90d": 6813,
     "rel_gain_90d": 0.907795,
     "owner": null,
-    "rank": 30
+    "rank": 32
   },
   {
     "repo": "hesreallyhim/awesome-claude-code",
@@ -493,7 +525,7 @@
     "abs_gain_90d": 17056,
     "rel_gain_90d": 0.889863,
     "owner": null,
-    "rank": 31
+    "rank": 33
   },
   {
     "repo": "HailToDodongo/pyrite64",
@@ -509,7 +541,7 @@
     "abs_gain_90d": 927,
     "rel_gain_90d": 0.739824,
     "owner": null,
-    "rank": 32
+    "rank": 34
   },
   {
     "repo": "NousResearch/hermes-agent",
@@ -525,7 +557,7 @@
     "abs_gain_90d": 817,
     "rel_gain_90d": 0.738698,
     "owner": null,
-    "rank": 33
+    "rank": 35
   },
   {
     "repo": "SakanaAI/AI-Scientist-v2",
@@ -541,7 +573,7 @@
     "abs_gain_90d": 1416,
     "rel_gain_90d": 0.737884,
     "owner": null,
-    "rank": 34
+    "rank": 36
   },
   {
     "repo": "zly2006/zhihu-plus-plus",
@@ -557,7 +589,7 @@
     "abs_gain_90d": 793,
     "rel_gain_90d": 0.736305,
     "owner": null,
-    "rank": 35
+    "rank": 37
   },
   {
     "repo": "OpenBMB/VoxCPM",
@@ -573,7 +605,7 @@
     "abs_gain_90d": 2263,
     "rel_gain_90d": 0.707851,
     "owner": null,
-    "rank": 36
+    "rank": 38
   },
   {
     "repo": "KuekHaoYang/KVideo",
@@ -589,7 +621,7 @@
     "abs_gain_90d": 706,
     "rel_gain_90d": 0.701789,
     "owner": null,
-    "rank": 37
+    "rank": 39
   },
   {
     "repo": "5rahim/seanime",
@@ -605,7 +637,7 @@
     "abs_gain_90d": 975,
     "rel_gain_90d": 0.699426,
     "owner": null,
-    "rank": 38
+    "rank": 40
   },
   {
     "repo": "decolua/9router",
@@ -621,7 +653,7 @@
     "abs_gain_90d": 704,
     "rel_gain_90d": 0.69703,
     "owner": null,
-    "rank": 39
+    "rank": 41
   },
   {
     "repo": "DavidXanatos/TaskExplorer",
@@ -637,7 +669,7 @@
     "abs_gain_90d": 1176,
     "rel_gain_90d": 0.645091,
     "owner": null,
-    "rank": 40
+    "rank": 42
   },
   {
     "repo": "QuantumNous/new-api",
@@ -653,7 +685,7 @@
     "abs_gain_90d": 9173,
     "rel_gain_90d": 0.641783,
     "owner": null,
-    "rank": 41
+    "rank": 43
   },
   {
     "repo": "mayocream/koharu",
@@ -669,7 +701,7 @@
     "abs_gain_90d": 663,
     "rel_gain_90d": 0.638114,
     "owner": null,
-    "rank": 42
+    "rank": 44
   },
   {
     "repo": "HQarroum/docker-android",
@@ -685,7 +717,7 @@
     "abs_gain_90d": 1034,
     "rel_gain_90d": 0.600813,
     "owner": null,
-    "rank": 43
+    "rank": 45
   },
   {
     "repo": "openrocket/openrocket",
@@ -701,7 +733,7 @@
     "abs_gain_90d": 955,
     "rel_gain_90d": 0.574955,
     "owner": null,
-    "rank": 44
+    "rank": 46
   },
   {
     "repo": "junhoyeo/tokscale",
@@ -717,7 +749,7 @@
     "abs_gain_90d": 573,
     "rel_gain_90d": 0.566766,
     "owner": null,
-    "rank": 45
+    "rank": 47
   },
   {
     "repo": "iflytek/astron-rpa",
@@ -733,7 +765,7 @@
     "abs_gain_90d": 2545,
     "rel_gain_90d": 0.531537,
     "owner": null,
-    "rank": 46
+    "rank": 48
   },
   {
     "repo": "Open-Dev-Society/OpenStock",
@@ -749,7 +781,7 @@
     "abs_gain_90d": 3517,
     "rel_gain_90d": 0.52927,
     "owner": null,
-    "rank": 47
+    "rank": 49
   },
   {
     "repo": "CodebuffAI/codebuff",
@@ -765,7 +797,7 @@
     "abs_gain_90d": 1392,
     "rel_gain_90d": 0.52568,
     "owner": null,
-    "rank": 48
+    "rank": 50
   },
   {
     "repo": "plastic-labs/honcho",
@@ -781,7 +813,7 @@
     "abs_gain_90d": 542,
     "rel_gain_90d": 0.524178,
     "owner": null,
-    "rank": 49
+    "rank": 51
   },
   {
     "repo": "asgeirtj/system_prompts_leaks",
@@ -797,7 +829,7 @@
     "abs_gain_90d": 12632,
     "rel_gain_90d": 0.514123,
     "owner": null,
-    "rank": 50
+    "rank": 52
   },
   {
     "repo": "ComposioHQ/awesome-claude-skills",
@@ -813,7 +845,7 @@
     "abs_gain_90d": 6784,
     "rel_gain_90d": 0.488268,
     "owner": null,
-    "rank": 51
+    "rank": 53
   },
   {
     "repo": "dreamhunter2333/cloudflare_temp_email",
@@ -829,7 +861,7 @@
     "abs_gain_90d": 2564,
     "rel_gain_90d": 0.475519,
     "owner": null,
-    "rank": 52
+    "rank": 54
   },
   {
     "repo": "Ed1s0nZ/CyberStrikeAI",
@@ -845,7 +877,23 @@
     "abs_gain_90d": 551,
     "rel_gain_90d": 0.469736,
     "owner": null,
-    "rank": 53
+    "rank": 55
+  },
+  {
+    "repo": "mostlygeek/llama-swap",
+    "quarter": "2026-Q2",
+    "stars_now": 3101,
+    "forks": 228,
+    "open_issues": 37,
+    "subscribers": 21,
+    "best_window_start": "2026-01-06",
+    "best_window_end": "2026-04-05",
+    "window_start_stars": 2120,
+    "window_end_stars": 3101,
+    "abs_gain_90d": 981,
+    "rel_gain_90d": 0.462736,
+    "owner": null,
+    "rank": 56
   },
   {
     "repo": "RichardAtCT/claude-code-telegram",
@@ -861,7 +909,7 @@
     "abs_gain_90d": 555,
     "rel_gain_90d": 0.459057,
     "owner": null,
-    "rank": 54
+    "rank": 57
   },
   {
     "repo": "MoonshotAI/kimi-cli",
@@ -877,7 +925,7 @@
     "abs_gain_90d": 1664,
     "rel_gain_90d": 0.449002,
     "owner": null,
-    "rank": 55
+    "rank": 58
   },
   {
     "repo": "iflytek/astron-agent",
@@ -893,7 +941,7 @@
     "abs_gain_90d": 3209,
     "rel_gain_90d": 0.421627,
     "owner": null,
-    "rank": 56
+    "rank": 59
   },
   {
     "repo": "OpenBMB/UltraRAG",
@@ -909,7 +957,23 @@
     "abs_gain_90d": 990,
     "rel_gain_90d": 0.414226,
     "owner": null,
-    "rank": 57
+    "rank": 60
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "quarter": "2026-Q2",
+    "stars_now": 8880,
+    "forks": 1451,
+    "open_issues": 737,
+    "subscribers": 93,
+    "best_window_start": "2026-01-06",
+    "best_window_end": "2026-04-05",
+    "window_start_stars": 6290,
+    "window_end_stars": 8880,
+    "abs_gain_90d": 2590,
+    "rel_gain_90d": 0.411765,
+    "owner": null,
+    "rank": 61
   },
   {
     "repo": "onyx-dot-app/onyx",
@@ -925,7 +989,7 @@
     "abs_gain_90d": 6745,
     "rel_gain_90d": 0.400416,
     "owner": null,
-    "rank": 58
+    "rank": 62
   },
   {
     "repo": "NevaMind-AI/memU",
@@ -941,7 +1005,7 @@
     "abs_gain_90d": 1256,
     "rel_gain_90d": 0.39873,
     "owner": null,
-    "rank": 59
+    "rank": 63
   },
   {
     "repo": "ikawrakow/ik_llama.cpp",
@@ -957,7 +1021,7 @@
     "abs_gain_90d": 555,
     "rel_gain_90d": 0.396429,
     "owner": null,
-    "rank": 60
+    "rank": 64
   },
   {
     "repo": "HKUDS/VideoRAG",
@@ -973,7 +1037,7 @@
     "abs_gain_90d": 644,
     "rel_gain_90d": 0.394608,
     "owner": null,
-    "rank": 61
+    "rank": 65
   },
   {
     "repo": "THUDM/slime",
@@ -989,7 +1053,7 @@
     "abs_gain_90d": 1101,
     "rel_gain_90d": 0.358049,
     "owner": null,
-    "rank": 62
+    "rank": 66
   },
   {
     "repo": "supabase/cli",
@@ -1005,7 +1069,7 @@
     "abs_gain_90d": 540,
     "rel_gain_90d": 0.357616,
     "owner": null,
-    "rank": 63
+    "rank": 67
   },
   {
     "repo": "FujiwaraChoki/MoneyPrinterV2",
@@ -1021,7 +1085,7 @@
     "abs_gain_90d": 4549,
     "rel_gain_90d": 0.35409,
     "owner": null,
-    "rank": 64
+    "rank": 68
   },
   {
     "repo": "TauricResearch/TradingAgents",
@@ -1037,7 +1101,7 @@
     "abs_gain_90d": 9585,
     "rel_gain_90d": 0.353117,
     "owner": null,
-    "rank": 65
+    "rank": 69
   },
   {
     "repo": "GetStream/Vision-Agents",
@@ -1053,7 +1117,7 @@
     "abs_gain_90d": 1192,
     "rel_gain_90d": 0.343417,
     "owner": null,
-    "rank": 66
+    "rank": 70
   },
   {
     "repo": "GodsScion/Auto_job_applier_linkedIn",
@@ -1069,7 +1133,7 @@
     "abs_gain_90d": 421,
     "rel_gain_90d": 0.33979,
     "owner": null,
-    "rank": 67
+    "rank": 71
   },
   {
     "repo": "9seconds/mtg",
@@ -1085,7 +1149,7 @@
     "abs_gain_90d": 671,
     "rel_gain_90d": 0.332014,
     "owner": null,
-    "rank": 68
+    "rank": 72
   },
   {
     "repo": "EveryInc/compound-engineering-plugin",
@@ -1101,7 +1165,7 @@
     "abs_gain_90d": 1042,
     "rel_gain_90d": 0.311045,
     "owner": null,
-    "rank": 69
+    "rank": 73
   },
   {
     "repo": "antinomyhq/forgecode",
@@ -1117,7 +1181,7 @@
     "abs_gain_90d": 1362,
     "rel_gain_90d": 0.306826,
     "owner": null,
-    "rank": 70
+    "rank": 74
   },
   {
     "repo": "FlorianBruniaux/claude-code-ultimate-guide",
@@ -1133,7 +1197,7 @@
     "abs_gain_90d": 338,
     "rel_gain_90d": 0.304779,
     "owner": null,
-    "rank": 71
+    "rank": 75
   },
   {
     "repo": "agrinman/tunnelto",
@@ -1149,7 +1213,7 @@
     "abs_gain_90d": 1500,
     "rel_gain_90d": 0.302358,
     "owner": null,
-    "rank": 72
+    "rank": 76
   },
   {
     "repo": "SynkraAI/aios-core",
@@ -1165,7 +1229,7 @@
     "abs_gain_90d": 354,
     "rel_gain_90d": 0.299239,
     "owner": null,
-    "rank": 73
+    "rank": 77
   },
   {
     "repo": "HKUDS/ViMax",
@@ -1181,7 +1245,7 @@
     "abs_gain_90d": 503,
     "rel_gain_90d": 0.296231,
     "owner": null,
-    "rank": 74
+    "rank": 78
   },
   {
     "repo": "HunxByts/GhostTrack",
@@ -1197,7 +1261,7 @@
     "abs_gain_90d": 1771,
     "rel_gain_90d": 0.294578,
     "owner": null,
-    "rank": 75
+    "rank": 79
   },
   {
     "repo": "MiroMindAI/MiroFlow",
@@ -1213,7 +1277,7 @@
     "abs_gain_90d": 476,
     "rel_gain_90d": 0.281991,
     "owner": null,
-    "rank": 76
+    "rank": 80
   },
   {
     "repo": "Blaizzy/mlx-audio",
@@ -1229,7 +1293,7 @@
     "abs_gain_90d": 845,
     "rel_gain_90d": 0.267999,
     "owner": null,
-    "rank": 77
+    "rank": 81
   },
   {
     "repo": "DioCrafts/OxiCloud",
@@ -1245,7 +1309,7 @@
     "abs_gain_90d": 491,
     "rel_gain_90d": 0.248105,
     "owner": null,
-    "rank": 78
+    "rank": 82
   },
   {
     "repo": "IAmTomShaw/f1-race-replay",
@@ -1261,7 +1325,7 @@
     "abs_gain_90d": 888,
     "rel_gain_90d": 0.235419,
     "owner": null,
-    "rank": 79
+    "rank": 83
   },
   {
     "repo": "SteamClientHomebrew/Millennium",
@@ -1277,7 +1341,7 @@
     "abs_gain_90d": 599,
     "rel_gain_90d": 0.233984,
     "owner": null,
-    "rank": 80
+    "rank": 84
   },
   {
     "repo": "containers/bubblewrap",
@@ -1293,7 +1357,7 @@
     "abs_gain_90d": 1238,
     "rel_gain_90d": 0.233629,
     "owner": null,
-    "rank": 81
+    "rank": 85
   },
   {
     "repo": "runkids/skillshare",
@@ -1309,7 +1373,7 @@
     "abs_gain_90d": 242,
     "rel_gain_90d": 0.224074,
     "owner": null,
-    "rank": 82
+    "rank": 86
   },
   {
     "repo": "crimera/piko",
@@ -1325,7 +1389,7 @@
     "abs_gain_90d": 551,
     "rel_gain_90d": 0.223711,
     "owner": null,
-    "rank": 83
+    "rank": 87
   },
   {
     "repo": "Q00/ouroboros",
@@ -1341,7 +1405,7 @@
     "abs_gain_90d": 219,
     "rel_gain_90d": 0.213035,
     "owner": null,
-    "rank": 84
+    "rank": 88
   },
   {
     "repo": "OuterTune/OuterTune",
@@ -1357,7 +1421,7 @@
     "abs_gain_90d": 833,
     "rel_gain_90d": 0.205375,
     "owner": null,
-    "rank": 85
+    "rank": 89
   },
   {
     "repo": "ComposioHQ/awesome-claude-plugins",
@@ -1373,7 +1437,7 @@
     "abs_gain_90d": 204,
     "rel_gain_90d": 0.203187,
     "owner": null,
-    "rank": 86
+    "rank": 90
   },
   {
     "repo": "Lightricks/ComfyUI-LTXVideo",
@@ -1389,7 +1453,7 @@
     "abs_gain_90d": 496,
     "rel_gain_90d": 0.202284,
     "owner": null,
-    "rank": 87
+    "rank": 91
   },
   {
     "repo": "ItzCrazyKns/Vane",
@@ -1405,7 +1469,7 @@
     "abs_gain_90d": 5194,
     "rel_gain_90d": 0.187279,
     "owner": null,
-    "rank": 88
+    "rank": 92
   },
   {
     "repo": "Coding-Solo/godot-mcp",
@@ -1421,7 +1485,7 @@
     "abs_gain_90d": 227,
     "rel_gain_90d": 0.175154,
     "owner": null,
-    "rank": 89
+    "rank": 93
   },
   {
     "repo": "OlaProeis/Ferrite",
@@ -1437,7 +1501,7 @@
     "abs_gain_90d": 175,
     "rel_gain_90d": 0.174825,
     "owner": null,
-    "rank": 90
+    "rank": 94
   },
   {
     "repo": "GDRETools/gdsdecomp",
@@ -1453,7 +1517,7 @@
     "abs_gain_90d": 485,
     "rel_gain_90d": 0.174398,
     "owner": null,
-    "rank": 91
+    "rank": 95
   },
   {
     "repo": "QwenLM/Qwen-Agent",
@@ -1469,7 +1533,7 @@
     "abs_gain_90d": 2218,
     "rel_gain_90d": 0.174097,
     "owner": null,
-    "rank": 92
+    "rank": 96
   },
   {
     "repo": "AstrBotDevs/AstrBot",
@@ -1485,7 +1549,7 @@
     "abs_gain_90d": 2473,
     "rel_gain_90d": 0.169279,
     "owner": null,
-    "rank": 93
+    "rank": 97
   },
   {
     "repo": "moghtech/komodo",
@@ -1501,7 +1565,7 @@
     "abs_gain_90d": 1511,
     "rel_gain_90d": 0.162858,
     "owner": null,
-    "rank": 94
+    "rank": 98
   },
   {
     "repo": "DreamMaoMao/mangowc",
@@ -1517,7 +1581,7 @@
     "abs_gain_90d": 262,
     "rel_gain_90d": 0.162632,
     "owner": null,
-    "rank": 95
+    "rank": 99
   },
   {
     "repo": "JingMatrix/Vector",
@@ -1532,70 +1596,6 @@
     "window_end_stars": 10344,
     "abs_gain_90d": 1388,
     "rel_gain_90d": 0.15498,
-    "owner": null,
-    "rank": 96
-  },
-  {
-    "repo": "LMCache/LMCache",
-    "quarter": "2026-Q2",
-    "stars_now": null,
-    "forks": null,
-    "open_issues": null,
-    "subscribers": null,
-    "best_window_start": "2026-01-02",
-    "best_window_end": "2026-04-01",
-    "window_start_stars": 6562,
-    "window_end_stars": 7569,
-    "abs_gain_90d": 1007,
-    "rel_gain_90d": 0.153459,
-    "owner": null,
-    "rank": 97
-  },
-  {
-    "repo": "maboloshi/github-chinese",
-    "quarter": "2026-Q2",
-    "stars_now": 22375,
-    "forks": 1244,
-    "open_issues": 53,
-    "subscribers": 95,
-    "best_window_start": "2026-01-04",
-    "best_window_end": "2026-04-03",
-    "window_start_stars": 19401,
-    "window_end_stars": 22344,
-    "abs_gain_90d": 2943,
-    "rel_gain_90d": 0.151693,
-    "owner": null,
-    "rank": 98
-  },
-  {
-    "repo": "fathyb/carbonyl",
-    "quarter": "2026-Q2",
-    "stars_now": 18044,
-    "forks": 466,
-    "open_issues": 82,
-    "subscribers": 91,
-    "best_window_start": "2026-01-05",
-    "best_window_end": "2026-04-04",
-    "window_start_stars": 15669,
-    "window_end_stars": 18027,
-    "abs_gain_90d": 2358,
-    "rel_gain_90d": 0.150488,
-    "owner": null,
-    "rank": 99
-  },
-  {
-    "repo": "NoFxAiOS/nofx",
-    "quarter": "2026-Q2",
-    "stars_now": null,
-    "forks": null,
-    "open_issues": null,
-    "subscribers": null,
-    "best_window_start": "2026-01-02",
-    "best_window_end": "2026-04-01",
-    "window_start_stars": 9371,
-    "window_end_stars": 10741,
-    "abs_gain_90d": 1370,
-    "rel_gain_90d": 0.146196,
     "owner": null,
     "rank": 100
   }
