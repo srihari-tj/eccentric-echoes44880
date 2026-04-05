@@ -24,5 +24,20 @@
   "watchers": 3608,
   "html_url": "https://github.com/Nekogram/Nekogram",
   "api_url": "https://api.github.com/repos/Nekogram/Nekogram",
-  "fetched_at": "2026-04-04T10:09:59.212Z"
+  "fetched_at": "2026-04-04T10:09:59.212Z",
+  "contributor_locations": {
+    "unknown": 17,
+    "比天空更远的地方": 1,
+    "ukraine": 1,
+    "минск": 1,
+    "três coroas, rs": 1,
+    "beijing china": 1,
+    "russia, omsk": 1,
+    "seongnam, korea": 1,
+    "krasnoyarsk": 1,
+    "berlin, germany": 1,
+    "utah": 1,
+    "saint petersburg, russia": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T10:29:53.071Z"
 }
