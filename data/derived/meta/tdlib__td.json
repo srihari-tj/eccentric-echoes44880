@@ -1,0 +1,29 @@
+{
+  "owner": "tdlib",
+  "repo": "tdlib/td",
+  "name": "td",
+  "full_name": "tdlib/td",
+  "description": "Cross-platform library for building Telegram clients",
+  "homepage": "https://core.telegram.org/tdlib",
+  "language": "C++",
+  "license": "BSL-1.0",
+  "topics": [
+    "cross-platform",
+    "library",
+    "telegram"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-12-31T20:23:47Z",
+  "pushed_at": "2026-04-03T23:10:00Z",
+  "size": 72099,
+  "stars_now": 8636,
+  "forks": 2007,
+  "open_issues": 67,
+  "subscribers": 367,
+  "watchers": 8636,
+  "html_url": "https://github.com/tdlib/td",
+  "api_url": "https://api.github.com/repos/tdlib/td",
+  "fetched_at": "2026-04-05T19:29:39.475Z"
+}
