@@ -21,5 +21,24 @@
   "watchers": 1088,
   "html_url": "https://github.com/chrisk/fakeweb",
   "api_url": "https://api.github.com/repos/chrisk/fakeweb",
-  "fetched_at": "2026-04-04T10:10:06.147Z"
+  "fetched_at": "2026-04-04T10:10:06.147Z",
+  "contributor_locations": {
+    "orlando, fl": 1,
+    "atlanta, ga": 1,
+    "troy, ny": 1,
+    "nelson, bc": 1,
+    "the netherlands": 1,
+    "127.0.0.1": 1,
+    "seattle, wa": 3,
+    "montreal, canada": 1,
+    "northampton, ma, usa": 1,
+    "austin, tx": 1,
+    "san francisco, ca": 1,
+    "new york, ny, usa": 1,
+    "catalonia": 1,
+    "méxico": 1,
+    "copenhagen, denmark": 1,
+    "tauranga, new zealand": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:51:20.027Z"
 }

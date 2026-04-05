@@ -27,5 +27,30 @@
   "watchers": 3422,
   "html_url": "https://github.com/dmtrKovalenko/fff.nvim",
   "api_url": "https://api.github.com/repos/dmtrKovalenko/fff.nvim",
-  "fetched_at": "2026-04-04T10:10:07.856Z"
+  "fetched_at": "2026-04-04T10:10:07.856Z",
+  "contributor_locations": {
+    "in your node_modules": 1,
+    "unknown": 21,
+    "sweden": 1,
+    "north carolina": 1,
+    "zurich, switzerland": 1,
+    "taipei, taiwan": 1,
+    "berlin": 2,
+    "los angeles, ca": 1,
+    "italy": 1,
+    "clermont-ferrand": 1,
+    "singapore": 1,
+    "stuttgart | germany": 1,
+    "🇲🇽": 1,
+    "santa catarina, brasil": 1,
+    "nyc": 1,
+    "vladivostok": 1,
+    "new york, ny": 1,
+    "germany": 1,
+    "london, united kingdom": 1,
+    "milan, italy": 1,
+    "sf bay area, ca": 1,
+    "san francisco, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T19:52:34.569Z"
 }
