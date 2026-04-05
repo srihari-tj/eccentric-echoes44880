@@ -21,5 +21,15 @@
   "watchers": 547,
   "html_url": "https://github.com/sstephenson/global_phone",
   "api_url": "https://api.github.com/repos/sstephenson/global_phone",
-  "fetched_at": "2026-04-04T10:10:23.108Z"
+  "fetched_at": "2026-04-04T10:10:23.108Z",
+  "contributor_locations": {
+    "ciudad de méxico": 1,
+    "unknown": 1,
+    "brisbane, australia": 1,
+    "new york, usa": 1,
+    "taiwan": 1,
+    "barcelona": 1,
+    "san francisco, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:34:09.703Z"
 }

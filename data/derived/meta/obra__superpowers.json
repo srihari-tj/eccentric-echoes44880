@@ -21,5 +21,20 @@
   "watchers": 134472,
   "html_url": "https://github.com/obra/superpowers",
   "api_url": "https://api.github.com/repos/obra/superpowers",
-  "fetched_at": "2026-04-04T10:10:17.471Z"
+  "fetched_at": "2026-04-04T10:10:17.471Z",
+  "contributor_locations": {
+    "berkeley, ca 94703": 1,
+    "san francisco": 3,
+    "seattle": 2,
+    "unknown": 13,
+    "hyderabad, india": 1,
+    "minas gerais, brazil": 1,
+    "地球 · 中国 / china, earth": 1,
+    "berlin, germany": 1,
+    "pegnitz, germany": 1,
+    "columbus, oh": 1,
+    "alabama": 1,
+    "mostar": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:48:25.941Z"
 }

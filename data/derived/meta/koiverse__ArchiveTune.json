@@ -39,5 +39,15 @@
   "watchers": 1142,
   "html_url": "https://github.com/koiverse/ArchiveTune",
   "api_url": "https://api.github.com/repos/koiverse/ArchiveTune",
-  "fetched_at": "2026-04-04T10:10:13.784Z"
+  "fetched_at": "2026-04-04T10:10:13.784Z",
+  "contributor_locations": {
+    "unknown": 7,
+    "sri lanka": 1,
+    "chiêm hóa, tuyên quang, việt nam": 1,
+    "france": 1,
+    "russian federation": 1,
+    "seattle": 1,
+    "germany": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:46:37.784Z"
 }

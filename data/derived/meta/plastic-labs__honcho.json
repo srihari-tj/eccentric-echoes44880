@@ -42,5 +42,17 @@
   "watchers": 1582,
   "html_url": "https://github.com/plastic-labs/honcho",
   "api_url": "https://api.github.com/repos/plastic-labs/honcho",
-  "fetched_at": "2026-04-04T10:10:18.863Z"
+  "fetched_at": "2026-04-04T10:10:18.863Z",
+  "contributor_locations": {
+    "nyc": 3,
+    "unknown": 8,
+    "new york": 1,
+    "sfo, clt": 1,
+    "san francisco, ca": 1,
+    "g2rm+5m budapest": 1,
+    "france": 1,
+    "new york city": 1,
+    "cochin, kerala": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:52:06.400Z"
 }

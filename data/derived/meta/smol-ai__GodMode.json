@@ -27,5 +27,26 @@
   "watchers": 4919,
   "html_url": "https://github.com/smol-ai/GodMode",
   "api_url": "https://api.github.com/repos/smol-ai/GodMode",
-  "fetched_at": "2026-04-04T19:21:40.490Z"
+  "fetched_at": "2026-04-04T19:21:40.490Z",
+  "contributor_locations": {
+    "san francisco": 1,
+    "san francisco, ca": 1,
+    "albany, new york": 1,
+    "berlin, germany": 1,
+    "helsingborg, sweden": 1,
+    "cork, ireland": 1,
+    "chicago, illinois": 1,
+    "singapore": 1,
+    "london, ontario, canada": 1,
+    "unknown": 3,
+    "watertown, ma": 1,
+    "zoetermeer, the netherlands": 1,
+    "new york, ny": 1,
+    "new york": 1,
+    "phoenix": 1,
+    "china": 1,
+    "tokyo, japan": 1,
+    "nigeria": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:32:32.857Z"
 }

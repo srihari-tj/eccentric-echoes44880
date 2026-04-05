@@ -29,5 +29,17 @@
   "watchers": 1703,
   "html_url": "https://github.com/mayocream/koharu",
   "api_url": "https://api.github.com/repos/mayocream/koharu",
-  "fetched_at": "2026-04-04T10:10:15.747Z"
+  "fetched_at": "2026-04-04T10:10:15.747Z",
+  "contributor_locations": {
+    "tokyo": 2,
+    "shanghai": 1,
+    "unknown": 7,
+    "atlanta, ga, united states": 1,
+    "toronto, canada": 1,
+    "russian federation": 1,
+    "guangdong, china": 1,
+    "loading information...": 1,
+    "paris, france": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:47:46.801Z"
 }

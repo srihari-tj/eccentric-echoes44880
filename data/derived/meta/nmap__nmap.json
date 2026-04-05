@@ -39,5 +39,10 @@
   "watchers": 12641,
   "html_url": "https://github.com/nmap/nmap",
   "api_url": "https://api.github.com/repos/nmap/nmap",
-  "fetched_at": "2026-04-04T10:10:17.163Z"
+  "fetched_at": "2026-04-04T10:10:17.163Z",
+  "contributor_locations": {
+    "unknown": 4,
+    "boston, usa": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:48:20.921Z"
 }

@@ -21,5 +21,29 @@
   "watchers": 4278,
   "html_url": "https://github.com/libjpeg-turbo/libjpeg-turbo",
   "api_url": "https://api.github.com/repos/libjpeg-turbo/libjpeg-turbo",
-  "fetched_at": "2026-04-04T10:10:14.493Z"
+  "fetched_at": "2026-04-04T10:10:14.493Z",
+  "contributor_locations": {
+    "unknown": 22,
+    "sweden": 1,
+    "paris, france": 1,
+    "toronto, canada": 1,
+    "united kingdom": 4,
+    "mountain view, ca": 1,
+    "different places": 1,
+    "bellevue, wa": 1,
+    "czech republic": 1,
+    "poland": 1,
+    "the netherlands": 1,
+    "buffalo, ny": 1,
+    "edinburgh, united kingdom": 1,
+    "gdańsk": 1,
+    "cambridge, uk": 1,
+    "são paulo, sp, brazil": 1,
+    "germany": 1,
+    "new york, ny": 1,
+    "france": 1,
+    "san jose, ca": 1,
+    "toronto, on, canada": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:47:13.593Z"
 }

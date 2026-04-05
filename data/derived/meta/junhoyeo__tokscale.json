@@ -42,5 +42,24 @@
   "watchers": 1584,
   "html_url": "https://github.com/junhoyeo/tokscale",
   "api_url": "https://api.github.com/repos/junhoyeo/tokscale",
-  "fetched_at": "2026-04-04T19:21:38.357Z"
+  "fetched_at": "2026-04-04T19:21:38.357Z",
+  "contributor_locations": {
+    "seoul, korea": 2,
+    "unknown": 18,
+    "portland": 1,
+    "seoul": 3,
+    "italy": 1,
+    "korea, republic of": 2,
+    "深圳": 1,
+    "seattle": 1,
+    "korea": 1,
+    "hangzhou": 1,
+    "austria": 1,
+    "shanghai": 1,
+    "神奈川県": 1,
+    "seoul, republic of korea": 1,
+    "quezon city": 1,
+    "méxico": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:45:40.931Z"
 }

@@ -27,5 +27,27 @@
   "watchers": 18721,
   "html_url": "https://github.com/siddharthvaddem/openscreen",
   "api_url": "https://api.github.com/repos/siddharthvaddem/openscreen",
-  "fetched_at": "2026-04-04T10:10:22.070Z"
+  "fetched_at": "2026-04-04T10:10:22.070Z",
+  "contributor_locations": {
+    "unknown": 16,
+    "rennes, france": 1,
+    "boston": 1,
+    "taiwan": 1,
+    "france": 1,
+    "pune, india": 1,
+    "san francisco bay area": 1,
+    "seattle": 1,
+    "[object object]": 1,
+    "united states": 1,
+    "nomad at brazil": 1,
+    "india": 3,
+    "italy": 1,
+    "west virgina": 1,
+    "brazil": 1,
+    "up above the world so high": 1,
+    "seattle, wa": 1,
+    "america/los_angeles": 1,
+    "athens, greece": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:32:27.548Z"
 }

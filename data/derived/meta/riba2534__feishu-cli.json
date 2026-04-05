@@ -21,5 +21,14 @@
   "watchers": 791,
   "html_url": "https://github.com/riba2534/feishu-cli",
   "api_url": "https://api.github.com/repos/riba2534/feishu-cli",
-  "fetched_at": "2026-04-04T10:10:19.900Z"
+  "fetched_at": "2026-04-04T10:10:19.900Z",
+  "contributor_locations": {
+    "beijing, china": 1,
+    "beijing": 1,
+    "unknown": 13,
+    "shannxi，chain": 1,
+    "hangzhou zhejiang": 1,
+    "fuzhou university": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:29:39.170Z"
 }

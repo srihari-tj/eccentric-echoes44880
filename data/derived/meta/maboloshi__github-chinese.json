@@ -28,5 +28,23 @@
   "watchers": 22375,
   "html_url": "https://github.com/maboloshi/github-chinese",
   "api_url": "https://api.github.com/repos/maboloshi/github-chinese",
-  "fetched_at": "2026-04-04T10:10:15.106Z"
+  "fetched_at": "2026-04-04T10:10:15.106Z",
+  "contributor_locations": {
+    "unknown": 17,
+    "hangzhou, china": 1,
+    "guangdong university of science and technology, china": 1,
+    "v始皇爱国 七海省 枝江市 枝江大学": 1,
+    "china": 2,
+    "中国": 2,
+    "广州": 1,
+    "中央人民政府": 1,
+    "china fujian xiamen": 1,
+    "changchun, china": 1,
+    "beijing": 1,
+    "china shanghai": 1,
+    "<script>alert(0)</script>": 1,
+    "tokyo, japan": 1,
+    "seattle": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:47:23.123Z"
 }

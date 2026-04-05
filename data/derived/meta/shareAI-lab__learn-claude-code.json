@@ -32,5 +32,13 @@
   "watchers": 48027,
   "html_url": "https://github.com/shareAI-lab/learn-claude-code",
   "api_url": "https://api.github.com/repos/shareAI-lab/learn-claude-code",
-  "fetched_at": "2026-04-04T10:10:21.369Z"
+  "fetched_at": "2026-04-04T10:10:21.369Z",
+  "contributor_locations": {
+    "ai-lab@foxmail.com": 1,
+    "unknown": 16,
+    "shenzhen": 1,
+    "shanghai,china.": 1,
+    "chengdu, china": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:31:04.767Z"
 }
