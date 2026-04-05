@@ -28,5 +28,27 @@
   "watchers": 8252,
   "html_url": "https://github.com/CTCaer/hekate",
   "api_url": "https://api.github.com/repos/CTCaer/hekate",
-  "fetched_at": "2026-04-04T19:21:34.570Z"
+  "fetched_at": "2026-04-04T19:21:34.570Z",
+  "contributor_locations": {
+    "unknown": 10,
+    "the world.": 1,
+    "hungary": 1,
+    "brasil": 1,
+    "saint paul, mn": 1,
+    "italy": 1,
+    "united states": 2,
+    "madrid, spain": 1,
+    "france, fr": 1,
+    "0x88000000": 1,
+    "boston, ma": 1,
+    "andromeda": 1,
+    "hamburg": 1,
+    "michigan": 1,
+    "lleida": 1,
+    "united kingdom": 1,
+    "switzerland": 1,
+    "cheshire, uk": 1,
+    "france": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T07:42:32.743Z"
 }
