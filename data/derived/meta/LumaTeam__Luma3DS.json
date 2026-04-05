@@ -26,5 +26,30 @@
   "watchers": 6327,
   "html_url": "https://github.com/LumaTeam/Luma3DS",
   "api_url": "https://api.github.com/repos/LumaTeam/Luma3DS",
-  "fetched_at": "2026-04-04T19:21:35.008Z"
+  "fetched_at": "2026-04-04T19:21:35.008Z",
+  "contributor_locations": {
+    "italy": 1,
+    "paris, france": 1,
+    "united states": 3,
+    "valencia, spain": 1,
+    "france": 1,
+    "unknown": 30,
+    "dortmund, germany, ᐰ": 1,
+    "netherlands": 1,
+    "united kingdom": 2,
+    "madrid, spain": 1,
+    "paris": 1,
+    "oceanside, california": 1,
+    "iraq": 1,
+    "maine": 1,
+    "wolverhampton, uk": 1,
+    "toronto, canada": 1,
+    "oklahoma city, ok, usa": 1,
+    "saxony, germany": 1,
+    "japan": 1,
+    "germany": 1,
+    "somewhere in california": 1,
+    "washington dc": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T09:40:30.672Z"
 }
