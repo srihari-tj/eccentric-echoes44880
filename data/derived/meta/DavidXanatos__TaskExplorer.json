@@ -21,5 +21,13 @@
   "watchers": 1830,
   "html_url": "https://github.com/DavidXanatos/TaskExplorer",
   "api_url": "https://api.github.com/repos/DavidXanatos/TaskExplorer",
-  "fetched_at": "2026-01-03T06:49:05.005Z"
+  "fetched_at": "2026-01-03T06:49:05.005Z",
+  "contributor_locations": {
+    "vienna": 1,
+    "unknown": 3,
+    "milano, italy": 1,
+    "japan": 1,
+    "ukraine": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T08:31:20.377Z"
 }
