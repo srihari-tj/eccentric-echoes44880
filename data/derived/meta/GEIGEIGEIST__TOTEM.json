@@ -27,5 +27,13 @@
   "watchers": 1721,
   "html_url": "https://github.com/GEIGEIGEIST/TOTEM",
   "api_url": "https://api.github.com/repos/GEIGEIGEIST/TOTEM",
-  "fetched_at": "2026-01-03T06:49:07.511Z"
+  "fetched_at": "2026-01-03T06:49:07.511Z",
+  "contributor_locations": {
+    "germany": 2,
+    "unknown": 3,
+    "belgium": 1,
+    "shenzhen, china": 1,
+    "haarlem, the netherlands": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T08:43:08.311Z"
 }

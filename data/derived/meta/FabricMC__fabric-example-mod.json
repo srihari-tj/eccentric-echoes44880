@@ -23,5 +23,23 @@
   "watchers": 2065,
   "html_url": "https://github.com/FabricMC/fabric-example-mod",
   "api_url": "https://api.github.com/repos/FabricMC/fabric-example-mod",
-  "fetched_at": "2026-01-03T06:49:05.701Z"
+  "fetched_at": "2026-01-03T06:49:05.701Z",
+  "contributor_locations": {
+    "unknown": 11,
+    "poland": 1,
+    "victoria, australia": 1,
+    "snohomish, wa, usa": 1,
+    "odenwald, hessia, germany": 1,
+    "arizona, us": 1,
+    "australia": 1,
+    "berlin": 1,
+    "united states": 1,
+    "oldenburg, germany": 1,
+    "somewhere over the rainbow": 1,
+    "spain": 1,
+    "germany": 1,
+    "british indian ocean territory": 1,
+    "vancouver, bc": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T08:37:19.947Z"
 }

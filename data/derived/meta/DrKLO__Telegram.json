@@ -23,5 +23,15 @@
   "watchers": 28203,
   "html_url": "https://github.com/DrKLO/Telegram",
   "api_url": "https://api.github.com/repos/DrKLO/Telegram",
-  "fetched_at": "2025-12-30T05:12:28.907Z"
+  "fetched_at": "2025-12-30T05:12:28.907Z",
+  "contributor_locations": {
+    "unknown": 9,
+    "ukraine": 1,
+    "beijing china": 1,
+    "utah": 1,
+    "berlin, germany": 1,
+    "krasnoyarsk": 1,
+    "seongnam, korea": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T08:32:45.072Z"
 }
