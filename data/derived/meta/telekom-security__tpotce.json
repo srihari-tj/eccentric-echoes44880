@@ -29,5 +29,29 @@
   "watchers": 9027,
   "html_url": "https://github.com/telekom-security/tpotce",
   "api_url": "https://api.github.com/repos/telekom-security/tpotce",
-  "fetched_at": "2026-04-04T19:21:41.360Z"
+  "fetched_at": "2026-04-04T19:21:41.360Z",
+  "contributor_locations": {
+    "frankfurt": 1,
+    "munich": 1,
+    "unknown": 13,
+    "frankfurt, germany": 1,
+    "san francisco, ca": 1,
+    "italy": 1,
+    "duesseldorf, germany": 1,
+    "denmark, copenhagen": 1,
+    "lugano": 1,
+    "france": 1,
+    "poznan, poland": 1,
+    "charlotte, nc": 1,
+    "bratislava, slovakia": 1,
+    "chile": 1,
+    "auckland, nz": 1,
+    "copenhagen": 1,
+    "brasilia.df.br": 1,
+    "salt lake city, ut": 1,
+    "michigan, usa": 1,
+    "br": 1,
+    "seattle, wa": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:37:28.734Z"
 }

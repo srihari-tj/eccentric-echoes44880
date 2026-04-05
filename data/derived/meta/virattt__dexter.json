@@ -21,5 +21,18 @@
   "watchers": 20916,
   "html_url": "https://github.com/virattt/dexter",
   "api_url": "https://api.github.com/repos/virattt/dexter",
-  "fetched_at": "2026-04-04T10:10:24.853Z"
+  "fetched_at": "2026-04-04T10:10:24.853Z",
+  "contributor_locations": {
+    "new york, ny": 1,
+    "washington, dc": 1,
+    "chhattisgarh, india": 1,
+    "london, uk": 1,
+    "unknown": 9,
+    "united states": 1,
+    "the netherlands": 1,
+    "france": 1,
+    "earth": 1,
+    "lisbon": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:40:16.968Z"
 }

@@ -34,5 +34,12 @@
   "watchers": 4456,
   "html_url": "https://github.com/vas3k/TaxHacker",
   "api_url": "https://api.github.com/repos/vas3k/TaxHacker",
-  "fetched_at": "2026-04-04T10:10:24.513Z"
+  "fetched_at": "2026-04-04T10:10:24.513Z",
+  "contributor_locations": {
+    "berlin, germany": 1,
+    "netherlands": 1,
+    "belgrade, serbia": 1,
+    "unknown": 4
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:40:13.085Z"
 }

@@ -25,5 +25,13 @@
   "watchers": 1870,
   "html_url": "https://github.com/zly2006/zhihu-plus-plus",
   "api_url": "https://api.github.com/repos/zly2006/zhihu-plus-plus",
-  "fetched_at": "2026-04-04T10:10:26.525Z"
+  "fetched_at": "2026-04-04T10:10:26.525Z",
+  "contributor_locations": {
+    "xi'an, shaanxi province, p.r. china": 1,
+    "china": 2,
+    "unknown": 4,
+    "chengdu, china": 1,
+    "北京": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T21:44:56.980Z"
 }
