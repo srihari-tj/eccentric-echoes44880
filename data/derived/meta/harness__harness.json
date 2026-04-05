@@ -34,5 +34,29 @@
   "watchers": 34404,
   "html_url": "https://github.com/harness/harness",
   "api_url": "https://api.github.com/repos/harness/harness",
-  "fetched_at": "2026-04-04T10:10:11.493Z"
+  "fetched_at": "2026-04-04T10:10:11.493Z",
+  "contributor_locations": {
+    "mountain view": 1,
+    "belgrade, serbia": 1,
+    "unknown": 51,
+    "bengaluru": 2,
+    "bangalore": 2,
+    "san francisco, usa": 1,
+    "bangalore, india": 2,
+    "india": 1,
+    "remote": 1,
+    "fuyang": 1,
+    "bhubaneswar": 1,
+    "pune, india": 1,
+    "denmark": 1,
+    "tokyo, japan": 1,
+    "san francisco, ca": 1,
+    "belgrade": 1,
+    "tamil nadu": 1,
+    "moncton, nb": 1,
+    "germany": 1,
+    "barcelona": 1,
+    "frankfurt": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:41:57.039Z"
 }

@@ -36,5 +36,32 @@
   "watchers": 7415,
   "html_url": "https://github.com/google/adk-go",
   "api_url": "https://api.github.com/repos/google/adk-go",
-  "fetched_at": "2026-04-04T10:10:11.115Z"
+  "fetched_at": "2026-04-04T10:10:11.115Z",
+  "contributor_locations": {
+    "unknown": 19,
+    "warsaw": 4,
+    "san francisco, ca": 1,
+    "bay area": 1,
+    "tokyo, japan": 1,
+    "warsaw, poland": 1,
+    "guangzhou": 1,
+    "london, uk": 1,
+    "sweden": 1,
+    "china beijing": 1,
+    "chengdu, china": 1,
+    "mars": 1,
+    "india": 1,
+    "san jose": 1,
+    "berlin, germany": 1,
+    "san francisco": 1,
+    "jakarta": 1,
+    "montreal , quebec .canada .": 1,
+    "córdoba, argentina": 1,
+    "costa rica": 1,
+    "new york, ny": 1,
+    "hsinchu, taiwan": 1,
+    "london": 1,
+    "online": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:40:46.160Z"
 }

@@ -21,5 +21,22 @@
   "watchers": 14373,
   "html_url": "https://github.com/google-research/timesfm",
   "api_url": "https://api.github.com/repos/google-research/timesfm",
-  "fetched_at": "2026-04-04T10:10:10.735Z"
+  "fetched_at": "2026-04-04T10:10:10.735Z",
+  "contributor_locations": {
+    "unknown": 8,
+    "mountain view, ca 94043": 1,
+    "san francisco bay area": 1,
+    "augsburg, germany": 1,
+    "berlin, germany": 1,
+    "pelkie, mi": 1,
+    "grenoble, france": 1,
+    "islamabad, pakistan": 1,
+    "san francisco, usa": 1,
+    "denver, co": 1,
+    "bengaluru": 1,
+    "kanagawa": 1,
+    "san francisco, ca": 1,
+    "coimbatore": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:40:34.418Z"
 }

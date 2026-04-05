@@ -40,5 +40,17 @@
   "watchers": 36326,
   "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
   "api_url": "https://api.github.com/repos/hesreallyhim/awesome-claude-code",
-  "fetched_at": "2026-04-04T10:10:11.801Z"
+  "fetched_at": "2026-04-04T10:10:11.801Z",
+  "contributor_locations": {
+    "unknown": 6,
+    "software developer engineer": 1,
+    "miami, fl": 1,
+    "beijing": 1,
+    "chapel hill, nc": 1,
+    "switzerland / france": 1,
+    "chicago, il": 1,
+    "guangzhou": 1,
+    "yokohama, kanagawa, japan": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T20:42:27.296Z"
 }
