@@ -21,5 +21,14 @@
   "watchers": 6970,
   "html_url": "https://github.com/LaurieWired/GhidraMCP",
   "api_url": "https://api.github.com/repos/LaurieWired/GhidraMCP",
-  "fetched_at": "2026-01-03T06:49:10.329Z"
+  "fetched_at": "2026-01-03T06:49:10.329Z",
+  "contributor_locations": {
+    "unknown": 5,
+    "berlin, germany": 1,
+    "europe": 1,
+    "italy": 1,
+    "internet": 1,
+    "germany": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T09:37:50.143Z"
 }
