@@ -42,5 +42,23 @@
   "watchers": 5753,
   "html_url": "https://github.com/OpenSignLabs/OpenSign",
   "api_url": "https://api.github.com/repos/OpenSignLabs/OpenSign",
-  "fetched_at": "2026-01-03T06:49:14.101Z"
+  "fetched_at": "2026-01-03T06:49:14.101Z",
+  "contributor_locations": {
+    "unknown": 23,
+    "paris": 1,
+    "beograde, serbia": 1,
+    "ahmedabad": 1,
+    "australia": 1,
+    "earth": 1,
+    "yekaterinburg": 1,
+    "india": 1,
+    "ghent": 1,
+    "seattle": 1,
+    "praha": 1,
+    "bhubaneswar": 1,
+    "barcelona": 1,
+    "internets": 1,
+    "kolkata": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T10:41:06.327Z"
 }
