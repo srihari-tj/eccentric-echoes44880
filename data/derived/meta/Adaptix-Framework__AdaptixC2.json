@@ -21,5 +21,18 @@
   "watchers": 2927,
   "html_url": "https://github.com/Adaptix-Framework/AdaptixC2",
   "api_url": "https://api.github.com/repos/Adaptix-Framework/AdaptixC2",
-  "fetched_at": "2026-04-04T19:21:34.169Z"
+  "fetched_at": "2026-04-04T19:21:34.169Z",
+  "contributor_locations": {
+    "unknown": 20,
+    "::1": 1,
+    "india": 1,
+    "singapore": 1,
+    "中国": 1,
+    "spain": 1,
+    "az,ca": 1,
+    "127.0.0.1": 1,
+    "krasnoyarsk": 1,
+    "earth": 1
+  },
+  "contributor_locations_updated_at": "2026-04-05T07:29:01.994Z"
 }

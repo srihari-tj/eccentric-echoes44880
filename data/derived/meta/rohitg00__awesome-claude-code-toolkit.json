@@ -1,0 +1,32 @@
+{
+  "owner": "rohitg00",
+  "repo": "rohitg00/awesome-claude-code-toolkit",
+  "name": "awesome-claude-code-toolkit",
+  "full_name": "rohitg00/awesome-claude-code-toolkit",
+  "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more.",
+  "homepage": "https://skillkit.sh",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "claude",
+    "claude-code",
+    "claudecode",
+    "claudecode-hooks",
+    "plugins",
+    "skills"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-02-04T21:09:33Z",
+  "pushed_at": "2026-04-02T12:29:48Z",
+  "size": 819,
+  "stars_now": 1068,
+  "forks": 293,
+  "open_issues": 33,
+  "subscribers": 10,
+  "watchers": 1068,
+  "html_url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+  "api_url": "https://api.github.com/repos/rohitg00/awesome-claude-code-toolkit",
+  "fetched_at": "2026-04-05T07:23:58.110Z"
+}
