@@ -1,0 +1,27 @@
+{
+  "owner": "ml-explore",
+  "repo": "ml-explore/mlx-swift",
+  "name": "mlx-swift",
+  "full_name": "ml-explore/mlx-swift",
+  "description": "Swift API for MLX",
+  "homepage": "https://ml-explore.github.io/mlx-swift/",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "mlx"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-12-12T19:58:52Z",
+  "pushed_at": "2026-04-10T20:21:28Z",
+  "size": 7188,
+  "stars_now": 1745,
+  "forks": 196,
+  "open_issues": 41,
+  "subscribers": 34,
+  "watchers": 1745,
+  "html_url": "https://github.com/ml-explore/mlx-swift",
+  "api_url": "https://api.github.com/repos/ml-explore/mlx-swift",
+  "fetched_at": "2026-04-11T19:48:15.188Z"
+}

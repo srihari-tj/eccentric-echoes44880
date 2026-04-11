@@ -21,5 +21,10 @@
   "watchers": 1156,
   "html_url": "https://github.com/badlogic/pi-skills",
   "api_url": "https://api.github.com/repos/badlogic/pi-skills",
-  "fetched_at": "2026-04-11T09:00:30.693Z"
+  "fetched_at": "2026-04-11T09:00:30.693Z",
+  "contributor_locations": {
+    "0xa000": 1,
+    "gmunden, austria": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:07:08.990Z"
 }

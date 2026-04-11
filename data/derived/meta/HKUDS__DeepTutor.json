@@ -31,5 +31,22 @@
   "watchers": 16252,
   "html_url": "https://github.com/HKUDS/DeepTutor",
   "api_url": "https://api.github.com/repos/HKUDS/DeepTutor",
-  "fetched_at": "2026-04-11T09:00:26.217Z"
+  "fetched_at": "2026-04-11T09:00:26.217Z",
+  "contributor_locations": {
+    "china": 2,
+    "unknown": 16,
+    "melbourne": 1,
+    "vietnam": 1,
+    "lahore, pakistan": 1,
+    "hong kong": 1,
+    "huai'an": 1,
+    "testpc, somewhere in the cloud": 1,
+    "earth": 1,
+    "germany": 1,
+    "formosa - argentina": 1,
+    "america/los_angeles": 1,
+    "hóc môn district, ho chi minh city": 1,
+    "france": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T19:48:48.816Z"
 }

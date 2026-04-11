@@ -1,0 +1,29 @@
+{
+  "owner": "steipete",
+  "repo": "steipete/wacli",
+  "name": "wacli",
+  "full_name": "steipete/wacli",
+  "description": "WhatsApp CLI",
+  "homepage": "https://wacli.sh",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "cli",
+    "go",
+    "whatsapp"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-12-12T12:43:35Z",
+  "pushed_at": "2026-02-19T19:15:16Z",
+  "size": 75,
+  "stars_now": 878,
+  "forks": 159,
+  "open_issues": 132,
+  "subscribers": 14,
+  "watchers": 878,
+  "html_url": "https://github.com/steipete/wacli",
+  "api_url": "https://api.github.com/repos/steipete/wacli",
+  "fetched_at": "2026-04-11T19:48:17.030Z"
+}

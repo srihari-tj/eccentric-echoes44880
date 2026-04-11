@@ -1,0 +1,28 @@
+{
+  "owner": "firedancer-io",
+  "repo": "firedancer-io/firedancer",
+  "name": "firedancer",
+  "full_name": "firedancer-io/firedancer",
+  "description": "Firedancer is Jump Crypto's Solana validator software.",
+  "homepage": "https://docs.firedancer.io",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "c",
+    "solana"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-08-16T13:07:04Z",
+  "pushed_at": "2026-04-11T01:18:26Z",
+  "size": 264937,
+  "stars_now": 1442,
+  "forks": 443,
+  "open_issues": 335,
+  "subscribers": 30,
+  "watchers": 1442,
+  "html_url": "https://github.com/firedancer-io/firedancer",
+  "api_url": "https://api.github.com/repos/firedancer-io/firedancer",
+  "fetched_at": "2026-04-11T19:48:14.421Z"
+}

@@ -21,5 +21,12 @@
   "watchers": 8954,
   "html_url": "https://github.com/NVIDIA/personaplex",
   "api_url": "https://api.github.com/repos/NVIDIA/personaplex",
-  "fetched_at": "2026-04-11T09:00:27.374Z"
+  "fetched_at": "2026-04-11T09:00:27.374Z",
+  "contributor_locations": {
+    "unknown": 2,
+    "127.0.0.1": 1,
+    "uberaba ( brazil )": 1,
+    "hcm": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T19:50:00.488Z"
 }
