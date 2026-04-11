@@ -42,5 +42,22 @@
   "watchers": 1549,
   "html_url": "https://github.com/njbrake/agent-of-empires",
   "api_url": "https://api.github.com/repos/njbrake/agent-of-empires",
-  "fetched_at": "2026-04-11T09:00:41.548Z"
+  "fetched_at": "2026-04-11T09:00:41.548Z",
+  "contributor_locations": {
+    "pittsburgh pa": 1,
+    "unknown": 13,
+    "france": 2,
+    "seoul, south korea": 1,
+    "life sphere": 1,
+    "atlanta": 1,
+    "usa, wa": 1,
+    "berlin, germany": 1,
+    "san jose, ca": 1,
+    "paris": 1,
+    "israel": 1,
+    "united kingdom": 1,
+    "present day, present time": 1,
+    "san francisco": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:24:06.061Z"
 }

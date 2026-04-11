@@ -41,5 +41,24 @@
   "watchers": 16820,
   "html_url": "https://github.com/open-ani/animeko",
   "api_url": "https://api.github.com/repos/open-ani/animeko",
-  "fetched_at": "2026-04-11T09:00:42.279Z"
+  "fetched_at": "2026-04-11T09:00:42.279Z",
+  "contributor_locations": {
+    "tokyo": 1,
+    "shanghai, china": 1,
+    "unknown": 18,
+    "earth": 1,
+    "suzhou, china": 1,
+    "taiwan": 1,
+    "london": 1,
+    "wuxi, jiangsu": 1,
+    "china": 3,
+    "hong kong": 2,
+    "shanghai,china": 1,
+    "beihang university": 1,
+    "shanghai": 1,
+    "wuxi,jiangsu,china": 1,
+    "coffin": 1,
+    "wuhan": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:24:19.925Z"
 }

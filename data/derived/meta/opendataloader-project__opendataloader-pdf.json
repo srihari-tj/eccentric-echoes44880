@@ -42,5 +42,14 @@
   "watchers": 15065,
   "html_url": "https://github.com/opendataloader-project/opendataloader-pdf",
   "api_url": "https://api.github.com/repos/opendataloader-project/opendataloader-pdf",
-  "fetched_at": "2026-04-11T09:00:42.671Z"
+  "fetched_at": "2026-04-11T09:00:42.671Z",
+  "contributor_locations": {
+    "seoul": 1,
+    "unknown": 13,
+    "south korea": 1,
+    "dublin, ca": 1,
+    "santa cruz, ca.": 1,
+    "plugged in": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:24:23.410Z"
 }

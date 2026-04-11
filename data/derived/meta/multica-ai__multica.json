@@ -21,5 +21,18 @@
   "watchers": 6804,
   "html_url": "https://github.com/multica-ai/multica",
   "api_url": "https://api.github.com/repos/multica-ai/multica",
-  "fetched_at": "2026-04-11T09:00:41.204Z"
+  "fetched_at": "2026-04-11T09:00:41.204Z",
+  "contributor_locations": {
+    "unknown": 15,
+    "shanghai, china": 2,
+    "china": 2,
+    "shenzhen, china": 1,
+    "hong kong": 1,
+    "undefined": 1,
+    "beijing": 1,
+    "santiago de chile, chile": 1,
+    "shanghai": 1,
+    "shenzhen, cn": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:24:01.073Z"
 }
