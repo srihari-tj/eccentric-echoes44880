@@ -42,661 +42,661 @@
     "rank": 6
   },
   {
+    "repo": "abhigyanpatwari/GitNexus",
+    "cumulative_start": 126,
+    "cumulative_end": 20881,
+    "delta": 20755,
+    "rank": 7
+  },
+  {
     "repo": "Yeachan-Heo/oh-my-claudecode",
     "cumulative_start": 0,
     "cumulative_end": 18904,
     "delta": 18904,
-    "rank": 7
+    "rank": 8
   },
   {
     "repo": "mvanhorn/last30days-skill",
     "cumulative_start": 0,
     "cumulative_end": 16847,
     "delta": 16847,
-    "rank": 8
+    "rank": 9
   },
   {
     "repo": "tobi/qmd",
     "cumulative_start": 596,
     "cumulative_end": 17349,
     "delta": 16753,
-    "rank": 9
+    "rank": 10
   },
   {
     "repo": "virattt/dexter",
     "cumulative_start": 4382,
     "cumulative_end": 20652,
     "delta": 16270,
-    "rank": 10
+    "rank": 11
   },
   {
     "repo": "hesreallyhim/awesome-claude-code",
     "cumulative_start": 18941,
     "cumulative_end": 35029,
     "delta": 16088,
-    "rank": 11
+    "rank": 12
   },
   {
     "repo": "luongnv89/claude-howto",
     "cumulative_start": 696,
     "cumulative_end": 12838,
     "delta": 12142,
-    "rank": 12
+    "rank": 13
   },
   {
     "repo": "asgeirtj/system_prompts_leaks",
     "cumulative_start": 24420,
     "cumulative_end": 35308,
     "delta": 10888,
-    "rank": 13
+    "rank": 14
   },
   {
     "repo": "K-Dense-AI/claude-scientific-skills",
     "cumulative_start": 2632,
     "cumulative_end": 13492,
     "delta": 10860,
-    "rank": 14
+    "rank": 15
   },
   {
     "repo": "D4Vinci/Scrapling",
     "cumulative_start": 8313,
     "cumulative_end": 18357,
     "delta": 10044,
-    "rank": 15
+    "rank": 16
   },
   {
     "repo": "opendataloader-project/opendataloader-pdf",
     "cumulative_start": 799,
     "cumulative_end": 10835,
     "delta": 10036,
-    "rank": 16
+    "rank": 17
   },
   {
     "repo": "accomplish-ai/accomplish",
     "cumulative_start": 0,
     "cumulative_end": 9952,
     "delta": 9952,
-    "rank": 17
+    "rank": 18
   },
   {
     "repo": "TauricResearch/TradingAgents",
     "cumulative_start": 27099,
     "cumulative_end": 36729,
     "delta": 9630,
-    "rank": 18
+    "rank": 19
   },
   {
     "repo": "HKUDS/DeepTutor",
     "cumulative_start": 1326,
     "cumulative_end": 10894,
     "delta": 9568,
-    "rank": 19
+    "rank": 20
   },
   {
     "repo": "QuantumNous/new-api",
     "cumulative_start": 14257,
     "cumulative_end": 23466,
     "delta": 9209,
-    "rank": 20
+    "rank": 21
   },
   {
     "repo": "aaif-goose/goose",
     "cumulative_start": 24937,
     "cumulative_end": 33734,
     "delta": 8797,
-    "rank": 21
+    "rank": 22
   },
   {
     "repo": "forrestchang/andrej-karpathy-skills",
     "cumulative_start": 0,
     "cumulative_end": 7565,
     "delta": 7565,
-    "rank": 22
+    "rank": 23
   },
   {
     "repo": "ComposioHQ/awesome-claude-skills",
     "cumulative_start": 13623,
     "cumulative_end": 20678,
     "delta": 7055,
-    "rank": 23
+    "rank": 24
   },
   {
     "repo": "Crosstalk-Solutions/project-nomad",
     "cumulative_start": 0,
     "cumulative_end": 6121,
     "delta": 6121,
-    "rank": 24
+    "rank": 25
   },
   {
     "repo": "666ghj/MiroFish",
     "cumulative_start": 712,
     "cumulative_end": 6760,
     "delta": 6048,
-    "rank": 25
+    "rank": 26
   },
   {
     "repo": "KeygraphHQ/shannon",
     "cumulative_start": 3194,
     "cumulative_end": 9134,
     "delta": 5940,
-    "rank": 26
+    "rank": 27
   },
   {
     "repo": "NVIDIA/personaplex",
     "cumulative_start": 0,
     "cumulative_end": 5926,
     "delta": 5926,
-    "rank": 27
+    "rank": 28
   },
   {
     "repo": "ChrisWiles/claude-code-showcase",
     "cumulative_start": 0,
     "cumulative_end": 5646,
     "delta": 5646,
-    "rank": 28
+    "rank": 29
   },
   {
     "repo": "YishenTu/claudian",
     "cumulative_start": 23,
     "cumulative_end": 5560,
     "delta": 5537,
-    "rank": 29
+    "rank": 30
   },
   {
     "repo": "siddharthvaddem/openscreen",
     "cumulative_start": 4785,
     "cumulative_end": 10067,
     "delta": 5282,
-    "rank": 30
+    "rank": 31
   },
   {
     "repo": "ItzCrazyKns/Vane",
     "cumulative_start": 27714,
     "cumulative_end": 32928,
     "delta": 5214,
-    "rank": 31
+    "rank": 32
   },
   {
     "repo": "rowboatlabs/rowboat",
     "cumulative_start": 4234,
     "cumulative_end": 9309,
     "delta": 5075,
-    "rank": 32
+    "rank": 33
   },
   {
     "repo": "Yeachan-Heo/oh-my-codex",
     "cumulative_start": 0,
     "cumulative_end": 4836,
     "delta": 4836,
-    "rank": 33
+    "rank": 34
   },
   {
     "repo": "FujiwaraChoki/MoneyPrinterV2",
     "cumulative_start": 12845,
     "cumulative_end": 17396,
     "delta": 4551,
-    "rank": 34
+    "rank": 35
   },
   {
     "repo": "HKUDS/LightRAG",
     "cumulative_start": 26687,
     "cumulative_end": 31235,
     "delta": 4548,
-    "rank": 35
+    "rank": 36
   },
   {
     "repo": "google-research/timesfm",
     "cumulative_start": 7366,
     "cumulative_end": 11499,
     "delta": 4133,
-    "rank": 36
+    "rank": 37
   },
   {
     "repo": "InsForge/InsForge",
     "cumulative_start": 964,
     "cumulative_end": 4965,
     "delta": 4001,
-    "rank": 37
+    "rank": 38
   },
   {
     "repo": "datalab-to/chandra",
     "cumulative_start": 4108,
     "cumulative_end": 8095,
     "delta": 3987,
-    "rank": 38
+    "rank": 39
   },
   {
     "repo": "MiroMindAI/MiroThinker",
     "cumulative_start": 1399,
     "cumulative_end": 5126,
     "delta": 3727,
-    "rank": 39
+    "rank": 40
   },
   {
     "repo": "Open-Dev-Society/OpenStock",
     "cumulative_start": 6621,
     "cumulative_end": 10162,
     "delta": 3541,
-    "rank": 40
+    "rank": 41
   },
   {
     "repo": "onyx-dot-app/onyx",
     "cumulative_start": 16814,
     "cumulative_end": 20322,
     "delta": 3508,
-    "rank": 41
+    "rank": 42
+  },
+  {
+    "repo": "netbirdio/netbird",
+    "cumulative_start": 20452,
+    "cumulative_end": 23950,
+    "delta": 3498,
+    "rank": 43
   },
   {
     "repo": "ComposioHQ/open-claude-cowork",
     "cumulative_start": 0,
     "cumulative_end": 3215,
     "delta": 3215,
-    "rank": 42
+    "rank": 44
   },
   {
     "repo": "memvid/memvid",
     "cumulative_start": 10443,
     "cumulative_end": 13636,
     "delta": 3193,
-    "rank": 43
+    "rank": 45
   },
   {
     "repo": "zellij-org/zellij",
     "cumulative_start": 27692,
     "cumulative_end": 30824,
     "delta": 3132,
-    "rank": 44
+    "rank": 46
   },
   {
     "repo": "CherryHQ/cherry-studio",
     "cumulative_start": 36878,
     "cumulative_end": 40000,
     "delta": 3122,
-    "rank": 45
+    "rank": 47
   },
   {
     "repo": "iflytek/astron-agent",
     "cumulative_start": 7538,
     "cumulative_end": 10579,
     "delta": 3041,
-    "rank": 46
+    "rank": 48
   },
   {
     "repo": "vas3k/TaxHacker",
     "cumulative_start": 813,
     "cumulative_end": 3714,
     "delta": 2901,
-    "rank": 47
+    "rank": 49
   },
   {
     "repo": "maboloshi/github-chinese",
     "cumulative_start": 19326,
     "cumulative_end": 22110,
     "delta": 2784,
-    "rank": 48
+    "rank": 50
   },
   {
     "repo": "vadimdemedes/ink",
     "cumulative_start": 33497,
     "cumulative_end": 36249,
     "delta": 2752,
-    "rank": 49
+    "rank": 51
   },
   {
     "repo": "HenryNdubuaku/maths-cs-ai-compendium",
     "cumulative_start": 0,
     "cumulative_end": 2725,
     "delta": 2725,
-    "rank": 50
+    "rank": 52
   },
   {
     "repo": "open-ani/animeko",
     "cumulative_start": 13746,
     "cumulative_end": 16448,
     "delta": 2702,
-    "rank": 51
+    "rank": 53
   },
   {
     "repo": "AstrBotDevs/AstrBot",
     "cumulative_start": 14581,
     "cumulative_end": 17082,
     "delta": 2501,
-    "rank": 52
+    "rank": 54
   },
   {
     "repo": "twentyhq/twenty",
     "cumulative_start": 37529,
     "cumulative_end": 40000,
     "delta": 2471,
-    "rank": 53
+    "rank": 55
   },
   {
     "repo": "iflytek/astron-rpa",
     "cumulative_start": 4723,
     "cumulative_end": 7181,
     "delta": 2458,
-    "rank": 54
+    "rank": 56
   },
   {
     "repo": "TheCraigHewitt/seomachine",
     "cumulative_start": 259,
     "cumulative_end": 2690,
     "delta": 2431,
-    "rank": 55
+    "rank": 57
   },
   {
     "repo": "ThePrimeagen/99",
     "cumulative_start": 269,
     "cumulative_end": 2675,
     "delta": 2406,
-    "rank": 56
+    "rank": 58
   },
   {
     "repo": "henrygd/beszel",
     "cumulative_start": 18060,
     "cumulative_end": 20392,
     "delta": 2332,
-    "rank": 57
+    "rank": 59
   },
   {
     "repo": "dreamhunter2333/cloudflare_temp_email",
     "cumulative_start": 5352,
     "cumulative_end": 7661,
     "delta": 2309,
-    "rank": 58
+    "rank": 60
   },
   {
     "repo": "OpenBMB/VoxCPM",
     "cumulative_start": 3191,
     "cumulative_end": 5460,
     "delta": 2269,
-    "rank": 59
+    "rank": 61
   },
   {
     "repo": "bol-van/zapret2",
     "cumulative_start": 957,
     "cumulative_end": 3215,
     "delta": 2258,
-    "rank": 60
+    "rank": 62
   },
   {
     "repo": "QwenLM/Qwen-Agent",
     "cumulative_start": 12729,
     "cumulative_end": 14958,
     "delta": 2229,
-    "rank": 61
+    "rank": 63
   },
   {
     "repo": "HailToDodongo/pyrite64",
     "cumulative_start": 0,
     "cumulative_end": 2180,
     "delta": 2180,
-    "rank": 62
+    "rank": 64
   },
   {
     "repo": "duckdb/duckdb",
     "cumulative_start": 34950,
     "cumulative_end": 37072,
     "delta": 2122,
-    "rank": 63
+    "rank": 65
   },
   {
     "repo": "microsoft/agent-framework",
     "cumulative_start": 6209,
     "cumulative_end": 8324,
     "delta": 2115,
-    "rank": 64
+    "rank": 66
   },
   {
     "repo": "Lissy93/web-check",
     "cumulative_start": 27095,
     "cumulative_end": 29204,
     "delta": 2109,
-    "rank": 65
+    "rank": 67
   },
   {
     "repo": "DaKheera47/job-ops",
     "cumulative_start": 0,
     "cumulative_end": 2074,
     "delta": 2074,
-    "rank": 66
+    "rank": 68
   },
   {
     "repo": "ReVanced/revanced-manager",
     "cumulative_start": 24809,
     "cumulative_end": 26834,
     "delta": 2025,
-    "rank": 67
+    "rank": 69
   },
   {
     "repo": "yamadashy/repomix",
     "cumulative_start": 20749,
     "cumulative_end": 22755,
     "delta": 2006,
-    "rank": 68
+    "rank": 70
   },
   {
     "repo": "daijro/camoufox",
     "cumulative_start": 4541,
     "cumulative_end": 6528,
     "delta": 1987,
-    "rank": 69
+    "rank": 71
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "cumulative_start": 25084,
+    "cumulative_end": 27024,
+    "delta": 1940,
+    "rank": 72
   },
   {
     "repo": "NousResearch/hermes-agent",
     "cumulative_start": 1,
     "cumulative_end": 1923,
     "delta": 1922,
-    "rank": 70
+    "rank": 73
   },
   {
     "repo": "maximhq/bifrost",
     "cumulative_start": 1475,
     "cumulative_end": 3378,
     "delta": 1903,
-    "rank": 71
+    "rank": 74
   },
   {
     "repo": "fathyb/carbonyl",
     "cumulative_start": 15655,
     "cumulative_end": 17553,
     "delta": 1898,
-    "rank": 72
+    "rank": 75
   },
   {
     "repo": "GoogleCloudPlatform/generative-ai",
     "cumulative_start": 12325,
     "cumulative_end": 14131,
     "delta": 1806,
-    "rank": 73
+    "rank": 76
   },
   {
     "repo": "xiaojieonly/Ehviewer_CN_SXJ",
     "cumulative_start": 21434,
     "cumulative_end": 23232,
     "delta": 1798,
-    "rank": 74
+    "rank": 77
   },
   {
     "repo": "HunxByts/GhostTrack",
     "cumulative_start": 6006,
     "cumulative_end": 7783,
     "delta": 1777,
-    "rank": 75
+    "rank": 78
   },
   {
     "repo": "wailsapp/wails",
     "cumulative_start": 31763,
     "cumulative_end": 33517,
     "delta": 1754,
-    "rank": 76
+    "rank": 79
   },
   {
     "repo": "screenpipe/screenpipe",
     "cumulative_start": 16156,
     "cumulative_end": 17879,
     "delta": 1723,
-    "rank": 77
+    "rank": 80
   },
   {
     "repo": "zly2006/zhihu-plus-plus",
     "cumulative_start": 132,
     "cumulative_end": 1831,
     "delta": 1699,
-    "rank": 78
+    "rank": 81
   },
   {
     "repo": "MoonshotAI/kimi-cli",
     "cumulative_start": 3700,
     "cumulative_end": 5370,
     "delta": 1670,
-    "rank": 79
+    "rank": 82
   },
   {
     "repo": "googleapis/mcp-toolbox",
     "cumulative_start": 11914,
     "cumulative_end": 13578,
     "delta": 1664,
-    "rank": 80
+    "rank": 83
   },
   {
     "repo": "HKUDS/RAG-Anything",
     "cumulative_start": 11704,
     "cumulative_end": 13360,
     "delta": 1656,
-    "rank": 81
+    "rank": 84
   },
   {
     "repo": "HKUDS/AI-Trader",
     "cumulative_start": 10378,
     "cumulative_end": 12000,
     "delta": 1622,
-    "rank": 82
+    "rank": 85
   },
   {
     "repo": "RichardAtCT/claude-code-telegram",
     "cumulative_start": 149,
     "cumulative_end": 1764,
     "delta": 1615,
-    "rank": 83
+    "rank": 86
   },
   {
     "repo": "HQarroum/docker-android",
     "cumulative_start": 1177,
     "cumulative_end": 2755,
     "delta": 1578,
-    "rank": 84
+    "rank": 87
   },
   {
     "repo": "agrinman/tunnelto",
     "cumulative_start": 4900,
     "cumulative_end": 6453,
     "delta": 1553,
-    "rank": 85
+    "rank": 88
   },
   {
     "repo": "SynkraAI/aios-core",
     "cumulative_start": 4,
     "cumulative_end": 1537,
     "delta": 1533,
-    "rank": 86
+    "rank": 89
   },
   {
     "repo": "decolua/9router",
     "cumulative_start": 0,
     "cumulative_end": 1531,
     "delta": 1531,
-    "rank": 87
+    "rank": 90
   },
   {
     "repo": "moghtech/komodo",
     "cumulative_start": 9254,
     "cumulative_end": 10764,
     "delta": 1510,
-    "rank": 88
+    "rank": 91
   },
   {
     "repo": "FlorianBruniaux/claude-code-ultimate-guide",
     "cumulative_start": 0,
     "cumulative_end": 1447,
     "delta": 1447,
-    "rank": 89
+    "rank": 92
   },
   {
     "repo": "SakanaAI/AI-Scientist-v2",
     "cumulative_start": 1915,
     "cumulative_end": 3335,
     "delta": 1420,
-    "rank": 90
+    "rank": 93
   },
   {
     "repo": "dandavison/delta",
     "cumulative_start": 28410,
     "cumulative_end": 29820,
     "delta": 1410,
-    "rank": 91
+    "rank": 94
   },
   {
     "repo": "JingMatrix/Vector",
     "cumulative_start": 8943,
     "cumulative_end": 10344,
     "delta": 1401,
-    "rank": 92
+    "rank": 95
   },
   {
     "repo": "stephengpope/thepopebot",
     "cumulative_start": 0,
     "cumulative_end": 1398,
     "delta": 1398,
-    "rank": 93
+    "rank": 96
   },
   {
     "repo": "CodebuffAI/codebuff",
     "cumulative_start": 2648,
     "cumulative_end": 4040,
     "delta": 1392,
-    "rank": 94
+    "rank": 97
+  },
+  {
+    "repo": "biomejs/biome",
+    "cumulative_start": 22729,
+    "cumulative_end": 24116,
+    "delta": 1387,
+    "rank": 98
   },
   {
     "repo": "NoFxAiOS/nofx",
     "cumulative_start": 9362,
     "cumulative_end": 10741,
     "delta": 1379,
-    "rank": 95
+    "rank": 99
   },
   {
     "repo": "njbrake/agent-of-empires",
     "cumulative_start": 0,
     "cumulative_end": 1376,
     "delta": 1376,
-    "rank": 96
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
-    "cumulative_start": 36159,
-    "cumulative_end": 37534,
-    "delta": 1375,
-    "rank": 97
-  },
-  {
-    "repo": "OpenBMB/MiniCPM-o",
-    "cumulative_start": 22465,
-    "cumulative_end": 23774,
-    "delta": 1309,
-    "rank": 98
-  },
-  {
-    "repo": "Ed1s0nZ/CyberStrikeAI",
-    "cumulative_start": 448,
-    "cumulative_end": 1724,
-    "delta": 1276,
-    "rank": 99
-  },
-  {
-    "repo": "NevaMind-AI/memU",
-    "cumulative_start": 3143,
-    "cumulative_end": 4406,
-    "delta": 1263,
     "rank": 100
   }
 ]
