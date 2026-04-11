@@ -30,5 +30,20 @@
   "watchers": 7030,
   "html_url": "https://github.com/daijro/camoufox",
   "api_url": "https://api.github.com/repos/daijro/camoufox",
-  "fetched_at": "2026-04-11T09:00:31.873Z"
+  "fetched_at": "2026-04-11T09:00:31.873Z",
+  "contributor_locations": {
+    "unknown": 8,
+    "birmingham, uk": 1,
+    "toronto, canada": 1,
+    "egypt": 1,
+    "ukraine": 1,
+    "london, united kingdom": 1,
+    "paris": 1,
+    "united kingdom": 1,
+    "vilnius, lithuania": 1,
+    "stockholm": 1,
+    "france": 1,
+    "germany": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:08:26.214Z"
 }
