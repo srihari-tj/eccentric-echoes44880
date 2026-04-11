@@ -1,0 +1,32 @@
+{
+  "owner": "punitarani",
+  "repo": "punitarani/fli",
+  "name": "fli",
+  "full_name": "punitarani/fli",
+  "description": "Google Flights MCP and Python Library",
+  "homepage": "https://deepwiki.com/punitarani/fli",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "api",
+    "flights-api",
+    "google-flights",
+    "google-flights-api",
+    "mcp",
+    "mcp-server"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-01-06T05:20:05Z",
+  "pushed_at": "2026-04-07T15:45:46Z",
+  "size": 12420,
+  "stars_now": 1743,
+  "forks": 202,
+  "open_issues": 22,
+  "subscribers": 4,
+  "watchers": 1743,
+  "html_url": "https://github.com/punitarani/fli",
+  "api_url": "https://api.github.com/repos/punitarani/fli",
+  "fetched_at": "2026-04-11T09:00:44.095Z"
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "languagetool-org",
+  "repo": "languagetool-org/languagetool",
+  "name": "languagetool",
+  "full_name": "languagetool-org/languagetool",
+  "description": "Style and Grammar Checker for 25+ Languages",
+  "homepage": "https://languagetool.org",
+  "language": "Java",
+  "license": "LGPL-2.1",
+  "topics": [
+    "grammar",
+    "natural-language",
+    "natural-language-processing",
+    "proofreading",
+    "spellcheck",
+    "style-checker"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-08-08T16:37:22Z",
+  "pushed_at": "2026-04-10T15:23:17Z",
+  "size": 6153338,
+  "stars_now": 14350,
+  "forks": 1501,
+  "open_issues": 2103,
+  "subscribers": 157,
+  "watchers": 14350,
+  "html_url": "https://github.com/languagetool-org/languagetool",
+  "api_url": "https://api.github.com/repos/languagetool-org/languagetool",
+  "fetched_at": "2026-04-11T09:00:38.595Z"
+}

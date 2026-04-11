@@ -1,0 +1,29 @@
+{
+  "owner": "openjdk",
+  "repo": "openjdk/jdk",
+  "name": "jdk",
+  "full_name": "openjdk/jdk",
+  "description": "JDK main-line development https://openjdk.org/projects/jdk",
+  "homepage": "https://github.com/openjdk/jdk",
+  "language": "Java",
+  "license": "GPL-2.0",
+  "topics": [
+    "java",
+    "jvm",
+    "openjdk"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-09-17T12:29:20Z",
+  "pushed_at": "2026-04-11T08:59:42Z",
+  "size": 1432641,
+  "stars_now": 22754,
+  "forks": 6307,
+  "open_issues": 430,
+  "subscribers": 363,
+  "watchers": 22754,
+  "html_url": "https://github.com/openjdk/jdk",
+  "api_url": "https://api.github.com/repos/openjdk/jdk",
+  "fetched_at": "2026-04-11T09:00:43.041Z"
+}

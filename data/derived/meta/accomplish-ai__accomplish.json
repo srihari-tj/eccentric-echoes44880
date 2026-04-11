@@ -21,5 +21,25 @@
   "watchers": 10511,
   "html_url": "https://github.com/accomplish-ai/accomplish",
   "api_url": "https://api.github.com/repos/accomplish-ai/accomplish",
-  "fetched_at": "2026-04-05T19:29:35.442Z"
+  "fetched_at": "2026-04-05T19:29:35.442Z",
+  "contributor_locations": {
+    "tel aviv": 1,
+    "unknown": 20,
+    "nyc": 1,
+    "israel": 2,
+    "tel-aviv": 1,
+    "india": 1,
+    "ireland": 1,
+    "far far close": 1,
+    "bandung, indonesia": 1,
+    "boston, ma": 1,
+    "guangzhou,china": 1,
+    "fukuoka": 1,
+    "msk": 1,
+    "wuhan,hubei": 1,
+    "cape town, south africa": 1,
+    "bengaluru,india": 1,
+    "singapore": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T09:03:31.165Z"
 }

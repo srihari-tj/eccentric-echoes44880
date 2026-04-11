@@ -1,0 +1,33 @@
+{
+  "owner": "jd-opensource",
+  "repo": "jd-opensource/xllm",
+  "name": "xllm",
+  "full_name": "jd-opensource/xllm",
+  "description": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators.",
+  "homepage": "https://xllm.readthedocs.io/en/latest/",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "deepseek",
+    "glm",
+    "inference",
+    "inference-engine",
+    "large-language-models",
+    "llm-inference",
+    "qwen"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-08-12T13:16:07Z",
+  "pushed_at": "2026-04-10T14:28:01Z",
+  "size": 15863,
+  "stars_now": 1202,
+  "forks": 178,
+  "open_issues": 153,
+  "subscribers": 15,
+  "watchers": 1202,
+  "html_url": "https://github.com/jd-opensource/xllm",
+  "api_url": "https://api.github.com/repos/jd-opensource/xllm",
+  "fetched_at": "2026-04-11T09:00:36.718Z"
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "TrinityCore",
+  "repo": "TrinityCore/TrinityCore",
+  "name": "TrinityCore",
+  "full_name": "TrinityCore/TrinityCore",
+  "description": "TrinityCore Open Source MMO Framework (master = 12.0.1.66838, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+  "homepage": "http://www.trinitycore.org",
+  "language": "C++",
+  "license": "GPL-2.0",
+  "topics": [
+    "hacktoberfest",
+    "linux",
+    "mmorpg",
+    "multi-platform",
+    "multiplayer",
+    "trinitycore",
+    "wow"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-12-28T23:40:07Z",
+  "pushed_at": "2026-04-10T22:28:50Z",
+  "size": 1406785,
+  "stars_now": 10500,
+  "forks": 6301,
+  "open_issues": 1506,
+  "subscribers": 706,
+  "watchers": 10500,
+  "html_url": "https://github.com/TrinityCore/TrinityCore",
+  "api_url": "https://api.github.com/repos/TrinityCore/TrinityCore",
+  "fetched_at": "2026-04-11T09:00:28.126Z"
+}

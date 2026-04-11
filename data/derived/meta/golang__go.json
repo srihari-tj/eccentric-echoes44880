@@ -1,0 +1,30 @@
+{
+  "owner": "golang",
+  "repo": "golang/go",
+  "name": "go",
+  "full_name": "golang/go",
+  "description": "The Go programming language",
+  "homepage": "https://go.dev",
+  "language": "Go",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "go",
+    "golang",
+    "language",
+    "programming-language"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-08-19T04:33:40Z",
+  "pushed_at": "2026-04-10T21:20:38Z",
+  "size": 431886,
+  "stars_now": 133405,
+  "forks": 18910,
+  "open_issues": 9937,
+  "subscribers": 3332,
+  "watchers": 133405,
+  "html_url": "https://github.com/golang/go",
+  "api_url": "https://api.github.com/repos/golang/go",
+  "fetched_at": "2026-04-11T09:00:34.486Z"
+}

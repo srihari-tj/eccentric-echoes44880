@@ -1,0 +1,29 @@
+{
+  "owner": "jesseduffield",
+  "repo": "jesseduffield/lazygit",
+  "name": "lazygit",
+  "full_name": "jesseduffield/lazygit",
+  "description": "simple terminal UI for git commands",
+  "homepage": "https://github.com/jesseduffield/lazygit",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "cli",
+    "git",
+    "terminal"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-05-19T00:53:06Z",
+  "pushed_at": "2026-04-10T20:52:01Z",
+  "size": 153002,
+  "stars_now": 76198,
+  "forks": 2745,
+  "open_issues": 951,
+  "subscribers": 316,
+  "watchers": 76198,
+  "html_url": "https://github.com/jesseduffield/lazygit",
+  "api_url": "https://api.github.com/repos/jesseduffield/lazygit",
+  "fetched_at": "2026-04-11T09:00:37.049Z"
+}

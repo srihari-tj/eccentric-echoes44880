@@ -1,0 +1,33 @@
+{
+  "owner": "istoreos",
+  "repo": "istoreos/istoreos",
+  "name": "istoreos",
+  "full_name": "istoreos/istoreos",
+  "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）",
+  "homepage": "https://site.istoreos.com",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "istore",
+    "istoreos",
+    "koolcenter",
+    "linkease",
+    "nas",
+    "openwrt",
+    "router"
+  ],
+  "default_branch": "istoreos-24.10",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-03-16T00:17:14Z",
+  "pushed_at": "2026-04-10T02:12:36Z",
+  "size": 261913,
+  "stars_now": 7544,
+  "forks": 863,
+  "open_issues": 729,
+  "subscribers": 47,
+  "watchers": 7544,
+  "html_url": "https://github.com/istoreos/istoreos",
+  "api_url": "https://api.github.com/repos/istoreos/istoreos",
+  "fetched_at": "2026-04-11T09:00:36.350Z"
+}
