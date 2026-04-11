@@ -28,5 +28,16 @@
   "watchers": 1743,
   "html_url": "https://github.com/punitarani/fli",
   "api_url": "https://api.github.com/repos/punitarani/fli",
-  "fetched_at": "2026-04-11T09:00:44.095Z"
+  "fetched_at": "2026-04-11T09:00:44.095Z",
+  "contributor_locations": {
+    "san francisco": 2,
+    "unknown": 5,
+    "united states": 1,
+    "nashville, tn": 1,
+    "stockholm, sweden": 1,
+    "warsaw": 1,
+    "germany": 1,
+    "seattle, wa": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T21:08:28.893Z"
 }

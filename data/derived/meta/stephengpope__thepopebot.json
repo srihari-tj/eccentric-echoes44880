@@ -21,5 +21,10 @@
   "watchers": 1651,
   "html_url": "https://github.com/stephengpope/thepopebot",
   "api_url": "https://api.github.com/repos/stephengpope/thepopebot",
-  "fetched_at": "2026-04-11T09:00:45.530Z"
+  "fetched_at": "2026-04-11T09:00:45.530Z",
+  "contributor_locations": {
+    "los angeles area": 1,
+    "unknown": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T21:09:04.935Z"
 }

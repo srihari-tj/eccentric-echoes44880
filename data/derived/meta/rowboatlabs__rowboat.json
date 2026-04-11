@@ -37,5 +37,13 @@
   "watchers": 11922,
   "html_url": "https://github.com/rowboatlabs/rowboat",
   "api_url": "https://api.github.com/repos/rowboatlabs/rowboat",
-  "fetched_at": "2026-04-11T09:00:45.186Z"
+  "fetched_at": "2026-04-11T09:00:45.186Z",
+  "contributor_locations": {
+    "unknown": 5,
+    "uttarakhand, india": 1,
+    "berkeley, ca": 1,
+    "vietnam": 1,
+    "london, uk": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T21:09:04.426Z"
 }

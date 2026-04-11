@@ -30,5 +30,9 @@
   "watchers": 2635,
   "html_url": "https://github.com/rivet-dev/agent-os",
   "api_url": "https://api.github.com/repos/rivet-dev/agent-os",
-  "fetched_at": "2026-04-11T09:00:44.831Z"
+  "fetched_at": "2026-04-11T09:00:44.831Z",
+  "contributor_locations": {
+    "san francisco, ca": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T21:09:02.836Z"
 }

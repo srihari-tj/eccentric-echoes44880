@@ -34,5 +34,20 @@
   "watchers": 9210,
   "html_url": "https://github.com/sub-store-org/Sub-Store",
   "api_url": "https://api.github.com/repos/sub-store-org/Sub-Store",
-  "fetched_at": "2026-04-11T09:00:45.904Z"
+  "fetched_at": "2026-04-11T09:00:45.904Z",
+  "contributor_locations": {
+    "unknown": 25,
+    "hangzhou, china": 1,
+    "xian": 1,
+    "los angeles, us": 1,
+    "chengdu, china": 1,
+    "china": 2,
+    "hyrule mainland": 1,
+    "dependency heaven": 1,
+    "england": 1,
+    "irvine": 1,
+    "tokyo, japan": 1,
+    "guangzhou": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T21:09:12.724Z"
 }
