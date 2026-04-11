@@ -21,5 +21,24 @@
   "watchers": 4742,
   "html_url": "https://github.com/google-deepmind/gemma",
   "api_url": "https://api.github.com/repos/google-deepmind/gemma",
-  "fetched_at": "2026-04-11T09:00:34.867Z"
+  "fetched_at": "2026-04-11T09:00:34.867Z",
+  "contributor_locations": {
+    "berlin": 1,
+    "mountain view, california": 1,
+    "paris, france": 1,
+    "san francisco, ca": 2,
+    "lausanne": 1,
+    "mountain view": 1,
+    "london, uk": 1,
+    "ahmedabad": 1,
+    "new york, ny": 1,
+    "zürich": 2,
+    "unknown": 12,
+    "zurich, zwitserland": 1,
+    "munich": 1,
+    "mountain view, ca": 1,
+    "delhi, india": 1,
+    "india": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:15:02.126Z"
 }
