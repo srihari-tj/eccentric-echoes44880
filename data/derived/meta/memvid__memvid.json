@@ -42,5 +42,21 @@
   "watchers": 14825,
   "html_url": "https://github.com/memvid/memvid",
   "api_url": "https://api.github.com/repos/memvid/memvid",
-  "fetched_at": "2026-04-11T09:00:39.734Z"
+  "fetched_at": "2026-04-11T09:00:39.734Z",
+  "contributor_locations": {
+    "between 0's and 1's": 1,
+    "unknown": 9,
+    "nepal": 1,
+    "127.0.0.1": 1,
+    "hargeisa, somaliland": 1,
+    "india": 2,
+    "london, united kingdom": 1,
+    "new york, ny": 1,
+    "guiyang, china": 1,
+    "china": 2,
+    "česká republika": 1,
+    "somalia": 1,
+    "canada": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:23:06.942Z"
 }

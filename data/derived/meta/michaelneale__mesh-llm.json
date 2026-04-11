@@ -21,5 +21,17 @@
   "watchers": 722,
   "html_url": "https://github.com/michaelneale/mesh-llm",
   "api_url": "https://api.github.com/repos/michaelneale/mesh-llm",
-  "fetched_at": "2026-04-11T09:00:40.077Z"
+  "fetched_at": "2026-04-11T09:00:40.077Z",
+  "contributor_locations": {
+    "blue mountains, australia": 1,
+    "sydney, australia": 1,
+    "unknown": 2,
+    "toronto, on": 1,
+    "florida": 1,
+    "bay area, ca": 1,
+    "united states": 1,
+    "california": 1,
+    "in the computer": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:23:08.483Z"
 }

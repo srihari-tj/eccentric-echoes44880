@@ -29,5 +29,19 @@
   "watchers": 1202,
   "html_url": "https://github.com/jd-opensource/xllm",
   "api_url": "https://api.github.com/repos/jd-opensource/xllm",
-  "fetched_at": "2026-04-11T09:00:36.718Z"
+  "fetched_at": "2026-04-11T09:00:36.718Z",
+  "contributor_locations": {
+    "unknown": 34,
+    "beijing, china": 3,
+    "beijing": 7,
+    "北京海淀区": 1,
+    "beijing china": 1,
+    "beijing,china": 1,
+    "hefei, anhui": 1,
+    "hangzhou": 1,
+    "shenzhen, china": 1,
+    "cambridge, united kingdom": 1,
+    "changsha": 1
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:18:07.422Z"
 }

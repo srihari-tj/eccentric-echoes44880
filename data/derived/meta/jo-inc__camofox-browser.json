@@ -21,5 +21,14 @@
   "watchers": 1849,
   "html_url": "https://github.com/jo-inc/camofox-browser",
   "api_url": "https://api.github.com/repos/jo-inc/camofox-browser",
-  "fetched_at": "2026-04-11T09:00:37.419Z"
+  "fetched_at": "2026-04-11T09:00:37.419Z",
+  "contributor_locations": {
+    "silicon valley, ca": 1,
+    "spain": 1,
+    "ottawa, canada": 1,
+    "wellington": 1,
+    "melbourne": 1,
+    "unknown": 4
+  },
+  "contributor_locations_updated_at": "2026-04-11T20:19:12.059Z"
 }
