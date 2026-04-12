@@ -34,5 +34,32 @@
   "watchers": 1579,
   "html_url": "https://github.com/Part-DB/Part-DB-server",
   "api_url": "https://api.github.com/repos/Part-DB/Part-DB-server",
-  "fetched_at": "2026-04-11T19:48:11.951Z"
+  "fetched_at": "2026-04-11T19:48:11.951Z",
+  "contributor_locations": {
+    "jena, germany": 1,
+    "unknown": 21,
+    "ljubljana": 1,
+    "falkenberg": 1,
+    "germany": 4,
+    "bonn germany": 1,
+    "czech republic": 1,
+    "poland": 1,
+    "italy": 1,
+    "estonia": 1,
+    "victoria, bc, canada": 1,
+    "austria": 1,
+    "sperryville, va": 1,
+    "zürich, switzerland": 1,
+    "sofia, bulgaria": 1,
+    "united states": 1,
+    "berlin | ludwigshafen am rhein": 1,
+    "oldenburg, germany": 1,
+    "127.0.0.1": 1,
+    "barcelona": 1,
+    "spain": 1,
+    "edmonton, ab": 1,
+    "fort collins, co ⛰️": 1,
+    "leipzig": 1
+  },
+  "contributor_locations_updated_at": "2026-04-12T07:48:19.442Z"
 }

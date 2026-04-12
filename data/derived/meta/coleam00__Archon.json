@@ -32,5 +32,14 @@
   "watchers": 16365,
   "html_url": "https://github.com/coleam00/Archon",
   "api_url": "https://api.github.com/repos/coleam00/Archon",
-  "fetched_at": "2026-04-11T19:48:13.681Z"
+  "fetched_at": "2026-04-11T19:48:13.681Z",
+  "contributor_locations": {
+    "tallinn": 1,
+    "unknown": 5,
+    "germany": 1,
+    "america/los_angeles": 1,
+    "united states": 1,
+    "antananarivo - madagascar": 1
+  },
+  "contributor_locations_updated_at": "2026-04-12T07:53:23.415Z"
 }

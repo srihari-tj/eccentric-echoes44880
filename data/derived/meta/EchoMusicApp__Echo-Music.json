@@ -40,5 +40,10 @@
   "watchers": 662,
   "html_url": "https://github.com/EchoMusicApp/Echo-Music",
   "api_url": "https://api.github.com/repos/EchoMusicApp/Echo-Music",
-  "fetched_at": "2026-04-11T19:48:11.259Z"
+  "fetched_at": "2026-04-11T19:48:11.259Z",
+  "contributor_locations": {
+    "unknown": 4,
+    "manipal": 1
+  },
+  "contributor_locations_updated_at": "2026-04-12T07:47:57.648Z"
 }
