@@ -1,0 +1,29 @@
+{
+  "owner": "nvim-treesitter",
+  "repo": "nvim-treesitter/nvim-treesitter",
+  "name": "nvim-treesitter",
+  "full_name": "nvim-treesitter/nvim-treesitter",
+  "description": "Nvim Treesitter configurations and abstraction layer",
+  "homepage": "https://github.com/nvim-treesitter/nvim-treesitter",
+  "language": "Tree-sitter Query",
+  "license": "Apache-2.0",
+  "topics": [
+    "neovim",
+    "nvim-treesitter",
+    "tree-sitter"
+  ],
+  "default_branch": "main",
+  "archived": true,
+  "disabled": false,
+  "created_at": "2020-04-18T15:24:10Z",
+  "pushed_at": "2026-04-03T13:11:41Z",
+  "size": 8398,
+  "stars_now": 13643,
+  "forks": 1245,
+  "open_issues": 272,
+  "subscribers": 63,
+  "watchers": 13643,
+  "html_url": "https://github.com/nvim-treesitter/nvim-treesitter",
+  "api_url": "https://api.github.com/repos/nvim-treesitter/nvim-treesitter",
+  "fetched_at": "2026-04-12T19:31:36.349Z"
+}

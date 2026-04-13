@@ -1,0 +1,30 @@
+{
+  "owner": "vectorize-io",
+  "repo": "vectorize-io/hindsight",
+  "name": "hindsight",
+  "full_name": "vectorize-io/hindsight",
+  "description": "Hindsight: Agent Memory That  Learns",
+  "homepage": "https://hindsight.vectorize.io/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "autogen-extension",
+    "memory"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-10-30T11:49:48Z",
+  "pushed_at": "2026-04-11T11:57:13Z",
+  "size": 375031,
+  "stars_now": 9032,
+  "forks": 534,
+  "open_issues": 75,
+  "subscribers": 34,
+  "watchers": 9032,
+  "html_url": "https://github.com/vectorize-io/hindsight",
+  "api_url": "https://api.github.com/repos/vectorize-io/hindsight",
+  "fetched_at": "2026-04-12T19:31:37.875Z"
+}
