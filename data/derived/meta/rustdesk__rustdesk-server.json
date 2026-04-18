@@ -1,0 +1,30 @@
+{
+  "owner": "rustdesk",
+  "repo": "rustdesk/rustdesk-server",
+  "name": "rustdesk-server",
+  "full_name": "rustdesk/rustdesk-server",
+  "description": "RustDesk Server Program",
+  "homepage": "https://rustdesk.com/server",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "topics": [
+    "remote-access",
+    "remote-control",
+    "remote-desktop",
+    "tauri"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-09-28T15:37:59Z",
+  "pushed_at": "2026-02-17T06:28:36Z",
+  "size": 1678,
+  "stars_now": 9673,
+  "forks": 2292,
+  "open_issues": 164,
+  "subscribers": 102,
+  "watchers": 9673,
+  "html_url": "https://github.com/rustdesk/rustdesk-server",
+  "api_url": "https://api.github.com/repos/rustdesk/rustdesk-server",
+  "fetched_at": "2026-04-18T09:13:20.645Z"
+}

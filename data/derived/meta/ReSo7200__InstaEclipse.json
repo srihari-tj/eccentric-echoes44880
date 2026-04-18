@@ -1,0 +1,31 @@
+{
+  "owner": "ReSo7200",
+  "repo": "ReSo7200/InstaEclipse",
+  "name": "InstaEclipse",
+  "full_name": "ReSo7200/InstaEclipse",
+  "description": "An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.",
+  "homepage": "https://t.me/InstaEclipse",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "ghost-mode",
+    "instagram",
+    "lsposed",
+    "xposed-module"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-12-25T15:05:45Z",
+  "pushed_at": "2026-04-14T20:24:32Z",
+  "size": 24358,
+  "stars_now": 988,
+  "forks": 53,
+  "open_issues": 10,
+  "subscribers": 11,
+  "watchers": 988,
+  "html_url": "https://github.com/ReSo7200/InstaEclipse",
+  "api_url": "https://api.github.com/repos/ReSo7200/InstaEclipse",
+  "fetched_at": "2026-04-18T09:13:04.586Z"
+}

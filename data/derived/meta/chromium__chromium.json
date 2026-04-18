@@ -1,0 +1,28 @@
+{
+  "owner": "chromium",
+  "repo": "chromium/chromium",
+  "name": "chromium",
+  "full_name": "chromium/chromium",
+  "description": "The official GitHub mirror of the Chromium source",
+  "homepage": "https://chromium.googlesource.com/chromium/src/",
+  "language": "C++",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "browser",
+    "chromium"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-02-05T20:55:32Z",
+  "pushed_at": "2026-04-18T09:12:18Z",
+  "size": 62722508,
+  "stars_now": 23452,
+  "forks": 8791,
+  "open_issues": 16,
+  "subscribers": 590,
+  "watchers": 23452,
+  "html_url": "https://github.com/chromium/chromium",
+  "api_url": "https://api.github.com/repos/chromium/chromium",
+  "fetched_at": "2026-04-18T09:13:08.545Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "luau-lang",
+  "repo": "luau-lang/luau",
+  "name": "luau",
+  "full_name": "luau-lang/luau",
+  "description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
+  "homepage": "https://luau.org",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "lua",
+    "programming-language",
+    "scripting-language"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-09-14T17:29:29Z",
+  "pushed_at": "2026-04-17T22:33:14Z",
+  "size": 22619,
+  "stars_now": 5443,
+  "forks": 559,
+  "open_issues": 398,
+  "subscribers": 84,
+  "watchers": 5443,
+  "html_url": "https://github.com/luau-lang/luau",
+  "api_url": "https://api.github.com/repos/luau-lang/luau",
+  "fetched_at": "2026-04-18T09:13:17.697Z"
+}

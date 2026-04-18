@@ -1,0 +1,29 @@
+{
+  "owner": "gitbutlerapp",
+  "repo": "gitbutlerapp/gitbutler",
+  "name": "gitbutler",
+  "full_name": "gitbutlerapp/gitbutler",
+  "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+  "homepage": "https://gitbutler.com",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "git",
+    "github",
+    "tauri"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-01-31T14:56:22Z",
+  "pushed_at": "2026-04-18T08:59:26Z",
+  "size": 177466,
+  "stars_now": 20473,
+  "forks": 915,
+  "open_issues": 645,
+  "subscribers": 56,
+  "watchers": 20473,
+  "html_url": "https://github.com/gitbutlerapp/gitbutler",
+  "api_url": "https://api.github.com/repos/gitbutlerapp/gitbutler",
+  "fetched_at": "2026-04-18T09:13:11.254Z"
+}

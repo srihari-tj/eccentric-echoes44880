@@ -1,0 +1,30 @@
+{
+  "owner": "raphaelmansuy",
+  "repo": "raphaelmansuy/edgequake",
+  "name": "edgequake",
+  "full_name": "raphaelmansuy/edgequake",
+  "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
+  "homepage": "https://edgequake.com",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "graphrag",
+    "knowledge-graph",
+    "lightrag",
+    "rag"
+  ],
+  "default_branch": "edgequake-main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-12-21T11:19:52Z",
+  "pushed_at": "2026-04-17T14:06:59Z",
+  "size": 567826,
+  "stars_now": 1889,
+  "forks": 209,
+  "open_issues": 13,
+  "subscribers": 13,
+  "watchers": 1889,
+  "html_url": "https://github.com/raphaelmansuy/edgequake",
+  "api_url": "https://api.github.com/repos/raphaelmansuy/edgequake",
+  "fetched_at": "2026-04-18T09:13:19.433Z"
+}
