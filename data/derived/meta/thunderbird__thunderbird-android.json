@@ -1,0 +1,30 @@
+{
+  "owner": "thunderbird",
+  "repo": "thunderbird/thunderbird-android",
+  "name": "thunderbird-android",
+  "full_name": "thunderbird/thunderbird-android",
+  "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
+  "homepage": "https://thunderbird.net/mobile",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "communication",
+    "email",
+    "mozilla"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-02-04T02:40:00Z",
+  "pushed_at": "2026-04-17T09:57:01Z",
+  "size": 179539,
+  "stars_now": 13365,
+  "forks": 2719,
+  "open_issues": 967,
+  "subscribers": 362,
+  "watchers": 13365,
+  "html_url": "https://github.com/thunderbird/thunderbird-android",
+  "api_url": "https://api.github.com/repos/thunderbird/thunderbird-android",
+  "fetched_at": "2026-04-18T19:46:07.460Z"
+}

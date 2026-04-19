@@ -1,0 +1,31 @@
+{
+  "owner": "traccar",
+  "repo": "traccar/traccar",
+  "name": "traccar",
+  "full_name": "traccar/traccar",
+  "description": "Traccar GPS Tracking System",
+  "homepage": "https://www.traccar.org",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "gps",
+    "gps-tracking",
+    "hacktoberfest",
+    "java",
+    "traccar"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-04-16T08:33:49Z",
+  "pushed_at": "2026-04-18T14:22:23Z",
+  "size": 25244,
+  "stars_now": 7187,
+  "forks": 3215,
+  "open_issues": 520,
+  "subscribers": 317,
+  "watchers": 7187,
+  "html_url": "https://github.com/traccar/traccar",
+  "api_url": "https://api.github.com/repos/traccar/traccar",
+  "fetched_at": "2026-04-18T19:46:08.349Z"
+}

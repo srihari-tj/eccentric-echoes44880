@@ -1,0 +1,29 @@
+{
+  "owner": "SchedMD",
+  "repo": "SchedMD/slurm",
+  "name": "slurm",
+  "full_name": "SchedMD/slurm",
+  "description": "Slurm: A Highly Scalable Workload Manager",
+  "homepage": "https://slurm.schedmd.com/",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "slurm",
+    "slurm-job-scheduler",
+    "slurm-workload-manager"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-06-20T16:15:51Z",
+  "pushed_at": "2026-04-17T23:00:46Z",
+  "size": 346353,
+  "stars_now": 3911,
+  "forks": 822,
+  "open_issues": 6,
+  "subscribers": 138,
+  "watchers": 3911,
+  "html_url": "https://github.com/SchedMD/slurm",
+  "api_url": "https://api.github.com/repos/SchedMD/slurm",
+  "fetched_at": "2026-04-18T19:46:00.931Z"
+}

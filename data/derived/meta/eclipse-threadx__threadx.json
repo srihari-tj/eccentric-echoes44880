@@ -1,0 +1,33 @@
+{
+  "owner": "eclipse-threadx",
+  "repo": "eclipse-threadx/threadx",
+  "name": "threadx",
+  "full_name": "eclipse-threadx/threadx",
+  "description": "Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+  "homepage": "https://github.com/eclipse-threadx/rtos-docs/blob/main/rtos-docs/threadx/index.md",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "eclipse-threadx",
+    "embedded",
+    "iot",
+    "mcu",
+    "microcontroller",
+    "real-time",
+    "rtos"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-05-11T15:07:59Z",
+  "pushed_at": "2026-04-15T15:38:51Z",
+  "size": 20869,
+  "stars_now": 3437,
+  "forks": 923,
+  "open_issues": 90,
+  "subscribers": 149,
+  "watchers": 3437,
+  "html_url": "https://github.com/eclipse-threadx/threadx",
+  "api_url": "https://api.github.com/repos/eclipse-threadx/threadx",
+  "fetched_at": "2026-04-18T19:46:03.646Z"
+}

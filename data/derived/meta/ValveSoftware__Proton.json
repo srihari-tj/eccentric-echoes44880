@@ -1,0 +1,27 @@
+{
+  "owner": "ValveSoftware",
+  "repo": "ValveSoftware/Proton",
+  "name": "Proton",
+  "full_name": "ValveSoftware/Proton",
+  "description": "Compatibility tool for Steam Play based on Wine and additional components",
+  "homepage": "https://github.com/ValveSoftware/Proton",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "proton"
+  ],
+  "default_branch": "proton_11.0",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-03-13T18:45:27Z",
+  "pushed_at": "2026-04-17T22:55:50Z",
+  "size": 153091,
+  "stars_now": 30930,
+  "forks": 1390,
+  "open_issues": 5057,
+  "subscribers": 388,
+  "watchers": 30930,
+  "html_url": "https://github.com/ValveSoftware/Proton",
+  "api_url": "https://api.github.com/repos/ValveSoftware/Proton",
+  "fetched_at": "2026-04-18T19:46:01.811Z"
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "hicccc77",
+  "repo": "hicccc77/WeFlow",
+  "name": "WeFlow",
+  "full_name": "hicccc77/WeFlow",
+  "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+  "homepage": "https://weflow.top",
+  "language": "TypeScript",
+  "license": "NOASSERTION",
+  "topics": [
+    "annual-report",
+    "data-analysis",
+    "data-visualization",
+    "message",
+    "wechat"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-01-07T13:40:57Z",
+  "pushed_at": "2026-04-18T16:52:31Z",
+  "size": 98422,
+  "stars_now": 8033,
+  "forks": 2011,
+  "open_issues": 33,
+  "subscribers": 29,
+  "watchers": 8033,
+  "html_url": "https://github.com/hicccc77/WeFlow",
+  "api_url": "https://api.github.com/repos/hicccc77/WeFlow",
+  "fetched_at": "2026-04-18T19:46:04.046Z"
+}
