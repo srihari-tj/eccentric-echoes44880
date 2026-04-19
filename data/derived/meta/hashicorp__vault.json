@@ -1,0 +1,29 @@
+{
+  "owner": "hashicorp",
+  "repo": "hashicorp/vault",
+  "name": "vault",
+  "full_name": "hashicorp/vault",
+  "description": "A tool for secrets management, encryption as a service, and privileged access management",
+  "homepage": "https://developer.hashicorp.com/vault",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "go",
+    "secrets",
+    "vault"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-02-25T00:15:59Z",
+  "pushed_at": "2026-04-17T22:38:53Z",
+  "size": 350161,
+  "stars_now": 35448,
+  "forks": 4645,
+  "open_issues": 1486,
+  "subscribers": 779,
+  "watchers": 35448,
+  "html_url": "https://github.com/hashicorp/vault",
+  "api_url": "https://api.github.com/repos/hashicorp/vault",
+  "fetched_at": "2026-04-19T08:02:35.604Z"
+}

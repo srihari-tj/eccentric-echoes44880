@@ -1,6 +1,6 @@
 {
   "week": "2026-W16",
-  "captured_at": "2026-04-18T19:12:13.986Z",
+  "captured_at": "2026-04-19T07:45:09.108Z",
   "overall": [
     {
       "owner": "multica-ai",
@@ -64,7 +64,72 @@
     }
   ],
   "by_language": {
-    "javascript": [],
+    "javascript": [
+      {
+        "owner": "EvoMap",
+        "repo": "evolver"
+      },
+      {
+        "owner": "Anil-matcha",
+        "repo": "Open-Generative-AI"
+      },
+      {
+        "owner": "microsoft",
+        "repo": "power-platform-skills"
+      },
+      {
+        "owner": "cv-cat",
+        "repo": "Spider_XHS"
+      },
+      {
+        "owner": "maboloshi",
+        "repo": "github-chinese"
+      },
+      {
+        "owner": "coreyhaines31",
+        "repo": "marketingskills"
+      },
+      {
+        "owner": "aandrew-me",
+        "repo": "ytDownloader"
+      },
+      {
+        "owner": "decolua",
+        "repo": "9router"
+      },
+      {
+        "owner": "robinebers",
+        "repo": "openusage"
+      },
+      {
+        "owner": "songquanpeng",
+        "repo": "one-api"
+      },
+      {
+        "owner": "Acode-Foundation",
+        "repo": "Acode"
+      },
+      {
+        "owner": "DavidHDev",
+        "repo": "react-bits"
+      },
+      {
+        "owner": "koodo-reader",
+        "repo": "koodo-reader"
+      },
+      {
+        "owner": "facebook",
+        "repo": "hermes"
+      },
+      {
+        "owner": "hotheadhacker",
+        "repo": "no-as-a-service"
+      },
+      {
+        "owner": "badlogic",
+        "repo": "pi-skills"
+      }
+    ],
     "typescript": [
       {
         "owner": "multica-ai",
@@ -119,8 +184,146 @@
         "repo": "WeFlow"
       }
     ],
-    "python": [],
-    "go": [],
+    "python": [
+      {
+        "owner": "NousResearch",
+        "repo": "hermes-agent"
+      },
+      {
+        "owner": "shiyu-coder",
+        "repo": "Kronos"
+      },
+      {
+        "owner": "microsoft",
+        "repo": "markitdown"
+      },
+      {
+        "owner": "OpenBMB",
+        "repo": "VoxCPM"
+      },
+      {
+        "owner": "lsdefine",
+        "repo": "GenericAgent"
+      },
+      {
+        "owner": "virattt",
+        "repo": "ai-hedge-fund"
+      },
+      {
+        "owner": "z-lab",
+        "repo": "dflash"
+      },
+      {
+        "owner": "HKUDS",
+        "repo": "DeepTutor"
+      },
+      {
+        "owner": "openai",
+        "repo": "openai-agents-python"
+      },
+      {
+        "owner": "hugohe3",
+        "repo": "ppt-master"
+      },
+      {
+        "owner": "zhayujie",
+        "repo": "CowAgent"
+      },
+      {
+        "owner": "atilaahmettaner",
+        "repo": "tradingview-mcp"
+      },
+      {
+        "owner": "OpenMOSS",
+        "repo": "MOSS-TTS"
+      }
+    ],
+    "go": [
+      {
+        "owner": "steipete",
+        "repo": "wacli"
+      },
+      {
+        "owner": "googleapis",
+        "repo": "mcp-toolbox"
+      },
+      {
+        "owner": "Wei-Shaw",
+        "repo": "sub2api"
+      },
+      {
+        "owner": "mostlygeek",
+        "repo": "llama-swap"
+      },
+      {
+        "owner": "QuantumNous",
+        "repo": "new-api"
+      },
+      {
+        "owner": "netbirdio",
+        "repo": "netbird"
+      },
+      {
+        "owner": "rapidaai",
+        "repo": "voice-ai"
+      },
+      {
+        "owner": "harness",
+        "repo": "harness"
+      },
+      {
+        "owner": "anthropics",
+        "repo": "anthropic-cli"
+      },
+      {
+        "owner": "ollama",
+        "repo": "ollama"
+      },
+      {
+        "owner": "NoFxAiOS",
+        "repo": "nofx"
+      },
+      {
+        "owner": "hashicorp",
+        "repo": "vault"
+      },
+      {
+        "owner": "kyverno",
+        "repo": "kyverno"
+      },
+      {
+        "owner": "navidrome",
+        "repo": "navidrome"
+      },
+      {
+        "owner": "versity",
+        "repo": "versitygw"
+      },
+      {
+        "owner": "anchore",
+        "repo": "syft"
+      },
+      {
+        "owner": "iawia002",
+        "repo": "lux"
+      },
+      {
+        "owner": "tailscale",
+        "repo": "tailscale"
+      },
+      {
+        "owner": "ltaoo",
+        "repo": "wx_channels_download"
+      },
+      {
+        "owner": "grafana",
+        "repo": "loki"
+      },
+      {
+        "owner": "VictoriaMetrics",
+        "repo": "VictoriaMetrics"
+      }
+    ],
     "rust": [
       {
         "owner": "rustfs",

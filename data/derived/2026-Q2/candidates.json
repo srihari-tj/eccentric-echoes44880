@@ -24,6 +24,10 @@
     "repo": "Operit"
   },
   {
+    "owner": "Acode-Foundation",
+    "repo": "Acode"
+  },
+  {
     "owner": "Anil-matcha",
     "repo": "Open-Generative-AI"
   },
@@ -110,6 +114,10 @@
   {
     "owner": "DataDog",
     "repo": "dd-trace-rb"
+  },
+  {
+    "owner": "DavidHDev",
+    "repo": "react-bits"
   },
   {
     "owner": "DenverCoder1",
@@ -276,6 +284,10 @@
     "repo": "Nekogram"
   },
   {
+    "owner": "NoFxAiOS",
+    "repo": "nofx"
+  },
+  {
     "owner": "NousResearch",
     "repo": "hermes-agent"
   },
@@ -290,6 +302,10 @@
   {
     "owner": "OpenBMB",
     "repo": "VoxCPM"
+  },
+  {
+    "owner": "OpenMOSS",
+    "repo": "MOSS-TTS"
   },
   {
     "owner": "OuterTune",
@@ -392,6 +408,14 @@
     "repo": "Proton"
   },
   {
+    "owner": "VictoriaMetrics",
+    "repo": "VictoriaMetrics"
+  },
+  {
+    "owner": "Wei-Shaw",
+    "repo": "sub2api"
+  },
+  {
     "owner": "WordPress",
     "repo": "mcp-adapter"
   },
@@ -430,6 +454,10 @@
   {
     "owner": "aaif-goose",
     "repo": "goose"
+  },
+  {
+    "owner": "aandrew-me",
+    "repo": "ytDownloader"
   },
   {
     "owner": "abhigyanpatwari",
@@ -476,8 +504,16 @@
     "repo": "amnezia-client"
   },
   {
+    "owner": "anchore",
+    "repo": "syft"
+  },
+  {
     "owner": "ankidroid",
     "repo": "Anki-Android"
+  },
+  {
+    "owner": "anthropics",
+    "repo": "anthropic-cli"
   },
   {
     "owner": "antinomyhq",
@@ -522,6 +558,10 @@
   {
     "owner": "ashishps1",
     "repo": "awesome-system-design-resources"
+  },
+  {
+    "owner": "atilaahmettaner",
+    "repo": "tradingview-mcp"
   },
   {
     "owner": "aureuserp",
@@ -644,12 +684,20 @@
     "repo": "coolify"
   },
   {
+    "owner": "coreyhaines31",
+    "repo": "marketingskills"
+  },
+  {
     "owner": "crimera",
     "repo": "piko"
   },
   {
     "owner": "curl",
     "repo": "curl"
+  },
+  {
+    "owner": "cv-cat",
+    "repo": "Spider_XHS"
   },
   {
     "owner": "d4rken-org",
@@ -750,6 +798,10 @@
   {
     "owner": "evcc-io",
     "repo": "evcc"
+  },
+  {
+    "owner": "facebook",
+    "repo": "hermes"
   },
   {
     "owner": "faker-ruby",
@@ -892,6 +944,10 @@
     "repo": "mcp-toolbox"
   },
   {
+    "owner": "grafana",
+    "repo": "loki"
+  },
+  {
     "owner": "greensock",
     "repo": "GSAP"
   },
@@ -916,6 +972,10 @@
     "repo": "vagrant"
   },
   {
+    "owner": "hashicorp",
+    "repo": "vault"
+  },
+  {
     "owner": "heiher",
     "repo": "hev-socks5-tunnel"
   },
@@ -936,8 +996,16 @@
     "repo": "WeFlow"
   },
   {
+    "owner": "hotheadhacker",
+    "repo": "no-as-a-service"
+  },
+  {
     "owner": "hugohe3",
     "repo": "ppt-master"
+  },
+  {
+    "owner": "iawia002",
+    "repo": "lux"
   },
   {
     "owner": "iflytek",
@@ -1064,8 +1132,16 @@
     "repo": "komikku"
   },
   {
+    "owner": "koodo-reader",
+    "repo": "koodo-reader"
+  },
+  {
     "owner": "krahets",
     "repo": "hello-algo"
+  },
+  {
+    "owner": "kyverno",
+    "repo": "kyverno"
   },
   {
     "owner": "lambertjamesd",
@@ -1106,6 +1182,10 @@
   {
     "owner": "lsdefine",
     "repo": "GenericAgent"
+  },
+  {
+    "owner": "ltaoo",
+    "repo": "wx_channels_download"
   },
   {
     "owner": "luanti-org",
@@ -1180,6 +1260,10 @@
     "repo": "markitdown"
   },
   {
+    "owner": "microsoft",
+    "repo": "power-platform-skills"
+  },
+  {
     "owner": "ml-explore",
     "repo": "mlx"
   },
@@ -1222,6 +1306,10 @@
   {
     "owner": "nautechsystems",
     "repo": "nautilus_trader"
+  },
+  {
+    "owner": "navidrome",
+    "repo": "navidrome"
   },
   {
     "owner": "netbirdio",
@@ -1316,6 +1404,10 @@
     "repo": "codex"
   },
   {
+    "owner": "openai",
+    "repo": "openai-agents-python"
+  },
+  {
     "owner": "opencart",
     "repo": "opencart"
   },
@@ -1404,6 +1496,10 @@
     "repo": "metasploit-framework"
   },
   {
+    "owner": "rapidaai",
+    "repo": "voice-ai"
+  },
+  {
     "owner": "recloudstream",
     "repo": "cloudstream"
   },
@@ -1414,6 +1510,10 @@
   {
     "owner": "rivet-dev",
     "repo": "agent-os"
+  },
+  {
+    "owner": "robinebers",
+    "repo": "openusage"
   },
   {
     "owner": "roboflow",
@@ -1500,6 +1600,10 @@
     "repo": "solidtime"
   },
   {
+    "owner": "songquanpeng",
+    "repo": "one-api"
+  },
+  {
     "owner": "spacedriveapp",
     "repo": "spacedrive"
   },
@@ -1546,6 +1650,10 @@
   {
     "owner": "tailcallhq",
     "repo": "forgecode"
+  },
+  {
+    "owner": "tailscale",
+    "repo": "tailscale"
   },
   {
     "owner": "taosdata",
@@ -1648,6 +1756,10 @@
     "repo": "next.js"
   },
   {
+    "owner": "versity",
+    "repo": "versitygw"
+  },
+  {
     "owner": "virattt",
     "repo": "ai-hedge-fund"
   },
@@ -1688,6 +1800,10 @@
     "repo": "tachiyomi-extensions"
   },
   {
+    "owner": "z-lab",
+    "repo": "dflash"
+  },
+  {
     "owner": "zammad",
     "repo": "zammad"
   },
@@ -1706,6 +1822,10 @@
   {
     "owner": "zeux",
     "repo": "meshoptimizer"
+  },
+  {
+    "owner": "zhayujie",
+    "repo": "CowAgent"
   },
   {
     "owner": "zhongyang219",

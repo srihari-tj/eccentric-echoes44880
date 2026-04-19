@@ -1,0 +1,32 @@
+{
+  "owner": "OpenMOSS",
+  "repo": "OpenMOSS/MOSS-TTS",
+  "name": "MOSS-TTS",
+  "full_name": "OpenMOSS/MOSS-TTS",
+  "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+  "homepage": "https://mosi.cn/models/moss-tts",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "audio",
+    "audio-tokenizer",
+    "llm",
+    "multimodal",
+    "text-to-speech",
+    "voice-cloning"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-02-07T14:05:49Z",
+  "pushed_at": "2026-04-13T06:54:15Z",
+  "size": 11165,
+  "stars_now": 1545,
+  "forks": 139,
+  "open_issues": 24,
+  "subscribers": 8,
+  "watchers": 1545,
+  "html_url": "https://github.com/OpenMOSS/MOSS-TTS",
+  "api_url": "https://api.github.com/repos/OpenMOSS/MOSS-TTS",
+  "fetched_at": "2026-04-19T08:02:35.179Z"
+}

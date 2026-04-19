@@ -1,0 +1,30 @@
+{
+  "owner": "versity",
+  "repo": "versity/versitygw",
+  "name": "versitygw",
+  "full_name": "versity/versitygw",
+  "description": "A simple to deploy but feature rich S3 object storage server for your filesystem",
+  "homepage": "https://www.versity.com/products/versitygw/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "filesystem",
+    "object-storage",
+    "s3",
+    "s3-storage"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-05-05T23:53:40Z",
+  "pushed_at": "2026-04-17T22:26:45Z",
+  "size": 6920,
+  "stars_now": 2062,
+  "forks": 226,
+  "open_issues": 156,
+  "subscribers": 14,
+  "watchers": 2062,
+  "html_url": "https://github.com/versity/versitygw",
+  "api_url": "https://api.github.com/repos/versity/versitygw",
+  "fetched_at": "2026-04-19T08:02:36.763Z"
+}
