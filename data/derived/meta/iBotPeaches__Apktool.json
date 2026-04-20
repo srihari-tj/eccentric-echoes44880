@@ -1,0 +1,32 @@
+{
+  "owner": "iBotPeaches",
+  "repo": "iBotPeaches/Apktool",
+  "name": "Apktool",
+  "full_name": "iBotPeaches/Apktool",
+  "description": "A tool for reverse engineering Android apk files",
+  "homepage": "https://apktool.org",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "9patch",
+    "android",
+    "apk",
+    "apktool",
+    "arsc",
+    "reverse-engineering"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-03-19T17:46:53Z",
+  "pushed_at": "2026-04-19T12:03:19Z",
+  "size": 341313,
+  "stars_now": 24304,
+  "forks": 3912,
+  "open_issues": 79,
+  "subscribers": 667,
+  "watchers": 24304,
+  "html_url": "https://github.com/iBotPeaches/Apktool",
+  "api_url": "https://api.github.com/repos/iBotPeaches/Apktool",
+  "fetched_at": "2026-04-19T19:33:58.117Z"
+}

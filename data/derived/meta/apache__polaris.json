@@ -1,0 +1,33 @@
+{
+  "owner": "apache",
+  "repo": "apache/polaris",
+  "name": "polaris",
+  "full_name": "apache/polaris",
+  "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
+  "homepage": "https://polaris.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "apache",
+    "catalog",
+    "iceberg",
+    "lakehouse",
+    "metadata",
+    "opencatalog",
+    "polaris"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-05-29T18:44:27Z",
+  "pushed_at": "2026-04-18T17:22:02Z",
+  "size": 97200,
+  "stars_now": 1904,
+  "forks": 426,
+  "open_issues": 357,
+  "subscribers": 88,
+  "watchers": 1904,
+  "html_url": "https://github.com/apache/polaris",
+  "api_url": "https://api.github.com/repos/apache/polaris",
+  "fetched_at": "2026-04-19T19:33:57.292Z"
+}
