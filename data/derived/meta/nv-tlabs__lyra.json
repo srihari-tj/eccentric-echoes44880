@@ -1,0 +1,31 @@
+{
+  "owner": "nv-tlabs",
+  "repo": "nv-tlabs/lyra",
+  "name": "lyra",
+  "full_name": "nv-tlabs/lyra",
+  "description": "Project Lyra: Open Generative 3D World Models",
+  "homepage": "https://research.nvidia.com/labs/sil/projects/lyra2/",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "3d",
+    "diffusion",
+    "gaussians",
+    "video",
+    "world-model"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-09-09T14:43:31Z",
+  "pushed_at": "2026-04-18T01:55:15Z",
+  "size": 31570,
+  "stars_now": 1715,
+  "forks": 161,
+  "open_issues": 11,
+  "subscribers": 31,
+  "watchers": 1715,
+  "html_url": "https://github.com/nv-tlabs/lyra",
+  "api_url": "https://api.github.com/repos/nv-tlabs/lyra",
+  "fetched_at": "2026-04-25T09:30:28.302Z"
+}

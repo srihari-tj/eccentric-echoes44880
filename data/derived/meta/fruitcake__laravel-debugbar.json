@@ -1,0 +1,31 @@
+{
+  "owner": "fruitcake",
+  "repo": "fruitcake/laravel-debugbar",
+  "name": "laravel-debugbar",
+  "full_name": "fruitcake/laravel-debugbar",
+  "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+  "homepage": "http://laraveldebugbar.com/",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "debugbar",
+    "developer-tool",
+    "laravel",
+    "profiler",
+    "toolbar"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-09-05T10:26:54Z",
+  "pushed_at": "2026-04-22T17:51:29Z",
+  "size": 15156,
+  "stars_now": 19181,
+  "forks": 1605,
+  "open_issues": 80,
+  "subscribers": 274,
+  "watchers": 19181,
+  "html_url": "https://github.com/fruitcake/laravel-debugbar",
+  "api_url": "https://api.github.com/repos/fruitcake/laravel-debugbar",
+  "fetched_at": "2026-04-25T09:30:23.011Z"
+}

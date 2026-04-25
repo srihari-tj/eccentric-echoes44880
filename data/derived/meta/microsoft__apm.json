@@ -1,0 +1,33 @@
+{
+  "owner": "microsoft",
+  "repo": "microsoft/apm",
+  "name": "apm",
+  "full_name": "microsoft/apm",
+  "description": "Agent Package Manager",
+  "homepage": "https://microsoft.github.io/apm/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex-cli",
+    "context-engineering",
+    "github-copilot",
+    "package-manager",
+    "prompt-engineering"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-09-18T13:45:22Z",
+  "pushed_at": "2026-04-25T09:26:19Z",
+  "size": 14267,
+  "stars_now": 2034,
+  "forks": 138,
+  "open_issues": 118,
+  "subscribers": 8,
+  "watchers": 2034,
+  "html_url": "https://github.com/microsoft/apm",
+  "api_url": "https://api.github.com/repos/microsoft/apm",
+  "fetched_at": "2026-04-25T09:30:26.759Z"
+}

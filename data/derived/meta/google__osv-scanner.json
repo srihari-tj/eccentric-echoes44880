@@ -1,0 +1,30 @@
+{
+  "owner": "google",
+  "repo": "google/osv-scanner",
+  "name": "osv-scanner",
+  "full_name": "google/osv-scanner",
+  "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+  "homepage": "https://google.github.io/osv-scanner/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "scanner",
+    "security-audit",
+    "security-tools",
+    "vulnerability-scanner"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-11-14T01:05:20Z",
+  "pushed_at": "2026-04-24T21:12:15Z",
+  "size": 40912,
+  "stars_now": 9670,
+  "forks": 630,
+  "open_issues": 111,
+  "subscribers": 69,
+  "watchers": 9670,
+  "html_url": "https://github.com/google/osv-scanner",
+  "api_url": "https://api.github.com/repos/google/osv-scanner",
+  "fetched_at": "2026-04-25T09:30:24.148Z"
+}

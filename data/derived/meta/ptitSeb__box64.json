@@ -1,0 +1,31 @@
+{
+  "owner": "ptitSeb",
+  "repo": "ptitSeb/box64",
+  "name": "box64",
+  "full_name": "ptitSeb/box64",
+  "description": "Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices",
+  "homepage": "https://box86.org",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "arm64",
+    "box64",
+    "dynarec",
+    "emulator",
+    "linux"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-12-01T09:42:50Z",
+  "pushed_at": "2026-04-25T07:31:10Z",
+  "size": 81828,
+  "stars_now": 5372,
+  "forks": 425,
+  "open_issues": 213,
+  "subscribers": 77,
+  "watchers": 5372,
+  "html_url": "https://github.com/ptitSeb/box64",
+  "api_url": "https://api.github.com/repos/ptitSeb/box64",
+  "fetched_at": "2026-04-25T09:30:30.140Z"
+}

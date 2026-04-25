@@ -1,0 +1,33 @@
+{
+  "owner": "servo",
+  "repo": "servo/servo",
+  "name": "servo",
+  "full_name": "servo/servo",
+  "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+  "homepage": "https://servo.org",
+  "language": "Rust",
+  "license": "MPL-2.0",
+  "topics": [
+    "browser",
+    "rust",
+    "servo",
+    "web",
+    "webbrowser",
+    "webengine",
+    "webplatform"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-02-08T19:07:25Z",
+  "pushed_at": "2026-04-25T09:23:43Z",
+  "size": 1907468,
+  "stars_now": 36543,
+  "forks": 3598,
+  "open_issues": 3101,
+  "subscribers": 499,
+  "watchers": 36543,
+  "html_url": "https://github.com/servo/servo",
+  "api_url": "https://api.github.com/repos/servo/servo",
+  "fetched_at": "2026-04-25T09:30:32.379Z"
+}
