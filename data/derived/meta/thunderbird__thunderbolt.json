@@ -1,0 +1,30 @@
+{
+  "owner": "thunderbird",
+  "repo": "thunderbird/thunderbolt",
+  "name": "thunderbolt",
+  "full_name": "thunderbird/thunderbolt",
+  "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+  "homepage": "https://thunderbolt.io",
+  "language": "TypeScript",
+  "license": "MPL-2.0",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "llms",
+    "on-device-ai"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-07-23T18:54:20Z",
+  "pushed_at": "2026-04-25T05:37:29Z",
+  "size": 18508,
+  "stars_now": 4014,
+  "forks": 253,
+  "open_issues": 51,
+  "subscribers": 17,
+  "watchers": 4014,
+  "html_url": "https://github.com/thunderbird/thunderbolt",
+  "api_url": "https://api.github.com/repos/thunderbird/thunderbolt",
+  "fetched_at": "2026-04-25T19:33:12.465Z"
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "spring-projects",
+  "repo": "spring-projects/spring-framework",
+  "name": "spring-framework",
+  "full_name": "spring-projects/spring-framework",
+  "description": "Spring Framework",
+  "homepage": "https://spring.io/projects/spring-framework",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "framework",
+    "spring",
+    "spring-framework"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-12-08T04:04:45Z",
+  "pushed_at": "2026-04-23T14:28:45Z",
+  "size": 241763,
+  "stars_now": 59867,
+  "forks": 38839,
+  "open_issues": 390,
+  "subscribers": 3279,
+  "watchers": 59867,
+  "html_url": "https://github.com/spring-projects/spring-framework",
+  "api_url": "https://api.github.com/repos/spring-projects/spring-framework",
+  "fetched_at": "2026-04-25T19:33:12.101Z"
+}
