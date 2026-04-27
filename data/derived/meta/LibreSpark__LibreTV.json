@@ -1,0 +1,31 @@
+{
+  "owner": "LibreSpark",
+  "repo": "LibreSpark/LibreTV",
+  "name": "LibreTV",
+  "full_name": "LibreSpark/LibreTV",
+  "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+  "homepage": "https://libretv.is-an.org",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "css",
+    "html",
+    "movie-web-app",
+    "movies-and-cinemas",
+    "tv"
+  ],
+  "default_branch": "main",
+  "archived": true,
+  "disabled": false,
+  "created_at": "2025-04-06T10:52:08Z",
+  "pushed_at": "2025-08-12T12:56:19Z",
+  "size": 1975,
+  "stars_now": 13407,
+  "forks": 27149,
+  "open_issues": 96,
+  "subscribers": 80,
+  "watchers": 13407,
+  "html_url": "https://github.com/LibreSpark/LibreTV",
+  "api_url": "https://api.github.com/repos/LibreSpark/LibreTV",
+  "fetched_at": "2026-04-26T19:44:57.140Z"
+}

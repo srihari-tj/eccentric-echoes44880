@@ -1,0 +1,33 @@
+{
+  "owner": "jarczakpawel",
+  "repo": "jarczakpawel/BMCU-C-PJARCZAK",
+  "name": "BMCU-C-PJARCZAK",
+  "full_name": "jarczakpawel/BMCU-C-PJARCZAK",
+  "description": "BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.",
+  "homepage": "https://github.com/jarczakpawel/BMCU-C-PJARCZAK",
+  "language": "C++",
+  "license": null,
+  "topics": [
+    "370c",
+    "3d-printing",
+    "ams",
+    "bambu",
+    "bmcu",
+    "ch32",
+    "lab"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-01-05T11:19:07Z",
+  "pushed_at": "2026-04-23T22:00:37Z",
+  "size": 20360,
+  "stars_now": 250,
+  "forks": 30,
+  "open_issues": 10,
+  "subscribers": 15,
+  "watchers": 250,
+  "html_url": "https://github.com/jarczakpawel/BMCU-C-PJARCZAK",
+  "api_url": "https://api.github.com/repos/jarczakpawel/BMCU-C-PJARCZAK",
+  "fetched_at": "2026-04-26T19:44:58.493Z"
+}

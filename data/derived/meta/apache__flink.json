@@ -1,0 +1,32 @@
+{
+  "owner": "apache",
+  "repo": "apache/flink",
+  "name": "flink",
+  "full_name": "apache/flink",
+  "description": "Apache Flink",
+  "homepage": "https://flink.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "big-data",
+    "flink",
+    "java",
+    "python",
+    "scala",
+    "sql"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-06-07T07:00:10Z",
+  "pushed_at": "2026-04-25T07:21:28Z",
+  "size": 545743,
+  "stars_now": 25958,
+  "forks": 13925,
+  "open_issues": 344,
+  "subscribers": 913,
+  "watchers": 25958,
+  "html_url": "https://github.com/apache/flink",
+  "api_url": "https://api.github.com/repos/apache/flink",
+  "fetched_at": "2026-04-26T19:44:57.820Z"
+}

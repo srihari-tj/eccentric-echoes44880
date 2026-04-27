@@ -1,0 +1,30 @@
+{
+  "owner": "pestphp",
+  "repo": "pestphp/pest",
+  "name": "pest",
+  "full_name": "pestphp/pest",
+  "description": "Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
+  "homepage": "https://pestphp.com",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "framework",
+    "pest",
+    "php",
+    "testing"
+  ],
+  "default_branch": "4.x",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-03-11T20:36:55Z",
+  "pushed_at": "2026-04-24T00:32:30Z",
+  "size": 3221,
+  "stars_now": 11442,
+  "forks": 469,
+  "open_issues": 145,
+  "subscribers": 50,
+  "watchers": 11442,
+  "html_url": "https://github.com/pestphp/pest",
+  "api_url": "https://api.github.com/repos/pestphp/pest",
+  "fetched_at": "2026-04-26T19:44:59.179Z"
+}
