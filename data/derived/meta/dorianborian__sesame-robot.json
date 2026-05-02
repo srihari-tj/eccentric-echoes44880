@@ -1,0 +1,29 @@
+{
+  "owner": "dorianborian",
+  "repo": "dorianborian/sesame-robot",
+  "name": "sesame-robot",
+  "full_name": "dorianborian/sesame-robot",
+  "description": "An open and affordable mini quadruped robot based on ESP32.",
+  "homepage": "https://www.doriantodd.com/sesame",
+  "language": "C",
+  "license": "Apache-2.0",
+  "topics": [
+    "hardware",
+    "robotics",
+    "walking-robot"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-11-21T18:30:15Z",
+  "pushed_at": "2026-04-19T04:16:51Z",
+  "size": 183808,
+  "stars_now": 1857,
+  "forks": 245,
+  "open_issues": 6,
+  "subscribers": 32,
+  "watchers": 1857,
+  "html_url": "https://github.com/dorianborian/sesame-robot",
+  "api_url": "https://api.github.com/repos/dorianborian/sesame-robot",
+  "fetched_at": "2026-05-02T09:32:02.573Z"
+}

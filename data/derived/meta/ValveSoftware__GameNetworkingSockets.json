@@ -1,0 +1,31 @@
+{
+  "owner": "ValveSoftware",
+  "repo": "ValveSoftware/GameNetworkingSockets",
+  "name": "GameNetworkingSockets",
+  "full_name": "ValveSoftware/GameNetworkingSockets",
+  "description": "Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.",
+  "homepage": "https://github.com/ValveSoftware/GameNetworkingSockets",
+  "language": "C++",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "game-development",
+    "networking",
+    "peer-to-peer",
+    "realtime-messaging",
+    "reliable-messages"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-03-21T18:43:20Z",
+  "pushed_at": "2026-04-30T04:43:28Z",
+  "size": 16165,
+  "stars_now": 9542,
+  "forks": 712,
+  "open_issues": 40,
+  "subscribers": 289,
+  "watchers": 9542,
+  "html_url": "https://github.com/ValveSoftware/GameNetworkingSockets",
+  "api_url": "https://api.github.com/repos/ValveSoftware/GameNetworkingSockets",
+  "fetched_at": "2026-05-02T09:31:58.623Z"
+}

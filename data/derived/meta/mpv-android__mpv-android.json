@@ -1,0 +1,32 @@
+{
+  "owner": "mpv-android",
+  "repo": "mpv-android/mpv-android",
+  "name": "mpv-android",
+  "full_name": "mpv-android/mpv-android",
+  "description": "video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
+  "homepage": "https://github.com/mpv-android/mpv-android",
+  "language": "Kotlin",
+  "license": "MIT",
+  "topics": [
+    "android-app",
+    "audio",
+    "mpv",
+    "multimedia",
+    "video",
+    "video-player"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-04-20T21:29:44Z",
+  "pushed_at": "2026-04-25T22:08:31Z",
+  "size": 15485,
+  "stars_now": 3198,
+  "forks": 394,
+  "open_issues": 167,
+  "subscribers": 56,
+  "watchers": 3198,
+  "html_url": "https://github.com/mpv-android/mpv-android",
+  "api_url": "https://api.github.com/repos/mpv-android/mpv-android",
+  "fetched_at": "2026-05-02T09:32:06.925Z"
+}

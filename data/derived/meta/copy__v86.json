@@ -1,0 +1,30 @@
+{
+  "owner": "copy",
+  "repo": "copy/v86",
+  "name": "v86",
+  "full_name": "copy/v86",
+  "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+  "homepage": "https://copy.sh/v86/",
+  "language": "JavaScript",
+  "license": "BSD-2-Clause",
+  "topics": [
+    "emulator",
+    "virtualization",
+    "wasm",
+    "x86"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-11-06T00:12:12Z",
+  "pushed_at": "2026-04-30T10:02:00Z",
+  "size": 16233,
+  "stars_now": 22825,
+  "forks": 1788,
+  "open_issues": 124,
+  "subscribers": 340,
+  "watchers": 22825,
+  "html_url": "https://github.com/copy/v86",
+  "api_url": "https://api.github.com/repos/copy/v86",
+  "fetched_at": "2026-05-02T09:32:01.807Z"
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "digininja",
+  "repo": "digininja/DVWA",
+  "name": "DVWA",
+  "full_name": "digininja/DVWA",
+  "description": "Damn Vulnerable Web Application (DVWA)",
+  "homepage": "https://github.com/digininja/DVWA",
+  "language": "PHP",
+  "license": "GPL-3.0",
+  "topics": [
+    "dvwa",
+    "hacking",
+    "infosec",
+    "php",
+    "security",
+    "sql-injection",
+    "training"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-05-01T13:03:10Z",
+  "pushed_at": "2026-03-19T07:19:47Z",
+  "size": 2789,
+  "stars_now": 12990,
+  "forks": 4802,
+  "open_issues": 5,
+  "subscribers": 316,
+  "watchers": 12990,
+  "html_url": "https://github.com/digininja/DVWA",
+  "api_url": "https://api.github.com/repos/digininja/DVWA",
+  "fetched_at": "2026-05-02T09:32:02.196Z"
+}

@@ -1,0 +1,28 @@
+{
+  "owner": "butzist",
+  "repo": "butzist/ActivityLauncher",
+  "name": "ActivityLauncher",
+  "full_name": "butzist/ActivityLauncher",
+  "description": "Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease",
+  "homepage": "https://github.com/butzist/ActivityLauncher",
+  "language": "Kotlin",
+  "license": "ISC",
+  "topics": [
+    "android",
+    "java"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-02-17T19:00:28Z",
+  "pushed_at": "2026-04-01T17:31:28Z",
+  "size": 1466,
+  "stars_now": 1634,
+  "forks": 445,
+  "open_issues": 24,
+  "subscribers": 142,
+  "watchers": 1634,
+  "html_url": "https://github.com/butzist/ActivityLauncher",
+  "api_url": "https://api.github.com/repos/butzist/ActivityLauncher",
+  "fetched_at": "2026-05-02T09:32:00.667Z"
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "GitoxideLabs",
+  "repo": "GitoxideLabs/gitoxide",
+  "name": "gitoxide",
+  "full_name": "GitoxideLabs/gitoxide",
+  "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+  "homepage": "https://github.com/GitoxideLabs/gitoxide",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "blazingly-fast",
+    "built-with-rust",
+    "cli",
+    "git",
+    "version-control"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-06-07T17:33:00Z",
+  "pushed_at": "2026-05-02T08:27:19Z",
+  "size": 91507,
+  "stars_now": 11275,
+  "forks": 462,
+  "open_issues": 186,
+  "subscribers": 55,
+  "watchers": 11275,
+  "html_url": "https://github.com/GitoxideLabs/gitoxide",
+  "api_url": "https://api.github.com/repos/GitoxideLabs/gitoxide",
+  "fetched_at": "2026-05-02T09:31:57.336Z"
+}

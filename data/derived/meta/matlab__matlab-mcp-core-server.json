@@ -1,0 +1,31 @@
+{
+  "owner": "matlab",
+  "repo": "matlab/matlab-mcp-core-server",
+  "name": "matlab-mcp-core-server",
+  "full_name": "matlab/matlab-mcp-core-server",
+  "description": "Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.",
+  "homepage": "https://www.mathworks.com/matlabcentral/discussions/ai",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "engineering-tools",
+    "matlab",
+    "matlab-mcp-server",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-10-22T15:32:16Z",
+  "pushed_at": "2026-04-30T13:06:15Z",
+  "size": 1169,
+  "stars_now": 483,
+  "forks": 53,
+  "open_issues": 28,
+  "subscribers": 23,
+  "watchers": 483,
+  "html_url": "https://github.com/matlab/matlab-mcp-core-server",
+  "api_url": "https://api.github.com/repos/matlab/matlab-mcp-core-server",
+  "fetched_at": "2026-05-02T09:32:06.535Z"
+}

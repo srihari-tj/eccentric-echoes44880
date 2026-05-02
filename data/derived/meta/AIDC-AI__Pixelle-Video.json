@@ -1,0 +1,31 @@
+{
+  "owner": "AIDC-AI",
+  "repo": "AIDC-AI/Pixelle-Video",
+  "name": "Pixelle-Video",
+  "full_name": "AIDC-AI/Pixelle-Video",
+  "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+  "homepage": "https://aidc-ai.github.io/Pixelle-Video/zh",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "aigc",
+    "comfyui",
+    "image-generation",
+    "tts",
+    "video-generation"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-11-07T06:34:27Z",
+  "pushed_at": "2026-04-13T03:29:09Z",
+  "size": 28348,
+  "stars_now": 8850,
+  "forks": 1409,
+  "open_issues": 81,
+  "subscribers": 36,
+  "watchers": 8850,
+  "html_url": "https://github.com/AIDC-AI/Pixelle-Video",
+  "api_url": "https://api.github.com/repos/AIDC-AI/Pixelle-Video",
+  "fetched_at": "2026-05-02T09:31:56.437Z"
+}
