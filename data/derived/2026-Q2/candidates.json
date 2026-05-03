@@ -120,10 +120,6 @@
     "repo": "claude-code-showcase"
   },
   {
-    "owner": "ClassicOldSong",
-    "repo": "Apollo"
-  },
-  {
     "owner": "ClickHouse",
     "repo": "ClickHouse"
   },
@@ -220,6 +216,10 @@
     "repo": "frr"
   },
   {
+    "owner": "FWGS",
+    "repo": "xash3d-fwgs"
+  },
+  {
     "owner": "FalkorDB",
     "repo": "FalkorDB"
   },
@@ -296,6 +296,10 @@
     "repo": "puter"
   },
   {
+    "owner": "HiEventsDev",
+    "repo": "Hi.Events"
+  },
+  {
     "owner": "Homebrew",
     "repo": "brew"
   },
@@ -318,6 +322,10 @@
   {
     "owner": "JingMatrix",
     "repo": "Vector"
+  },
+  {
+    "owner": "JunkFood02",
+    "repo": "Seal"
   },
   {
     "owner": "KernelSU-Next",
@@ -382,10 +390,6 @@
   {
     "owner": "MuntashirAkon",
     "repo": "AppManager"
-  },
-  {
-    "owner": "Mygod",
-    "repo": "VPNHotspot"
   },
   {
     "owner": "NVIDIA",
@@ -464,10 +468,6 @@
     "repo": "Paymenter"
   },
   {
-    "owner": "PojavLauncherTeam",
-    "repo": "PojavLauncher"
-  },
-  {
     "owner": "PostHog",
     "repo": "posthog"
   },
@@ -500,10 +500,6 @@
     "repo": "Shizuku-API"
   },
   {
-    "owner": "RooCodeInc",
-    "repo": "Roo-Code"
-  },
-  {
     "owner": "SagerNet",
     "repo": "sing-box"
   },
@@ -522,6 +518,10 @@
   {
     "owner": "Shopify",
     "repo": "liquid"
+  },
+  {
+    "owner": "SillyTavern",
+    "repo": "SillyTavern"
   },
   {
     "owner": "SimonSchubert",
@@ -560,10 +560,6 @@
     "repo": "NewPipe"
   },
   {
-    "owner": "TecharoHQ",
-    "repo": "anubis"
-  },
-  {
     "owner": "TelegramMessenger",
     "repo": "MTProxy"
   },
@@ -598,6 +594,10 @@
   {
     "owner": "UZ-SLAMLab",
     "repo": "ORB_SLAM3"
+  },
+  {
+    "owner": "UberGuidoZ",
+    "repo": "Flipper"
   },
   {
     "owner": "ValveSoftware",
@@ -690,6 +690,10 @@
   {
     "owner": "accomplish-ai",
     "repo": "accomplish"
+  },
+  {
+    "owner": "acidanthera",
+    "repo": "OpenCorePkg"
   },
   {
     "owner": "activeadmin",
@@ -848,16 +852,16 @@
     "repo": "bagisto"
   },
   {
+    "owner": "bambulab",
+    "repo": "BambuStudio"
+  },
+  {
     "owner": "bannedbook",
     "repo": "fanqiang"
   },
   {
     "owner": "barefootford",
     "repo": "buttercut"
-  },
-  {
-    "owner": "base",
-    "repo": "base"
   },
   {
     "owner": "basecamp",
@@ -904,12 +908,12 @@
     "repo": "winlator"
   },
   {
-    "owner": "butzist",
-    "repo": "ActivityLauncher"
-  },
-  {
     "owner": "bytedance",
     "repo": "Protenix"
+  },
+  {
+    "owner": "caamer20",
+    "repo": "Telegram-Drive"
   },
   {
     "owner": "campfirein",
@@ -942,14 +946,6 @@
   {
     "owner": "chenhg5",
     "repo": "cc-connect"
-  },
-  {
-    "owner": "chromium",
-    "repo": "chromium"
-  },
-  {
-    "owner": "cilium",
-    "repo": "tetragon"
   },
   {
     "owner": "citation-style-language",
@@ -1029,11 +1025,19 @@
   },
   {
     "owner": "danielmiessler",
+    "repo": "Fabric"
+  },
+  {
+    "owner": "danielmiessler",
     "repo": "SecLists"
   },
   {
     "owner": "datawhalechina",
     "repo": "easy-vibe"
+  },
+  {
+    "owner": "davila7",
+    "repo": "claude-code-templates"
   },
   {
     "owner": "dbeaver",
@@ -1142,6 +1146,10 @@
   {
     "owner": "evcc-io",
     "repo": "evcc"
+  },
+  {
+    "owner": "everywall",
+    "repo": "ladder"
   },
   {
     "owner": "facebook",
@@ -1370,10 +1378,6 @@
   {
     "owner": "harness",
     "repo": "harness"
-  },
-  {
-    "owner": "hashicorp",
-    "repo": "terraform"
   },
   {
     "owner": "hashicorp",
@@ -1640,20 +1644,12 @@
     "repo": "framework"
   },
   {
-    "owner": "libre-tube",
-    "repo": "LibreTube"
-  },
-  {
     "owner": "libsdl-org",
     "repo": "SDL"
   },
   {
     "owner": "linshenkx",
     "repo": "prompt-optimizer"
-  },
-  {
-    "owner": "lobehub",
-    "repo": "lobehub"
   },
   {
     "owner": "lodash",
@@ -1666,10 +1662,6 @@
   {
     "owner": "longbridge",
     "repo": "gpui-component"
-  },
-  {
-    "owner": "looplj",
-    "repo": "axonhub"
   },
   {
     "owner": "louislam",
@@ -1690,6 +1682,10 @@
   {
     "owner": "luanti-org",
     "repo": "luanti"
+  },
+  {
+    "owner": "luau-lang",
+    "repo": "luau"
   },
   {
     "owner": "lukilabs",
@@ -1718,10 +1714,6 @@
   {
     "owner": "mastodon",
     "repo": "mastodon"
-  },
-  {
-    "owner": "matlab",
-    "repo": "matlab-mcp-core-server"
   },
   {
     "owner": "matomo-org",
@@ -1804,10 +1796,6 @@
     "repo": "mihon"
   },
   {
-    "owner": "mksglu",
-    "repo": "context-mode"
-  },
-  {
     "owner": "ml-explore",
     "repo": "mlx"
   },
@@ -1826,6 +1814,10 @@
   {
     "owner": "monicahq",
     "repo": "monica"
+  },
+  {
+    "owner": "moonlight-stream",
+    "repo": "moonlight-qt"
   },
   {
     "owner": "mostlygeek",
@@ -2104,6 +2096,10 @@
     "repo": "box64"
   },
   {
+    "owner": "public-apis",
+    "repo": "public-apis"
+  },
+  {
     "owner": "putyy",
     "repo": "res-downloader"
   },
@@ -2152,10 +2148,6 @@
     "repo": "raylib"
   },
   {
-    "owner": "razvandimescu",
-    "repo": "numa"
-  },
-  {
     "owner": "recloudstream",
     "repo": "cloudstream"
   },
@@ -2170,6 +2162,10 @@
   {
     "owner": "rivet-dev",
     "repo": "agent-os"
+  },
+  {
+    "owner": "rizonesoft",
+    "repo": "Notepad3"
   },
   {
     "owner": "robinebers",
@@ -2230,6 +2226,10 @@
   {
     "owner": "ruvnet",
     "repo": "RuView"
+  },
+  {
+    "owner": "ruvnet",
+    "repo": "ruflo"
   },
   {
     "owner": "sansan0",
@@ -2294,6 +2294,10 @@
   {
     "owner": "solidtime-io",
     "repo": "solidtime"
+  },
+  {
+    "owner": "solidusio",
+    "repo": "solidus"
   },
   {
     "owner": "songquanpeng",
@@ -2404,10 +2408,6 @@
     "repo": "thunderbolt"
   },
   {
-    "owner": "tiagozip",
-    "repo": "cap"
-  },
-  {
     "owner": "tiann",
     "repo": "KernelSU"
   },
@@ -2422,6 +2422,10 @@
   {
     "owner": "tobi",
     "repo": "qmd"
+  },
+  {
+    "owner": "tonhowtf",
+    "repo": "omniget"
   },
   {
     "owner": "topjohnwu",
@@ -2520,12 +2524,20 @@
     "repo": "wazuh"
   },
   {
+    "owner": "web-infra-dev",
+    "repo": "rspack"
+  },
+  {
     "owner": "winsiderss",
     "repo": "systeminformer"
   },
   {
     "owner": "woheller69",
     "repo": "FreeDroidWarn"
+  },
+  {
+    "owner": "wolfpld",
+    "repo": "tracy"
   },
   {
     "owner": "woocommerce",
@@ -2610,9 +2622,5 @@
   {
     "owner": "zilliztech",
     "repo": "claude-context"
-  },
-  {
-    "owner": "zilliztech",
-    "repo": "memsearch"
   }
 ]

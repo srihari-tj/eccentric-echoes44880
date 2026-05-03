@@ -1,0 +1,32 @@
+{
+  "owner": "everywall",
+  "repo": "everywall/ladder",
+  "name": "ladder",
+  "full_name": "everywall/ladder",
+  "description": "Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML",
+  "homepage": "https://github.com/everywall/ladder",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "topics": [
+    "bypass",
+    "cors",
+    "cors-proxy",
+    "paywall",
+    "paywall-blocker",
+    "paywall-bypasser"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-11-01T21:09:49Z",
+  "pushed_at": "2026-05-02T01:46:19Z",
+  "size": 20899,
+  "stars_now": 7399,
+  "forks": 400,
+  "open_issues": 33,
+  "subscribers": 29,
+  "watchers": 7399,
+  "html_url": "https://github.com/everywall/ladder",
+  "api_url": "https://api.github.com/repos/everywall/ladder",
+  "fetched_at": "2026-05-02T19:43:41.979Z"
+}

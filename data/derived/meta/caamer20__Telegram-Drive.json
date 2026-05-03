@@ -1,0 +1,32 @@
+{
+  "owner": "caamer20",
+  "repo": "caamer20/Telegram-Drive",
+  "name": "Telegram-Drive",
+  "full_name": "caamer20/Telegram-Drive",
+  "description": "Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.",
+  "homepage": "https://www.cameronamer.com",
+  "language": "TypeScript",
+  "license": null,
+  "topics": [
+    "open-source",
+    "react",
+    "rust",
+    "tauri",
+    "telegram",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-01-23T20:19:39Z",
+  "pushed_at": "2026-05-01T23:09:04Z",
+  "size": 122217,
+  "stars_now": 2110,
+  "forks": 264,
+  "open_issues": 10,
+  "subscribers": 7,
+  "watchers": 2110,
+  "html_url": "https://github.com/caamer20/Telegram-Drive",
+  "api_url": "https://api.github.com/repos/caamer20/Telegram-Drive",
+  "fetched_at": "2026-05-02T19:43:41.574Z"
+}
