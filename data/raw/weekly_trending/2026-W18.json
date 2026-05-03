@@ -1,6 +1,6 @@
 {
   "week": "2026-W18",
-  "captured_at": "2026-05-02T19:29:47.127Z",
+  "captured_at": "2026-05-03T08:15:10.183Z",
   "overall": [
     {
       "owner": "mattpocock",
@@ -130,10 +130,6 @@
       {
         "owner": "badlogic",
         "repo": "pi-mono"
-      },
-      {
-        "owner": "caamer20",
-        "repo": "Telegram-Drive"
       }
     ],
     "python": [
