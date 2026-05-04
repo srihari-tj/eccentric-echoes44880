@@ -1,0 +1,31 @@
+{
+  "owner": "NLnetLabs",
+  "repo": "NLnetLabs/unbound",
+  "name": "unbound",
+  "full_name": "NLnetLabs/unbound",
+  "description": "Unbound is a validating, recursive, and caching DNS resolver.",
+  "homepage": "https://nlnetlabs.nl/unbound",
+  "language": "C",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "dns",
+    "dns-privacy",
+    "dnssec",
+    "recursor",
+    "resolver"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2017-06-13T09:27:49Z",
+  "pushed_at": "2026-05-01T09:25:55Z",
+  "size": 101166,
+  "stars_now": 4494,
+  "forks": 436,
+  "open_issues": 358,
+  "subscribers": 66,
+  "watchers": 4494,
+  "html_url": "https://github.com/NLnetLabs/unbound",
+  "api_url": "https://api.github.com/repos/NLnetLabs/unbound",
+  "fetched_at": "2026-05-03T19:34:30.199Z"
+}

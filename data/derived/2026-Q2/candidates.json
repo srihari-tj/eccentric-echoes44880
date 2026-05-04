@@ -1,5 +1,9 @@
 [
   {
+    "owner": "1jehuang",
+    "repo": "jcode"
+  },
+  {
     "owner": "2dust",
     "repo": "v2rayNG"
   },
@@ -133,6 +137,10 @@
   },
   {
     "owner": "ComposioHQ",
+    "repo": "awesome-codex-skills"
+  },
+  {
+    "owner": "ComposioHQ",
     "repo": "open-claude-cowork"
   },
   {
@@ -250,10 +258,6 @@
   {
     "owner": "GeyserMC",
     "repo": "Geyser"
-  },
-  {
-    "owner": "GitoxideLabs",
-    "repo": "gitoxide"
   },
   {
     "owner": "GlassHaven",
@@ -380,6 +384,10 @@
     "repo": "mbedtls"
   },
   {
+    "owner": "Michael-A-Kuykendall",
+    "repo": "shimmy"
+  },
+  {
     "owner": "Mintplex-Labs",
     "repo": "anything-llm"
   },
@@ -390,6 +398,10 @@
   {
     "owner": "MuntashirAkon",
     "repo": "AppManager"
+  },
+  {
+    "owner": "NLnetLabs",
+    "repo": "unbound"
   },
   {
     "owner": "NVIDIA",
@@ -432,10 +444,6 @@
     "repo": "MOSS-TTS"
   },
   {
-    "owner": "OpenRCT2",
-    "repo": "OpenRCT2"
-  },
-  {
     "owner": "OpenVPN",
     "repo": "openvpn"
   },
@@ -468,8 +476,12 @@
     "repo": "Paymenter"
   },
   {
-    "owner": "PostHog",
-    "repo": "posthog"
+    "owner": "PojavLauncherTeam",
+    "repo": "PojavLauncher"
+  },
+  {
+    "owner": "ProtonVPN",
+    "repo": "android-app"
   },
   {
     "owner": "QuantumNous",
@@ -560,6 +572,10 @@
     "repo": "NewPipe"
   },
   {
+    "owner": "TecharoHQ",
+    "repo": "anubis"
+  },
+  {
     "owner": "TelegramMessenger",
     "repo": "MTProxy"
   },
@@ -594,10 +610,6 @@
   {
     "owner": "UZ-SLAMLab",
     "repo": "ORB_SLAM3"
-  },
-  {
-    "owner": "UberGuidoZ",
-    "repo": "Flipper"
   },
   {
     "owner": "ValveSoftware",
@@ -656,8 +668,8 @@
     "repo": "hackingtool"
   },
   {
-    "owner": "Zackriya-Solutions",
-    "repo": "meetily"
+    "owner": "ZacSweers",
+    "repo": "metro"
   },
   {
     "owner": "ZalithLauncher",
@@ -912,6 +924,10 @@
     "repo": "Protenix"
   },
   {
+    "owner": "caamer20",
+    "repo": "Telegram-Drive"
+  },
+  {
     "owner": "campfirein",
     "repo": "byterover-cli"
   },
@@ -946,6 +962,10 @@
   {
     "owner": "citation-style-language",
     "repo": "styles"
+  },
+  {
+    "owner": "cjpais",
+    "repo": "Handy"
   },
   {
     "owner": "cli",
@@ -1124,10 +1144,6 @@
     "repo": "esphome"
   },
   {
-    "owner": "espocrm",
-    "repo": "espocrm"
-  },
-  {
     "owner": "espressif",
     "repo": "esp-idf"
   },
@@ -1264,6 +1280,10 @@
     "repo": "markup"
   },
   {
+    "owner": "gitlabhq",
+    "repo": "gitlabhq"
+  },
+  {
     "owner": "gitroomhq",
     "repo": "postiz-app"
   },
@@ -1344,6 +1364,10 @@
     "repo": "osv-scanner"
   },
   {
+    "owner": "google",
+    "repo": "security-research"
+  },
+  {
     "owner": "googleapis",
     "repo": "mcp-toolbox"
   },
@@ -1416,10 +1440,6 @@
     "repo": "no-as-a-service"
   },
   {
-    "owner": "huggingface",
-    "repo": "ml-intern"
-  },
-  {
     "owner": "hugohe3",
     "repo": "ppt-master"
   },
@@ -1446,6 +1466,10 @@
   {
     "owner": "iflytek",
     "repo": "astron-rpa"
+  },
+  {
+    "owner": "iii-hq",
+    "repo": "iii"
   },
   {
     "owner": "ikawrakow",
@@ -1644,10 +1668,6 @@
     "repo": "SDL"
   },
   {
-    "owner": "linshenkx",
-    "repo": "prompt-optimizer"
-  },
-  {
     "owner": "lodash",
     "repo": "lodash"
   },
@@ -1670,10 +1690,6 @@
   {
     "owner": "lsdefine",
     "repo": "GenericAgent"
-  },
-  {
-    "owner": "ltaoo",
-    "repo": "wx_channels_download"
   },
   {
     "owner": "luanti-org",
@@ -1738,10 +1754,6 @@
   {
     "owner": "meshtastic",
     "repo": "firmware"
-  },
-  {
-    "owner": "microg",
-    "repo": "GmsCore"
   },
   {
     "owner": "microsoft",
@@ -1824,10 +1836,6 @@
     "repo": "llamafile"
   },
   {
-    "owner": "mpv-android",
-    "repo": "mpv-android"
-  },
-  {
     "owner": "mpv-player",
     "repo": "mpv"
   },
@@ -1862,6 +1870,10 @@
   {
     "owner": "netdata",
     "repo": "netdata"
+  },
+  {
+    "owner": "netty",
+    "repo": "netty"
   },
   {
     "owner": "nextcloud",
@@ -1968,6 +1980,10 @@
     "repo": "openai-agents-python"
   },
   {
+    "owner": "openai",
+    "repo": "skills"
+  },
+  {
     "owner": "opencart",
     "repo": "opencart"
   },
@@ -1984,6 +2000,10 @@
     "repo": "jdk"
   },
   {
+    "owner": "openmediavault",
+    "repo": "openmediavault"
+  },
+  {
     "owner": "opensourcepos",
     "repo": "opensourcepos"
   },
@@ -1998,6 +2018,10 @@
   {
     "owner": "openwrt",
     "repo": "openwrt"
+  },
+  {
+    "owner": "openxla",
+    "repo": "xla"
   },
   {
     "owner": "opf",
@@ -2080,6 +2104,10 @@
     "repo": "postal"
   },
   {
+    "owner": "projectdiscovery",
+    "repo": "nuclei-templates"
+  },
+  {
     "owner": "protocolbuffers",
     "repo": "protobuf"
   },
@@ -2144,6 +2172,10 @@
     "repo": "raylib"
   },
   {
+    "owner": "razvandimescu",
+    "repo": "numa"
+  },
+  {
     "owner": "recloudstream",
     "repo": "cloudstream"
   },
@@ -2154,6 +2186,10 @@
   {
     "owner": "redpanda-data",
     "repo": "redpanda"
+  },
+  {
+    "owner": "refactoringhq",
+    "repo": "tolaria"
   },
   {
     "owner": "rivet-dev",
@@ -2440,6 +2476,10 @@
     "repo": "typst"
   },
   {
+    "owner": "ufrisk",
+    "repo": "pcileech"
+  },
+  {
     "owner": "urbanadventurer",
     "repo": "WhatWeb"
   },
@@ -2566,10 +2606,6 @@
   {
     "owner": "yamadashy",
     "repo": "repomix"
-  },
-  {
-    "owner": "yuliskov",
-    "repo": "SmartTube"
   },
   {
     "owner": "yuzono",

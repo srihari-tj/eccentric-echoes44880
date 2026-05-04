@@ -1,0 +1,33 @@
+{
+  "owner": "ZacSweers",
+  "repo": "ZacSweers/metro",
+  "name": "metro",
+  "full_name": "ZacSweers/metro",
+  "description": "A multiplatform, compile-time dependency injection framework for Kotlin",
+  "homepage": "https://zacsweers.github.io/metro/",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "compiler-plugin",
+    "dependency-injection",
+    "di",
+    "jakarta-inject",
+    "javax-inject",
+    "jsr-330",
+    "kotlin"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-11-05T18:19:16Z",
+  "pushed_at": "2026-05-02T22:19:12Z",
+  "size": 34544,
+  "stars_now": 1222,
+  "forks": 94,
+  "open_issues": 24,
+  "subscribers": 11,
+  "watchers": 1222,
+  "html_url": "https://github.com/ZacSweers/metro",
+  "api_url": "https://api.github.com/repos/ZacSweers/metro",
+  "fetched_at": "2026-05-03T19:34:30.527Z"
+}
