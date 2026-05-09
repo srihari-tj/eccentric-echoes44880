@@ -1,0 +1,33 @@
+{
+  "owner": "kubescape",
+  "repo": "kubescape/kubescape",
+  "name": "kubescape",
+  "full_name": "kubescape/kubescape",
+  "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+  "homepage": "https://kubescape.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "best-practice",
+    "devops",
+    "kubernetes",
+    "mitre-attack",
+    "nsa",
+    "security",
+    "vulnerability-detection"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-08-12T10:39:29Z",
+  "pushed_at": "2026-05-08T16:48:14Z",
+  "size": 117468,
+  "stars_now": 11379,
+  "forks": 928,
+  "open_issues": 60,
+  "subscribers": 100,
+  "watchers": 11379,
+  "html_url": "https://github.com/kubescape/kubescape",
+  "api_url": "https://api.github.com/repos/kubescape/kubescape",
+  "fetched_at": "2026-05-09T09:03:48.934Z"
+}

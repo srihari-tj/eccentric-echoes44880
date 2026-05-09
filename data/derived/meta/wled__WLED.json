@@ -1,0 +1,31 @@
+{
+  "owner": "wled",
+  "repo": "wled/WLED",
+  "name": "WLED",
+  "full_name": "wled/WLED",
+  "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+  "homepage": "https://kno.wled.ge",
+  "language": "C++",
+  "license": "EUPL-1.2",
+  "topics": [
+    "esp32",
+    "esp8266",
+    "hacktoberfest",
+    "led",
+    "light"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-12-20T20:42:27Z",
+  "pushed_at": "2026-05-09T03:22:15Z",
+  "size": 69906,
+  "stars_now": 17978,
+  "forks": 4132,
+  "open_issues": 466,
+  "subscribers": 315,
+  "watchers": 17978,
+  "html_url": "https://github.com/wled/WLED",
+  "api_url": "https://api.github.com/repos/wled/WLED",
+  "fetched_at": "2026-05-09T09:03:52.044Z"
+}

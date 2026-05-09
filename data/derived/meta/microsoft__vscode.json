@@ -1,0 +1,31 @@
+{
+  "owner": "microsoft",
+  "repo": "microsoft/vscode",
+  "name": "vscode",
+  "full_name": "microsoft/vscode",
+  "description": "Visual Studio Code",
+  "homepage": "https://code.visualstudio.com",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "editor",
+    "electron",
+    "microsoft",
+    "typescript",
+    "visual-studio-code"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-09-03T20:23:38Z",
+  "pushed_at": "2026-05-09T08:21:19Z",
+  "size": 1250124,
+  "stars_now": 184721,
+  "forks": 39728,
+  "open_issues": 17387,
+  "subscribers": 3415,
+  "watchers": 184721,
+  "html_url": "https://github.com/microsoft/vscode",
+  "api_url": "https://api.github.com/repos/microsoft/vscode",
+  "fetched_at": "2026-05-09T09:03:50.557Z"
+}
