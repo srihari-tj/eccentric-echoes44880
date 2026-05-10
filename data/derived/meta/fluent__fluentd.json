@@ -1,0 +1,31 @@
+{
+  "owner": "fluent",
+  "repo": "fluent/fluentd",
+  "name": "fluentd",
+  "full_name": "fluent/fluentd",
+  "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+  "homepage": "https://www.fluentd.org",
+  "language": "Ruby",
+  "license": "Apache-2.0",
+  "topics": [
+    "cncf",
+    "data-collector",
+    "fluentd",
+    "logging",
+    "ruby"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2011-06-19T08:41:40Z",
+  "pushed_at": "2026-05-07T02:30:21Z",
+  "size": 20884,
+  "stars_now": 13530,
+  "forks": 1391,
+  "open_issues": 136,
+  "subscribers": 327,
+  "watchers": 13530,
+  "html_url": "https://github.com/fluent/fluentd",
+  "api_url": "https://api.github.com/repos/fluent/fluentd",
+  "fetched_at": "2026-05-09T20:04:36.093Z"
+}
