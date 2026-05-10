@@ -1,6 +1,6 @@
 {
   "week": "2026-W19",
-  "captured_at": "2026-05-09T19:35:59.945Z",
+  "captured_at": "2026-05-10T08:21:23.994Z",
   "overall": [
     {
       "owner": "anthropics",
@@ -110,6 +110,10 @@
         "repo": "extensions"
       },
       {
+        "owner": "liyupi",
+        "repo": "ai-guide"
+      },
+      {
         "owner": "projectdiscovery",
         "repo": "nuclei-templates"
       }
@@ -158,10 +162,6 @@
       {
         "owner": "czlonkowski",
         "repo": "n8n-mcp"
-      },
-      {
-        "owner": "caamer20",
-        "repo": "Telegram-Drive"
       }
     ],
     "python": [
@@ -196,10 +196,6 @@
       {
         "owner": "openai",
         "repo": "skills"
-      },
-      {
-        "owner": "hugohe3",
-        "repo": "ppt-master"
       },
       {
         "owner": "hsliuping",
@@ -812,10 +808,6 @@
       {
         "owner": "RikkaApps",
         "repo": "Shizuku"
-      },
-      {
-        "owner": "misaka10032w",
-        "repo": "Han1meViewer"
       },
       {
         "owner": "Kunzisoft",
