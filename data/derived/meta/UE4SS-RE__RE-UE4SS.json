@@ -1,0 +1,32 @@
+{
+  "owner": "UE4SS-RE",
+  "repo": "UE4SS-RE/RE-UE4SS",
+  "name": "RE-UE4SS",
+  "full_name": "UE4SS-RE/RE-UE4SS",
+  "description": "Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games",
+  "homepage": "http://docs.ue4ss.com/",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "lua",
+    "mod-loader",
+    "scripting",
+    "sdk-generation",
+    "ue4",
+    "ue5"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-11-03T17:42:45Z",
+  "pushed_at": "2026-05-08T23:44:23Z",
+  "size": 14079,
+  "stars_now": 2473,
+  "forks": 409,
+  "open_issues": 213,
+  "subscribers": 28,
+  "watchers": 2473,
+  "html_url": "https://github.com/UE4SS-RE/RE-UE4SS",
+  "api_url": "https://api.github.com/repos/UE4SS-RE/RE-UE4SS",
+  "fetched_at": "2026-05-10T19:55:37.623Z"
+}

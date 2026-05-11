@@ -92,6 +92,10 @@
     "repo": "omi"
   },
   {
+    "owner": "BatchDrake",
+    "repo": "SigDigger"
+  },
+  {
     "owner": "Blaizzy",
     "repo": "mlx-vlm"
   },
@@ -168,10 +172,6 @@
     "repo": "dd-trace-rb"
   },
   {
-    "owner": "David-Crty",
-    "repo": "databasement"
-  },
-  {
     "owner": "DavidHDev",
     "repo": "react-bits"
   },
@@ -206,10 +206,6 @@
   {
     "owner": "EchoMusicApp",
     "repo": "Echo-Music"
-  },
-  {
-    "owner": "Ed1s0nZ",
-    "repo": "CyberStrikeAI"
   },
   {
     "owner": "EricLBuehler",
@@ -298,6 +294,10 @@
   {
     "owner": "HKUDS",
     "repo": "RAG-Anything"
+  },
+  {
+    "owner": "Haleclipse",
+    "repo": "CodexDesktop-Rebuild"
   },
   {
     "owner": "HansKristian-Work",
@@ -400,6 +400,10 @@
     "repo": "leantime"
   },
   {
+    "owner": "LearningCircuit",
+    "repo": "local-deep-research"
+  },
+  {
     "owner": "LibreSpark",
     "repo": "LibreTV"
   },
@@ -420,6 +424,10 @@
     "repo": "voxy"
   },
   {
+    "owner": "MHSanaei",
+    "repo": "3x-ui"
+  },
+  {
     "owner": "MaaAssistantArknights",
     "repo": "MaaAssistantArknights"
   },
@@ -430,10 +438,6 @@
   {
     "owner": "Mbed-TLS",
     "repo": "mbedtls"
-  },
-  {
-    "owner": "MeteorDevelopment",
-    "repo": "meteor-client"
   },
   {
     "owner": "Michael-A-Kuykendall",
@@ -616,16 +620,16 @@
     "repo": "interview-guide"
   },
   {
-    "owner": "SteamClientHomebrew",
-    "repo": "Millennium"
-  },
-  {
     "owner": "Stremio",
     "repo": "stremio-web"
   },
   {
     "owner": "SuiteCRM",
     "repo": "SuiteCRM"
+  },
+  {
+    "owner": "Suwayomi",
+    "repo": "Suwayomi-Server"
   },
   {
     "owner": "TabbyML",
@@ -672,12 +676,12 @@
     "repo": "seomachine"
   },
   {
-    "owner": "TheOdinProject",
-    "repo": "theodinproject"
-  },
-  {
     "owner": "Tracer-Cloud",
     "repo": "opensre"
+  },
+  {
+    "owner": "UE4SS-RE",
+    "repo": "RE-UE4SS"
   },
   {
     "owner": "UZ-SLAMLab",
@@ -698,10 +702,6 @@
   {
     "owner": "VictoriaMetrics",
     "repo": "VictoriaMetrics"
-  },
-  {
-    "owner": "Vita3K",
-    "repo": "Vita3K"
   },
   {
     "owner": "Wei-Shaw",
@@ -956,10 +956,6 @@
     "repo": "pi-skills"
   },
   {
-    "owner": "badrisnarayanan",
-    "repo": "antigravity-claude-proxy"
-  },
-  {
     "owner": "bagisto",
     "repo": "bagisto"
   },
@@ -978,10 +974,6 @@
   {
     "owner": "basecamp",
     "repo": "kamal"
-  },
-  {
-    "owner": "bazelbuild",
-    "repo": "bazel"
   },
   {
     "owner": "beclab",
@@ -1040,10 +1032,6 @@
     "repo": "winlator"
   },
   {
-    "owner": "butzist",
-    "repo": "ActivityLauncher"
-  },
-  {
     "owner": "bytedance",
     "repo": "Protenix"
   },
@@ -1054,6 +1042,10 @@
   {
     "owner": "caamer20",
     "repo": "Telegram-Drive"
+  },
+  {
+    "owner": "cabaletta",
+    "repo": "baritone"
   },
   {
     "owner": "campfirein",
@@ -1120,6 +1112,10 @@
     "repo": "compressO"
   },
   {
+    "owner": "colbymchenry",
+    "repo": "codegraph"
+  },
+  {
     "owner": "coleam00",
     "repo": "Archon"
   },
@@ -1168,10 +1164,6 @@
     "repo": "Spider_XHS"
   },
   {
-    "owner": "czlonkowski",
-    "repo": "n8n-mcp"
-  },
-  {
     "owner": "daijro",
     "repo": "camoufox"
   },
@@ -1208,6 +1200,10 @@
     "repo": "dbeaver"
   },
   {
+    "owner": "decidim",
+    "repo": "decidim"
+  },
+  {
     "owner": "decolua",
     "repo": "9router"
   },
@@ -1222,10 +1218,6 @@
   {
     "owner": "dependabot",
     "repo": "dependabot-core"
-  },
-  {
-    "owner": "dependency-check",
-    "repo": "DependencyCheck"
   },
   {
     "owner": "diegosouzapw",
@@ -1376,6 +1368,10 @@
     "repo": "fluentd"
   },
   {
+    "owner": "flyteorg",
+    "repo": "flyte"
+  },
+  {
     "owner": "forem",
     "repo": "forem"
   },
@@ -1394,10 +1390,6 @@
   {
     "owner": "freescout-help-desk",
     "repo": "freescout"
-  },
-  {
-    "owner": "fsnotify",
-    "repo": "fsnotify"
   },
   {
     "owner": "fspecii",
@@ -1442,6 +1434,10 @@
   {
     "owner": "github-linguist",
     "repo": "linguist"
+  },
+  {
+    "owner": "github",
+    "repo": "choosealicense.com"
   },
   {
     "owner": "github",
@@ -1560,6 +1556,10 @@
     "repo": "uBlock"
   },
   {
+    "owner": "gosom",
+    "repo": "google-maps-scraper"
+  },
+  {
     "owner": "greensock",
     "repo": "GSAP"
   },
@@ -1580,8 +1580,8 @@
     "repo": "halo"
   },
   {
-    "owner": "hanxi",
-    "repo": "cups-web"
+    "owner": "hank9999",
+    "repo": "kiro.rs"
   },
   {
     "owner": "harness",
@@ -1630,6 +1630,10 @@
   {
     "owner": "hsliuping",
     "repo": "TradingAgents-CN"
+  },
+  {
+    "owner": "huginn",
+    "repo": "huginn"
   },
   {
     "owner": "hugohe3",
@@ -1692,10 +1696,6 @@
     "repo": "invoiceninja"
   },
   {
-    "owner": "ipfs",
-    "repo": "kubo"
-  },
-  {
     "owner": "istoreos",
     "repo": "istoreos"
   },
@@ -1722,6 +1722,10 @@
   {
     "owner": "jdx",
     "repo": "mise"
+  },
+  {
+    "owner": "jeecgboot",
+    "repo": "JeecgBoot"
   },
   {
     "owner": "jekyll",
@@ -1776,16 +1780,16 @@
     "repo": "librepods"
   },
   {
-    "owner": "keepassxreboot",
-    "repo": "keepassxc"
-  },
-  {
     "owner": "keiyoushi",
     "repo": "extensions-source"
   },
   {
     "owner": "kekingcn",
     "repo": "kkFileView"
+  },
+  {
+    "owner": "kestra-io",
+    "repo": "kestra"
   },
   {
     "owner": "keycloak",
@@ -1830,10 +1834,6 @@
   {
     "owner": "krahets",
     "repo": "hello-algo"
-  },
-  {
-    "owner": "kubernetes-sigs",
-    "repo": "headlamp"
   },
   {
     "owner": "kubescape",
@@ -1884,12 +1884,8 @@
     "repo": "SDL"
   },
   {
-    "owner": "liyupi",
-    "repo": "ai-guide"
-  },
-  {
-    "owner": "lllyasviel",
-    "repo": "Fooocus"
+    "owner": "linshenkx",
+    "repo": "prompt-optimizer"
   },
   {
     "owner": "lodash",
@@ -1914,6 +1910,10 @@
   {
     "owner": "lsdefine",
     "repo": "GenericAgent"
+  },
+  {
+    "owner": "ltaoo",
+    "repo": "wx_channels_download"
   },
   {
     "owner": "luanti-org",
@@ -2114,6 +2114,10 @@
   {
     "owner": "navidrome",
     "repo": "navidrome"
+  },
+  {
+    "owner": "neo4j",
+    "repo": "neo4j"
   },
   {
     "owner": "netbirdio",
@@ -2337,6 +2341,10 @@
   },
   {
     "owner": "playcanvas",
+    "repo": "engine"
+  },
+  {
+    "owner": "playcanvas",
     "repo": "supersplat"
   },
   {
@@ -2358,6 +2366,10 @@
   {
     "owner": "postalserver",
     "repo": "postal"
+  },
+  {
+    "owner": "pranshuparmar",
+    "repo": "witr"
   },
   {
     "owner": "pret",
@@ -2416,6 +2428,10 @@
     "repo": "radare2"
   },
   {
+    "owner": "rafaelvcaetano",
+    "repo": "melonDS-android"
+  },
+  {
     "owner": "rails",
     "repo": "rails"
   },
@@ -2426,6 +2442,10 @@
   {
     "owner": "rapidaai",
     "repo": "voice-ai"
+  },
+  {
+    "owner": "raspberrypi",
+    "repo": "linux"
   },
   {
     "owner": "raysan5",
@@ -2466,6 +2486,10 @@
   {
     "owner": "roboflow",
     "repo": "supervision"
+  },
+  {
+    "owner": "rohitg00",
+    "repo": "agentmemory"
   },
   {
     "owner": "rohitg00",
@@ -2517,15 +2541,15 @@
   },
   {
     "owner": "ruvnet",
+    "repo": "RuVector"
+  },
+  {
+    "owner": "ruvnet",
     "repo": "RuView"
   },
   {
     "owner": "ruvnet",
     "repo": "ruflo"
-  },
-  {
-    "owner": "sandboxie-plus",
-    "repo": "Sandboxie"
   },
   {
     "owner": "sansan0",
@@ -2644,10 +2668,6 @@
     "repo": "Sub-Store"
   },
   {
-    "owner": "superplanehq",
-    "repo": "superplane"
-  },
-  {
     "owner": "superradcompany",
     "repo": "microsandbox"
   },
@@ -2744,10 +2764,6 @@
     "repo": "qmd"
   },
   {
-    "owner": "tokio-rs",
-    "repo": "tokio"
-  },
-  {
     "owner": "tonhowtf",
     "repo": "omniget"
   },
@@ -2832,6 +2848,10 @@
     "repo": "next.js"
   },
   {
+    "owner": "vercel",
+    "repo": "turborepo"
+  },
+  {
     "owner": "versity",
     "repo": "versitygw"
   },
@@ -2870,6 +2890,10 @@
   {
     "owner": "winsiderss",
     "repo": "systeminformer"
+  },
+  {
+    "owner": "withastro",
+    "repo": "flue"
   },
   {
     "owner": "wled",
@@ -2914,6 +2938,10 @@
   {
     "owner": "yamadashy",
     "repo": "repomix"
+  },
+  {
+    "owner": "yikart",
+    "repo": "AiToEarn"
   },
   {
     "owner": "yuzono",
