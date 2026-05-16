@@ -1,0 +1,33 @@
+{
+  "owner": "outsourc-e",
+  "repo": "outsourc-e/hermes-workspace",
+  "name": "hermes-workspace",
+  "full_name": "outsourc-e/hermes-workspace",
+  "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+  "homepage": "https://hermes-workspace.com",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "agent-ui",
+    "ai-workspace",
+    "hackathon",
+    "hermes-agent",
+    "nous-research",
+    "react",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-03-16T03:53:28Z",
+  "pushed_at": "2026-05-14T17:38:23Z",
+  "size": 108582,
+  "stars_now": 4274,
+  "forks": 578,
+  "open_issues": 30,
+  "subscribers": 23,
+  "watchers": 4274,
+  "html_url": "https://github.com/outsourc-e/hermes-workspace",
+  "api_url": "https://api.github.com/repos/outsourc-e/hermes-workspace",
+  "fetched_at": "2026-05-16T09:40:01.482Z"
+}

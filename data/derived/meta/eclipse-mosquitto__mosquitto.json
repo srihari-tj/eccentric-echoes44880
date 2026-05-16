@@ -1,0 +1,30 @@
+{
+  "owner": "eclipse-mosquitto",
+  "repo": "eclipse-mosquitto/mosquitto",
+  "name": "mosquitto",
+  "full_name": "eclipse-mosquitto/mosquitto",
+  "description": "Eclipse Mosquitto - An open source MQTT broker",
+  "homepage": "https://mosquitto.org",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "broker",
+    "eclipse-iot",
+    "mosquitto",
+    "mqtt"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-03-10T20:19:09Z",
+  "pushed_at": "2026-05-15T12:27:54Z",
+  "size": 18640,
+  "stars_now": 10888,
+  "forks": 2605,
+  "open_issues": 817,
+  "subscribers": 273,
+  "watchers": 10888,
+  "html_url": "https://github.com/eclipse-mosquitto/mosquitto",
+  "api_url": "https://api.github.com/repos/eclipse-mosquitto/mosquitto",
+  "fetched_at": "2026-05-16T09:39:54.030Z"
+}

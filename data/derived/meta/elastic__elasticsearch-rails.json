@@ -1,0 +1,33 @@
+{
+  "owner": "elastic",
+  "repo": "elastic/elasticsearch-rails",
+  "name": "elasticsearch-rails",
+  "full_name": "elastic/elasticsearch-rails",
+  "description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails",
+  "homepage": "https://github.com/elastic/elasticsearch-rails",
+  "language": "Ruby",
+  "license": "Apache-2.0",
+  "topics": [
+    "activemodel",
+    "activerecord",
+    "elastic",
+    "elasticsearch",
+    "rails",
+    "ruby",
+    "ruby-on-rails"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-11-08T17:00:19Z",
+  "pushed_at": "2025-10-08T13:42:09Z",
+  "size": 5803,
+  "stars_now": 3083,
+  "forks": 800,
+  "open_issues": 52,
+  "subscribers": 379,
+  "watchers": 3083,
+  "html_url": "https://github.com/elastic/elasticsearch-rails",
+  "api_url": "https://api.github.com/repos/elastic/elasticsearch-rails",
+  "fetched_at": "2026-05-16T09:39:54.414Z"
+}

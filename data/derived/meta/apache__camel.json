@@ -1,0 +1,31 @@
+{
+  "owner": "apache",
+  "repo": "apache/camel",
+  "name": "camel",
+  "full_name": "apache/camel",
+  "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.",
+  "homepage": "https://camel.apache.org",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "camel",
+    "eip",
+    "integration",
+    "java",
+    "microservices"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2009-05-21T00:25:36Z",
+  "pushed_at": "2026-05-16T08:56:28Z",
+  "size": 1279886,
+  "stars_now": 6205,
+  "forks": 5107,
+  "open_issues": 28,
+  "subscribers": 259,
+  "watchers": 6205,
+  "html_url": "https://github.com/apache/camel",
+  "api_url": "https://api.github.com/repos/apache/camel",
+  "fetched_at": "2026-05-16T09:39:51.205Z"
+}

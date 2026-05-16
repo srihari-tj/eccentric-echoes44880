@@ -1,0 +1,29 @@
+{
+  "owner": "libretro",
+  "repo": "libretro/RetroArch",
+  "name": "RetroArch",
+  "full_name": "libretro/RetroArch",
+  "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+  "homepage": "http://www.libretro.com",
+  "language": "C",
+  "license": "GPL-3.0",
+  "topics": [
+    "c",
+    "libretro",
+    "retroarch"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-05-27T14:47:40Z",
+  "pushed_at": "2026-05-16T00:36:10Z",
+  "size": 609561,
+  "stars_now": 13125,
+  "forks": 2113,
+  "open_issues": 2979,
+  "subscribers": 331,
+  "watchers": 13125,
+  "html_url": "https://github.com/libretro/RetroArch",
+  "api_url": "https://api.github.com/repos/libretro/RetroArch",
+  "fetched_at": "2026-05-16T09:39:59.393Z"
+}

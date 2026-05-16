@@ -1,0 +1,31 @@
+{
+  "owner": "moonshine-ai",
+  "repo": "moonshine-ai/moonshine",
+  "name": "moonshine",
+  "full_name": "moonshine-ai/moonshine",
+  "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+  "homepage": "https://moonshine.ai",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "intent-recognition",
+    "stt",
+    "tts",
+    "voice",
+    "voice-recognition"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-10-04T22:10:28Z",
+  "pushed_at": "2026-05-16T02:12:51Z",
+  "size": 425692,
+  "stars_now": 8074,
+  "forks": 422,
+  "open_issues": 25,
+  "subscribers": 60,
+  "watchers": 8074,
+  "html_url": "https://github.com/moonshine-ai/moonshine",
+  "api_url": "https://api.github.com/repos/moonshine-ai/moonshine",
+  "fetched_at": "2026-05-16T09:40:00.788Z"
+}

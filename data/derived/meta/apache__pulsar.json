@@ -1,0 +1,32 @@
+{
+  "owner": "apache",
+  "repo": "apache/pulsar",
+  "name": "pulsar",
+  "full_name": "apache/pulsar",
+  "description": "Apache Pulsar - distributed pub-sub messaging system",
+  "homepage": "https://pulsar.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "event-streaming",
+    "messaging",
+    "pubsub",
+    "pulsar",
+    "queuing",
+    "streaming"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-06-28T07:00:03Z",
+  "pushed_at": "2026-05-16T08:58:59Z",
+  "size": 267409,
+  "stars_now": 15240,
+  "forks": 3732,
+  "open_issues": 1657,
+  "subscribers": 396,
+  "watchers": 15240,
+  "html_url": "https://github.com/apache/pulsar",
+  "api_url": "https://api.github.com/repos/apache/pulsar",
+  "fetched_at": "2026-05-16T09:39:51.568Z"
+}

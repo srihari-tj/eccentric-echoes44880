@@ -1,0 +1,31 @@
+{
+  "owner": "agentscope-ai",
+  "repo": "agentscope-ai/agentscope-java",
+  "name": "agentscope-java",
+  "full_name": "agentscope-ai/agentscope-java",
+  "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
+  "homepage": "https://java.agentscope.io/",
+  "language": "Java",
+  "license": null,
+  "topics": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "llm"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-09-23T04:37:43Z",
+  "pushed_at": "2026-05-15T13:09:42Z",
+  "size": 36300,
+  "stars_now": 3061,
+  "forks": 648,
+  "open_issues": 291,
+  "subscribers": 22,
+  "watchers": 3061,
+  "html_url": "https://github.com/agentscope-ai/agentscope-java",
+  "api_url": "https://api.github.com/repos/agentscope-ai/agentscope-java",
+  "fetched_at": "2026-05-16T09:39:50.129Z"
+}

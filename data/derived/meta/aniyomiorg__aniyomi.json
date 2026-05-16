@@ -1,0 +1,29 @@
+{
+  "owner": "aniyomiorg",
+  "repo": "aniyomiorg/aniyomi",
+  "name": "aniyomi",
+  "full_name": "aniyomiorg/aniyomi",
+  "description": "An app for manga and anime",
+  "homepage": "https://aniyomi.org",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "anime",
+    "manga"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-04-17T13:35:37Z",
+  "pushed_at": "2025-11-05T10:57:36Z",
+  "size": 82568,
+  "stars_now": 7303,
+  "forks": 573,
+  "open_issues": 344,
+  "subscribers": 131,
+  "watchers": 7303,
+  "html_url": "https://github.com/aniyomiorg/aniyomi",
+  "api_url": "https://api.github.com/repos/aniyomiorg/aniyomi",
+  "fetched_at": "2026-05-16T09:39:50.846Z"
+}

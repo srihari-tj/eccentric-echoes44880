@@ -1,0 +1,33 @@
+{
+  "owner": "huggingface",
+  "repo": "huggingface/tokenizers",
+  "name": "tokenizers",
+  "full_name": "huggingface/tokenizers",
+  "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+  "homepage": "https://huggingface.co/docs/tokenizers",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "bert",
+    "gpt",
+    "language-model",
+    "natural-language-processing",
+    "natural-language-understanding",
+    "nlp",
+    "transformers"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-11-01T17:52:20Z",
+  "pushed_at": "2026-05-14T06:42:24Z",
+  "size": 17690,
+  "stars_now": 10742,
+  "forks": 1090,
+  "open_issues": 169,
+  "subscribers": 122,
+  "watchers": 10742,
+  "html_url": "https://github.com/huggingface/tokenizers",
+  "api_url": "https://api.github.com/repos/huggingface/tokenizers",
+  "fetched_at": "2026-05-16T09:39:56.366Z"
+}

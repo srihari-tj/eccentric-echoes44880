@@ -1,0 +1,30 @@
+{
+  "owner": "ton-blockchain",
+  "repo": "ton-blockchain/ton",
+  "name": "ton",
+  "full_name": "ton-blockchain/ton",
+  "description": "Main TON monorepo",
+  "homepage": "https://github.com/ton-blockchain/ton",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "blockchain",
+    "cryptocurrency",
+    "infinite-sharding",
+    "ton"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-09-07T09:33:40Z",
+  "pushed_at": "2026-05-15T17:11:09Z",
+  "size": 40581,
+  "stars_now": 4004,
+  "forks": 1536,
+  "open_issues": 202,
+  "subscribers": 208,
+  "watchers": 4004,
+  "html_url": "https://github.com/ton-blockchain/ton",
+  "api_url": "https://api.github.com/repos/ton-blockchain/ton",
+  "fetched_at": "2026-05-16T09:40:03.645Z"
+}

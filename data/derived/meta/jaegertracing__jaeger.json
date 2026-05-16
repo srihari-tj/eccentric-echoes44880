@@ -1,0 +1,33 @@
+{
+  "owner": "jaegertracing",
+  "repo": "jaegertracing/jaeger",
+  "name": "jaeger",
+  "full_name": "jaegertracing/jaeger",
+  "description": "CNCF Jaeger, a Distributed Tracing Platform",
+  "homepage": "https://www.jaegertracing.io/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "cncf",
+    "distributed-tracing",
+    "hacktoberfest",
+    "jaeger",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-04-15T18:49:02Z",
+  "pushed_at": "2026-05-15T20:35:12Z",
+  "size": 38406,
+  "stars_now": 22803,
+  "forks": 2906,
+  "open_issues": 393,
+  "subscribers": 318,
+  "watchers": 22803,
+  "html_url": "https://github.com/jaegertracing/jaeger",
+  "api_url": "https://api.github.com/repos/jaegertracing/jaeger",
+  "fetched_at": "2026-05-16T09:39:57.800Z"
+}
