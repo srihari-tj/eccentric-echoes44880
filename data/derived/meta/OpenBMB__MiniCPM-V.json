@@ -1,0 +1,29 @@
+{
+  "owner": "OpenBMB",
+  "repo": "OpenBMB/MiniCPM-V",
+  "name": "MiniCPM-V",
+  "full_name": "OpenBMB/MiniCPM-V",
+  "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+  "homepage": "https://github.com/OpenBMB/MiniCPM-V",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "minicpm",
+    "minicpm-v",
+    "multi-modal"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-01-29T05:30:33Z",
+  "pushed_at": "2026-05-12T13:55:59Z",
+  "size": 579773,
+  "stars_now": 24944,
+  "forks": 1945,
+  "open_issues": 48,
+  "subscribers": 164,
+  "watchers": 24944,
+  "html_url": "https://github.com/OpenBMB/MiniCPM-V",
+  "api_url": "https://api.github.com/repos/OpenBMB/MiniCPM-V",
+  "fetched_at": "2026-05-16T20:03:49.848Z"
+}

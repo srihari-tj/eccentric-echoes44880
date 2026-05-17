@@ -1,0 +1,30 @@
+{
+  "owner": "zizmorcore",
+  "repo": "zizmorcore/zizmor",
+  "name": "zizmor",
+  "full_name": "zizmorcore/zizmor",
+  "description": "Static analysis for GitHub Actions",
+  "homepage": "http://docs.zizmor.sh/",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "github-actions",
+    "security",
+    "security-tools",
+    "static-analysis"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-08-19T18:26:28Z",
+  "pushed_at": "2026-05-16T18:22:45Z",
+  "size": 5085,
+  "stars_now": 4929,
+  "forks": 190,
+  "open_issues": 134,
+  "subscribers": 14,
+  "watchers": 4929,
+  "html_url": "https://github.com/zizmorcore/zizmor",
+  "api_url": "https://api.github.com/repos/zizmorcore/zizmor",
+  "fetched_at": "2026-05-16T20:03:56.185Z"
+}

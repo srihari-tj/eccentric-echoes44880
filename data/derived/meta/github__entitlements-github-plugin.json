@@ -1,0 +1,30 @@
+{
+  "owner": "github",
+  "repo": "github/entitlements-github-plugin",
+  "name": "entitlements-github-plugin",
+  "full_name": "github/entitlements-github-plugin",
+  "description": "Entitlements plugin to manage GitHub Orgs and Team memberships and access",
+  "homepage": "https://rubygems.org/gems/entitlements-github-plugin",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "entitlements",
+    "github",
+    "iam",
+    "security"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-06-07T16:17:16Z",
+  "pushed_at": "2026-05-14T06:55:54Z",
+  "size": 67994,
+  "stars_now": 34,
+  "forks": 7,
+  "open_issues": 7,
+  "subscribers": 35,
+  "watchers": 34,
+  "html_url": "https://github.com/github/entitlements-github-plugin",
+  "api_url": "https://api.github.com/repos/github/entitlements-github-plugin",
+  "fetched_at": "2026-05-16T20:03:51.391Z"
+}

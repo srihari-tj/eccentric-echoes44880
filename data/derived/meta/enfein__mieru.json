@@ -1,0 +1,33 @@
+{
+  "owner": "enfein",
+  "repo": "enfein/mieru",
+  "name": "mieru",
+  "full_name": "enfein/mieru",
+  "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
+  "homepage": "https://github.com/enfein/mieru",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "topics": [
+    "anti-censorship",
+    "clash",
+    "gfw",
+    "network",
+    "proxy",
+    "socks5",
+    "tunnel"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-09-25T04:54:02Z",
+  "pushed_at": "2026-05-11T17:07:04Z",
+  "size": 3169,
+  "stars_now": 1981,
+  "forks": 196,
+  "open_issues": 11,
+  "subscribers": 20,
+  "watchers": 1981,
+  "html_url": "https://github.com/enfein/mieru",
+  "api_url": "https://api.github.com/repos/enfein/mieru",
+  "fetched_at": "2026-05-16T20:03:50.578Z"
+}

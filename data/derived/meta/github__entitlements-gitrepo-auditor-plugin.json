@@ -1,0 +1,30 @@
+{
+  "owner": "github",
+  "repo": "github/entitlements-gitrepo-auditor-plugin",
+  "name": "entitlements-gitrepo-auditor-plugin",
+  "full_name": "github/entitlements-gitrepo-auditor-plugin",
+  "description": "Entitlements plugin for a robust audit log",
+  "homepage": "https://github.com/github/entitlements-gitrepo-auditor-plugin",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "audit",
+    "entitlements",
+    "iam",
+    "security"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-06-07T16:08:58Z",
+  "pushed_at": "2026-04-24T15:49:30Z",
+  "size": 53680,
+  "stars_now": 24,
+  "forks": 4,
+  "open_issues": 6,
+  "subscribers": 35,
+  "watchers": 24,
+  "html_url": "https://github.com/github/entitlements-gitrepo-auditor-plugin",
+  "api_url": "https://api.github.com/repos/github/entitlements-gitrepo-auditor-plugin",
+  "fetched_at": "2026-05-16T20:03:51.790Z"
+}
