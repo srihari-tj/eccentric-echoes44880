@@ -56,10 +56,6 @@
     "repo": "free-claude-code"
   },
   {
-    "owner": "Anankke",
-    "repo": "SSPanel-UIM"
-  },
-  {
     "owner": "Anil-matcha",
     "repo": "Open-Generative-AI"
   },
@@ -140,10 +136,6 @@
     "repo": "hekate"
   },
   {
-    "owner": "Canner",
-    "repo": "WrenAI"
-  },
-  {
     "owner": "CeuiLiSA",
     "repo": "Pixiv-Shaft"
   },
@@ -170,10 +162,6 @@
   {
     "owner": "CodeWithHarry",
     "repo": "Sigma-Web-Dev-Course"
-  },
-  {
-    "owner": "CodebuffAI",
-    "repo": "codebuff"
   },
   {
     "owner": "ComposioHQ",
@@ -392,6 +380,10 @@
     "repo": "ImageMagick"
   },
   {
+    "owner": "Imbad0202",
+    "repo": "academic-research-skills"
+  },
+  {
     "owner": "InsForge",
     "repo": "InsForge"
   },
@@ -414,6 +406,10 @@
   {
     "owner": "JunkFood02",
     "repo": "Seal"
+  },
+  {
+    "owner": "K-Dense-AI",
+    "repo": "scientific-agent-skills"
   },
   {
     "owner": "KernelSU-Next",
@@ -540,10 +536,6 @@
     "repo": "personaplex"
   },
   {
-    "owner": "Nain57",
-    "repo": "Smart-AutoClicker"
-  },
-  {
     "owner": "NationalSecurityAgency",
     "repo": "ghidra"
   },
@@ -573,10 +565,6 @@
   },
   {
     "owner": "OpenBMB",
-    "repo": "MiniCPM-V"
-  },
-  {
-    "owner": "OpenBMB",
     "repo": "VoxCPM"
   },
   {
@@ -602,10 +590,6 @@
   {
     "owner": "PHPOffice",
     "repo": "PhpSpreadsheet"
-  },
-  {
-    "owner": "PX4",
-    "repo": "PX4-Autopilot"
   },
   {
     "owner": "PaddlePaddle",
@@ -732,6 +716,10 @@
     "repo": "tabby"
   },
   {
+    "owner": "TanStack",
+    "repo": "router"
+  },
+  {
     "owner": "TauricResearch",
     "repo": "TradingAgents"
   },
@@ -776,6 +764,10 @@
     "repo": "opensre"
   },
   {
+    "owner": "TryGhost",
+    "repo": "Ghost"
+  },
+  {
     "owner": "UE4SS-RE",
     "repo": "RE-UE4SS"
   },
@@ -810,6 +802,10 @@
   {
     "owner": "WerWolv",
     "repo": "ImHex"
+  },
+  {
+    "owner": "WhiskeySockets",
+    "repo": "Baileys"
   },
   {
     "owner": "WinNative-Emu",
@@ -933,10 +929,6 @@
   },
   {
     "owner": "alibaba",
-    "repo": "arthas"
-  },
-  {
-    "owner": "alibaba",
     "repo": "nacos"
   },
   {
@@ -954,6 +946,10 @@
   {
     "owner": "amnezia-vpn",
     "repo": "amnezia-client"
+  },
+  {
+    "owner": "amruthpillai",
+    "repo": "reactive-resume"
   },
   {
     "owner": "anchore",
@@ -986,10 +982,6 @@
   {
     "owner": "antiwork",
     "repo": "gumroad"
-  },
-  {
-    "owner": "apache",
-    "repo": "camel"
   },
   {
     "owner": "apache",
@@ -1080,16 +1072,8 @@
     "repo": "DS5Dongle"
   },
   {
-    "owner": "aws",
-    "repo": "aws-sdk-ruby"
-  },
-  {
     "owner": "axios",
     "repo": "axios"
-  },
-  {
-    "owner": "azerothcore",
-    "repo": "azerothcore-wotlk"
   },
   {
     "owner": "badlogic",
@@ -1256,6 +1240,10 @@
     "repo": "Handy"
   },
   {
+    "owner": "clacky-ai",
+    "repo": "openclacky"
+  },
+  {
     "owner": "cli",
     "repo": "cli"
   },
@@ -1360,10 +1348,6 @@
     "repo": "SecLists"
   },
   {
-    "owner": "dapr",
-    "repo": "dapr"
-  },
-  {
     "owner": "datawhalechina",
     "repo": "easy-vibe"
   },
@@ -1400,6 +1384,10 @@
     "repo": "dependabot-core"
   },
   {
+    "owner": "deskflow",
+    "repo": "deskflow"
+  },
+  {
     "owner": "diegosouzapw",
     "repo": "OmniRoute"
   },
@@ -1422,6 +1410,10 @@
   {
     "owner": "docusealco",
     "repo": "docuseal"
+  },
+  {
+    "owner": "domcyrus",
+    "repo": "rustnet"
   },
   {
     "owner": "donnemartin",
@@ -1470,10 +1462,6 @@
   {
     "owner": "endoflife-date",
     "repo": "endoflife.date"
-  },
-  {
-    "owner": "enfein",
-    "repo": "mieru"
   },
   {
     "owner": "entireio",
@@ -1592,6 +1580,10 @@
     "repo": "ace-step-ui"
   },
   {
+    "owner": "garrytan",
+    "repo": "gstack"
+  },
+  {
     "owner": "gastownhall",
     "repo": "beads"
   },
@@ -1634,10 +1626,6 @@
   {
     "owner": "github",
     "repo": "choosealicense.com"
-  },
-  {
-    "owner": "github",
-    "repo": "entitlements-github-plugin"
   },
   {
     "owner": "github",
@@ -1832,10 +1820,6 @@
     "repo": "beszel"
   },
   {
-    "owner": "heshengtao",
-    "repo": "super-agent-party"
-  },
-  {
     "owner": "hmjz100",
     "repo": "LinkSwift"
   },
@@ -1866,6 +1850,10 @@
   {
     "owner": "iBotPeaches",
     "repo": "Apktool"
+  },
+  {
+    "owner": "iOfficeAI",
+    "repo": "AionUi"
   },
   {
     "owner": "iamgio",
@@ -1936,10 +1924,6 @@
     "repo": "OpenCLI"
   },
   {
-    "owner": "jaegertracing",
-    "repo": "jaeger"
-  },
-  {
     "owner": "jamiepine",
     "repo": "voicebox"
   },
@@ -1984,6 +1968,10 @@
     "repo": "camofox-browser"
   },
   {
+    "owner": "joeseesun",
+    "repo": "qiaomu-anything-to-notebooklm"
+  },
+  {
     "owner": "jqlang",
     "repo": "jq"
   },
@@ -1996,20 +1984,12 @@
     "repo": "anime"
   },
   {
-    "owner": "jundot",
-    "repo": "omlx"
-  },
-  {
     "owner": "junhoyeo",
     "repo": "tokscale"
   },
   {
     "owner": "justcallmekoko",
     "repo": "ESP32Marauder"
-  },
-  {
-    "owner": "justlovemaki",
-    "repo": "AIClient2API"
   },
   {
     "owner": "jwadow",
@@ -2074,6 +2054,10 @@
   {
     "owner": "kododake",
     "repo": "AABrowser"
+  },
+  {
+    "owner": "koel",
+    "repo": "koel"
   },
   {
     "owner": "koiverse",
@@ -2142,6 +2126,10 @@
   {
     "owner": "linshenkx",
     "repo": "prompt-optimizer"
+  },
+  {
+    "owner": "liyupi",
+    "repo": "ai-guide"
   },
   {
     "owner": "lodash",
@@ -2236,14 +2224,6 @@
     "repo": "koharu"
   },
   {
-    "owner": "mayswind",
-    "repo": "ezbookkeeping"
-  },
-  {
-    "owner": "maziggy",
-    "repo": "bambuddy"
-  },
-  {
     "owner": "memvid",
     "repo": "memvid"
   },
@@ -2312,6 +2292,10 @@
     "repo": "vscode"
   },
   {
+    "owner": "microsoft",
+    "repo": "waza"
+  },
+  {
     "owner": "mihonapp",
     "repo": "mihon"
   },
@@ -2342,6 +2326,10 @@
   {
     "owner": "moby",
     "repo": "moby"
+  },
+  {
+    "owner": "modem-dev",
+    "repo": "hunk"
   },
   {
     "owner": "monero-project",
@@ -2432,10 +2420,6 @@
     "repo": "developer-roadmap"
   },
   {
-    "owner": "nimbalyst",
-    "repo": "nimbalyst"
-  },
-  {
     "owner": "njbrake",
     "repo": "agent-of-empires"
   },
@@ -2472,6 +2456,10 @@
     "repo": "nvim-treesitter"
   },
   {
+    "owner": "obra",
+    "repo": "superpowers"
+  },
+  {
     "owner": "obsidianmd",
     "repo": "obsidian-clipper"
   },
@@ -2486,10 +2474,6 @@
   {
     "owner": "ollama",
     "repo": "ollama"
-  },
-  {
-    "owner": "onetimesecret",
-    "repo": "onetimesecret"
   },
   {
     "owner": "onlook-dev",
@@ -2521,10 +2505,6 @@
   },
   {
     "owner": "openai",
-    "repo": "plugins"
-  },
-  {
-    "owner": "openai",
     "repo": "skills"
   },
   {
@@ -2534,6 +2514,10 @@
   {
     "owner": "opencart",
     "repo": "opencart"
+  },
+  {
+    "owner": "opencv",
+    "repo": "opencv"
   },
   {
     "owner": "opendataloader-project",
@@ -2550,10 +2534,6 @@
   {
     "owner": "openmediavault",
     "repo": "openmediavault"
-  },
-  {
-    "owner": "opensearch-project",
-    "repo": "OpenSearch"
   },
   {
     "owner": "opensourcepos",
@@ -2668,6 +2648,10 @@
     "repo": "polars"
   },
   {
+    "owner": "poloclub",
+    "repo": "transformer-explainer"
+  },
+  {
     "owner": "polymorphicshade",
     "repo": "Tubular"
   },
@@ -2732,6 +2716,10 @@
     "repo": "qdrant"
   },
   {
+    "owner": "quarkusio",
+    "repo": "quarkus"
+  },
+  {
     "owner": "qufei1993",
     "repo": "skills-hub"
   },
@@ -2786,10 +2774,6 @@
   {
     "owner": "refactoringhq",
     "repo": "tolaria"
-  },
-  {
-    "owner": "remoteintech",
-    "repo": "remote-jobs"
   },
   {
     "owner": "rikkahub",
@@ -2888,10 +2872,6 @@
     "repo": "ruflo"
   },
   {
-    "owner": "safing",
-    "repo": "portmaster"
-  },
-  {
     "owner": "sansan0",
     "repo": "TrendRadar"
   },
@@ -2938,6 +2918,10 @@
   {
     "owner": "shiyu-coder",
     "repo": "Kronos"
+  },
+  {
+    "owner": "shopware",
+    "repo": "shopware"
   },
   {
     "owner": "siddharthvaddem",
@@ -3056,6 +3040,10 @@
     "repo": "td"
   },
   {
+    "owner": "tech-leads-club",
+    "repo": "agent-skills"
+  },
+  {
     "owner": "telegramdesktop",
     "repo": "tdesktop"
   },
@@ -3130,6 +3118,10 @@
   {
     "owner": "tonhowtf",
     "repo": "omniget"
+  },
+  {
+    "owner": "tonikelope",
+    "repo": "megabasterd"
   },
   {
     "owner": "topjohnwu",
@@ -3330,10 +3322,6 @@
   {
     "owner": "zammad",
     "repo": "zammad"
-  },
-  {
-    "owner": "zanfranceschi",
-    "repo": "rinha-de-backend-2026"
   },
   {
     "owner": "zarazhangrui",

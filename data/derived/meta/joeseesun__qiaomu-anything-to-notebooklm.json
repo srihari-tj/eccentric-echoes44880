@@ -1,0 +1,31 @@
+{
+  "owner": "joeseesun",
+  "repo": "joeseesun/qiaomu-anything-to-notebooklm",
+  "name": "qiaomu-anything-to-notebooklm",
+  "full_name": "joeseesun/qiaomu-anything-to-notebooklm",
+  "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+  "homepage": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "automation",
+    "claude",
+    "mcp",
+    "notebooklm",
+    "skill"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-01-25T14:48:01Z",
+  "pushed_at": "2026-04-28T01:38:28Z",
+  "size": 191,
+  "stars_now": 3664,
+  "forks": 371,
+  "open_issues": 5,
+  "subscribers": 9,
+  "watchers": 3664,
+  "html_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+  "api_url": "https://api.github.com/repos/joeseesun/qiaomu-anything-to-notebooklm",
+  "fetched_at": "2026-05-17T20:09:31.421Z"
+}

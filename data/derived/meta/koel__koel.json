@@ -1,0 +1,33 @@
+{
+  "owner": "koel",
+  "repo": "koel/koel",
+  "name": "koel",
+  "full_name": "koel/koel",
+  "description": "Music streaming solution that works.",
+  "homepage": "https://koel.dev",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "audio",
+    "hacktoberfest",
+    "laravel",
+    "music",
+    "music-player",
+    "streaming",
+    "vue"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2015-12-06T12:13:19Z",
+  "pushed_at": "2026-05-17T19:26:55Z",
+  "size": 26795,
+  "stars_now": 17140,
+  "forks": 2100,
+  "open_issues": 11,
+  "subscribers": 309,
+  "watchers": 17140,
+  "html_url": "https://github.com/koel/koel",
+  "api_url": "https://api.github.com/repos/koel/koel",
+  "fetched_at": "2026-05-17T20:09:31.851Z"
+}

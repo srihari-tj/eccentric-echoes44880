@@ -1,0 +1,32 @@
+{
+  "owner": "poloclub",
+  "repo": "poloclub/transformer-explainer",
+  "name": "transformer-explainer",
+  "full_name": "poloclub/transformer-explainer",
+  "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
+  "homepage": "https://poloclub.github.io/transformer-explainer/",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "deep-learning",
+    "generative-ai",
+    "gpt",
+    "langauge-model",
+    "llm",
+    "visualization"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-05-16T21:42:10Z",
+  "pushed_at": "2026-05-14T23:54:09Z",
+  "size": 2115457,
+  "stars_now": 7493,
+  "forks": 810,
+  "open_issues": 17,
+  "subscribers": 65,
+  "watchers": 7493,
+  "html_url": "https://github.com/poloclub/transformer-explainer",
+  "api_url": "https://api.github.com/repos/poloclub/transformer-explainer",
+  "fetched_at": "2026-05-17T20:09:33.138Z"
+}
