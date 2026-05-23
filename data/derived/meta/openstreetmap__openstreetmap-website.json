@@ -1,0 +1,29 @@
+{
+  "owner": "openstreetmap",
+  "repo": "openstreetmap/openstreetmap-website",
+  "name": "openstreetmap-website",
+  "full_name": "openstreetmap/openstreetmap-website",
+  "description": "The Rails application that powers OpenStreetMap",
+  "homepage": "https://www.openstreetmap.org/",
+  "language": "Ruby",
+  "license": "GPL-2.0",
+  "topics": [
+    "openstreetmap",
+    "rails-application",
+    "ruby"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2010-05-01T16:22:12Z",
+  "pushed_at": "2026-05-22T18:14:07Z",
+  "size": 500272,
+  "stars_now": 2734,
+  "forks": 1057,
+  "open_issues": 643,
+  "subscribers": 101,
+  "watchers": 2734,
+  "html_url": "https://github.com/openstreetmap/openstreetmap-website",
+  "api_url": "https://api.github.com/repos/openstreetmap/openstreetmap-website",
+  "fetched_at": "2026-05-23T09:33:18.805Z"
+}

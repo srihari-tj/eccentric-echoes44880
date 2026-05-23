@@ -1,0 +1,29 @@
+{
+  "owner": "BenedictKing",
+  "repo": "BenedictKing/ccx",
+  "name": "ccx",
+  "full_name": "BenedictKing/ccx",
+  "description": "Claude / Codex / Gemini API Proxy - CCX",
+  "homepage": "https://benedictking.github.io/ccx/",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "claude",
+    "codex",
+    "gemini"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-01-31T04:27:57Z",
+  "pushed_at": "2026-05-23T09:12:43Z",
+  "size": 7122,
+  "stars_now": 1491,
+  "forks": 123,
+  "open_issues": 16,
+  "subscribers": 8,
+  "watchers": 1491,
+  "html_url": "https://github.com/BenedictKing/ccx",
+  "api_url": "https://api.github.com/repos/BenedictKing/ccx",
+  "fetched_at": "2026-05-23T09:33:07.771Z"
+}

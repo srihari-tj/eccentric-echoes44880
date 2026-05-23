@@ -1,0 +1,33 @@
+{
+  "owner": "nageoffer",
+  "repo": "nageoffer/ragent",
+  "name": "ragent",
+  "full_name": "nageoffer/ragent",
+  "description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+  "homepage": "https://nageoffer.com/ragent",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "agent",
+    "agentic-rag",
+    "ai",
+    "llm",
+    "mcp",
+    "rag",
+    "springai"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-11-20T07:22:53Z",
+  "pushed_at": "2026-05-21T15:07:53Z",
+  "size": 14073,
+  "stars_now": 2295,
+  "forks": 459,
+  "open_issues": 20,
+  "subscribers": 5,
+  "watchers": 2295,
+  "html_url": "https://github.com/nageoffer/ragent",
+  "api_url": "https://api.github.com/repos/nageoffer/ragent",
+  "fetched_at": "2026-05-23T09:33:17.949Z"
+}

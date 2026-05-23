@@ -1,0 +1,33 @@
+{
+  "owner": "envoyproxy",
+  "repo": "envoyproxy/ai-gateway",
+  "name": "ai-gateway",
+  "full_name": "envoyproxy/ai-gateway",
+  "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+  "homepage": "https://aigateway.envoyproxy.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai",
+    "ai-gateway",
+    "api-gateway",
+    "cncf",
+    "inference",
+    "kubernetes",
+    "llm"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-10-21T02:59:59Z",
+  "pushed_at": "2026-05-21T23:07:38Z",
+  "size": 25269,
+  "stars_now": 1676,
+  "forks": 255,
+  "open_issues": 146,
+  "subscribers": 24,
+  "watchers": 1676,
+  "html_url": "https://github.com/envoyproxy/ai-gateway",
+  "api_url": "https://api.github.com/repos/envoyproxy/ai-gateway",
+  "fetched_at": "2026-05-23T09:33:15.620Z"
+}

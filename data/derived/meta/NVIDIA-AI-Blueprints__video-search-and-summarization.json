@@ -1,0 +1,33 @@
+{
+  "owner": "NVIDIA-AI-Blueprints",
+  "repo": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+  "name": "video-search-and-summarization",
+  "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+  "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+  "homepage": "https://build.nvidia.com/nvidia/video-search-and-summarization",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "agents",
+    "llm",
+    "rag",
+    "skills",
+    "video-analytics",
+    "video-search",
+    "vlm"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-10-22T06:43:05Z",
+  "pushed_at": "2026-05-23T09:29:00Z",
+  "size": 55417,
+  "stars_now": 1424,
+  "forks": 301,
+  "open_issues": 67,
+  "subscribers": 18,
+  "watchers": 1424,
+  "html_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+  "api_url": "https://api.github.com/repos/NVIDIA-AI-Blueprints/video-search-and-summarization",
+  "fetched_at": "2026-05-23T09:33:09.486Z"
+}
