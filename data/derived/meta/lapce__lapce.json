@@ -1,0 +1,31 @@
+{
+  "owner": "lapce",
+  "repo": "lapce/lapce",
+  "name": "lapce",
+  "full_name": "lapce/lapce",
+  "description": "Lightning-fast and Powerful Code Editor written in Rust",
+  "homepage": "https://lap.dev/lapce/",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "code-editor",
+    "developer-tools",
+    "rust",
+    "text-editor",
+    "vim"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2018-02-06T08:41:06Z",
+  "pushed_at": "2026-05-23T01:04:31Z",
+  "size": 28748,
+  "stars_now": 38467,
+  "forks": 1279,
+  "open_issues": 882,
+  "subscribers": 191,
+  "watchers": 38467,
+  "html_url": "https://github.com/lapce/lapce",
+  "api_url": "https://api.github.com/repos/lapce/lapce",
+  "fetched_at": "2026-05-23T20:28:35.584Z"
+}

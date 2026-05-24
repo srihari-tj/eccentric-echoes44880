@@ -1,0 +1,30 @@
+{
+  "owner": "nektos",
+  "repo": "nektos/act",
+  "name": "act",
+  "full_name": "nektos/act",
+  "description": "Run your GitHub Actions locally 🚀",
+  "homepage": "https://nektosact.com",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ci",
+    "devops",
+    "github-actions",
+    "golang"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-01-02T19:53:43Z",
+  "pushed_at": "2026-05-19T15:55:14Z",
+  "size": 17756,
+  "stars_now": 70463,
+  "forks": 1934,
+  "open_issues": 332,
+  "subscribers": 193,
+  "watchers": 70463,
+  "html_url": "https://github.com/nektos/act",
+  "api_url": "https://api.github.com/repos/nektos/act",
+  "fetched_at": "2026-05-23T20:28:37.320Z"
+}

@@ -1,0 +1,30 @@
+{
+  "owner": "wechat-article",
+  "repo": "wechat-article/wechat-article-exporter",
+  "name": "wechat-article-exporter",
+  "full_name": "wechat-article/wechat-article-exporter",
+  "description": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。",
+  "homepage": "https://down.mptext.top",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "download",
+    "wechat",
+    "wechat-article",
+    "wechat-download"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2024-07-17T14:41:12Z",
+  "pushed_at": "2026-05-22T13:44:23Z",
+  "size": 33627,
+  "stars_now": 10724,
+  "forks": 1871,
+  "open_issues": 40,
+  "subscribers": 43,
+  "watchers": 10724,
+  "html_url": "https://github.com/wechat-article/wechat-article-exporter",
+  "api_url": "https://api.github.com/repos/wechat-article/wechat-article-exporter",
+  "fetched_at": "2026-05-23T20:28:37.916Z"
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "microsoft",
+  "repo": "microsoft/msphpsql",
+  "name": "msphpsql",
+  "full_name": "microsoft/msphpsql",
+  "description": "Microsoft Drivers for PHP for SQL Server",
+  "homepage": "https://github.com/microsoft/msphpsql",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "microsoft",
+    "microsoft-driver",
+    "php-driver",
+    "php-extension",
+    "sql-server"
+  ],
+  "default_branch": "dev",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-04-22T19:54:12Z",
+  "pushed_at": "2026-05-15T18:06:31Z",
+  "size": 90322,
+  "stars_now": 1875,
+  "forks": 383,
+  "open_issues": 19,
+  "subscribers": 144,
+  "watchers": 1875,
+  "html_url": "https://github.com/microsoft/msphpsql",
+  "api_url": "https://api.github.com/repos/microsoft/msphpsql",
+  "fetched_at": "2026-05-23T20:28:36.870Z"
+}

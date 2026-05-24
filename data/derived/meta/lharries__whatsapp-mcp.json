@@ -1,0 +1,30 @@
+{
+  "owner": "lharries",
+  "repo": "lharries/whatsapp-mcp",
+  "name": "whatsapp-mcp",
+  "full_name": "lharries/whatsapp-mcp",
+  "description": "WhatsApp MCP server",
+  "homepage": "https://x.com/LukeHarries_/status/1905986562388635913",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "mcp",
+    "whatsapp",
+    "whatsapp-api"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-03-29T12:49:33Z",
+  "pushed_at": "2025-07-13T17:22:00Z",
+  "size": 2989,
+  "stars_now": 5682,
+  "forks": 1062,
+  "open_issues": 179,
+  "subscribers": 50,
+  "watchers": 5682,
+  "html_url": "https://github.com/lharries/whatsapp-mcp",
+  "api_url": "https://api.github.com/repos/lharries/whatsapp-mcp",
+  "fetched_at": "2026-05-23T20:28:35.981Z"
+}

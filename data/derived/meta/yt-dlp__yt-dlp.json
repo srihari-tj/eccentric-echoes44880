@@ -1,0 +1,33 @@
+{
+  "owner": "yt-dlp",
+  "repo": "yt-dlp/yt-dlp",
+  "name": "yt-dlp",
+  "full_name": "yt-dlp/yt-dlp",
+  "description": "A feature-rich command-line audio/video downloader",
+  "homepage": "https://discord.gg/H5MNcFW63r",
+  "language": "Python",
+  "license": "Unlicense",
+  "topics": [
+    "cli",
+    "downloader",
+    "python",
+    "sponsorblock",
+    "youtube-dl",
+    "youtube-downloader",
+    "yt-dlp"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-10-26T04:22:55Z",
+  "pushed_at": "2026-05-22T17:23:04Z",
+  "size": 60607,
+  "stars_now": 164887,
+  "forks": 13855,
+  "open_issues": 2520,
+  "subscribers": 796,
+  "watchers": 164887,
+  "html_url": "https://github.com/yt-dlp/yt-dlp",
+  "api_url": "https://api.github.com/repos/yt-dlp/yt-dlp",
+  "fetched_at": "2026-05-23T20:28:38.354Z"
+}

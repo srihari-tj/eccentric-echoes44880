@@ -1,0 +1,33 @@
+{
+  "owner": "NatLabRockies",
+  "repo": "NatLabRockies/api-umbrella",
+  "name": "api-umbrella",
+  "full_name": "NatLabRockies/api-umbrella",
+  "description": "Open source API management platform",
+  "homepage": "https://github.com/NatLabRockies/api-umbrella",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "api-gateway",
+    "api-management",
+    "api-manager",
+    "lua",
+    "luajit",
+    "nginx",
+    "openresty"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-08-30T21:34:06Z",
+  "pushed_at": "2026-05-04T14:32:53Z",
+  "size": 32179,
+  "stars_now": 2162,
+  "forks": 366,
+  "open_issues": 255,
+  "subscribers": 101,
+  "watchers": 2162,
+  "html_url": "https://github.com/NatLabRockies/api-umbrella",
+  "api_url": "https://api.github.com/repos/NatLabRockies/api-umbrella",
+  "fetched_at": "2026-05-23T20:28:32.016Z"
+}
