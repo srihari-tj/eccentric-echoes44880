@@ -1,6 +1,6 @@
 {
   "week": "2026-W21",
-  "captured_at": "2026-05-23T19:40:39.065Z",
+  "captured_at": "2026-05-24T08:43:58.845Z",
   "overall": [
     {
       "owner": "colbymchenry",
@@ -116,6 +116,10 @@
       {
         "owner": "SynkraAI",
         "repo": "aiox-core"
+      },
+      {
+        "owner": "ilysenko",
+        "repo": "codex-desktop-linux"
       },
       {
         "owner": "jellyfin",
@@ -340,6 +344,10 @@
       {
         "owner": "ast-grep",
         "repo": "ast-grep"
+      },
+      {
+        "owner": "yvgude",
+        "repo": "lean-ctx"
       },
       {
         "owner": "tracel-ai",
@@ -792,6 +800,10 @@
       {
         "owner": "iamgio",
         "repo": "quarkdown"
+      },
+      {
+        "owner": "gkd-kit",
+        "repo": "gkd"
       },
       {
         "owner": "EchoMusicApp",
