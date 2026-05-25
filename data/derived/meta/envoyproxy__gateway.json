@@ -1,0 +1,33 @@
+{
+  "owner": "envoyproxy",
+  "repo": "envoyproxy/gateway",
+  "name": "gateway",
+  "full_name": "envoyproxy/gateway",
+  "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+  "homepage": "https://gateway.envoyproxy.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "api-gateway",
+    "cncf",
+    "envoy",
+    "gateway-api",
+    "go-control-plane",
+    "hacktoberfest",
+    "kubernetes"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-04-11T22:34:38Z",
+  "pushed_at": "2026-05-23T08:17:02Z",
+  "size": 82923,
+  "stars_now": 2734,
+  "forks": 759,
+  "open_issues": 709,
+  "subscribers": 49,
+  "watchers": 2734,
+  "html_url": "https://github.com/envoyproxy/gateway",
+  "api_url": "https://api.github.com/repos/envoyproxy/gateway",
+  "fetched_at": "2026-05-24T20:15:44.201Z"
+}
