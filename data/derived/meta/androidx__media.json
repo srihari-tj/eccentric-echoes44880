@@ -1,0 +1,33 @@
+{
+  "owner": "androidx",
+  "repo": "androidx/media",
+  "name": "media",
+  "full_name": "androidx/media",
+  "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
+  "homepage": "https://developer.android.com/media/media3",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "android",
+    "exoplayer",
+    "java",
+    "media3",
+    "media3-exoplayer",
+    "media3-transformer",
+    "mediaplayer"
+  ],
+  "default_branch": "release",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-09-02T18:42:10Z",
+  "pushed_at": "2026-05-29T19:38:49Z",
+  "size": 791473,
+  "stars_now": 2831,
+  "forks": 818,
+  "open_issues": 886,
+  "subscribers": 60,
+  "watchers": 2831,
+  "html_url": "https://github.com/androidx/media",
+  "api_url": "https://api.github.com/repos/androidx/media",
+  "fetched_at": "2026-05-30T10:13:42.064Z"
+}

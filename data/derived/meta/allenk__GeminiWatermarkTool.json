@@ -1,0 +1,31 @@
+{
+  "owner": "allenk",
+  "repo": "allenk/GeminiWatermarkTool",
+  "name": "GeminiWatermarkTool",
+  "full_name": "allenk/GeminiWatermarkTool",
+  "description": "VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool",
+  "homepage": "https://allenkuo.medium.com/removing-gemini-ai-watermarks-a-deep-dive-into-reverse-alpha-blending-bbbd83af2a3f",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "cli-app",
+    "gemini",
+    "gui-application",
+    "veo3",
+    "watermark"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-12-12T21:42:15Z",
+  "pushed_at": "2026-05-28T09:16:36Z",
+  "size": 150585,
+  "stars_now": 2510,
+  "forks": 210,
+  "open_issues": 5,
+  "subscribers": 8,
+  "watchers": 2510,
+  "html_url": "https://github.com/allenk/GeminiWatermarkTool",
+  "api_url": "https://api.github.com/repos/allenk/GeminiWatermarkTool",
+  "fetched_at": "2026-05-30T10:13:41.288Z"
+}

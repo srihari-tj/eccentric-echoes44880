@@ -1,0 +1,31 @@
+{
+  "owner": "higress-group",
+  "repo": "higress-group/higress",
+  "name": "higress",
+  "full_name": "higress-group/higress",
+  "description": "🤖 AI Gateway | AI Native API Gateway",
+  "homepage": "https://higress.ai",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai-gateway",
+    "ai-native",
+    "api-gateway",
+    "cloud-native",
+    "envoy"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-10-27T03:53:00Z",
+  "pushed_at": "2026-05-29T02:45:10Z",
+  "size": 41706,
+  "stars_now": 8518,
+  "forks": 1133,
+  "open_issues": 778,
+  "subscribers": 64,
+  "watchers": 8518,
+  "html_url": "https://github.com/higress-group/higress",
+  "api_url": "https://api.github.com/repos/higress-group/higress",
+  "fetched_at": "2026-05-30T10:13:45.356Z"
+}

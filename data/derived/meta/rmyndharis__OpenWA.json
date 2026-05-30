@@ -1,0 +1,29 @@
+{
+  "owner": "rmyndharis",
+  "repo": "rmyndharis/OpenWA",
+  "name": "OpenWA",
+  "full_name": "rmyndharis/OpenWA",
+  "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+  "homepage": "https://www.open-wa.org",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "api",
+    "gateway",
+    "whatsapp"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-02-02T12:14:45Z",
+  "pushed_at": "2026-05-25T13:59:21Z",
+  "size": 1953,
+  "stars_now": 7009,
+  "forks": 1456,
+  "open_issues": 65,
+  "subscribers": 50,
+  "watchers": 7009,
+  "html_url": "https://github.com/rmyndharis/OpenWA",
+  "api_url": "https://api.github.com/repos/rmyndharis/OpenWA",
+  "fetched_at": "2026-05-30T10:13:51.517Z"
+}

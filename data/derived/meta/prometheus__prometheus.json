@@ -1,0 +1,33 @@
+{
+  "owner": "prometheus",
+  "repo": "prometheus/prometheus",
+  "name": "prometheus",
+  "full_name": "prometheus/prometheus",
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": "https://prometheus.io/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2012-11-24T11:14:12Z",
+  "pushed_at": "2026-05-29T15:11:12Z",
+  "size": 282139,
+  "stars_now": 64202,
+  "forks": 10455,
+  "open_issues": 805,
+  "subscribers": 1101,
+  "watchers": 64202,
+  "html_url": "https://github.com/prometheus/prometheus",
+  "api_url": "https://api.github.com/repos/prometheus/prometheus",
+  "fetched_at": "2026-05-30T10:13:51.170Z"
+}

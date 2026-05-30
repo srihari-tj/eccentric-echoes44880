@@ -1,0 +1,31 @@
+{
+  "owner": "grpc",
+  "repo": "grpc/grpc-rust",
+  "name": "grpc-rust",
+  "full_name": "grpc/grpc-rust",
+  "description": "A native gRPC client & server implementation with async/await support.",
+  "homepage": "https://docs.rs/tonic",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "async",
+    "grpc",
+    "proto",
+    "rpc",
+    "rust"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-08-09T17:59:37Z",
+  "pushed_at": "2026-05-29T22:50:03Z",
+  "size": 83725,
+  "stars_now": 12201,
+  "forks": 1216,
+  "open_issues": 361,
+  "subscribers": 75,
+  "watchers": 12201,
+  "html_url": "https://github.com/grpc/grpc-rust",
+  "api_url": "https://api.github.com/repos/grpc/grpc-rust",
+  "fetched_at": "2026-05-30T10:13:43.943Z"
+}
