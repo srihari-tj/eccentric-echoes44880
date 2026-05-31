@@ -1,0 +1,30 @@
+{
+  "owner": "revfactory",
+  "repo": "revfactory/harness",
+  "name": "harness",
+  "full_name": "revfactory/harness",
+  "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+  "homepage": "https://revfactory.github.io/harness/",
+  "language": "HTML",
+  "license": "Apache-2.0",
+  "topics": [
+    "claude-code",
+    "claude-code-plugin",
+    "harness",
+    "harness-engineering"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-03-26T21:22:07Z",
+  "pushed_at": "2026-05-29T17:04:20Z",
+  "size": 9335,
+  "stars_now": 4202,
+  "forks": 621,
+  "open_issues": 5,
+  "subscribers": 32,
+  "watchers": 4202,
+  "html_url": "https://github.com/revfactory/harness",
+  "api_url": "https://api.github.com/repos/revfactory/harness",
+  "fetched_at": "2026-05-30T20:14:06.639Z"
+}
