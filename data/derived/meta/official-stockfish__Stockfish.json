@@ -1,0 +1,31 @@
+{
+  "owner": "official-stockfish",
+  "repo": "official-stockfish/Stockfish",
+  "name": "Stockfish",
+  "full_name": "official-stockfish/Stockfish",
+  "description": "A free and strong UCI chess engine",
+  "homepage": "https://stockfishchess.org/",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+    "chess",
+    "chess-engine",
+    "cpp",
+    "stockfish",
+    "uci"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-06-18T19:59:53Z",
+  "pushed_at": "2026-05-29T17:53:30Z",
+  "size": 19820,
+  "stars_now": 15720,
+  "forks": 2909,
+  "open_issues": 32,
+  "subscribers": 254,
+  "watchers": 15720,
+  "html_url": "https://github.com/official-stockfish/Stockfish",
+  "api_url": "https://api.github.com/repos/official-stockfish/Stockfish",
+  "fetched_at": "2026-05-31T20:01:09.623Z"
+}

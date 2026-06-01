@@ -176,10 +176,6 @@
     "repo": "chrome-devtools-mcp"
   },
   {
-    "owner": "CleverRaven",
-    "repo": "Cataclysm-DDA"
-  },
-  {
     "owner": "ClickHouse",
     "repo": "ClickHouse"
   },
@@ -206,6 +202,10 @@
   {
     "owner": "Creators-of-Create",
     "repo": "Create"
+  },
+  {
+    "owner": "Crosstalk-Solutions",
+    "repo": "project-nomad"
   },
   {
     "owner": "CyberTimon",
@@ -468,10 +468,6 @@
     "repo": "InsForge"
   },
   {
-    "owner": "JannisX11",
-    "repo": "blockbench"
-  },
-  {
     "owner": "JetBrains",
     "repo": "intellij-community"
   },
@@ -650,6 +646,10 @@
   {
     "owner": "NoFxAiOS",
     "repo": "nofx"
+  },
+  {
+    "owner": "NotHarshhaa",
+    "repo": "DevOps-Projects"
   },
   {
     "owner": "NousResearch",
@@ -860,6 +860,10 @@
     "repo": "NewPipe"
   },
   {
+    "owner": "TeamNewPipe",
+    "repo": "NewPipeExtractor"
+  },
+  {
     "owner": "TecharoHQ",
     "repo": "anubis"
   },
@@ -890,10 +894,6 @@
   {
     "owner": "TheCraigHewitt",
     "repo": "seomachine"
-  },
-  {
-    "owner": "TheOdinProject",
-    "repo": "theodinproject"
   },
   {
     "owner": "Tracer-Cloud",
@@ -1093,10 +1093,6 @@
   },
   {
     "owner": "alibaba",
-    "repo": "MNN"
-  },
-  {
-    "owner": "alibaba",
     "repo": "nacos"
   },
   {
@@ -1140,16 +1136,16 @@
     "repo": "architecture-samples"
   },
   {
-    "owner": "android",
-    "repo": "compose-samples"
-  },
-  {
     "owner": "aniyomiorg",
     "repo": "aniyomi"
   },
   {
     "owner": "ankidroid",
     "repo": "Anki-Android"
+  },
+  {
+    "owner": "anthropics",
+    "repo": "claude-code"
   },
   {
     "owner": "anthropics",
@@ -1692,6 +1688,10 @@
     "repo": "system-design-primer"
   },
   {
+    "owner": "doocs",
+    "repo": "leetcode"
+  },
+  {
     "owner": "dora-rs",
     "repo": "dora"
   },
@@ -1806,10 +1806,6 @@
   {
     "owner": "facebook",
     "repo": "react"
-  },
-  {
-    "owner": "facebook",
-    "repo": "react-native"
   },
   {
     "owner": "faker-ruby",
@@ -2184,10 +2180,6 @@
     "repo": "beszel"
   },
   {
-    "owner": "higress-group",
-    "repo": "higress"
-  },
-  {
     "owner": "hmjz100",
     "repo": "LinkSwift"
   },
@@ -2264,6 +2256,10 @@
     "repo": "immich"
   },
   {
+    "owner": "immortalwrt",
+    "repo": "immortalwrt"
+  },
+  {
     "owner": "imputnet",
     "repo": "helium"
   },
@@ -2322,6 +2318,10 @@
   {
     "owner": "jekyll",
     "repo": "jekyll"
+  },
+  {
+    "owner": "jellyfin",
+    "repo": "jellyfin-android"
   },
   {
     "owner": "jellyfin",
@@ -2604,10 +2604,6 @@
     "repo": "github-chinese"
   },
   {
-    "owner": "mackron",
-    "repo": "miniaudio"
-  },
-  {
     "owner": "madler",
     "repo": "zlib"
   },
@@ -2672,10 +2668,6 @@
     "repo": "firmware"
   },
   {
-    "owner": "microg",
-    "repo": "GmsCore"
-  },
-  {
     "owner": "microsoft",
     "repo": "VibeVoice"
   },
@@ -2702,10 +2694,6 @@
   {
     "owner": "microsoft",
     "repo": "agent-lightning"
-  },
-  {
-    "owner": "microsoft",
-    "repo": "copilot-for-eclipse"
   },
   {
     "owner": "microsoft",
@@ -2782,6 +2770,10 @@
   {
     "owner": "modelcontextprotocol",
     "repo": "java-sdk"
+  },
+  {
+    "owner": "modelscope",
+    "repo": "FunASR"
   },
   {
     "owner": "modem-dev",
@@ -2928,10 +2920,6 @@
     "repo": "stb"
   },
   {
-    "owner": "notionnext-org",
-    "repo": "NotionNext"
-  },
-  {
     "owner": "npm",
     "repo": "cli"
   },
@@ -2962,6 +2950,10 @@
   {
     "owner": "ocornut",
     "repo": "imgui"
+  },
+  {
+    "owner": "official-stockfish",
+    "repo": "Stockfish"
   },
   {
     "owner": "ogulcancelik",
@@ -3460,10 +3452,6 @@
     "repo": "seaweedfs"
   },
   {
-    "owner": "sebastianbergmann",
-    "repo": "phpunit"
-  },
-  {
     "owner": "seerr-team",
     "repo": "seerr"
   },
@@ -3592,6 +3580,10 @@
     "repo": "Sub-Store"
   },
   {
+    "owner": "supermemoryai",
+    "repo": "supermemory"
+  },
+  {
     "owner": "superradcompany",
     "repo": "microsandbox"
   },
@@ -3650,6 +3642,10 @@
   {
     "owner": "telekom-security",
     "repo": "tpotce"
+  },
+  {
+    "owner": "temporalio",
+    "repo": "temporal"
   },
   {
     "owner": "tensorflow",
@@ -3766,10 +3762,6 @@
   {
     "owner": "uber",
     "repo": "h3"
-  },
-  {
-    "owner": "ubicloud",
-    "repo": "ubicloud"
   },
   {
     "owner": "ufrisk",
@@ -3968,8 +3960,8 @@
     "repo": "yt-dlp"
   },
   {
-    "owner": "yuaotian",
-    "repo": "antigravity-proxy"
+    "owner": "yuliskov",
+    "repo": "SmartTube"
   },
   {
     "owner": "yuzono",
@@ -3990,6 +3982,10 @@
   {
     "owner": "zammad",
     "repo": "zammad"
+  },
+  {
+    "owner": "zaproxy",
+    "repo": "zaproxy"
   },
   {
     "owner": "zarazhangrui",
@@ -4038,6 +4034,10 @@
   {
     "owner": "zilliztech",
     "repo": "claude-context"
+  },
+  {
+    "owner": "zizifn",
+    "repo": "edgetunnel"
   },
   {
     "owner": "zizmorcore",

@@ -1,0 +1,30 @@
+{
+  "owner": "jellyfin",
+  "repo": "jellyfin/jellyfin-android",
+  "name": "jellyfin-android",
+  "full_name": "jellyfin/jellyfin-android",
+  "description": "Android Client for Jellyfin",
+  "homepage": "https://jellyfin.org",
+  "language": "Kotlin",
+  "license": "GPL-2.0",
+  "topics": [
+    "android",
+    "java",
+    "jellyfin",
+    "kotlin"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-07-21T11:33:44Z",
+  "pushed_at": "2026-05-30T13:26:30Z",
+  "size": 8947,
+  "stars_now": 2530,
+  "forks": 457,
+  "open_issues": 215,
+  "subscribers": 20,
+  "watchers": 2530,
+  "html_url": "https://github.com/jellyfin/jellyfin-android",
+  "api_url": "https://api.github.com/repos/jellyfin/jellyfin-android",
+  "fetched_at": "2026-05-31T20:01:08.813Z"
+}
