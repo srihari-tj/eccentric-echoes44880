@@ -1,0 +1,30 @@
+{
+  "owner": "open-telemetry",
+  "repo": "open-telemetry/opentelemetry-go",
+  "name": "opentelemetry-go",
+  "full_name": "open-telemetry/opentelemetry-go",
+  "description": "OpenTelemetry Go API and SDK",
+  "homepage": "https://opentelemetry.io/docs/languages/go",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "logging",
+    "metrics",
+    "opentelemetry",
+    "tracing"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-05-16T19:05:26Z",
+  "pushed_at": "2026-06-05T16:38:12Z",
+  "size": 29934,
+  "stars_now": 6414,
+  "forks": 1379,
+  "open_issues": 207,
+  "subscribers": 67,
+  "watchers": 6414,
+  "html_url": "https://github.com/open-telemetry/opentelemetry-go",
+  "api_url": "https://api.github.com/repos/open-telemetry/opentelemetry-go",
+  "fetched_at": "2026-06-06T09:37:01.495Z"
+}

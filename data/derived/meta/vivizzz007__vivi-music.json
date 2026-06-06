@@ -1,0 +1,33 @@
+{
+  "owner": "vivizzz007",
+  "repo": "vivizzz007/vivi-music",
+  "name": "vivi-music",
+  "full_name": "vivizzz007/vivi-music",
+  "description": "Vivi-Music is an expressive Material 3–based YouTube Music client for Android.",
+  "homepage": "https://vivimusicapp.netlify.app/",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "android-app",
+    "download",
+    "material-3-expressive",
+    "music",
+    "music-client",
+    "ytmusic"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-04-22T14:45:45Z",
+  "pushed_at": "2026-06-06T06:11:25Z",
+  "size": 187535,
+  "stars_now": 1110,
+  "forks": 58,
+  "open_issues": 52,
+  "subscribers": 12,
+  "watchers": 1110,
+  "html_url": "https://github.com/vivizzz007/vivi-music",
+  "api_url": "https://api.github.com/repos/vivizzz007/vivi-music",
+  "fetched_at": "2026-06-06T09:37:03.192Z"
+}

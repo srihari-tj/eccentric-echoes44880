@@ -1,0 +1,32 @@
+{
+  "owner": "AlexsJones",
+  "repo": "AlexsJones/llmfit",
+  "name": "llmfit",
+  "full_name": "AlexsJones/llmfit",
+  "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+  "homepage": "https://github.com/AlexsJones/llmfit",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "gguf",
+    "llm",
+    "localai",
+    "mlx",
+    "skill",
+    "unsloth"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-02-15T16:11:31Z",
+  "pushed_at": "2026-06-05T20:19:27Z",
+  "size": 20798,
+  "stars_now": 27482,
+  "forks": 1678,
+  "open_issues": 72,
+  "subscribers": 80,
+  "watchers": 27482,
+  "html_url": "https://github.com/AlexsJones/llmfit",
+  "api_url": "https://api.github.com/repos/AlexsJones/llmfit",
+  "fetched_at": "2026-06-06T09:36:47.769Z"
+}

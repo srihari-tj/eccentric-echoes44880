@@ -1,0 +1,32 @@
+{
+  "owner": "kedacore",
+  "repo": "kedacore/keda",
+  "name": "keda",
+  "full_name": "kedacore/keda",
+  "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
+  "homepage": "https://keda.sh",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "autoscaling",
+    "event-driven",
+    "hacktoberfest",
+    "keda",
+    "kubernetes",
+    "serverless"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-02-13T00:12:33Z",
+  "pushed_at": "2026-06-04T08:22:34Z",
+  "size": 99270,
+  "stars_now": 10263,
+  "forks": 1429,
+  "open_issues": 259,
+  "subscribers": 87,
+  "watchers": 10263,
+  "html_url": "https://github.com/kedacore/keda",
+  "api_url": "https://api.github.com/repos/kedacore/keda",
+  "fetched_at": "2026-06-06T09:36:57.543Z"
+}

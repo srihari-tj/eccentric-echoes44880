@@ -1,0 +1,31 @@
+{
+  "owner": "dmtrKovalenko",
+  "repo": "dmtrKovalenko/fff",
+  "name": "fff",
+  "full_name": "dmtrKovalenko/fff",
+  "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+  "homepage": "https://fff.dmtrkovalenko.dev/",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "filesearch",
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "rust"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-07-31T22:01:49Z",
+  "pushed_at": "2026-06-06T07:02:29Z",
+  "size": 7022,
+  "stars_now": 7616,
+  "forks": 310,
+  "open_issues": 71,
+  "subscribers": 18,
+  "watchers": 7616,
+  "html_url": "https://github.com/dmtrKovalenko/fff",
+  "api_url": "https://api.github.com/repos/dmtrKovalenko/fff",
+  "fetched_at": "2026-06-06T09:36:54.935Z"
+}
