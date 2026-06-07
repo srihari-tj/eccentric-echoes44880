@@ -1,0 +1,31 @@
+{
+  "owner": "dreammis",
+  "repo": "dreammis/social-auto-upload",
+  "name": "social-auto-upload",
+  "full_name": "dreammis/social-auto-upload",
+  "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+  "homepage": "https://sap-doc.nasdaddy.com/",
+  "language": "Python",
+  "license": null,
+  "topics": [
+    "bilibili",
+    "douyin",
+    "tiktok",
+    "xiaohongshu",
+    "youtube"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-12-04T07:49:16Z",
+  "pushed_at": "2026-06-05T00:53:47Z",
+  "size": 23967,
+  "stars_now": 12339,
+  "forks": 2163,
+  "open_issues": 53,
+  "subscribers": 84,
+  "watchers": 12339,
+  "html_url": "https://github.com/dreammis/social-auto-upload",
+  "api_url": "https://api.github.com/repos/dreammis/social-auto-upload",
+  "fetched_at": "2026-06-06T20:25:13.184Z"
+}
