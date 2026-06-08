@@ -232,10 +232,6 @@
     "repo": "RapidRAW"
   },
   {
-    "owner": "D4Vinci",
-    "repo": "Scrapling"
-  },
-  {
     "owner": "DP-Hridayan",
     "repo": "aShellYou"
   },
@@ -262,10 +258,6 @@
   {
     "owner": "DataDog",
     "repo": "dd-trace-rb"
-  },
-  {
-    "owner": "DaveGamble",
-    "repo": "cJSON"
   },
   {
     "owner": "DavidHDev",
@@ -316,6 +308,10 @@
     "repo": "Echo-Music"
   },
   {
+    "owner": "Ed1s0nZ",
+    "repo": "CyberStrikeAI"
+  },
+  {
     "owner": "EricLBuehler",
     "repo": "mistral.rs"
   },
@@ -354,10 +350,6 @@
   {
     "owner": "FalkorDB",
     "repo": "FalkorDB"
-  },
-  {
-    "owner": "FareedKhan-dev",
-    "repo": "train-llm-from-scratch"
   },
   {
     "owner": "FastFlowLM",
@@ -552,6 +544,10 @@
     "repo": "LLPhant"
   },
   {
+    "owner": "LSPosed",
+    "repo": "LSPosed"
+  },
+  {
     "owner": "LadybirdBrowser",
     "repo": "ladybird"
   },
@@ -692,6 +688,10 @@
     "repo": "Nekogram"
   },
   {
+    "owner": "NginxProxyManager",
+    "repo": "nginx-proxy-manager"
+  },
+  {
     "owner": "NoFxAiOS",
     "repo": "nofx"
   },
@@ -736,10 +736,6 @@
     "repo": "MOSS-TTS"
   },
   {
-    "owner": "OpenRCT2",
-    "repo": "OpenRCT2"
-  },
-  {
     "owner": "OpenTenBase",
     "repo": "OpenTenBase"
   },
@@ -762,10 +758,6 @@
   {
     "owner": "OuterTune",
     "repo": "OuterTune"
-  },
-  {
-    "owner": "PHP-CS-Fixer",
-    "repo": "PHP-CS-Fixer"
   },
   {
     "owner": "PHPMailer",
@@ -878,10 +870,6 @@
   {
     "owner": "SamurAIGPT",
     "repo": "llm-wiki-agent"
-  },
-  {
-    "owner": "Seldaek",
-    "repo": "monolog"
   },
   {
     "owner": "SeleniumHQ",
@@ -1248,10 +1236,6 @@
     "repo": "Anki-Android"
   },
   {
-    "owner": "anthropic-experimental",
-    "repo": "sandbox-runtime"
-  },
-  {
     "owner": "anthropics",
     "repo": "claude-code"
   },
@@ -1290,10 +1274,6 @@
   {
     "owner": "apache",
     "repo": "cloudstack"
-  },
-  {
-    "owner": "apache",
-    "repo": "fineract"
   },
   {
     "owner": "apache",
@@ -1564,10 +1544,6 @@
     "repo": "android-sms-gateway"
   },
   {
-    "owner": "capstone-engine",
-    "repo": "capstone"
-  },
-  {
     "owner": "carla-simulator",
     "repo": "carla"
   },
@@ -1678,10 +1654,6 @@
   {
     "owner": "coollabsio",
     "repo": "coolify"
-  },
-  {
-    "owner": "coop-deluxe",
-    "repo": "sm64coopdx"
   },
   {
     "owner": "copy",
@@ -1860,10 +1832,6 @@
     "repo": "cloudflare_temp_email"
   },
   {
-    "owner": "dreammis",
-    "repo": "social-auto-upload"
-  },
-  {
     "owner": "duckdb",
     "repo": "duckdb"
   },
@@ -1992,10 +1960,6 @@
     "repo": "carbonyl"
   },
   {
-    "owner": "ffmpegwasm",
-    "repo": "ffmpeg.wasm"
-  },
-  {
     "owner": "filamentphp",
     "repo": "filament"
   },
@@ -2122,10 +2086,6 @@
   {
     "owner": "github",
     "repo": "copilot-sdk"
-  },
-  {
-    "owner": "github",
-    "repo": "docs"
   },
   {
     "owner": "github",
@@ -2284,10 +2244,6 @@
     "repo": "google-maps-scraper"
   },
   {
-    "owner": "grafana",
-    "repo": "loki"
-  },
-  {
     "owner": "greensock",
     "repo": "GSAP"
   },
@@ -2316,10 +2272,6 @@
     "repo": "Deep-Live-Cam"
   },
   {
-    "owner": "hakimel",
-    "repo": "reveal.js"
-  },
-  {
     "owner": "halo-dev",
     "repo": "halo"
   },
@@ -2338,10 +2290,6 @@
   {
     "owner": "harry0703",
     "repo": "MoneyPrinterTurbo"
-  },
-  {
-    "owner": "hashicorp",
-    "repo": "terraform"
   },
   {
     "owner": "hashicorp",
@@ -2744,16 +2692,16 @@
     "repo": "whatsapp-mcp"
   },
   {
+    "owner": "libgdx",
+    "repo": "libgdx"
+  },
+  {
     "owner": "libre-tube",
     "repo": "LibreTube"
   },
   {
     "owner": "libsdl-org",
     "repo": "SDL"
-  },
-  {
-    "owner": "libuv",
-    "repo": "libuv"
   },
   {
     "owner": "linshenkx",
@@ -2830,10 +2778,6 @@
   {
     "owner": "magento",
     "repo": "magento2"
-  },
-  {
-    "owner": "maillab",
-    "repo": "cloud-mail"
   },
   {
     "owner": "manaflow-ai",
@@ -3124,20 +3068,12 @@
     "repo": "server"
   },
   {
-    "owner": "nezhahq",
-    "repo": "nezha"
-  },
-  {
     "owner": "nginx",
     "repo": "nginx"
   },
   {
     "owner": "nicbarker",
     "repo": "clay"
-  },
-  {
-    "owner": "nicobailon",
-    "repo": "pi-subagents"
   },
   {
     "owner": "niedev",
@@ -3296,10 +3232,6 @@
     "repo": "openssl"
   },
   {
-    "owner": "opentofu",
-    "repo": "opentofu"
-  },
-  {
     "owner": "openvinotoolkit",
     "repo": "openvino"
   },
@@ -3328,10 +3260,6 @@
     "repo": "skills"
   },
   {
-    "owner": "osfans",
-    "repo": "trime"
-  },
-  {
     "owner": "ossrs",
     "repo": "srs"
   },
@@ -3346,6 +3274,10 @@
   {
     "owner": "oven-sh",
     "repo": "bun"
+  },
+  {
+    "owner": "oxc-project",
+    "repo": "oxc"
   },
   {
     "owner": "p-e-w",
@@ -3508,6 +3440,10 @@
     "repo": "smartdns"
   },
   {
+    "owner": "pytorch",
+    "repo": "pytorch"
+  },
+  {
     "owner": "qbittorrent",
     "repo": "qBittorrent"
   },
@@ -3570,6 +3506,10 @@
   {
     "owner": "recloudstream",
     "repo": "cloudstream"
+  },
+  {
+    "owner": "reconurge",
+    "repo": "flowsint"
   },
   {
     "owner": "redis",
@@ -3734,6 +3674,10 @@
   {
     "owner": "seaweedfs",
     "repo": "seaweedfs"
+  },
+  {
+    "owner": "sebastianbergmann",
+    "repo": "phpunit"
   },
   {
     "owner": "seerr-team",
@@ -4028,10 +3972,6 @@
     "repo": "traefik"
   },
   {
-    "owner": "transmission",
-    "repo": "transmission"
-  },
-  {
     "owner": "tree-sitter",
     "repo": "tree-sitter"
   },
@@ -4144,12 +4084,12 @@
     "repo": "dexter"
   },
   {
-    "owner": "vllm-project",
-    "repo": "semantic-router"
+    "owner": "vitejs",
+    "repo": "vite"
   },
   {
     "owner": "vllm-project",
-    "repo": "vllm-ascend"
+    "repo": "semantic-router"
   },
   {
     "owner": "volcengine",

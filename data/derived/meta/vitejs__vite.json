@@ -1,0 +1,31 @@
+{
+  "owner": "vitejs",
+  "repo": "vitejs/vite",
+  "name": "vite",
+  "full_name": "vitejs/vite",
+  "description": "Next generation frontend tooling. It's fast!",
+  "homepage": "http://vite.dev",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "build-tool",
+    "dev-server",
+    "frontend",
+    "hmr",
+    "vite"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-04-21T05:03:57Z",
+  "pushed_at": "2026-06-06T19:40:09Z",
+  "size": 70353,
+  "stars_now": 81297,
+  "forks": 8282,
+  "open_issues": 740,
+  "subscribers": 533,
+  "watchers": 81297,
+  "html_url": "https://github.com/vitejs/vite",
+  "api_url": "https://api.github.com/repos/vitejs/vite",
+  "fetched_at": "2026-06-07T20:11:12.520Z"
+}

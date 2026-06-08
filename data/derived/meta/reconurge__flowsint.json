@@ -1,0 +1,30 @@
+{
+  "owner": "reconurge",
+  "repo": "reconurge/flowsint",
+  "name": "flowsint",
+  "full_name": "reconurge/flowsint",
+  "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+  "homepage": "https://flowsint.io",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "investigation",
+    "osint",
+    "python",
+    "recon"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-01-31T15:10:41Z",
+  "pushed_at": "2026-06-05T13:48:20Z",
+  "size": 65290,
+  "stars_now": 5844,
+  "forks": 710,
+  "open_issues": 50,
+  "subscribers": 44,
+  "watchers": 5844,
+  "html_url": "https://github.com/reconurge/flowsint",
+  "api_url": "https://api.github.com/repos/reconurge/flowsint",
+  "fetched_at": "2026-06-07T20:11:12.134Z"
+}
