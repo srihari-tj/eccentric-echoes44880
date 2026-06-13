@@ -1,0 +1,33 @@
+{
+  "owner": "badges",
+  "repo": "badges/shields",
+  "name": "shields",
+  "full_name": "badges/shields",
+  "description": "Concise, consistent, and legible badges in SVG and raster format",
+  "homepage": "https://shields.io",
+  "language": "JavaScript",
+  "license": "CC0-1.0",
+  "topics": [
+    "badge",
+    "badge-maker",
+    "github",
+    "hacktoberfest",
+    "metadata",
+    "status",
+    "svg"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2013-01-30T07:41:54Z",
+  "pushed_at": "2026-06-12T13:11:47Z",
+  "size": 510621,
+  "stars_now": 26784,
+  "forks": 5615,
+  "open_issues": 329,
+  "subscribers": 116,
+  "watchers": 26784,
+  "html_url": "https://github.com/badges/shields",
+  "api_url": "https://api.github.com/repos/badges/shields",
+  "fetched_at": "2026-06-13T11:30:27.135Z"
+}

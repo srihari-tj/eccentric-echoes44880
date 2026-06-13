@@ -1,0 +1,29 @@
+{
+  "owner": "rolldown",
+  "repo": "rolldown/rolldown",
+  "name": "rolldown",
+  "full_name": "rolldown/rolldown",
+  "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+  "homepage": "https://rolldown.rs",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "bundler",
+    "javascript",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-09-18T14:20:28Z",
+  "pushed_at": "2026-06-13T10:55:23Z",
+  "size": 56533,
+  "stars_now": 13732,
+  "forks": 793,
+  "open_issues": 284,
+  "subscribers": 91,
+  "watchers": 13732,
+  "html_url": "https://github.com/rolldown/rolldown",
+  "api_url": "https://api.github.com/repos/rolldown/rolldown",
+  "fetched_at": "2026-06-13T11:30:38.166Z"
+}

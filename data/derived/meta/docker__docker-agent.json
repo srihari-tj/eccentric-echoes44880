@@ -1,0 +1,28 @@
+{
+  "owner": "docker",
+  "repo": "docker/docker-agent",
+  "name": "docker-agent",
+  "full_name": "docker/docker-agent",
+  "description": "AI Agent Builder and Runtime by Docker Engineering",
+  "homepage": "https://docker.github.io/docker-agent/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "agents",
+    "ai"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-09-01T12:14:45Z",
+  "pushed_at": "2026-06-13T11:27:41Z",
+  "size": 67112,
+  "stars_now": 3061,
+  "forks": 389,
+  "open_issues": 57,
+  "subscribers": 19,
+  "watchers": 3061,
+  "html_url": "https://github.com/docker/docker-agent",
+  "api_url": "https://api.github.com/repos/docker/docker-agent",
+  "fetched_at": "2026-06-13T11:30:29.812Z"
+}

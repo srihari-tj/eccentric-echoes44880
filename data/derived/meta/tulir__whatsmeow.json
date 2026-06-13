@@ -1,0 +1,30 @@
+{
+  "owner": "tulir",
+  "repo": "tulir/whatsmeow",
+  "name": "whatsmeow",
+  "full_name": "tulir/whatsmeow",
+  "description": "Go library for the WhatsApp web multidevice API",
+  "homepage": "https://go.mau.fi/whatsmeow",
+  "language": "Go",
+  "license": "MPL-2.0",
+  "topics": [
+    "go",
+    "golang",
+    "whatsapp",
+    "whatsapp-web"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2021-10-06T18:48:01Z",
+  "pushed_at": "2026-06-11T09:47:16Z",
+  "size": 8193,
+  "stars_now": 6407,
+  "forks": 1031,
+  "open_issues": 55,
+  "subscribers": 150,
+  "watchers": 6407,
+  "html_url": "https://github.com/tulir/whatsmeow",
+  "api_url": "https://api.github.com/repos/tulir/whatsmeow",
+  "fetched_at": "2026-06-13T11:30:40.261Z"
+}

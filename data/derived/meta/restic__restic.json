@@ -1,0 +1,32 @@
+{
+  "owner": "restic",
+  "repo": "restic/restic",
+  "name": "restic",
+  "full_name": "restic/restic",
+  "description": "Fast, secure, efficient backup program",
+  "homepage": "https://restic.net",
+  "language": "Go",
+  "license": "BSD-2-Clause",
+  "topics": [
+    "backup",
+    "dedupe",
+    "deduplication",
+    "go",
+    "restic",
+    "secure-by-default"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-04-27T14:07:58Z",
+  "pushed_at": "2026-06-13T10:38:57Z",
+  "size": 71163,
+  "stars_now": 34358,
+  "forks": 1791,
+  "open_issues": 544,
+  "subscribers": 228,
+  "watchers": 34358,
+  "html_url": "https://github.com/restic/restic",
+  "api_url": "https://api.github.com/repos/restic/restic",
+  "fetched_at": "2026-06-13T11:30:37.776Z"
+}
