@@ -1,6 +1,6 @@
 {
   "week": "2026-W24",
-  "captured_at": "2026-06-13T19:55:53.903Z",
+  "captured_at": "2026-06-14T09:55:04.721Z",
   "overall": [
     {
       "owner": "mvanhorn",
@@ -568,6 +568,10 @@
       {
         "owner": "mozilla-ai",
         "repo": "llamafile"
+      },
+      {
+        "owner": "MortezaBashsiz",
+        "repo": "nipovpn"
       },
       {
         "owner": "amnezia-vpn",
