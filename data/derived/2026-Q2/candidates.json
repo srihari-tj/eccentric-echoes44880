@@ -108,6 +108,10 @@
     "repo": "signal-cli"
   },
   {
+    "owner": "AstrBotDevs",
+    "repo": "AstrBot"
+  },
+  {
     "owner": "Ataraxy-Labs",
     "repo": "sem"
   },
@@ -134,6 +138,10 @@
   {
     "owner": "Axorax",
     "repo": "awesome-free-apps"
+  },
+  {
+    "owner": "AzuraCast",
+    "repo": "AzuraCast"
   },
   {
     "owner": "BasedHardware",
@@ -282,10 +290,6 @@
   {
     "owner": "DenverCoder1",
     "repo": "readme-typing-svg"
-  },
-  {
-    "owner": "DependencyTrack",
-    "repo": "dependency-track"
   },
   {
     "owner": "DeusData",
@@ -560,10 +564,6 @@
     "repo": "KeePassDX"
   },
   {
-    "owner": "Kyant0",
-    "repo": "AndroidLiquidGlass"
-  },
-  {
     "owner": "LLPhant",
     "repo": "LLPhant"
   },
@@ -684,12 +684,20 @@
     "repo": "SwiftSlate"
   },
   {
+    "owner": "Mygod",
+    "repo": "VPNHotspot"
+  },
+  {
     "owner": "NLnetLabs",
     "repo": "unbound"
   },
   {
     "owner": "NVIDIA",
     "repo": "OpenShell"
+  },
+  {
+    "owner": "NVIDIA",
+    "repo": "SkillSpector"
   },
   {
     "owner": "NVIDIA",
@@ -780,10 +788,6 @@
     "repo": "MOSS-TTS"
   },
   {
-    "owner": "OpenSID",
-    "repo": "OpenSID"
-  },
-  {
     "owner": "OpenTenBase",
     "repo": "OpenTenBase"
   },
@@ -838,10 +842,6 @@
   {
     "owner": "Part-DB",
     "repo": "Part-DB-server"
-  },
-  {
-    "owner": "Pavelevich",
-    "repo": "llm-checker"
   },
   {
     "owner": "Paymenter",
@@ -964,8 +964,20 @@
     "repo": "interview-guide"
   },
   {
+    "owner": "Sor3nt",
+    "repo": "Flipper-Zero-ESP32-Port"
+  },
+  {
     "owner": "StarRocks",
     "repo": "starrocks"
+  },
+  {
+    "owner": "Stellarium",
+    "repo": "stellarium"
+  },
+  {
+    "owner": "Stirling-Tools",
+    "repo": "Stirling-PDF"
   },
   {
     "owner": "Stonewuu",
@@ -1144,6 +1156,10 @@
     "repo": "ruoyi-vue-pro"
   },
   {
+    "owner": "Z3Prover",
+    "repo": "z3"
+  },
+  {
     "owner": "Z4nzu",
     "repo": "hackingtool"
   },
@@ -1194,10 +1210,6 @@
   {
     "owner": "activeadmin",
     "repo": "activeadmin"
-  },
-  {
-    "owner": "activeloopai",
-    "repo": "hivemind"
   },
   {
     "owner": "addyosmani",
@@ -1296,10 +1308,6 @@
     "repo": "architecture-samples"
   },
   {
-    "owner": "angular",
-    "repo": "angular"
-  },
-  {
     "owner": "aniyomiorg",
     "repo": "aniyomi"
   },
@@ -1370,6 +1378,10 @@
   {
     "owner": "apache",
     "repo": "kafka"
+  },
+  {
+    "owner": "apache",
+    "repo": "maven"
   },
   {
     "owner": "apache",
@@ -1444,6 +1456,10 @@
     "repo": "ast-grep"
   },
   {
+    "owner": "asterinas",
+    "repo": "asterinas"
+  },
+  {
     "owner": "asterisk",
     "repo": "asterisk"
   },
@@ -1462,6 +1478,10 @@
   {
     "owner": "axios",
     "repo": "axios"
+  },
+  {
+    "owner": "babel",
+    "repo": "babel"
   },
   {
     "owner": "badges",
@@ -1492,12 +1512,20 @@
     "repo": "buttercut"
   },
   {
+    "owner": "barry-ran",
+    "repo": "QtScrcpy"
+  },
+  {
     "owner": "basecamp",
     "repo": "fizzy"
   },
   {
     "owner": "basecamp",
     "repo": "kamal"
+  },
+  {
+    "owner": "bazelbuild",
+    "repo": "bazel"
   },
   {
     "owner": "beclab",
@@ -1510,10 +1538,6 @@
   {
     "owner": "betaflight",
     "repo": "betaflight"
-  },
-  {
-    "owner": "bethington",
-    "repo": "ghidra-mcp"
   },
   {
     "owner": "bevyengine",
@@ -1554,6 +1578,14 @@
   {
     "owner": "block",
     "repo": "goose"
+  },
+  {
+    "owner": "bluenviron",
+    "repo": "mediamtx"
+  },
+  {
+    "owner": "bluewave-labs",
+    "repo": "Checkmate"
   },
   {
     "owner": "bmax121",
@@ -1676,10 +1708,6 @@
     "repo": "cc-connect"
   },
   {
-    "owner": "chinese-poetry",
-    "repo": "chinese-poetry"
-  },
-  {
     "owner": "chopratejas",
     "repo": "headroom"
   },
@@ -1734,10 +1762,6 @@
   {
     "owner": "coleam00",
     "repo": "Archon"
-  },
-  {
-    "owner": "comet-ml",
-    "repo": "opik"
   },
   {
     "owner": "composer",
@@ -1920,6 +1944,10 @@
     "repo": "docker-agent"
   },
   {
+    "owner": "doctrine",
+    "repo": "dbal"
+  },
+  {
     "owner": "docusealco",
     "repo": "docuseal"
   },
@@ -2088,6 +2116,10 @@
     "repo": "fastfetch"
   },
   {
+    "owner": "fastify",
+    "repo": "fastify"
+  },
+  {
     "owner": "fastlane",
     "repo": "fastlane"
   },
@@ -2132,8 +2164,16 @@
     "repo": "fluentd"
   },
   {
+    "owner": "fluxerapp",
+    "repo": "fluxer"
+  },
+  {
     "owner": "flyteorg",
     "repo": "flyte"
+  },
+  {
+    "owner": "fmtlib",
+    "repo": "fmt"
   },
   {
     "owner": "forem",
@@ -2412,6 +2452,10 @@
     "repo": "grpc-rust"
   },
   {
+    "owner": "gruntwork-io",
+    "repo": "terragrunt"
+  },
+  {
     "owner": "guzzle",
     "repo": "guzzle"
   },
@@ -2446,6 +2490,10 @@
   {
     "owner": "harry0703",
     "repo": "MoneyPrinterTurbo"
+  },
+  {
+    "owner": "hashicorp",
+    "repo": "terraform"
   },
   {
     "owner": "hashicorp",
@@ -2616,12 +2664,12 @@
     "repo": "voicebox"
   },
   {
-    "owner": "jarczakpawel",
-    "repo": "BMCU-C-PJARCZAK"
+    "owner": "janhq",
+    "repo": "jan"
   },
   {
-    "owner": "jart",
-    "repo": "cosmopolitan"
+    "owner": "jarczakpawel",
+    "repo": "BMCU-C-PJARCZAK"
   },
   {
     "owner": "jay3-yy",
@@ -2662,6 +2710,10 @@
   {
     "owner": "jesseduffield",
     "repo": "lazygit"
+  },
+  {
+    "owner": "jgraph",
+    "repo": "drawio"
   },
   {
     "owner": "jo-inc",
@@ -2792,10 +2844,6 @@
     "repo": "hello-algo"
   },
   {
-    "owner": "kubernetes-sigs",
-    "repo": "karpenter"
-  },
-  {
     "owner": "kubernetes",
     "repo": "kubernetes"
   },
@@ -2810,10 +2858,6 @@
   {
     "owner": "kunal-kushwaha",
     "repo": "DSA-Bootcamp-Java"
-  },
-  {
-    "owner": "kunchenguid",
-    "repo": "no-mistakes"
   },
   {
     "owner": "kvcache-ai",
@@ -2890,6 +2934,10 @@
   {
     "owner": "libre-tube",
     "repo": "LibreTube"
+  },
+  {
+    "owner": "librenms",
+    "repo": "librenms"
   },
   {
     "owner": "libsdl-org",
@@ -3006,6 +3054,10 @@
   {
     "owner": "mautic",
     "repo": "mautic"
+  },
+  {
+    "owner": "mavlink",
+    "repo": "qgroundcontrol"
   },
   {
     "owner": "maximhq",
@@ -3292,10 +3344,6 @@
     "repo": "server"
   },
   {
-    "owner": "nezhahq",
-    "repo": "nezha"
-  },
-  {
     "owner": "nginx",
     "repo": "nginx"
   },
@@ -3342,6 +3390,10 @@
   {
     "owner": "npm",
     "repo": "cli"
+  },
+  {
+    "owner": "nrfconnect",
+    "repo": "sdk-zephyr"
   },
   {
     "owner": "nuxt",
@@ -3454,6 +3506,10 @@
   {
     "owner": "openmediavault",
     "repo": "openmediavault"
+  },
+  {
+    "owner": "opensearch-project",
+    "repo": "OpenSearch"
   },
   {
     "owner": "opensourcepos",
@@ -3752,6 +3808,10 @@
     "repo": "react"
   },
   {
+    "owner": "react",
+    "repo": "react-native"
+  },
+  {
     "owner": "recloudstream",
     "repo": "cloudstream"
   },
@@ -3932,10 +3992,6 @@
     "repo": "TheFatRat"
   },
   {
-    "owner": "sdatkinson",
-    "repo": "NeuralAmpModelerPlugin"
-  },
-  {
     "owner": "seaweedfs",
     "repo": "seaweedfs"
   },
@@ -3954,10 +4010,6 @@
   {
     "owner": "sgl-project",
     "repo": "sglang"
-  },
-  {
-    "owner": "shadcn-ui",
-    "repo": "ui"
   },
   {
     "owner": "shadowsocks",
@@ -3994,6 +4046,10 @@
   {
     "owner": "skylot",
     "repo": "jadx"
+  },
+  {
+    "owner": "slint-ui",
+    "repo": "slint"
   },
   {
     "owner": "smol-ai",
@@ -4102,6 +4158,10 @@
   {
     "owner": "suqi8",
     "repo": "OShin"
+  },
+  {
+    "owner": "sveltejs",
+    "repo": "kit"
   },
   {
     "owner": "sveltejs",
@@ -4262,6 +4322,10 @@
   {
     "owner": "tree-sitter",
     "repo": "tree-sitter"
+  },
+  {
+    "owner": "trinodb",
+    "repo": "trino"
   },
   {
     "owner": "truelockmc",
@@ -4432,12 +4496,12 @@
     "repo": "wechat-article-exporter"
   },
   {
-    "owner": "wgtunnel",
-    "repo": "android"
-  },
-  {
     "owner": "winsiderss",
     "repo": "systeminformer"
+  },
+  {
+    "owner": "withastro",
+    "repo": "astro"
   },
   {
     "owner": "withastro",
@@ -4602,6 +4666,10 @@
   {
     "owner": "zilliztech",
     "repo": "claude-context"
+  },
+  {
+    "owner": "zitadel",
+    "repo": "zitadel"
   },
   {
     "owner": "zizifn",

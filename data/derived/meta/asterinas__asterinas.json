@@ -1,0 +1,30 @@
+{
+  "owner": "asterinas",
+  "repo": "asterinas/asterinas",
+  "name": "asterinas",
+  "full_name": "asterinas/asterinas",
+  "description": "Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.",
+  "homepage": "https://asterinas.github.io/book/",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "kernel",
+    "os",
+    "rust",
+    "tee"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-05-17T18:48:52Z",
+  "pushed_at": "2026-06-13T09:28:55Z",
+  "size": 16351,
+  "stars_now": 4654,
+  "forks": 313,
+  "open_issues": 299,
+  "subscribers": 24,
+  "watchers": 4654,
+  "html_url": "https://github.com/asterinas/asterinas",
+  "api_url": "https://api.github.com/repos/asterinas/asterinas",
+  "fetched_at": "2026-06-13T20:46:31.117Z"
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "fastify",
+  "repo": "fastify/fastify",
+  "name": "fastify",
+  "full_name": "fastify/fastify",
+  "description": "Fast and low overhead web framework, for Node.js",
+  "homepage": "https://www.fastify.dev",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "hacktoberfest",
+    "nodejs",
+    "performance",
+    "speed",
+    "webframework"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-09-28T19:10:14Z",
+  "pushed_at": "2026-06-12T07:46:03Z",
+  "size": 10352,
+  "stars_now": 36481,
+  "forks": 2729,
+  "open_issues": 142,
+  "subscribers": 329,
+  "watchers": 36481,
+  "html_url": "https://github.com/fastify/fastify",
+  "api_url": "https://api.github.com/repos/fastify/fastify",
+  "fetched_at": "2026-06-13T20:46:33.365Z"
+}

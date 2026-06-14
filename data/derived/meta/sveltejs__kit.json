@@ -1,0 +1,27 @@
+{
+  "owner": "sveltejs",
+  "repo": "sveltejs/kit",
+  "name": "kit",
+  "full_name": "sveltejs/kit",
+  "description": "web development, streamlined",
+  "homepage": "https://svelte.dev/docs/kit",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "svelte"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-10-15T14:00:23Z",
+  "pushed_at": "2026-06-12T19:56:17Z",
+  "size": 36687,
+  "stars_now": 20572,
+  "forks": 2265,
+  "open_issues": 1043,
+  "subscribers": 155,
+  "watchers": 20572,
+  "html_url": "https://github.com/sveltejs/kit",
+  "api_url": "https://api.github.com/repos/sveltejs/kit",
+  "fetched_at": "2026-06-13T20:46:37.125Z"
+}

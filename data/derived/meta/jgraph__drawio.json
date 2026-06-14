@@ -1,0 +1,29 @@
+{
+  "owner": "jgraph",
+  "repo": "jgraph/drawio",
+  "name": "drawio",
+  "full_name": "jgraph/drawio",
+  "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+  "homepage": "https://www.drawio.com",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "diagram",
+    "javascript",
+    "whiteboard"
+  ],
+  "default_branch": "dev",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-09-06T12:59:15Z",
+  "pushed_at": "2026-06-06T12:32:04Z",
+  "size": 1681186,
+  "stars_now": 6057,
+  "forks": 968,
+  "open_issues": 195,
+  "subscribers": 35,
+  "watchers": 6057,
+  "html_url": "https://github.com/jgraph/drawio",
+  "api_url": "https://api.github.com/repos/jgraph/drawio",
+  "fetched_at": "2026-06-13T20:46:34.786Z"
+}
