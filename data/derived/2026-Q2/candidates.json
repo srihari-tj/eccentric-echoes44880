@@ -108,10 +108,6 @@
     "repo": "signal-cli"
   },
   {
-    "owner": "AstrBotDevs",
-    "repo": "AstrBot"
-  },
-  {
     "owner": "Ataraxy-Labs",
     "repo": "sem"
   },
@@ -138,10 +134,6 @@
   {
     "owner": "Axorax",
     "repo": "awesome-free-apps"
-  },
-  {
-    "owner": "AzuraCast",
-    "repo": "AzuraCast"
   },
   {
     "owner": "BasedHardware",
@@ -564,8 +556,16 @@
     "repo": "KeePassDX"
   },
   {
+    "owner": "Kyant0",
+    "repo": "AndroidLiquidGlass"
+  },
+  {
     "owner": "LLPhant",
     "repo": "LLPhant"
+  },
+  {
+    "owner": "LMCache",
+    "repo": "LMCache"
   },
   {
     "owner": "LSPosed",
@@ -648,10 +648,6 @@
     "repo": "mbedtls"
   },
   {
-    "owner": "MemPalace",
-    "repo": "mempalace"
-  },
-  {
     "owner": "MervinPraison",
     "repo": "PraisonAI"
   },
@@ -670,10 +666,6 @@
   {
     "owner": "MojoLauncher",
     "repo": "MojoLauncher"
-  },
-  {
-    "owner": "MortezaBashsiz",
-    "repo": "nipovpn"
   },
   {
     "owner": "MrNeRF",
@@ -702,10 +694,6 @@
   {
     "owner": "NVIDIA",
     "repo": "SkillSpector"
-  },
-  {
-    "owner": "NVIDIA",
-    "repo": "cosmos"
   },
   {
     "owner": "NVIDIA",
@@ -976,10 +964,6 @@
     "repo": "starrocks"
   },
   {
-    "owner": "Stellarium",
-    "repo": "stellarium"
-  },
-  {
     "owner": "Stirling-Tools",
     "repo": "Stirling-PDF"
   },
@@ -1140,6 +1124,10 @@
     "repo": "Xray-core"
   },
   {
+    "owner": "XayahSuSuSu",
+    "repo": "Android-DataBackup"
+  },
+  {
     "owner": "YOURLS",
     "repo": "YOURLS"
   },
@@ -1258,6 +1246,10 @@
   {
     "owner": "akaunting",
     "repo": "akaunting"
+  },
+  {
+    "owner": "aleksey-hoffman",
+    "repo": "sigma-file-manager"
   },
   {
     "owner": "alextselegidis",
@@ -1460,10 +1452,6 @@
     "repo": "ast-grep"
   },
   {
-    "owner": "asterinas",
-    "repo": "asterinas"
-  },
-  {
     "owner": "asterisk",
     "repo": "asterisk"
   },
@@ -1486,10 +1474,6 @@
   {
     "owner": "babel",
     "repo": "babel"
-  },
-  {
-    "owner": "badges",
-    "repo": "shields"
   },
   {
     "owner": "badlogic",
@@ -1516,20 +1500,12 @@
     "repo": "buttercut"
   },
   {
-    "owner": "barry-ran",
-    "repo": "QtScrcpy"
-  },
-  {
     "owner": "basecamp",
     "repo": "fizzy"
   },
   {
     "owner": "basecamp",
     "repo": "kamal"
-  },
-  {
-    "owner": "bazelbuild",
-    "repo": "bazel"
   },
   {
     "owner": "beclab",
@@ -1622,6 +1598,10 @@
   {
     "owner": "brunodev85",
     "repo": "winlator"
+  },
+  {
+    "owner": "butzist",
+    "repo": "ActivityLauncher"
   },
   {
     "owner": "bytecodealliance",
@@ -1884,10 +1864,6 @@
     "repo": "claude-code-templates"
   },
   {
-    "owner": "dayanch96",
-    "repo": "YTMusicUltimate"
-  },
-  {
     "owner": "dbeaver",
     "repo": "dbeaver"
   },
@@ -1988,6 +1964,10 @@
     "repo": "ByeDPIAndroid"
   },
   {
+    "owner": "dragonflydb",
+    "repo": "dragonfly"
+  },
+  {
     "owner": "dreamhunter2333",
     "repo": "cloudflare_temp_email"
   },
@@ -2014,10 +1994,6 @@
   {
     "owner": "elastic",
     "repo": "elasticsearch"
-  },
-  {
-    "owner": "element-hq",
-    "repo": "element-x-android"
   },
   {
     "owner": "elementor",
@@ -2090,6 +2066,10 @@
   {
     "owner": "expressjs",
     "repo": "express"
+  },
+  {
+    "owner": "eyaltoledano",
+    "repo": "claude-task-master"
   },
   {
     "owner": "eythaann",
@@ -2174,10 +2154,6 @@
   {
     "owner": "flyteorg",
     "repo": "flyte"
-  },
-  {
-    "owner": "fmtlib",
-    "repo": "fmt"
   },
   {
     "owner": "forem",
@@ -2389,6 +2365,10 @@
   },
   {
     "owner": "google",
+    "repo": "filament"
+  },
+  {
+    "owner": "google",
     "repo": "flatbuffers"
   },
   {
@@ -2414,6 +2394,14 @@
   {
     "owner": "googleapis",
     "repo": "google-api-ruby-client"
+  },
+  {
+    "owner": "googleapis",
+    "repo": "google-cloud-java"
+  },
+  {
+    "owner": "googleapis",
+    "repo": "google-cloud-node"
   },
   {
     "owner": "googleapis",
@@ -2668,10 +2656,6 @@
     "repo": "voicebox"
   },
   {
-    "owner": "janhq",
-    "repo": "jan"
-  },
-  {
     "owner": "jarczakpawel",
     "repo": "BMCU-C-PJARCZAK"
   },
@@ -2714,10 +2698,6 @@
   {
     "owner": "jesseduffield",
     "repo": "lazygit"
-  },
-  {
-    "owner": "jgraph",
-    "repo": "drawio"
   },
   {
     "owner": "jo-inc",
@@ -2770,6 +2750,10 @@
   {
     "owner": "k8sgpt-ai",
     "repo": "k8sgpt"
+  },
+  {
+    "owner": "kaansenol5",
+    "repo": "VibeOS"
   },
   {
     "owner": "kamyu104",
@@ -2946,6 +2930,10 @@
   {
     "owner": "libsdl-org",
     "repo": "SDL"
+  },
+  {
+    "owner": "libuv",
+    "repo": "libuv"
   },
   {
     "owner": "linshenkx",
@@ -3201,10 +3189,6 @@
   },
   {
     "owner": "ml-explore",
-    "repo": "mlx-lm"
-  },
-  {
-    "owner": "ml-explore",
     "repo": "mlx-swift"
   },
   {
@@ -3272,6 +3256,10 @@
     "repo": "mpv"
   },
   {
+    "owner": "mrdoob",
+    "repo": "three.js"
+  },
+  {
     "owner": "mui",
     "repo": "material-ui"
   },
@@ -3290,6 +3278,10 @@
   {
     "owner": "music-assistant",
     "repo": "mobile-app"
+  },
+  {
+    "owner": "music-assistant",
+    "repo": "server"
   },
   {
     "owner": "mvanhorn",
@@ -3724,8 +3716,8 @@
     "repo": "public-apis"
   },
   {
-    "owner": "puma",
-    "repo": "puma"
+    "owner": "puppeteer",
+    "repo": "puppeteer"
   },
   {
     "owner": "putyy",
@@ -4076,6 +4068,10 @@
     "repo": "one-api"
   },
   {
+    "owner": "sonic-net",
+    "repo": "sonic-buildimage"
+  },
+  {
     "owner": "soxoj",
     "repo": "maigret"
   },
@@ -4162,10 +4158,6 @@
   {
     "owner": "suqi8",
     "repo": "OShin"
-  },
-  {
-    "owner": "sveltejs",
-    "repo": "kit"
   },
   {
     "owner": "sveltejs",
@@ -4278,6 +4270,14 @@
   {
     "owner": "tiann",
     "repo": "KernelSU"
+  },
+  {
+    "owner": "tianocore",
+    "repo": "edk2"
+  },
+  {
+    "owner": "timescale",
+    "repo": "timescaledb"
   },
   {
     "owner": "timmyy123",
@@ -4464,6 +4464,10 @@
     "repo": "OpenViking"
   },
   {
+    "owner": "vortex-data",
+    "repo": "vortex"
+  },
+  {
     "owner": "vxcontrol",
     "repo": "pentagi"
   },
@@ -4498,6 +4502,10 @@
   {
     "owner": "wechat-article",
     "repo": "wechat-article-exporter"
+  },
+  {
+    "owner": "wezterm",
+    "repo": "wezterm"
   },
   {
     "owner": "winsiderss",
@@ -4670,10 +4678,6 @@
   {
     "owner": "zilliztech",
     "repo": "claude-context"
-  },
-  {
-    "owner": "zitadel",
-    "repo": "zitadel"
   },
   {
     "owner": "zizifn",
