@@ -1,0 +1,33 @@
+{
+  "owner": "hibiken",
+  "repo": "hibiken/asynq",
+  "name": "asynq",
+  "full_name": "hibiken/asynq",
+  "description": "Simple, reliable, and efficient distributed task queue in Go",
+  "homepage": "https://github.com/hibiken/asynq",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "asynchronous-tasks",
+    "background-jobs",
+    "go",
+    "golang",
+    "redis",
+    "task-queue",
+    "worker-pool"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2019-11-15T05:17:55Z",
+  "pushed_at": "2026-06-15T23:22:37Z",
+  "size": 8405,
+  "stars_now": 13403,
+  "forks": 946,
+  "open_issues": 275,
+  "subscribers": 83,
+  "watchers": 13403,
+  "html_url": "https://github.com/hibiken/asynq",
+  "api_url": "https://api.github.com/repos/hibiken/asynq",
+  "fetched_at": "2026-06-20T10:55:51.419Z"
+}

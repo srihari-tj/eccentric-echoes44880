@@ -1,0 +1,31 @@
+{
+  "owner": "continuedev",
+  "repo": "continuedev/continue",
+  "name": "continue",
+  "full_name": "continuedev/continue",
+  "description": "open-source coding agent",
+  "homepage": "https://continue.dev",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "agent",
+    "ai",
+    "cli",
+    "developer-tools",
+    "open-source"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2023-05-24T03:39:39Z",
+  "pushed_at": "2026-06-20T03:26:09Z",
+  "size": 871171,
+  "stars_now": 34161,
+  "forks": 4747,
+  "open_issues": 918,
+  "subscribers": 159,
+  "watchers": 34161,
+  "html_url": "https://github.com/continuedev/continue",
+  "api_url": "https://api.github.com/repos/continuedev/continue",
+  "fetched_at": "2026-06-20T10:55:47.008Z"
+}

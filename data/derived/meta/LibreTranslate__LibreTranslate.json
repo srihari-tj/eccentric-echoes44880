@@ -1,0 +1,31 @@
+{
+  "owner": "LibreTranslate",
+  "repo": "LibreTranslate/LibreTranslate",
+  "name": "LibreTranslate",
+  "full_name": "LibreTranslate/LibreTranslate",
+  "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+  "homepage": "https://libretranslate.com",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+    "api",
+    "machine",
+    "translate",
+    "translation",
+    "translator"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2020-12-19T19:19:34Z",
+  "pushed_at": "2026-06-20T06:20:20Z",
+  "size": 4187,
+  "stars_now": 15141,
+  "forks": 1543,
+  "open_issues": 121,
+  "subscribers": 102,
+  "watchers": 15141,
+  "html_url": "https://github.com/LibreTranslate/LibreTranslate",
+  "api_url": "https://api.github.com/repos/LibreTranslate/LibreTranslate",
+  "fetched_at": "2026-06-20T10:55:41.369Z"
+}

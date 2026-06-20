@@ -1,0 +1,33 @@
+{
+  "owner": "dbt-labs",
+  "repo": "dbt-labs/dbt-core",
+  "name": "dbt-core",
+  "full_name": "dbt-labs/dbt-core",
+  "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+  "homepage": "https://getdbt.com",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "analytics",
+    "business-intelligence",
+    "data-modeling",
+    "dbt-viewpoint",
+    "elt",
+    "pypa",
+    "slack"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2016-03-10T02:38:00Z",
+  "pushed_at": "2026-06-20T10:07:30Z",
+  "size": 82667,
+  "stars_now": 13036,
+  "forks": 2423,
+  "open_issues": 1458,
+  "subscribers": 157,
+  "watchers": 13036,
+  "html_url": "https://github.com/dbt-labs/dbt-core",
+  "api_url": "https://api.github.com/repos/dbt-labs/dbt-core",
+  "fetched_at": "2026-06-20T10:55:48.257Z"
+}

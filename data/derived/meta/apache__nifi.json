@@ -1,0 +1,30 @@
+{
+  "owner": "apache",
+  "repo": "apache/nifi",
+  "name": "nifi",
+  "full_name": "apache/nifi",
+  "description": "Apache NiFi",
+  "homepage": "https://nifi.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "apache",
+    "hacktoberfest",
+    "java",
+    "nifi"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2014-12-12T08:00:05Z",
+  "pushed_at": "2026-06-19T03:34:27Z",
+  "size": 310498,
+  "stars_now": 6131,
+  "forks": 2957,
+  "open_issues": 51,
+  "subscribers": 190,
+  "watchers": 6131,
+  "html_url": "https://github.com/apache/nifi",
+  "api_url": "https://api.github.com/repos/apache/nifi",
+  "fetched_at": "2026-06-20T10:55:45.367Z"
+}

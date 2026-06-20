@@ -1,0 +1,31 @@
+{
+  "owner": "microsoft",
+  "repo": "microsoft/fara",
+  "name": "fara",
+  "full_name": "microsoft/fara",
+  "description": "Fara-7B: An Efficient Agentic Model for Computer Use",
+  "homepage": "https://github.com/microsoft/fara",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "agent",
+    "browser-use",
+    "computer-use",
+    "computer-use-agent",
+    "cua"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-10-29T16:23:22Z",
+  "pushed_at": "2026-06-16T23:27:57Z",
+  "size": 8856,
+  "stars_now": 5872,
+  "forks": 569,
+  "open_issues": 30,
+  "subscribers": 41,
+  "watchers": 5872,
+  "html_url": "https://github.com/microsoft/fara",
+  "api_url": "https://api.github.com/repos/microsoft/fara",
+  "fetched_at": "2026-06-20T10:55:53.939Z"
+}

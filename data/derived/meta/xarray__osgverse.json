@@ -1,0 +1,33 @@
+{
+  "owner": "xarray",
+  "repo": "xarray/osgverse",
+  "name": "osgverse",
+  "full_name": "xarray/osgverse",
+  "description": "osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.",
+  "homepage": "https://github.com/xarray/osgverse",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "3d",
+    "3d-engine",
+    "opengl",
+    "opengles",
+    "openscenegraph",
+    "rendering",
+    "wasm"
+  ],
+  "default_branch": "master",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2022-12-21T11:43:53Z",
+  "pushed_at": "2026-06-08T22:35:48Z",
+  "size": 460905,
+  "stars_now": 435,
+  "forks": 77,
+  "open_issues": 5,
+  "subscribers": 26,
+  "watchers": 435,
+  "html_url": "https://github.com/xarray/osgverse",
+  "api_url": "https://api.github.com/repos/xarray/osgverse",
+  "fetched_at": "2026-06-20T10:55:55.491Z"
+}
