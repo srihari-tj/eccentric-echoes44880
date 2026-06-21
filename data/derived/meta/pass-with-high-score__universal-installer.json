@@ -1,0 +1,31 @@
+{
+  "owner": "pass-with-high-score",
+  "repo": "pass-with-high-score/universal-installer",
+  "name": "universal-installer",
+  "full_name": "pass-with-high-score/universal-installer",
+  "description": "A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.",
+  "homepage": "https://universal-installer.pwhs.app/",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "android",
+    "installer",
+    "jetpack-compose",
+    "package-manager",
+    "shizuku"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-07-28T19:14:09Z",
+  "pushed_at": "2026-06-20T15:23:37Z",
+  "size": 20693,
+  "stars_now": 590,
+  "forks": 29,
+  "open_issues": 6,
+  "subscribers": 9,
+  "watchers": 590,
+  "html_url": "https://github.com/pass-with-high-score/universal-installer",
+  "api_url": "https://api.github.com/repos/pass-with-high-score/universal-installer",
+  "fetched_at": "2026-06-21T10:17:07.658Z"
+}

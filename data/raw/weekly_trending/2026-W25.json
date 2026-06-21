@@ -1,6 +1,6 @@
 {
   "week": "2026-W25",
-  "captured_at": "2026-06-20T19:58:28.394Z",
+  "captured_at": "2026-06-21T10:04:14.774Z",
   "overall": [
     {
       "owner": "DeusData",
@@ -404,10 +404,6 @@
       {
         "owner": "tursodatabase",
         "repo": "turso"
-      },
-      {
-        "owner": "tw93",
-        "repo": "Pake"
       },
       {
         "owner": "fabro-sh",
@@ -984,6 +980,10 @@
       {
         "owner": "ryfineZ",
         "repo": "carrier-ims-for-pixel"
+      },
+      {
+        "owner": "pass-with-high-score",
+        "repo": "universal-installer"
       },
       {
         "owner": "element-hq",
