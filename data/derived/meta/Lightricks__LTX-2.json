@@ -1,0 +1,29 @@
+{
+  "owner": "Lightricks",
+  "repo": "Lightricks/LTX-2",
+  "name": "LTX-2",
+  "full_name": "Lightricks/LTX-2",
+  "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+  "homepage": "https://ltx.io/model/ltx-2",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "generative-ai",
+    "ltx",
+    "ltx-2"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2026-01-03T13:16:29Z",
+  "pushed_at": "2026-06-17T14:26:42Z",
+  "size": 1868,
+  "stars_now": 7811,
+  "forks": 1234,
+  "open_issues": 95,
+  "subscribers": 81,
+  "watchers": 7811,
+  "html_url": "https://github.com/Lightricks/LTX-2",
+  "api_url": "https://api.github.com/repos/Lightricks/LTX-2",
+  "fetched_at": "2026-06-21T20:22:12.236Z"
+}

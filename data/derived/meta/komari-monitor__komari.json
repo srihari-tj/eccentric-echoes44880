@@ -1,0 +1,29 @@
+{
+  "owner": "komari-monitor",
+  "repo": "komari-monitor/komari",
+  "name": "komari",
+  "full_name": "komari-monitor/komari",
+  "description": "A simple server monitor tool.",
+  "homepage": "https://ss.akz.moe",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "monitoring",
+    "monitoring-tool",
+    "remote-control"
+  ],
+  "default_branch": "main",
+  "archived": false,
+  "disabled": false,
+  "created_at": "2025-04-19T16:34:16Z",
+  "pushed_at": "2026-06-21T12:55:40Z",
+  "size": 1621,
+  "stars_now": 5075,
+  "forks": 477,
+  "open_issues": 59,
+  "subscribers": 8,
+  "watchers": 5075,
+  "html_url": "https://github.com/komari-monitor/komari",
+  "api_url": "https://api.github.com/repos/komari-monitor/komari",
+  "fetched_at": "2026-06-21T20:22:14.829Z"
+}
