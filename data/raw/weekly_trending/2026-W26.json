@@ -1,6 +1,6 @@
 {
   "week": "2026-W26",
-  "captured_at": "2026-06-27T19:47:35.358Z",
+  "captured_at": "2026-06-28T09:31:11.972Z",
   "overall": [
     {
       "owner": "calesthio",
@@ -92,6 +92,10 @@
       {
         "owner": "asgeirtj",
         "repo": "system_prompts_leaks"
+      },
+      {
+        "owner": "WhatDreamsCost",
+        "repo": "WhatDreamsCost-ComfyUI"
       },
       {
         "owner": "Anil-matcha",
@@ -858,6 +862,10 @@
       {
         "owner": "bblimke",
         "repo": "webmock"
+      },
+      {
+        "owner": "simplecov-ruby",
+        "repo": "simplecov"
       },
       {
         "owner": "bkeepers",

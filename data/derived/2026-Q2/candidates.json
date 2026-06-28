@@ -1216,6 +1216,10 @@
     "repo": "ImHex"
   },
   {
+    "owner": "WhatDreamsCost",
+    "repo": "WhatDreamsCost-ComfyUI"
+  },
+  {
     "owner": "WhiskeySockets",
     "repo": "Baileys"
   },
@@ -4614,6 +4618,10 @@
   {
     "owner": "signalapp",
     "repo": "Signal-Android"
+  },
+  {
+    "owner": "simplecov-ruby",
+    "repo": "simplecov"
   },
   {
     "owner": "simplex-chat",
