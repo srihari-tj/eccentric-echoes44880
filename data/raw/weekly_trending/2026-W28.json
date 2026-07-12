@@ -1,10 +1,14 @@
 {
   "week": "2026-W28",
-  "captured_at": "2026-07-11T19:35:04.007Z",
+  "captured_at": "2026-07-12T08:30:12.260Z",
   "overall": [
     {
       "owner": "Zackriya-Solutions",
       "repo": "meetily"
+    },
+    {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search"
     },
     {
       "owner": "openai",
@@ -171,6 +175,10 @@
       }
     ],
     "typescript": [
+      {
+        "owner": "MadsLorentzen",
+        "repo": "ai-job-search"
+      },
       {
         "owner": "wonderwhy-er",
         "repo": "DesktopCommanderMCP"
