@@ -1,6 +1,6 @@
 {
   "week": "2026-W29",
-  "captured_at": "2026-07-18T19:35:04.676Z",
+  "captured_at": "2026-07-19T08:32:08.985Z",
   "overall": [
     {
       "owner": "Nutlope",
@@ -298,6 +298,10 @@
       {
         "owner": "pocketbase",
         "repo": "pocketbase"
+      },
+      {
+        "owner": "chenyme",
+        "repo": "grok2api"
       },
       {
         "owner": "multica-ai",
