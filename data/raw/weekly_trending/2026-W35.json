@@ -1,6 +1,6 @@
 {
   "week": "2026-W35",
-  "captured_at": "2026-08-30T11:52:18.614Z",
+  "captured_at": "2026-08-30T21:04:00.870Z",
   "overall": [
     {
       "owner": "freestylefly",
@@ -760,10 +760,6 @@
       {
         "owner": "symfony",
         "repo": "symfony"
-      },
-      {
-        "owner": "livewire",
-        "repo": "livewire"
       },
       {
         "owner": "kanboard",
