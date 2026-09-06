@@ -1,6 +1,6 @@
 {
   "week": "2026-W36",
-  "captured_at": "2026-09-05T20:27:44.666Z",
+  "captured_at": "2026-09-06T10:52:55.772Z",
   "overall": [
     {
       "owner": "tt-a1i",
@@ -866,6 +866,10 @@
       {
         "owner": "dependabot",
         "repo": "dependabot-core"
+      },
+      {
+        "owner": "Homebrew",
+        "repo": "brew"
       },
       {
         "owner": "discourse",
