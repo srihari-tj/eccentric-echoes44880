@@ -1,6 +1,6 @@
 {
   "week": "2026-W37",
-  "captured_at": "2026-09-12T10:53:11.477Z",
+  "captured_at": "2026-09-12T20:38:46.264Z",
   "overall": [
     {
       "owner": "ayghri",
@@ -224,10 +224,6 @@
         "repo": "FckSignups"
       },
       {
-        "owner": "AdventDevInc",
-        "repo": "kudu"
-      },
-      {
         "owner": "melgarafael",
         "repo": "DeskcommCRM"
       },
@@ -362,6 +358,10 @@
       {
         "owner": "argoproj",
         "repo": "argo-cd"
+      },
+      {
+        "owner": "amir20",
+        "repo": "dozzle"
       },
       {
         "owner": "XTLS",
@@ -802,10 +802,6 @@
       {
         "owner": "fastlane",
         "repo": "fastlane"
-      },
-      {
-        "owner": "Homebrew",
-        "repo": "brew"
       },
       {
         "owner": "ruby",
