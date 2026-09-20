@@ -28,6 +28,10 @@
     "repo": "manim"
   },
   {
+    "owner": "666ghj",
+    "repo": "MiroFish"
+  },
+  {
     "owner": "86Box",
     "repo": "86Box"
   },
@@ -246,6 +250,10 @@
   {
     "owner": "CoreBunch",
     "repo": "Instatic"
+  },
+  {
+    "owner": "Cyan4973",
+    "repo": "xxHash"
   },
   {
     "owner": "D4Vinci",
@@ -640,10 +648,6 @@
     "repo": "LinkStack"
   },
   {
-    "owner": "LiteLDev",
-    "repo": "LeviLaunchroid"
-  },
-  {
     "owner": "LizardByte",
     "repo": "Sunshine"
   },
@@ -1000,6 +1004,10 @@
     "repo": "revanced-manager"
   },
   {
+    "owner": "Redot-Engine",
+    "repo": "redot-engine"
+  },
+  {
     "owner": "RetroMusicPlayer",
     "repo": "RetroMusicPlayer"
   },
@@ -1014,10 +1022,6 @@
   {
     "owner": "RikkaApps",
     "repo": "Shizuku-API"
-  },
-  {
-    "owner": "RikkaApps",
-    "repo": "Sui"
   },
   {
     "owner": "RizRiyz",
@@ -1154,6 +1158,10 @@
   {
     "owner": "Tencent",
     "repo": "AI-Infra-Guard"
+  },
+  {
+    "owner": "Tencent",
+    "repo": "BrowserSkill"
   },
   {
     "owner": "Tencent",
@@ -2360,6 +2368,10 @@
     "repo": "Duix-Avatar"
   },
   {
+    "owner": "duolahypercho",
+    "repo": "codex-router"
+  },
+  {
     "owner": "dyang886",
     "repo": "Game-Cheats-Manager"
   },
@@ -2574,6 +2586,10 @@
   {
     "owner": "filamentphp",
     "repo": "filament"
+  },
+  {
+    "owner": "firebase",
+    "repo": "firebase-ios-sdk"
   },
   {
     "owner": "firecracker-microvm",
@@ -2862,10 +2878,6 @@
   {
     "owner": "google",
     "repo": "leveldb"
-  },
-  {
-    "owner": "google",
-    "repo": "private-compute-services"
   },
   {
     "owner": "google",
@@ -3218,10 +3230,6 @@
   {
     "owner": "jrouwe",
     "repo": "JoltPhysics"
-  },
-  {
-    "owner": "jtenniswood",
-    "repo": "espcontrol"
   },
   {
     "owner": "juanfont",
@@ -3608,6 +3616,10 @@
     "repo": "ipatool"
   },
   {
+    "owner": "makepad",
+    "repo": "makepad"
+  },
+  {
     "owner": "makeplane",
     "repo": "plane"
   },
@@ -3618,10 +3630,6 @@
   {
     "owner": "mamedev",
     "repo": "mame"
-  },
-  {
-    "owner": "mardous",
-    "repo": "BoomingMusic"
   },
   {
     "owner": "marin-community",
@@ -3716,10 +3724,6 @@
     "repo": "firmware"
   },
   {
-    "owner": "metadist",
-    "repo": "synaplan"
-  },
-  {
     "owner": "micro-editor",
     "repo": "micro"
   },
@@ -3734,6 +3738,10 @@
   {
     "owner": "micropython",
     "repo": "micropython"
+  },
+  {
+    "owner": "microsoft",
+    "repo": "AI-Engineering-Coach"
   },
   {
     "owner": "microsoft",
@@ -4156,6 +4164,10 @@
     "repo": "skills"
   },
   {
+    "owner": "openai",
+    "repo": "tunnel-client"
+  },
+  {
     "owner": "opencode-ai",
     "repo": "opencode"
   },
@@ -4198,6 +4210,10 @@
   {
     "owner": "openssl",
     "repo": "openssl"
+  },
+  {
+    "owner": "openstreetmap",
+    "repo": "openstreetmap-website"
   },
   {
     "owner": "openvinotoolkit",
@@ -4270,10 +4286,6 @@
   {
     "owner": "p-e-w",
     "repo": "heretic"
-  },
-  {
-    "owner": "p1neappleXpress",
-    "repo": "OpenFlux"
   },
   {
     "owner": "p1ngul1n0",
@@ -4384,10 +4396,6 @@
     "repo": "engine"
   },
   {
-    "owner": "plugin87",
-    "repo": "ux-ui-agent-skills"
-  },
-  {
     "owner": "pmmp",
     "repo": "PocketMine-MP"
   },
@@ -4488,16 +4496,20 @@
     "repo": "cpython"
   },
   {
+    "owner": "pytorch",
+    "repo": "pytorch"
+  },
+  {
     "owner": "qaiu",
     "repo": "netdisk-fast-download"
   },
   {
-    "owner": "qax-os",
-    "repo": "excelize"
-  },
-  {
     "owner": "qeeqbox",
     "repo": "social-analyzer"
+  },
+  {
+    "owner": "qist",
+    "repo": "tvbox"
   },
   {
     "owner": "qualcomm",
@@ -4648,6 +4660,10 @@
     "repo": "OpenWA"
   },
   {
+    "owner": "roboflow",
+    "repo": "supervision"
+  },
+  {
     "owner": "rohitg00",
     "repo": "ai-engineering-from-scratch"
   },
@@ -4666,10 +4682,6 @@
   {
     "owner": "roundcube",
     "repo": "roundcubemail"
-  },
-  {
-    "owner": "rowboatlabs",
-    "repo": "rowboat"
   },
   {
     "owner": "rpush",
@@ -4876,10 +4888,6 @@
     "repo": "picoclaw"
   },
   {
-    "owner": "skeeto",
-    "repo": "w64devkit"
-  },
-  {
     "owner": "skylot",
     "repo": "jadx"
   },
@@ -5044,8 +5052,16 @@
     "repo": "tasks"
   },
   {
+    "owner": "tbphp",
+    "repo": "gpt-load"
+  },
+  {
     "owner": "tdlib",
     "repo": "td"
+  },
+  {
+    "owner": "tech-leads-club",
+    "repo": "agent-skills"
   },
   {
     "owner": "telegramdesktop",
@@ -5058,10 +5074,6 @@
   {
     "owner": "tensorflow",
     "repo": "tensorflow"
-  },
-  {
-    "owner": "tenstorrent",
-    "repo": "tt-metal"
   },
   {
     "owner": "termux",
@@ -5126,10 +5138,6 @@
   {
     "owner": "tonhowtf",
     "repo": "omniget"
-  },
-  {
-    "owner": "topgrade-rs",
-    "repo": "topgrade"
   },
   {
     "owner": "topjohnwu",
@@ -5446,6 +5454,10 @@
   {
     "owner": "xifangczy",
     "repo": "cat-catch"
+  },
+  {
+    "owner": "ximeiorg",
+    "repo": "Xime"
   },
   {
     "owner": "xingkongliang",
