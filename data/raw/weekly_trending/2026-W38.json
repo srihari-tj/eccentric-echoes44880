@@ -1,6 +1,6 @@
 {
   "week": "2026-W38",
-  "captured_at": "2026-09-20T11:19:19.281Z",
+  "captured_at": "2026-09-20T20:47:46.336Z",
   "overall": [
     {
       "owner": "alibaba",
@@ -446,6 +446,10 @@
         "repo": "MovieBox-Tui"
       },
       {
+        "owner": "zeronsh",
+        "repo": "zeron"
+      },
+      {
         "owner": "ruvnet",
         "repo": "RuView"
       },
@@ -791,10 +795,6 @@
       }
     ],
     "ruby": [
-      {
-        "owner": "Homebrew",
-        "repo": "brew"
-      },
       {
         "owner": "rails",
         "repo": "rails"
