@@ -1,6 +1,6 @@
 {
   "week": "2026-W39",
-  "captured_at": "2026-09-26T11:30:41.980Z",
+  "captured_at": "2026-09-26T21:16:12.846Z",
   "overall": [
     {
       "owner": "anthropics",
@@ -796,10 +796,6 @@
         "repo": "zammad"
       },
       {
-        "owner": "crmne",
-        "repo": "ruby_llm"
-      },
-      {
         "owner": "rapid7",
         "repo": "metasploit-framework"
       },
@@ -846,10 +842,6 @@
       {
         "owner": "gitlabhq",
         "repo": "gitlabhq"
-      },
-      {
-        "owner": "Homebrew",
-        "repo": "brew"
       },
       {
         "owner": "otwcode",
