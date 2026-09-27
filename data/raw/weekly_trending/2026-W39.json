@@ -1,6 +1,6 @@
 {
   "week": "2026-W39",
-  "captured_at": "2026-09-26T21:16:12.846Z",
+  "captured_at": "2026-09-27T11:58:48.241Z",
   "overall": [
     {
       "owner": "anthropics",
@@ -842,6 +842,10 @@
       {
         "owner": "gitlabhq",
         "repo": "gitlabhq"
+      },
+      {
+        "owner": "Homebrew",
+        "repo": "brew"
       },
       {
         "owner": "otwcode",
