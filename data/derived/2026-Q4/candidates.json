@@ -81,6 +81,10 @@
   },
   {
     "owner": "Homebrew",
+    "repo": "brew"
+  },
+  {
+    "owner": "Homebrew",
     "repo": "homebrew-core"
   },
   {
@@ -630,6 +634,10 @@
   {
     "owner": "ruby",
     "repo": "rubygems"
+  },
+  {
+    "owner": "rubysec",
+    "repo": "ruby-advisory-db"
   },
   {
     "owner": "rukamori",

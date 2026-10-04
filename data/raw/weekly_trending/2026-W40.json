@@ -1,6 +1,6 @@
 {
   "week": "2026-W40",
-  "captured_at": "2026-10-03T11:45:09.338Z",
+  "captured_at": "2026-10-03T21:24:38.284Z",
   "overall": [
     {
       "owner": "paperclipai",
@@ -756,6 +756,10 @@
         "repo": "zammad"
       },
       {
+        "owner": "Homebrew",
+        "repo": "brew"
+      },
+      {
         "owner": "freeCodeCamp",
         "repo": "devdocs"
       },
@@ -790,6 +794,10 @@
       {
         "owner": "ruby",
         "repo": "gem_rbs_collection"
+      },
+      {
+        "owner": "rubysec",
+        "repo": "ruby-advisory-db"
       },
       {
         "owner": "github",
