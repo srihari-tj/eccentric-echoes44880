@@ -1,6 +1,6 @@
 {
   "week": "2026-W41",
-  "captured_at": "2026-10-10T12:38:56.112Z",
+  "captured_at": "2026-10-10T21:50:49.096Z",
   "overall": [
     {
       "owner": "boykopovar",
@@ -248,6 +248,10 @@
         "repo": "caddy"
       },
       {
+        "owner": "NdoleStudio",
+        "repo": "httpsms"
+      },
+      {
         "owner": "ys-ll",
         "repo": "uniterm"
       },
@@ -313,6 +317,10 @@
       }
     ],
     "rust": [
+      {
+        "owner": "lexmount",
+        "repo": "moli"
+      },
       {
         "owner": "zerx-lab",
         "repo": "FluxDown"
