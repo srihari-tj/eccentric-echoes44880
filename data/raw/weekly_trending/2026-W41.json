@@ -1,6 +1,6 @@
 {
   "week": "2026-W41",
-  "captured_at": "2026-10-11T12:45:01.280Z",
+  "captured_at": "2026-10-11T21:56:29.901Z",
   "overall": [
     {
       "owner": "boykopovar",
@@ -212,6 +212,10 @@
       {
         "owner": "p-e-w",
         "repo": "heretic"
+      },
+      {
+        "owner": "littledivy",
+        "repo": "mimic"
       },
       {
         "owner": "666ghj",
@@ -708,6 +712,10 @@
       {
         "owner": "andreknieriem",
         "repo": "open-headunit"
+      },
+      {
+        "owner": "kushagrasinghx",
+        "repo": "BitChord"
       },
       {
         "owner": "bmax121",
