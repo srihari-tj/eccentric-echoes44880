@@ -1,6 +1,6 @@
 {
   "week": "2026-W42",
-  "captured_at": "2026-10-17T20:42:11.320Z",
+  "captured_at": "2026-10-18T10:59:56.982Z",
   "overall": [
     {
       "owner": "morluto",
@@ -248,10 +248,6 @@
         "repo": "sliver"
       },
       {
-        "owner": "lionsoul2014",
-        "repo": "ip2region"
-      },
-      {
         "owner": "0xJacky",
         "repo": "nginx-ui"
       },
@@ -330,6 +326,10 @@
       {
         "owner": "shmykelsa",
         "repo": "AAAD"
+      },
+      {
+        "owner": "yash-srivastava",
+        "repo": "Overdrive-release"
       },
       {
         "owner": "opendataloader-project",
@@ -632,10 +632,6 @@
       {
         "owner": "utkarshdalal",
         "repo": "GameNative"
-      },
-      {
-        "owner": "linroid",
-        "repo": "Ketch"
       }
     ]
   }
