@@ -1,6 +1,6 @@
 {
   "week": "2026-W42",
-  "captured_at": "2026-10-17T10:51:12.179Z",
+  "captured_at": "2026-10-17T20:42:11.320Z",
   "overall": [
     {
       "owner": "morluto",
@@ -120,16 +120,16 @@
         "repo": "skills"
       },
       {
-        "owner": "LibreSpark",
-        "repo": "LibreTV"
-      },
-      {
         "owner": "chthollyphile",
         "repo": "folia-major"
       },
       {
         "owner": "tashfeenahmed",
         "repo": "freellmapi"
+      },
+      {
+        "owner": "corrinehu",
+        "repo": "dsh-workbuddy-connect"
       },
       {
         "owner": "breferrari",
@@ -246,6 +246,10 @@
       {
         "owner": "BishopFox",
         "repo": "sliver"
+      },
+      {
+        "owner": "lionsoul2014",
+        "repo": "ip2region"
       },
       {
         "owner": "0xJacky",
@@ -546,10 +550,6 @@
       {
         "owner": "ruby",
         "repo": "gem_rbs_collection"
-      },
-      {
-        "owner": "rubysec",
-        "repo": "ruby-advisory-db"
       },
       {
         "owner": "orbitalindex",
