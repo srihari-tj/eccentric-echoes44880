@@ -1,0 +1,770 @@
+{
+  "week": "2026-W43",
+  "captured_at": "2026-10-24T11:09:59.297Z",
+  "overall": [
+    {
+      "owner": "morluto",
+      "repo": "rea"
+    },
+    {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official"
+    },
+    {
+      "owner": "ruvnet",
+      "repo": "ruflo"
+    },
+    {
+      "owner": "android",
+      "repo": "skills"
+    },
+    {
+      "owner": "anomalyco",
+      "repo": "opencode"
+    },
+    {
+      "owner": "stablyai",
+      "repo": "orca"
+    },
+    {
+      "owner": "cursor",
+      "repo": "plugins"
+    },
+    {
+      "owner": "akitaonrails",
+      "repo": "ai-memory"
+    },
+    {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything"
+    },
+    {
+      "owner": "Comfy-Org",
+      "repo": "ComfyUI"
+    },
+    {
+      "owner": "debpalash",
+      "repo": "VoiceStudio"
+    },
+    {
+      "owner": "heygen-com",
+      "repo": "hyperframes"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "repo": "ghidra"
+    },
+    {
+      "owner": "elie222",
+      "repo": "rakazo"
+    }
+  ],
+  "by_language": {
+    "javascript": [
+      {
+        "owner": "michael-denyer",
+        "repo": "pstack-claude"
+      },
+      {
+        "owner": "hmjz100",
+        "repo": "LinkSwift"
+      },
+      {
+        "owner": "cloudflare",
+        "repo": "security-audit-skill"
+      },
+      {
+        "owner": "DietrichGebert",
+        "repo": "ponytail"
+      },
+      {
+        "owner": "plugin87",
+        "repo": "ux-ui-agent-skills"
+      },
+      {
+        "owner": "citrolabs",
+        "repo": "ego-lite"
+      },
+      {
+        "owner": "Leonxlnx",
+        "repo": "taste-skill"
+      },
+      {
+        "owner": "datawhalechina",
+        "repo": "easy-vibe"
+      },
+      {
+        "owner": "react",
+        "repo": "react"
+      },
+      {
+        "owner": "affaan-m",
+        "repo": "ECC"
+      },
+      {
+        "owner": "Minglink",
+        "repo": "dsh-infinite-gen-5"
+      }
+    ],
+    "typescript": [
+      {
+        "owner": "morluto",
+        "repo": "rea"
+      },
+      {
+        "owner": "ruvnet",
+        "repo": "ruflo"
+      },
+      {
+        "owner": "anomalyco",
+        "repo": "opencode"
+      },
+      {
+        "owner": "stablyai",
+        "repo": "orca"
+      },
+      {
+        "owner": "cursor",
+        "repo": "plugins"
+      },
+      {
+        "owner": "heygen-com",
+        "repo": "hyperframes"
+      },
+      {
+        "owner": "elie222",
+        "repo": "rakazo"
+      },
+      {
+        "owner": "pingdotgg",
+        "repo": "t3code"
+      },
+      {
+        "owner": "tashfeenahmed",
+        "repo": "freellmapi"
+      },
+      {
+        "owner": "Renhuai123",
+        "repo": "ziwei-doushu"
+      },
+      {
+        "owner": "PC2005-cloud",
+        "repo": "dsh-pet"
+      },
+      {
+        "owner": "thesysdev",
+        "repo": "openui"
+      },
+      {
+        "owner": "LibreSpark",
+        "repo": "LibreTV"
+      },
+      {
+        "owner": "iptv-org",
+        "repo": "iptv"
+      },
+      {
+        "owner": "mksglu",
+        "repo": "context-mode"
+      },
+      {
+        "owner": "chthollyphile",
+        "repo": "folia-major"
+      },
+      {
+        "owner": "NapNeko",
+        "repo": "NapCatQQ"
+      }
+    ],
+    "python": [
+      {
+        "owner": "anthropics",
+        "repo": "claude-plugins-official"
+      },
+      {
+        "owner": "HKUDS",
+        "repo": "CLI-Anything"
+      },
+      {
+        "owner": "Comfy-Org",
+        "repo": "ComfyUI"
+      },
+      {
+        "owner": "debpalash",
+        "repo": "VoiceStudio"
+      },
+      {
+        "owner": "K-Dense-AI",
+        "repo": "scientific-agent-skills"
+      },
+      {
+        "owner": "vllm-project",
+        "repo": "vllm"
+      },
+      {
+        "owner": "wshobson",
+        "repo": "agents"
+      },
+      {
+        "owner": "fastapi",
+        "repo": "fastapi"
+      },
+      {
+        "owner": "luongnv89",
+        "repo": "claude-howto"
+      },
+      {
+        "owner": "Kruk2",
+        "repo": "jasna"
+      },
+      {
+        "owner": "ethanplusai",
+        "repo": "harvey"
+      },
+      {
+        "owner": "earthtojake",
+        "repo": "text-to-cad"
+      },
+      {
+        "owner": "shiyu-coder",
+        "repo": "Kronos"
+      },
+      {
+        "owner": "sgl-project",
+        "repo": "sglang"
+      },
+      {
+        "owner": "yt-dlp",
+        "repo": "yt-dlp"
+      }
+    ],
+    "go": [
+      {
+        "owner": "ollama",
+        "repo": "ollama"
+      },
+      {
+        "owner": "gitleaks",
+        "repo": "gitleaks"
+      },
+      {
+        "owner": "mudler",
+        "repo": "LocalAI"
+      },
+      {
+        "owner": "etcd-io",
+        "repo": "etcd"
+      },
+      {
+        "owner": "Asymptote-Labs",
+        "repo": "agent-beacon"
+      },
+      {
+        "owner": "jasonxu114514",
+        "repo": "opencode2api"
+      },
+      {
+        "owner": "gin-gonic",
+        "repo": "gin"
+      },
+      {
+        "owner": "superplanehq",
+        "repo": "superplane"
+      },
+      {
+        "owner": "helm",
+        "repo": "helm"
+      },
+      {
+        "owner": "vxcontrol",
+        "repo": "pentagi"
+      },
+      {
+        "owner": "go-gitea",
+        "repo": "gitea"
+      },
+      {
+        "owner": "Gentleman-Programming",
+        "repo": "engram"
+      },
+      {
+        "owner": "github",
+        "repo": "github-mcp-server"
+      },
+      {
+        "owner": "PatchMon",
+        "repo": "PatchMon"
+      },
+      {
+        "owner": "hashicorp",
+        "repo": "terraform"
+      },
+      {
+        "owner": "moby",
+        "repo": "moby"
+      },
+      {
+        "owner": "GoogleCloudPlatform",
+        "repo": "scion"
+      },
+      {
+        "owner": "golang",
+        "repo": "go"
+      },
+      {
+        "owner": "pearl-research-labs",
+        "repo": "pearl"
+      },
+      {
+        "owner": "ltaoo",
+        "repo": "wx_channels_download"
+      },
+      {
+        "owner": "zhoushoujianwork",
+        "repo": "easyeda-agent"
+      },
+      {
+        "owner": "Autumn-27",
+        "repo": "ScopeSentry"
+      }
+    ],
+    "rust": [
+      {
+        "owner": "akitaonrails",
+        "repo": "ai-memory"
+      },
+      {
+        "owner": "xerj-org",
+        "repo": "xerj"
+      },
+      {
+        "owner": "oven-sh",
+        "repo": "bun"
+      },
+      {
+        "owner": "mixelpixx",
+        "repo": "Konnect"
+      },
+      {
+        "owner": "GCWing",
+        "repo": "OpenBitFun"
+      },
+      {
+        "owner": "leepokai",
+        "repo": "Codync"
+      },
+      {
+        "owner": "trymirai",
+        "repo": "uzu"
+      },
+      {
+        "owner": "pollen-robotics",
+        "repo": "microduck"
+      },
+      {
+        "owner": "googleworkspace",
+        "repo": "cli"
+      },
+      {
+        "owner": "ModernRelay",
+        "repo": "omnigraph"
+      },
+      {
+        "owner": "claration",
+        "repo": "impactor"
+      },
+      {
+        "owner": "BrandonKowalski",
+        "repo": "slot"
+      },
+      {
+        "owner": "HakanSeven12",
+        "repo": "OpenCADStudio"
+      },
+      {
+        "owner": "oxc-project",
+        "repo": "oxc"
+      },
+      {
+        "owner": "martin-olivier",
+        "repo": "airgorah"
+      }
+    ],
+    "java": [
+      {
+        "owner": "NationalSecurityAgency",
+        "repo": "ghidra"
+      },
+      {
+        "owner": "HMCL-dev",
+        "repo": "HMCL"
+      },
+      {
+        "owner": "iBotPeaches",
+        "repo": "Apktool"
+      },
+      {
+        "owner": "AbdurazaaqMohammed",
+        "repo": "MP-Manager"
+      },
+      {
+        "owner": "modelcontextprotocol",
+        "repo": "java-sdk"
+      },
+      {
+        "owner": "ReSo7200",
+        "repo": "InstaEclipse"
+      },
+      {
+        "owner": "freeok",
+        "repo": "so-novel"
+      },
+      {
+        "owner": "apache",
+        "repo": "kafka"
+      },
+      {
+        "owner": "skylot",
+        "repo": "jadx"
+      },
+      {
+        "owner": "FCL-Team",
+        "repo": "FoldCraftLauncher"
+      },
+      {
+        "owner": "dbeaver",
+        "repo": "dbeaver"
+      },
+      {
+        "owner": "LiteLDev",
+        "repo": "LeviLaunchroid"
+      },
+      {
+        "owner": "yash-srivastava",
+        "repo": "Overdrive-release"
+      },
+      {
+        "owner": "LawnchairLauncher",
+        "repo": "lawnchair"
+      },
+      {
+        "owner": "MojoLauncher",
+        "repo": "MojoLauncher"
+      },
+      {
+        "owner": "termux",
+        "repo": "termux-app"
+      },
+      {
+        "owner": "apache",
+        "repo": "cassandra"
+      },
+      {
+        "owner": "ashishps1",
+        "repo": "awesome-system-design-resources"
+      }
+    ],
+    "c++": [
+      {
+        "owner": "geode-sdk",
+        "repo": "geode"
+      },
+      {
+        "owner": "WerWolv",
+        "repo": "ImHex"
+      },
+      {
+        "owner": "shadps4-emu",
+        "repo": "shadPS4"
+      },
+      {
+        "owner": "78",
+        "repo": "xiaozhi-esp32"
+      },
+      {
+        "owner": "juce-framework",
+        "repo": "JUCE"
+      },
+      {
+        "owner": "FreeCAD",
+        "repo": "FreeCAD"
+      },
+      {
+        "owner": "OrcaSlicer",
+        "repo": "OrcaSlicer"
+      },
+      {
+        "owner": "ran-j",
+        "repo": "PS2Recomp"
+      },
+      {
+        "owner": "Fincept-Corporation",
+        "repo": "FinceptTerminal"
+      },
+      {
+        "owner": "zeldaret",
+        "repo": "botw"
+      }
+    ],
+    "c": [
+      {
+        "owner": "php",
+        "repo": "php-src"
+      },
+      {
+        "owner": "sp00nznet",
+        "repo": "ps3recomp"
+      },
+      {
+        "owner": "KernelSU-Next",
+        "repo": "KernelSU-Next"
+      },
+      {
+        "owner": "sp00nznet",
+        "repo": "xboxrecomp"
+      },
+      {
+        "owner": "xemu-project",
+        "repo": "xemu"
+      },
+      {
+        "owner": "V4bel",
+        "repo": "dirtyfrag"
+      },
+      {
+        "owner": "rexglue",
+        "repo": "rexglue-sdk"
+      },
+      {
+        "owner": "arendst",
+        "repo": "Tasmota"
+      },
+      {
+        "owner": "HarbourMasters",
+        "repo": "Shipwright"
+      }
+    ],
+    "php": [
+      {
+        "owner": "laravel",
+        "repo": "framework"
+      },
+      {
+        "owner": "FreshRSS",
+        "repo": "FreshRSS"
+      },
+      {
+        "owner": "nextcloud",
+        "repo": "all-in-one"
+      },
+      {
+        "owner": "roundcube",
+        "repo": "roundcubemail"
+      },
+      {
+        "owner": "coollabsio",
+        "repo": "coolify"
+      },
+      {
+        "owner": "InvoicePlane",
+        "repo": "InvoicePlane"
+      },
+      {
+        "owner": "nextcloud",
+        "repo": "server"
+      },
+      {
+        "owner": "PrivateBin",
+        "repo": "PrivateBin"
+      },
+      {
+        "owner": "karatektus",
+        "repo": "pl_mail"
+      },
+      {
+        "owner": "pterodactyl",
+        "repo": "panel"
+      },
+      {
+        "owner": "sebastianbergmann",
+        "repo": "phpunit"
+      },
+      {
+        "owner": "danog",
+        "repo": "MadelineProto"
+      },
+      {
+        "owner": "cedar2025",
+        "repo": "Xboard"
+      },
+      {
+        "owner": "shlinkio",
+        "repo": "shlink"
+      },
+      {
+        "owner": "guzzle",
+        "repo": "guzzle"
+      },
+      {
+        "owner": "kanboard",
+        "repo": "kanboard"
+      },
+      {
+        "owner": "aonez",
+        "repo": "Keka"
+      },
+      {
+        "owner": "kimai",
+        "repo": "kimai"
+      },
+      {
+        "owner": "grokability",
+        "repo": "snipe-it"
+      },
+      {
+        "owner": "opnsense",
+        "repo": "core"
+      },
+      {
+        "owner": "aws",
+        "repo": "aws-sdk-php"
+      },
+      {
+        "owner": "opnsense",
+        "repo": "plugins"
+      }
+    ],
+    "ruby": [
+      {
+        "owner": "chatwoot",
+        "repo": "chatwoot"
+      },
+      {
+        "owner": "ruby",
+        "repo": "ruby"
+      },
+      {
+        "owner": "opf",
+        "repo": "openproject"
+      },
+      {
+        "owner": "Homebrew",
+        "repo": "brew"
+      },
+      {
+        "owner": "rapid7",
+        "repo": "metasploit-framework"
+      },
+      {
+        "owner": "Homebrew",
+        "repo": "homebrew-core"
+      },
+      {
+        "owner": "discourse",
+        "repo": "discourse"
+      },
+      {
+        "owner": "CocoaPods",
+        "repo": "CocoaPods"
+      },
+      {
+        "owner": "huginn",
+        "repo": "huginn"
+      },
+      {
+        "owner": "ruby",
+        "repo": "gem_rbs_collection"
+      },
+      {
+        "owner": "postalserver",
+        "repo": "postal"
+      },
+      {
+        "owner": "freeCodeCamp",
+        "repo": "devdocs"
+      },
+      {
+        "owner": "jruby",
+        "repo": "jruby"
+      },
+      {
+        "owner": "otwcode",
+        "repo": "otwarchive"
+      },
+      {
+        "owner": "hashicorp",
+        "repo": "vagrant"
+      },
+      {
+        "owner": "jekyll",
+        "repo": "jekyll"
+      }
+    ],
+    "kotlin": [
+      {
+        "owner": "android",
+        "repo": "skills"
+      },
+      {
+        "owner": "kushagrasinghx",
+        "repo": "BitChord"
+      },
+      {
+        "owner": "CYQawa",
+        "repo": "YunX"
+      },
+      {
+        "owner": "bannedbook",
+        "repo": "fanqiang"
+      },
+      {
+        "owner": "orailnoor",
+        "repo": "DroidDesk"
+      },
+      {
+        "owner": "tiann",
+        "repo": "KernelSU"
+      },
+      {
+        "owner": "rikkahub",
+        "repo": "rikkahub"
+      },
+      {
+        "owner": "shiaho777",
+        "repo": "web-to-app"
+      },
+      {
+        "owner": "celzero",
+        "repo": "rethink-app"
+      },
+      {
+        "owner": "SukiSU-Ultra",
+        "repo": "SukiSU-Ultra"
+      },
+      {
+        "owner": "LegadoTeam",
+        "repo": "legado"
+      },
+      {
+        "owner": "jqssun",
+        "repo": "android-airplay-server"
+      },
+      {
+        "owner": "RikkaApps",
+        "repo": "Shizuku"
+      },
+      {
+        "owner": "maxrave-dev",
+        "repo": "SimpMusic"
+      },
+      {
+        "owner": "gkd-kit",
+        "repo": "gkd"
+      }
+    ]
+  }
+}
