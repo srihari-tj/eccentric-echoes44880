@@ -1,6 +1,6 @@
 {
   "week": "2026-W43",
-  "captured_at": "2026-10-25T11:21:02.487Z",
+  "captured_at": "2026-10-25T20:48:54.527Z",
   "overall": [
     {
       "owner": "cloudflare",
@@ -334,6 +334,10 @@
         "repo": "microduck"
       },
       {
+        "owner": "jub0t",
+        "repo": "Concat"
+      },
+      {
         "owner": "oven-sh",
         "repo": "bun"
       },
@@ -576,10 +580,6 @@
       {
         "owner": "kimai",
         "repo": "kimai"
-      },
-      {
-        "owner": "guzzle",
-        "repo": "guzzle"
       },
       {
         "owner": "InvoicePlane",
