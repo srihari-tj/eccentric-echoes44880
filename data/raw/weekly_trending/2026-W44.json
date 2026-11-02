@@ -1,6 +1,6 @@
 {
   "week": "2026-W44",
-  "captured_at": "2026-11-01T13:16:01.408Z",
+  "captured_at": "2026-11-01T21:59:51.370Z",
   "overall": [
     {
       "owner": "Nutlope",
@@ -88,10 +88,6 @@
       {
         "owner": "hmjz100",
         "repo": "LinkSwift"
-      },
-      {
-        "owner": "ericrisco",
-        "repo": "rsc-harness"
       },
       {
         "owner": "coreyhaines31",
@@ -716,8 +712,8 @@
         "repo": "forem"
       },
       {
-        "owner": "rubysec",
-        "repo": "ruby-advisory-db"
+        "owner": "antiwork",
+        "repo": "gumroad"
       },
       {
         "owner": "ruby",
