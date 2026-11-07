@@ -112,6 +112,10 @@
     "repo": "workflow_templates"
   },
   {
+    "owner": "ConardLi",
+    "repo": "garden-skills"
+  },
+  {
     "owner": "CopilotKit",
     "repo": "OpenBot"
   },
@@ -120,12 +124,28 @@
     "repo": "OpenIntelligentUI"
   },
   {
+    "owner": "Crosstalk-Solutions",
+    "repo": "project-nomad"
+  },
+  {
+    "owner": "D4Vinci",
+    "repo": "Scrapling"
+  },
+  {
     "owner": "DamRsn",
     "repo": "NeuralNote"
   },
   {
+    "owner": "DataDog",
+    "repo": "dd-trace-rb"
+  },
+  {
     "owner": "Davidona",
     "repo": "StreamVault-IPTV"
+  },
+  {
+    "owner": "DeanChensj",
+    "repo": "jiangshan-map"
   },
   {
     "owner": "DependencyTrack",
@@ -146,6 +166,10 @@
   {
     "owner": "Dolibarr",
     "repo": "dolibarr"
+  },
+  {
+    "owner": "Donchitos",
+    "repo": "Claude-Code-Game-Studios"
   },
   {
     "owner": "DrKLO",
@@ -178,6 +202,14 @@
   {
     "owner": "FWGS",
     "repo": "xash3d-fwgs"
+  },
+  {
+    "owner": "FareedKhan-dev",
+    "repo": "kimi-k3-in-c"
+  },
+  {
+    "owner": "FasterXML",
+    "repo": "jackson-databind"
   },
   {
     "owner": "Fincept-Corporation",
@@ -236,12 +268,24 @@
     "repo": "legado-with-MD3"
   },
   {
+    "owner": "HiEventsDev",
+    "repo": "Hi.Events"
+  },
+  {
     "owner": "Homebrew",
     "repo": "brew"
   },
   {
     "owner": "Homebrew",
+    "repo": "homebrew-cask"
+  },
+  {
+    "owner": "Homebrew",
     "repo": "homebrew-core"
+  },
+  {
+    "owner": "HunYiSage",
+    "repo": "dsh-purge"
   },
   {
     "owner": "HunxByts",
@@ -264,8 +308,16 @@
     "repo": "thinkrail"
   },
   {
+    "owner": "JonathanDC64",
+    "repo": "Soulbrandt"
+  },
+  {
     "owner": "JuliusBrussee",
     "repo": "caveman"
+  },
+  {
+    "owner": "JustVugg",
+    "repo": "colibri"
   },
   {
     "owner": "K-Dense-AI",
@@ -294,6 +346,10 @@
   {
     "owner": "LawnchairLauncher",
     "repo": "lawnchair"
+  },
+  {
+    "owner": "Leaflet",
+    "repo": "Leaflet"
   },
   {
     "owner": "Leantime",
@@ -342,6 +398,10 @@
   {
     "owner": "MM2-0",
     "repo": "Kvaesitso"
+  },
+  {
+    "owner": "MaaAssistantArknights",
+    "repo": "MaaAssistantArknights"
   },
   {
     "owner": "MadsLorentzen",
@@ -393,6 +453,10 @@
   },
   {
     "owner": "NVIDIA",
+    "repo": "auto-ontology"
+  },
+  {
+    "owner": "NVIDIA",
     "repo": "cuda-rust"
   },
   {
@@ -414,6 +478,10 @@
   {
     "owner": "NoRain211",
     "repo": "doaxvb-re"
+  },
+  {
+    "owner": "NotHarshhaa",
+    "repo": "DevOps-Projects"
   },
   {
     "owner": "Nutlope",
@@ -448,12 +516,20 @@
     "repo": "Vela"
   },
   {
+    "owner": "PrestaShop",
+    "repo": "PrestaShop"
+  },
+  {
     "owner": "Pumpkin-MC",
     "repo": "Pumpkin"
   },
   {
     "owner": "QuantumNous",
     "repo": "new-api"
+  },
+  {
+    "owner": "ReChronoRain",
+    "repo": "HyperCeiler"
   },
   {
     "owner": "ReSo7200",
@@ -466,6 +542,10 @@
   {
     "owner": "RikkaApps",
     "repo": "Shizuku"
+  },
+  {
+    "owner": "RikkaApps",
+    "repo": "Shizuku-API"
   },
   {
     "owner": "Robbyant",
@@ -482,6 +562,10 @@
   {
     "owner": "Shopify",
     "repo": "pitchfork"
+  },
+  {
+    "owner": "SimoHypers",
+    "repo": "limusic"
   },
   {
     "owner": "SlickAmogus",
@@ -522,6 +606,10 @@
   {
     "owner": "TencentCloud",
     "repo": "TencentDB-Agent-Memory"
+  },
+  {
+    "owner": "The-PR-Agent",
+    "repo": "pr-agent"
   },
   {
     "owner": "The412Banner",
@@ -584,6 +672,10 @@
     "repo": "wordpress-develop"
   },
   {
+    "owner": "YizhengWw",
+    "repo": "HachimoDock"
+  },
+  {
     "owner": "Yokimitsuro",
     "repo": "khdays-port"
   },
@@ -636,6 +728,10 @@
     "repo": "agentgateway"
   },
   {
+    "owner": "agentscope-ai",
+    "repo": "agentscope-java"
+  },
+  {
     "owner": "agupta07505",
     "repo": "SmartIsland"
   },
@@ -658,6 +754,10 @@
   {
     "owner": "amir1376",
     "repo": "ab-download-manager"
+  },
+  {
+    "owner": "amnezia-vpn",
+    "repo": "amnezia-client"
   },
   {
     "owner": "andreknieriem",
@@ -732,8 +832,16 @@
     "repo": "Tasmota"
   },
   {
+    "owner": "argoproj",
+    "repo": "argo-cd"
+  },
+  {
     "owner": "armel",
     "repo": "uv-k1-k5v3-firmware-custom"
+  },
+  {
+    "owner": "astral-sh",
+    "repo": "ruff"
   },
   {
     "owner": "axios",
@@ -742,6 +850,10 @@
   {
     "owner": "aydencharles",
     "repo": "onionHEN"
+  },
+  {
+    "owner": "bagisto",
+    "repo": "bagisto"
   },
   {
     "owner": "bannedbook",
@@ -758,6 +870,10 @@
   {
     "owner": "basketikun",
     "repo": "infinite-canvas"
+  },
+  {
+    "owner": "bazelbuild",
+    "repo": "bazel"
   },
   {
     "owner": "beenuar",
@@ -808,6 +924,10 @@
     "repo": "OpenMontage"
   },
   {
+    "owner": "can1357",
+    "repo": "oh-my-pi"
+  },
+  {
     "owner": "cat3399",
     "repo": "blbl"
   },
@@ -848,8 +968,16 @@
     "repo": "Handy"
   },
   {
+    "owner": "clap-rs",
+    "repo": "clap"
+  },
+  {
     "owner": "claration",
     "repo": "impactor"
+  },
+  {
+    "owner": "cli",
+    "repo": "cli"
   },
   {
     "owner": "cloudflare",
@@ -888,6 +1016,10 @@
     "repo": "dsh-workbuddy-connect"
   },
   {
+    "owner": "crmne",
+    "repo": "zapfast"
+  },
+  {
     "owner": "cryptomator",
     "repo": "cryptomator"
   },
@@ -912,6 +1044,14 @@
     "repo": "dae"
   },
   {
+    "owner": "danbooru",
+    "repo": "danbooru"
+  },
+  {
+    "owner": "dani-garcia",
+    "repo": "vaultwarden"
+  },
+  {
     "owner": "danielmiessler",
     "repo": "SecLists"
   },
@@ -934,6 +1074,10 @@
   {
     "owner": "deepseek-ai",
     "repo": "FlashMLA"
+  },
+  {
+    "owner": "denoland",
+    "repo": "deno"
   },
   {
     "owner": "dependabot",
@@ -1020,6 +1164,10 @@
     "repo": "photosuite"
   },
   {
+    "owner": "ericrisco",
+    "repo": "rsc-harness"
+  },
+  {
     "owner": "espocrm",
     "repo": "espocrm"
   },
@@ -1032,8 +1180,16 @@
     "repo": "etaHEN"
   },
   {
+    "owner": "etcd-io",
+    "repo": "etcd"
+  },
+  {
     "owner": "ethanplusai",
     "repo": "harvey"
+  },
+  {
+    "owner": "ethanplusai",
+    "repo": "sellbird"
   },
   {
     "owner": "eugenioenko",
@@ -1072,6 +1228,18 @@
     "repo": "firefly-iii"
   },
   {
+    "owner": "fleetdm",
+    "repo": "fleet"
+  },
+  {
+    "owner": "floci-io",
+    "repo": "floci"
+  },
+  {
+    "owner": "floci-io",
+    "repo": "floci-az"
+  },
+  {
     "owner": "fluent",
     "repo": "fluentd"
   },
@@ -1094,6 +1262,14 @@
   {
     "owner": "freescout-help-desk",
     "repo": "freescout"
+  },
+  {
+    "owner": "garrytan",
+    "repo": "gstack"
+  },
+  {
+    "owner": "gastownhall",
+    "repo": "beads"
   },
   {
     "owner": "geo-tp",
@@ -1122,6 +1298,14 @@
   {
     "owner": "github-linguist",
     "repo": "linguist"
+  },
+  {
+    "owner": "github",
+    "repo": "awesome-copilot"
+  },
+  {
+    "owner": "github",
+    "repo": "docs"
   },
   {
     "owner": "github",
@@ -1154,6 +1338,10 @@
   {
     "owner": "gitroomhq",
     "repo": "postiz-app"
+  },
+  {
+    "owner": "gkd-kit",
+    "repo": "gkd"
   },
   {
     "owner": "glpi-project",
@@ -1202,6 +1390,10 @@
   {
     "owner": "google",
     "repo": "perfetto"
+  },
+  {
+    "owner": "google",
+    "repo": "skills"
   },
   {
     "owner": "grafana",
@@ -1356,6 +1548,10 @@
     "repo": "jenkins"
   },
   {
+    "owner": "jomjol",
+    "repo": "AI-on-the-edge-device"
+  },
+  {
     "owner": "joomla",
     "repo": "joomla-cms"
   },
@@ -1416,6 +1612,10 @@
     "repo": "keycloak"
   },
   {
+    "owner": "kilimchoi",
+    "repo": "engineering-blogs"
+  },
+  {
     "owner": "kimai",
     "repo": "kimai"
   },
@@ -1430,6 +1630,10 @@
   {
     "owner": "krahets",
     "repo": "hello-algo"
+  },
+  {
+    "owner": "krayin",
+    "repo": "laravel-crm"
   },
   {
     "owner": "krillinai",
@@ -1480,6 +1684,10 @@
     "repo": "tokenspeed"
   },
   {
+    "owner": "liguobao",
+    "repo": "ds-harness-remote"
+  },
+  {
     "owner": "littledivy",
     "repo": "mimic"
   },
@@ -1506,6 +1714,14 @@
   {
     "owner": "lvgl",
     "repo": "lvgl"
+  },
+  {
+    "owner": "lz4",
+    "repo": "lz4"
+  },
+  {
+    "owner": "mackron",
+    "repo": "miniaudio"
   },
   {
     "owner": "macro-inc",
@@ -1546,6 +1762,10 @@
   {
     "owner": "mautic",
     "repo": "mautic"
+  },
+  {
+    "owner": "max-sixty",
+    "repo": "worktrunk"
   },
   {
     "owner": "maxrave-dev",
@@ -1589,6 +1809,10 @@
   },
   {
     "owner": "microsoft",
+    "repo": "TypeScript"
+  },
+  {
+    "owner": "microsoft",
     "repo": "WSL"
   },
   {
@@ -1626,6 +1850,10 @@
   {
     "owner": "mobile-next",
     "repo": "mobile-mcp"
+  },
+  {
+    "owner": "moby",
+    "repo": "moby"
   },
   {
     "owner": "modelcontextprotocol",
@@ -1676,12 +1904,20 @@
     "repo": "nats-server"
   },
   {
+    "owner": "nektos",
+    "repo": "act"
+  },
+  {
     "owner": "netbirdio",
     "repo": "netbird"
   },
   {
     "owner": "netdata",
     "repo": "netdata"
+  },
+  {
+    "owner": "netty",
+    "repo": "netty"
   },
   {
     "owner": "neuron-core",
@@ -1702,6 +1938,14 @@
   {
     "owner": "nightly-labs",
     "repo": "openbot"
+  },
+  {
+    "owner": "nlohmann",
+    "repo": "json"
+  },
+  {
+    "owner": "nushell",
+    "repo": "nushell"
   },
   {
     "owner": "oauth2-proxy",
@@ -1748,8 +1992,16 @@
     "repo": "opencart"
   },
   {
+    "owner": "openchoreo",
+    "repo": "openchoreo"
+  },
+  {
     "owner": "opendataloader-project",
     "repo": "opendataloader-pdf"
+  },
+  {
+    "owner": "openemr",
+    "repo": "openemr"
   },
   {
     "owner": "openjdk",
@@ -1760,12 +2012,20 @@
     "repo": "openmediavault"
   },
   {
+    "owner": "openrewrite",
+    "repo": "rewrite"
+  },
+  {
     "owner": "opensourcepos",
     "repo": "opensourcepos"
   },
   {
     "owner": "openssl",
     "repo": "openssl"
+  },
+  {
+    "owner": "opentoonz",
+    "repo": "opentoonz"
   },
   {
     "owner": "opf",
@@ -1800,12 +2060,20 @@
     "repo": "bun"
   },
   {
+    "owner": "owncloud",
+    "repo": "core"
+  },
+  {
     "owner": "p-e-w",
     "repo": "heretic"
   },
   {
     "owner": "pablostanley",
     "repo": "yoinks"
+  },
+  {
+    "owner": "pandas-dev",
+    "repo": "pandas"
   },
   {
     "owner": "paperclipai",
@@ -1876,12 +2144,20 @@
     "repo": "prometheus"
   },
   {
+    "owner": "protocolbuffers",
+    "repo": "protobuf"
+  },
+  {
     "owner": "pterodactyl",
     "repo": "panel"
   },
   {
     "owner": "pydantic",
     "repo": "monty"
+  },
+  {
+    "owner": "python-poetry",
+    "repo": "poetry"
   },
   {
     "owner": "qbittorrent",
@@ -1924,6 +2200,10 @@
     "repo": "raylib"
   },
   {
+    "owner": "rclone",
+    "repo": "rclone"
+  },
+  {
     "owner": "react",
     "repo": "react"
   },
@@ -1944,6 +2224,10 @@
     "repo": "relaticle"
   },
   {
+    "owner": "remoteintech",
+    "repo": "remote-jobs"
+  },
+  {
     "owner": "remotion-dev",
     "repo": "remotion"
   },
@@ -1954,6 +2238,10 @@
   {
     "owner": "rikkahub",
     "repo": "rikkahub"
+  },
+  {
+    "owner": "rizinorg",
+    "repo": "rizin"
   },
   {
     "owner": "rohitg00",
@@ -2006,6 +2294,10 @@
   {
     "owner": "ruvnet",
     "repo": "ruflo"
+  },
+  {
+    "owner": "scenario-labs",
+    "repo": "skills"
   },
   {
     "owner": "sebastianbergmann",
@@ -2149,6 +2441,10 @@
   },
   {
     "owner": "techjarves",
+    "repo": "Mobile-Harness"
+  },
+  {
+    "owner": "techjarves",
     "repo": "Portable-Local-Studio"
   },
   {
@@ -2180,6 +2476,10 @@
     "repo": "KernelSU"
   },
   {
+    "owner": "tidain",
+    "repo": "YunX-Desktop"
+  },
+  {
     "owner": "tile-ai",
     "repo": "tilelang"
   },
@@ -2194,6 +2494,10 @@
   {
     "owner": "tinyhumansai",
     "repo": "openhuman"
+  },
+  {
+    "owner": "tldraw",
+    "repo": "tldraw"
   },
   {
     "owner": "tmux",
@@ -2224,6 +2528,10 @@
     "repo": "traefik"
   },
   {
+    "owner": "trinodb",
+    "repo": "trino"
+  },
+  {
     "owner": "trymirai",
     "repo": "uzu"
   },
@@ -2248,6 +2556,10 @@
     "repo": "GameNative"
   },
   {
+    "owner": "valinet",
+    "repo": "ExplorerPatcher"
+  },
+  {
     "owner": "valkey-io",
     "repo": "valkey"
   },
@@ -2258,6 +2570,10 @@
   {
     "owner": "ventoy",
     "repo": "Ventoy"
+  },
+  {
+    "owner": "vercel-labs",
+    "repo": "agent-browser"
   },
   {
     "owner": "vercel-labs",
@@ -2274,6 +2590,10 @@
   {
     "owner": "vercel",
     "repo": "next.js"
+  },
+  {
+    "owner": "vitejs",
+    "repo": "vite"
   },
   {
     "owner": "vllm-project",
@@ -2370,6 +2690,10 @@
   {
     "owner": "zed-0xff",
     "repo": "ZombieBuddy"
+  },
+  {
+    "owner": "zed-industries",
+    "repo": "zed"
   },
   {
     "owner": "zeldaret",
