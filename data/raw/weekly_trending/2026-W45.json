@@ -1,6 +1,6 @@
 {
   "week": "2026-W45",
-  "captured_at": "2026-11-07T13:11:30.919Z",
+  "captured_at": "2026-11-07T21:57:53.274Z",
   "overall": [
     {
       "owner": "thedotmack",
@@ -84,14 +84,6 @@
       {
         "owner": "cloudflare",
         "repo": "security-audit-skill"
-      },
-      {
-        "owner": "Leonxlnx",
-        "repo": "taste-skill"
-      },
-      {
-        "owner": "HunYiSage",
-        "repo": "dsh-purge"
       },
       {
         "owner": "affaan-m",
