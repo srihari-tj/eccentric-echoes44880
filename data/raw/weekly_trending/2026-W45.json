@@ -1,6 +1,6 @@
 {
   "week": "2026-W45",
-  "captured_at": "2026-11-08T13:18:00.023Z",
+  "captured_at": "2026-11-08T22:01:09.306Z",
   "overall": [
     {
       "owner": "NVIDIA",
@@ -555,6 +555,10 @@
       }
     ],
     "c": [
+      {
+        "owner": "lz4",
+        "repo": "lz4"
+      },
       {
         "owner": "JustVugg",
         "repo": "colibri"
