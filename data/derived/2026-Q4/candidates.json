@@ -84,6 +84,10 @@
     "repo": "BillionMail"
   },
   {
+    "owner": "BruceDevices",
+    "repo": "firmware"
+  },
+  {
     "owner": "CYQawa",
     "repo": "YunX"
   },
@@ -260,10 +264,6 @@
     "repo": "graphify"
   },
   {
-    "owner": "GyulyVGC",
-    "repo": "sniffnet"
-  },
-  {
     "owner": "HKUDS",
     "repo": "CLI-Anything"
   },
@@ -330,10 +330,6 @@
   {
     "owner": "JuliusBrussee",
     "repo": "caveman"
-  },
-  {
-    "owner": "JunkFood02",
-    "repo": "Seal"
   },
   {
     "owner": "JustVugg",
@@ -478,10 +474,6 @@
   {
     "owner": "NVIDIA",
     "repo": "cuda-rust"
-  },
-  {
-    "owner": "NVIDIA",
-    "repo": "skills"
   },
   {
     "owner": "NapNeko",
@@ -676,10 +668,6 @@
     "repo": "opensre"
   },
   {
-    "owner": "Universal-Debloater-Alliance",
-    "repo": "universal-android-debloater-next-generation"
-  },
-  {
     "owner": "V4bel",
     "repo": "dirtyfrag"
   },
@@ -754,6 +742,10 @@
   {
     "owner": "ZhuLinsen",
     "repo": "daily_stock_analysis"
+  },
+  {
+    "owner": "a2ui-project",
+    "repo": "a2ui"
   },
   {
     "owner": "aardappel",
@@ -1340,6 +1332,10 @@
     "repo": "open-seo"
   },
   {
+    "owner": "expressjs",
+    "repo": "express"
+  },
+  {
     "owner": "fabio-rovai",
     "repo": "open-ontologies"
   },
@@ -1376,10 +1372,6 @@
     "repo": "firefly-iii"
   },
   {
-    "owner": "flameshot-org",
-    "repo": "flameshot"
-  },
-  {
     "owner": "fleetdm",
     "repo": "fleet"
   },
@@ -1412,8 +1404,16 @@
     "repo": "so-novel"
   },
   {
+    "owner": "freerouting",
+    "repo": "freerouting"
+  },
+  {
     "owner": "freescout-help-desk",
     "repo": "freescout"
+  },
+  {
+    "owner": "frknkrc44",
+    "repo": "HMA-OSS"
   },
   {
     "owner": "garrytan",
@@ -1437,11 +1437,11 @@
   },
   {
     "owner": "ggml-org",
-    "repo": "llama.cpp"
+    "repo": "ggml"
   },
   {
     "owner": "ggml-org",
-    "repo": "whisper.cpp"
+    "repo": "llama.cpp"
   },
   {
     "owner": "ghostty-org",
@@ -1536,6 +1536,10 @@
     "repo": "gemini-cli"
   },
   {
+    "owner": "google-labs-code",
+    "repo": "stitch-skills"
+  },
+  {
     "owner": "google",
     "repo": "agentmesh"
   },
@@ -1590,10 +1594,6 @@
   {
     "owner": "guillaumemeyer",
     "repo": "watermarks-remover"
-  },
-  {
-    "owner": "guohuiyuan",
-    "repo": "go-music-dl"
   },
   {
     "owner": "halo-dev",
@@ -1696,10 +1696,6 @@
     "repo": "iFixAi"
   },
   {
-    "owner": "immich-app",
-    "repo": "immich"
-  },
-  {
     "owner": "infiniflow",
     "repo": "ragflow"
   },
@@ -1714,10 +1710,6 @@
   {
     "owner": "jakubkrehel",
     "repo": "skills"
-  },
-  {
-    "owner": "jamiepine",
-    "repo": "voicebox"
   },
   {
     "owner": "jamro",
@@ -1782,6 +1774,10 @@
   {
     "owner": "kagent-dev",
     "repo": "kagent"
+  },
+  {
+    "owner": "kajisho5",
+    "repo": "ffmpeg-skill"
   },
   {
     "owner": "kanboard",
@@ -1956,6 +1952,10 @@
     "repo": "mailcow-dockerized"
   },
   {
+    "owner": "maillab",
+    "repo": "cloud-mail"
+  },
+  {
     "owner": "makecindy",
     "repo": "cindy"
   },
@@ -1994,10 +1994,6 @@
   {
     "owner": "mayswind",
     "repo": "ezbookkeeping"
-  },
-  {
-    "owner": "mc1arke",
-    "repo": "sonarqube-community-branch-plugin"
   },
   {
     "owner": "meta",
@@ -2124,6 +2120,10 @@
     "repo": "multica"
   },
   {
+    "owner": "mvanhorn",
+    "repo": "last30days-skill"
+  },
+  {
     "owner": "mvschwarz",
     "repo": "openrig"
   },
@@ -2234,6 +2234,10 @@
   {
     "owner": "openchoreo",
     "repo": "openchoreo"
+  },
+  {
+    "owner": "opencv",
+    "repo": "opencv"
   },
   {
     "owner": "opendataloader-project",
@@ -2756,6 +2760,10 @@
     "repo": "openui"
   },
   {
+    "owner": "throneproj",
+    "repo": "Throne"
+  },
+  {
     "owner": "tiann",
     "repo": "KernelSU"
   },
@@ -2904,10 +2912,6 @@
     "repo": "portable-ascii"
   },
   {
-    "owner": "vuejs",
-    "repo": "core"
-  },
-  {
     "owner": "vxcontrol",
     "repo": "pentagi"
   },
@@ -2918,10 +2922,6 @@
   {
     "owner": "wallabag",
     "repo": "wallabag"
-  },
-  {
-    "owner": "wasi-master",
-    "repo": "wmkeyboard"
   },
   {
     "owner": "we-promise",
@@ -3006,6 +3006,10 @@
   {
     "owner": "zeldaret",
     "repo": "tww"
+  },
+  {
+    "owner": "zellij-org",
+    "repo": "zellij"
   },
   {
     "owner": "zephyrproject-rtos",
