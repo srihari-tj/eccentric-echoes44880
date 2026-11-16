@@ -1,6 +1,6 @@
 {
   "week": "2026-W46",
-  "captured_at": "2026-11-15T13:53:18.387Z",
+  "captured_at": "2026-11-15T22:46:46.598Z",
   "overall": [
     {
       "owner": "meta",
@@ -492,10 +492,6 @@
         "repo": "colibri"
       },
       {
-        "owner": "FareedKhan-dev",
-        "repo": "kimi-k3-in-c"
-      },
-      {
         "owner": "DarkFlippers",
         "repo": "unleashed-firmware"
       },
@@ -528,6 +524,10 @@
       {
         "owner": "glpi-project",
         "repo": "glpi"
+      },
+      {
+        "owner": "metadist",
+        "repo": "synaplan"
       },
       {
         "owner": "mailcow",
