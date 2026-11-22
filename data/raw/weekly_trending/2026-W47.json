@@ -1,6 +1,6 @@
 {
   "week": "2026-W47",
-  "captured_at": "2026-11-21T14:44:19.068Z",
+  "captured_at": "2026-11-21T23:26:38.225Z",
   "overall": [
     {
       "owner": "backnotprop",
@@ -479,6 +479,10 @@
       }
     ],
     "c": [
+      {
+        "owner": "Gamer92000",
+        "repo": "echo-dot-assist"
+      },
       {
         "owner": "semgrep",
         "repo": "semgrep"
