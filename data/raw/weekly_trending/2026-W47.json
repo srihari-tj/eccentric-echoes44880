@@ -1,6 +1,6 @@
 {
   "week": "2026-W47",
-  "captured_at": "2026-11-22T14:30:09.328Z",
+  "captured_at": "2026-11-22T23:35:06.863Z",
   "overall": [
     {
       "owner": "backnotprop",
@@ -138,6 +138,10 @@
       {
         "owner": "QwenLM",
         "repo": "qwen-code"
+      },
+      {
+        "owner": "ardia-browser",
+        "repo": "ardia"
       },
       {
         "owner": "openai",
